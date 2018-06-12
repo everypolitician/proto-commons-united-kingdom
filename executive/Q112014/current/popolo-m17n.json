@@ -1,0 +1,121 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:cy": "Theresa May",
+        "lang:en": "Theresa May"
+      },
+      "id": "Q264766",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q264766"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/TheresaMayOfficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Harriet Jones"
+      },
+      "id": "Q3127739",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3127739"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:cy": "Cabinet y Deyrnas Unedig",
+        "lang:en": "Cabinet of the United Kingdom"
+      },
+      "id": "Q112014",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q112014"
+        }
+      ],
+      "area_id": "Q145"
+    },
+    {
+      "name": {
+        "lang:cy": "Y Blaid Geidwadol",
+        "lang:en": "Conservative Party"
+      },
+      "id": "Q9626",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9626"
+        }
+      ]
+    },
+    {
+      "name": {
+      },
+      "id": "t1005790774",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "t1005790774"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q264766-4bd17893-417a-f2a4-7535-d76d36e941aa",
+      "person_id": "Q264766",
+      "on_behalf_of_id": "Q9626",
+      "organization_id": "Q112014",
+      "area_id": "Q145",
+      "start_date": "2016-07-13",
+      "role_superclass_code": "Q14211",
+      "role_superclass": {
+        "lang:cy": "Prif Weinidog y Deyrnas Unedig",
+        "lang:en": "Prime Minister of the United Kingdom"
+      },
+      "role_code": "Q14211",
+      "role": {
+        "lang:cy": "Prif Weinidog y Deyrnas Unedig",
+        "lang:en": "Prime Minister of the United Kingdom"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3127739-75019119-4f65-a4f1-3e33-b86cb7a331d3",
+      "person_id": "Q3127739",
+      "on_behalf_of_id": "t1005790774",
+      "organization_id": "Q112014",
+      "area_id": "Q145",
+      "role_superclass_code": "Q14211",
+      "role_superclass": {
+        "lang:cy": "Prif Weinidog y Deyrnas Unedig",
+        "lang:en": "Prime Minister of the United Kingdom"
+      },
+      "role_code": "Q14211",
+      "role": {
+        "lang:cy": "Prif Weinidog y Deyrnas Unedig",
+        "lang:en": "Prime Minister of the United Kingdom"
+      }
+    }
+  ]
+}

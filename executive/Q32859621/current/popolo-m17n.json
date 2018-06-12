@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:cy": "Nicola Sturgeon",
+        "lang:en": "Nicola Sturgeon"
+      },
+      "id": "Q467112",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q467112"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Cabinet of Scotland"
+      },
+      "id": "Q32859621",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32859621"
+        }
+      ],
+      "area_id": "Q22"
+    },
+    {
+      "name": {
+        "lang:cy": "Plaid Genedlaethol yr Alban",
+        "lang:en": "Scottish National Party"
+      },
+      "id": "Q10658",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10658"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q467112-81362a61-419c-4899-f829-7ac6b437ac12",
+      "person_id": "Q467112",
+      "on_behalf_of_id": "Q10658",
+      "organization_id": "Q32859621",
+      "area_id": "Q22",
+      "start_date": "2014-11-20",
+      "role_superclass_code": "Q1362216",
+      "role_superclass": {
+        "lang:cy": "Prif Weinidog yr Alban",
+        "lang:en": "First Minister of Scotland"
+      },
+      "role_code": "Q1362216",
+      "role": {
+        "lang:cy": "Prif Weinidog yr Alban",
+        "lang:en": "First Minister of Scotland"
+      }
+    }
+  ]
+}

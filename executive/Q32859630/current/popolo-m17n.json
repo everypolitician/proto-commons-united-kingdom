@@ -1,0 +1,105 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:cy": "Carwyn Jones",
+        "lang:en": "Carwyn Jones"
+      },
+      "id": "Q111840",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q111840"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Cabinet of Wales"
+      },
+      "id": "Q32859630",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32859630"
+        }
+      ],
+      "area_id": "Q25"
+    },
+    {
+      "name": {
+        "lang:cy": "Llafur Cymru",
+        "lang:en": "Welsh Labour"
+      },
+      "id": "Q832685",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q832685"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Y Blaid Lafur",
+        "lang:en": "Labour Party"
+      },
+      "id": "Q9630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9630"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q111840-1491A472-667D-43F4-85C7-161E5DEB7B16",
+      "person_id": "Q111840",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q32859630",
+      "area_id": "Q25",
+      "start_date": "2009-12-10",
+      "role_superclass_code": "Q18996",
+      "role_superclass": {
+        "lang:cy": "Prif Weinidog Cymru",
+        "lang:en": "First Minister of Wales"
+      },
+      "role_code": "Q18996",
+      "role": {
+        "lang:cy": "Prif Weinidog Cymru",
+        "lang:en": "First Minister of Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q111840-1491A472-667D-43F4-85C7-161E5DEB7B16",
+      "person_id": "Q111840",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q32859630",
+      "area_id": "Q25",
+      "start_date": "2009-12-10",
+      "role_superclass_code": "Q18996",
+      "role_superclass": {
+        "lang:cy": "Prif Weinidog Cymru",
+        "lang:en": "First Minister of Wales"
+      },
+      "role_code": "Q18996",
+      "role": {
+        "lang:cy": "Prif Weinidog Cymru",
+        "lang:en": "First Minister of Wales"
+      }
+    }
+  ]
+}

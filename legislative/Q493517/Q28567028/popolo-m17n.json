@@ -1,0 +1,76 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:cy": "Jack Sargeant",
+        "lang:en": "Jack Sargeant"
+      },
+      "id": "Q47995095",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47995095"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:cy": "Cynulliad Cenedlaethol Cymru",
+        "lang:en": "National Assembly for Wales"
+      },
+      "id": "Q493517",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q493517"
+        }
+      ],
+      "area_id": "Q25",
+      "seat_counts": {
+        "Q3406079": "60"
+      }
+    },
+    {
+      "name": {
+        "lang:cy": "Llafur Cymru",
+        "lang:en": "Welsh Labour"
+      },
+      "id": "Q832685",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q832685"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47995095-fc28665c-46e0-64bd-acb0-32377959e7c6",
+      "person_id": "Q47995095",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q4738671",
+      "start_date": "2018-02-07",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3406079",
+      "role": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      }
+    }
+  ]
+}
