@@ -1,3 +1,52 @@
 [
-
+  {
+    "comment": "Cabinet of the United Kingdom",
+    "executive_item_id": "Q112014",
+    "positions": [
+      {
+        "comment": "Prime Minister of the United Kingdom",
+        "position_item_id": "Q14211"
+      }
+    ]
+  },
+  {
+    "comment": "Northern Ireland Executive",
+    "executive_item_id": "Q2665914",
+    "positions": [
+      {
+        "comment": "First Minister of Northern Ireland",
+        "position_item_id": "Q22979263"
+      }
+    ]
+  },
+  {
+    "comment": "Northern Ireland Executive",
+    "executive_item_id": "Q2665914",
+    "positions": [
+      {
+        "comment": "deputy First Minister",
+        "position_item_id": "Q23729452"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Scotland",
+    "executive_item_id": "Q32859621",
+    "positions": [
+      {
+        "comment": "First Minister of Scotland",
+        "position_item_id": "Q1362216"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Wales",
+    "executive_item_id": "Q32859630",
+    "positions": [
+      {
+        "comment": "First Minister of Wales",
+        "position_item_id": "Q18996"
+      }
+    ]
+  }
 ]
