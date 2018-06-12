@@ -1,0 +1,188 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_cy", "name_en", "party", "party_name_cy", "party_name_en", "district", "district_name_cy", "district_name_en", "role", "role_cy", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_cy", "role_superclass_en", "org", "org_cy", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9626"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conservative Party"
+      },
+      "party_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Blaid Geidwadol"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q264766"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Deyrnas Unedig"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14211"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14211"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of the United Kingdom"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Prif Weinidog y Deyrnas Unedig"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of the United Kingdom"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Prif Weinidog y Deyrnas Unedig"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Theresa May"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112014"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of the United Kingdom"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cabinet y Deyrnas Unedig"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q264766-4bd17893-417a-f2a4-7535-d76d36e941aa"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Theresa May"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-07-13T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "TheresaMayOfficial"
+      }
+    }, {
+      "party" : {
+        "type" : "bnode",
+        "value" : "t1005790774"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3127739"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Deyrnas Unedig"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14211"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14211"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of the United Kingdom"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Prif Weinidog y Deyrnas Unedig"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of the United Kingdom"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Prif Weinidog y Deyrnas Unedig"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harriet Jones"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112014"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of the United Kingdom"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cabinet y Deyrnas Unedig"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3127739-75019119-4f65-a4f1-3e33-b86cb7a331d3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      }
+    } ]
+  }
+}
