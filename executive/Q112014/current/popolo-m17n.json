@@ -68,12 +68,12 @@
     {
       "name": {
       },
-      "id": "t1005790774",
+      "id": "t1006072876",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "t1005790774"
+          "identifier": "t1006072876"
         }
       ]
     }
@@ -103,7 +103,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3127739-75019119-4f65-a4f1-3e33-b86cb7a331d3",
       "person_id": "Q3127739",
-      "on_behalf_of_id": "t1005790774",
+      "on_behalf_of_id": "t1006072876",
       "organization_id": "Q112014",
       "area_id": "Q145",
       "role_superclass_code": "Q14211",
