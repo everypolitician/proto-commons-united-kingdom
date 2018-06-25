@@ -2,14 +2,979 @@
   "persons": [
     {
       "name": {
-        "lang:cy": "Jack Sargeant",
-        "lang:en": "Jack Sargeant"
+        "lang:cy": "Leanne Wood",
+        "lang:en": "Leanne Wood"
       },
-      "id": "Q47995095",
+      "id": "Q10694",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q47995095"
+          "identifier": "Q10694"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Carwyn Jones",
+        "lang:en": "Carwyn Jones"
+      },
+      "id": "Q111840",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q111840"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Rhun ap Iorwerth",
+        "lang:en": "Rhun ap Iorwerth"
+      },
+      "id": "Q14420732",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14420732"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Jenny Rathbone",
+        "lang:en": "Jenny Rathbone"
+      },
+      "id": "Q16191105",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16191105"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "David Rees",
+        "lang:en": "David Rees"
+      },
+      "id": "Q16191114",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16191114"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Nathan Lee Gill",
+        "lang:en": "Nathan Gill"
+      },
+      "id": "Q16945593",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16945593"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Sian Gwenllian",
+        "lang:en": "Siân Gwenllian"
+      },
+      "id": "Q20570139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20570139"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Rhianon Passmore",
+        "lang:en": "Rhianon Passmore"
+      },
+      "id": "Q24035607",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24035607"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Hannah Blythyn",
+        "lang:en": "Hannah Blythyn"
+      },
+      "id": "Q24039145",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24039145"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Lee Waters",
+        "lang:en": "Lee Waters"
+      },
+      "id": "Q24039661",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24039661"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/leeforllanelli"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Hefin David",
+        "lang:en": "Hefin David"
+      },
+      "id": "Q24040034",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24040034"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Neil McEvoy",
+        "lang:en": "Neil McEvoy"
+      },
+      "id": "Q24041564",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24041564"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Vikki Howells",
+        "lang:en": "Vikki Howells"
+      },
+      "id": "Q24045680",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24045680"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michelle Brown"
+      },
+      "id": "Q24048985",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24048985"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Dawn Bowden",
+        "lang:en": "Dawn Bowden"
+      },
+      "id": "Q24050164",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24050164"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Jayne Bryant",
+        "lang:en": "Jayne Bryant"
+      },
+      "id": "Q24050178",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24050178"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Caroline Jones"
+      },
+      "id": "Q24405225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24405225"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "David Rowlands",
+        "lang:en": "David Rowlands"
+      },
+      "id": "Q24405234",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24405234"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gareth Bennett"
+      },
+      "id": "Q24405244",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24405244"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Steffan Lewis",
+        "lang:en": "Steffan Lewis"
+      },
+      "id": "Q24405255",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24405255"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Jeremy Miles",
+        "lang:en": "Jeremy Miles"
+      },
+      "id": "Q24706040",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24706040"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Neil Hamilton",
+        "lang:en": "Neil Hamilton"
+      },
+      "id": "Q3337819",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3337819"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Dafydd Elis-Thomas",
+        "lang:en": "Dafydd Elis-Thomas"
+      },
+      "id": "Q333841",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q333841"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Eluned Morgan",
+        "lang:en": "Eluned Morgan, Baroness Morgan of Ely"
+      },
+      "id": "Q336521",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336521"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Mohammad Asghar",
+        "lang:en": "Mohammad Asghar"
+      },
+      "id": "Q3404581",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3404581"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Adam Price",
+        "lang:en": "Adam Price"
+      },
+      "id": "Q3405033",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3405033"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Simon Thomas",
+        "lang:en": "Simon Thomas"
+      },
+      "id": "Q3405148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3405148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Mandy Jones",
+        "lang:en": "Mandy Jones"
+      },
+      "id": "Q46999598",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46999598"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Alun Davies",
+        "lang:en": "Alun Davies"
+      },
+      "id": "Q4737493",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4737493"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Andrew R. T. Davies",
+        "lang:en": "Andrew R. T. Davies"
+      },
+      "id": "Q4758350",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4758350"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Angela Burns",
+        "lang:en": "Angela Burns"
+      },
+      "id": "Q4762396",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4762396"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Ann Jones",
+        "lang:en": "Ann Jones"
+      },
+      "id": "Q4766480",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4766480"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Bethan Jenkins",
+        "lang:en": "Bethan Jenkins"
+      },
+      "id": "Q4897688",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4897688"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/bethanjenkinsam"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Carl Sargeant",
+        "lang:en": "Carl Sargeant"
+      },
+      "id": "Q5040766",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5040766"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Darren Millar",
+        "lang:en": "Darren Millar"
+      },
+      "id": "Q5225067",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5225067"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "David Lloyd",
+        "lang:en": "David Lloyd"
+      },
+      "id": "Q5236695",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5236695"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "David Melding",
+        "lang:en": "David Melding"
+      },
+      "id": "Q5237493",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5237493"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Elin Jones",
+        "lang:en": "Elin Jones"
+      },
+      "id": "Q5361084",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5361084"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Kirsty Williams",
+        "lang:en": "Kirsty Williams"
+      },
+      "id": "Q5660402",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5660402"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mark Reckless"
+      },
+      "id": "Q575027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q575027"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Jane Hutt",
+        "lang:en": "Jane Hutt"
+      },
+      "id": "Q6152404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6152404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Janet Finch-Saunders",
+        "lang:en": "Janet Finch-Saunders"
+      },
+      "id": "Q6153343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6153343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "John Griffiths",
+        "lang:en": "John Griffiths"
+      },
+      "id": "Q6236400",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6236400"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Joyce Watson",
+        "lang:en": "Joyce Watson"
+      },
+      "id": "Q6297656",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6297656"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Julie James",
+        "lang:en": "Julie James"
+      },
+      "id": "Q6308284",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6308284"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Julie Morgan",
+        "lang:en": "Julie Morgan"
+      },
+      "id": "Q6308404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6308404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Ken Skates",
+        "lang:en": "Ken Skates"
+      },
+      "id": "Q6388501",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6388501"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Lesley Griffiths",
+        "lang:en": "Lesley Griffiths"
+      },
+      "id": "Q6530486",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6530486"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Llyr Huws Gruffydd",
+        "lang:en": "Llyr Huws Gruffydd"
+      },
+      "id": "Q6662955",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6662955"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Lynne Neagle",
+        "lang:en": "Lynne Neagle"
+      },
+      "id": "Q6709399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6709399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Mark Drakeford",
+        "lang:en": "Mark Drakeford"
+      },
+      "id": "Q6767407",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6767407"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Mark Isherwood",
+        "lang:en": "Mark Isherwood"
+      },
+      "id": "Q6768190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6768190"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Mick Antoniw",
+        "lang:en": "Mick Antoniw"
+      },
+      "id": "Q6838044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6838044"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Mike Hedges",
+        "lang:en": "Mike Hedges"
+      },
+      "id": "Q6847187",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6847187"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Huw Irranca-Davies",
+        "lang:en": "Huw Irranca-Davies"
+      },
+      "id": "Q691388",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q691388"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/huw.irrancadavies"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Nick Ramsay",
+        "lang:en": "Nick Ramsay"
+      },
+      "id": "Q7027777",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7027777"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Paul Davies",
+        "lang:en": "Paul Davies"
+      },
+      "id": "Q7150146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7150146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Rebecca Evans",
+        "lang:en": "Rebecca Evans"
+      },
+      "id": "Q7301733",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7301733"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Russell George",
+        "lang:en": "Russell George"
+      },
+      "id": "Q7381514",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7381514"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Suzy Davies",
+        "lang:en": "Suzy Davies"
+      },
+      "id": "Q7651414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7651414"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Vaughan Gething",
+        "lang:en": "Vaughan Gething"
+      },
+      "id": "Q7917285",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7917285"
         }
       ],
       "links": [
@@ -33,8 +998,78 @@
       ],
       "area_id": "Q25",
       "seat_counts": {
-        "Q3406079": "60"
+        "Q42310659": "60"
       }
+    },
+    {
+      "name": {
+        "lang:cy": "Plaid Annibyniaeth y Deyrnas Unedig",
+        "lang:en": "UK Independence Party"
+      },
+      "id": "Q10647",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10647"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Plaid Cymru",
+        "lang:en": "Plaid Cymru"
+      },
+      "id": "Q10691",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10691"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Annibynnwr",
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Y Ceidwadwyr",
+        "lang:en": "Welsh Conservative Party"
+      },
+      "id": "Q7981882",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7981882"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:cy": "Democratiaid Rhyddfrodol Cymreig",
+        "lang:en": "Welsh Liberal Democrats"
+      },
+      "id": "Q7981939",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7981939"
+        }
+      ]
     },
     {
       "name": {
@@ -56,20 +1091,1180 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47995095-fc28665c-46e0-64bd-acb0-32377959e7c6",
-      "person_id": "Q47995095",
+      "id": "http://www.wikidata.org/entity/statement/Q10694-092C6437-1360-49B6-9F0B-D78828D61706",
+      "person_id": "Q10694",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q7321386",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q111840-50069997-630B-480E-89FA-3E1A2214E7DC",
+      "person_id": "Q111840",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q4966526",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q14420732-DB334A40-1F74-4AE8-A2D1-A1C7CAEB4FCF",
+      "person_id": "Q14420732",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q8054067",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16191105-C2A7A9A2-FEBA-473C-AB6A-8BB61C592C69",
+      "person_id": "Q16191105",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5038385",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16191114-EA6C7DB3-47F7-4813-9058-651851FAFD6C",
+      "person_id": "Q16191114",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q4666775",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16945593-4650ec97-40b5-6903-4c0f-dcbdd169bf3c",
+      "person_id": "Q16945593",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q493517",
+      "area_id": "Q7057143",
+      "start_date": "2016-08-17",
+      "end_date": "2017-12-27",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16945593-DFAB414B-FDBF-4D20-888B-00603CCC5E79",
+      "person_id": "Q16945593",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q493517",
+      "area_id": "Q7057143",
+      "start_date": "2016-05-05",
+      "end_date": "2016-08-17",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20570139-01B1D5F7-665F-43D5-AF2B-8EF4F5F527F4",
+      "person_id": "Q20570139",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q4789158",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24035607-B9398F80-5CE4-47C1-9381-71A51AB58F5D",
+      "person_id": "Q24035607",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q6084441",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24039145-4ED1724E-2B3A-41C3-977B-238629EEFDD2",
+      "person_id": "Q24039145",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5254972",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24039661-B22AFA08-60A8-42A2-B6EC-EC9362D374F8",
+      "person_id": "Q24039661",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q6661286",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24040034-3731622D-436C-425F-B9CC-D599C63F5366",
+      "person_id": "Q24040034",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5016924",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24041564-D368B903-9B51-4964-B6D4-1CEECC0D87EB",
+      "person_id": "Q24041564",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q7568764",
+      "start_date": "2016-05-05",
+      "end_date": "2018-01-16",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24045680-0108365A-1032-4DEF-9EDD-1F8649BFF2E5",
+      "person_id": "Q24045680",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5199989",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24048985-775E34C7-BEC0-4472-8101-ED5BEB0AF2B2",
+      "person_id": "Q24048985",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q493517",
+      "area_id": "Q7057143",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24050164-96532740-F904-463B-98FA-9B883F48C6FE",
+      "person_id": "Q24050164",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q6820690",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24050178-50CBA467-9D13-4B9C-9287-5A32F64E8415",
+      "person_id": "Q24050178",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7019054",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24405225-9202D555-6965-450D-8CDD-B5C61D27E41C",
+      "person_id": "Q24405225",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q493517",
+      "area_id": "Q7568795",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24405234-480FB2D2-59BE-4D58-85B3-26E0F80ED2AD",
+      "person_id": "Q24405234",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q493517",
+      "area_id": "Q7568768",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24405244-EBDBBC66-6524-4AEA-9D83-9DFCE365674D",
+      "person_id": "Q24405244",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q493517",
+      "area_id": "Q7568764",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24405255-A7215BF1-46E5-4243-BE6F-3711EB60DB64",
+      "person_id": "Q24405255",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q7568768",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24706040-C527D67B-188A-4610-B6C1-A1A57144A9D7",
+      "person_id": "Q24706040",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q6984487",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3337819-4718D48A-0E36-4E5C-AC2A-DD8B648718B3",
+      "person_id": "Q3337819",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q493517",
+      "area_id": "Q6841063",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q333841-73DB1B48-754C-42E2-BE17-67C2A45A3B45",
+      "person_id": "Q333841",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q5318359",
+      "start_date": "2016-05-05",
+      "end_date": "2016-10-14",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q333841-be2009e5-418d-fa64-9217-b1f66dcdf2e9",
+      "person_id": "Q333841",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q493517",
+      "area_id": "Q5318359",
+      "start_date": "2016-10-14",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336521-2B742BDD-F356-4052-9284-68D4057823DC",
+      "person_id": "Q336521",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q6841063",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3404581-3B94582C-5776-41C4-8769-F37E617A5E9E",
+      "person_id": "Q3404581",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q7568768",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3405033-7581407D-CB8B-4499-9A4C-7B430DEFFD1A",
+      "person_id": "Q3405033",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q5043201",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3405148-F2B1227C-6615-4C3C-89F4-905353BE2990",
+      "person_id": "Q3405148",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q6841063",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q46999598-b48153f8-46c1-4323-dcda-69c30452c8a0",
+      "person_id": "Q46999598",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q493517",
+      "area_id": "Q7057143",
+      "start_date": "2017-12-28",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4737493-92976658-70D6-4248-AD08-00AC082B5069",
+      "person_id": "Q4737493",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q4923797",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4758350-E4D249D7-84C6-4483-A328-FFD8AAC42652",
+      "person_id": "Q4758350",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q7568764",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4762396-A7B4832B-FF8B-4EDF-B000-A110CCC06580",
+      "person_id": "Q4762396",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q5043210",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4766480-CC07B6CA-FBA2-4976-A2F6-EBF477BA230A",
+      "person_id": "Q4766480",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7909529",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4897688-0F6BDAF7-F97F-47DF-9916-706C886CF80F",
+      "person_id": "Q4897688",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q7568795",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5040766-D26FE9B8-CABE-4638-86EC-CDC4156860C8",
+      "person_id": "Q5040766",
       "on_behalf_of_id": "Q832685",
       "organization_id": "Q493517",
       "area_id": "Q4738671",
-      "start_date": "2018-02-07",
-      "role_superclass_code": "Q5230427",
+      "start_date": "2016-05-05",
+      "end_date": "2017-11-03",
+      "role_superclass_code": "Q3406079",
       "role_superclass": {
-        "lang:en": "member of a legislative assembly"
-      },
-      "role_code": "Q3406079",
-      "role": {
         "lang:cy": "Aelod Cynulliad",
         "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5040766-b89d601e-4360-da54-3a06-f22d5ba68ef7",
+      "person_id": "Q5040766",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q493517",
+      "area_id": "Q4738671",
+      "start_date": "2017-11-03",
+      "end_date": "2017-11-07",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5225067-FDDD40C0-231A-4C2F-81D9-0B360E1094E3",
+      "person_id": "Q5225067",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q13128697",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5236695-B09A7788-0243-4A96-856E-9E624A4BBA4E",
+      "person_id": "Q5236695",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q7568795",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5237493-D8E3075F-3B46-4040-BB01-A0E9B0DE0A30",
+      "person_id": "Q5237493",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q7568764",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5361084-5ABFDB24-B61B-48EA-B34A-FEA6C6862B9C",
+      "person_id": "Q5361084",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q5064122",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5660402-A83C365D-DDCD-4BBA-8365-30ED853A9569",
+      "person_id": "Q5660402",
+      "on_behalf_of_id": "Q7981939",
+      "organization_id": "Q493517",
+      "area_id": "Q4960088",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q575027-79BDB6C4-6152-4809-BC6B-71F2F59AE3B2",
+      "person_id": "Q575027",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q493517",
+      "area_id": "Q7568768",
+      "start_date": "2016-05-05",
+      "end_date": "2017-04-06",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q575027-849d92ac-4028-f1c7-311c-c6d6e23dee8d",
+      "person_id": "Q575027",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q7568768",
+      "start_date": "2017-04-06",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6152404-77A7A376-6C01-4102-82B6-FA1AD8D53A56",
+      "person_id": "Q6152404",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7909545",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6153343-4058DABA-5F0A-4823-AED8-22B86FC81BC3",
+      "person_id": "Q6153343",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q4666807",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6236400-A5610134-FCD8-4D8F-ABCC-7A690F62E847",
+      "person_id": "Q6236400",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7018848",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6297656-1F30E75C-C979-40D8-9F7D-D40BB70E0787",
+      "person_id": "Q6297656",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q6841063",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6308284-FF817EAA-22AE-483E-BE92-D1124AEDF20F",
+      "person_id": "Q6308284",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7653727",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6308404-2E2C89AB-6D70-47B3-AA73-6BF67AEB5066",
+      "person_id": "Q6308404",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5038453",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6388501-4E043578-9153-429A-B55C-F52DFCBD43F8",
+      "person_id": "Q6388501",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5136797",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6530486-69E77B2B-F72D-40B2-BF11-4F2F4C79D872",
+      "person_id": "Q6530486",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q8038114",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6662955-1C9C06EB-6063-4754-B7FB-08B54D953D3F",
+      "person_id": "Q6662955",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q7057143",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6709399-2202EC76-A7B1-498D-A51F-621146AF8AAC",
+      "person_id": "Q6709399",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7825685",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6767407-DE7E7396-C741-4EDF-8161-46221382818E",
+      "person_id": "Q6767407",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5038486",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6768190-E38E17D0-31A6-4B4E-B7F0-BF5E0A04DE3F",
+      "person_id": "Q6768190",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q7057143",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6838044-0C6C4512-5766-49F3-9CD7-452942BE9FE3",
+      "person_id": "Q6838044",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7228415",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6847187-0803B2F9-6167-420F-8536-29D42C47BB61",
+      "person_id": "Q6847187",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7653683",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q691388-0C9D1249-16ED-426E-9A69-1BA04319A713",
+      "person_id": "Q691388",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q7080136",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7027777-EEBCD8F2-8F0D-4E6C-BE0F-DEAF5BE40808",
+      "person_id": "Q7027777",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q6901044",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7150146-8C5864FE-B1C2-402B-8317-EE8C578BEF1B",
+      "person_id": "Q7150146",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q7240912",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7301733-0D3C81AD-7CA4-477B-922C-0A6E69F48F4F",
+      "person_id": "Q7301733",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5590043",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7381514-1E74C5AA-3C87-43C0-B4A6-BACD519AB345",
+      "person_id": "Q7381514",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q4243314",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7651414-7D71FB26-82BC-4243-AF3D-657592AF21F1",
+      "person_id": "Q7651414",
+      "on_behalf_of_id": "Q7981882",
+      "organization_id": "Q493517",
+      "area_id": "Q7568795",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7917285-B160674E-6720-4CEA-9B72-FC27F08B2DF6",
+      "person_id": "Q7917285",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q5038472",
+      "start_date": "2016-05-05",
+      "role_superclass_code": "Q3406079",
+      "role_superclass": {
+        "lang:cy": "Aelod Cynulliad",
+        "lang:en": "Member of the National Assembly for Wales"
+      },
+      "role_code": "Q42310659",
+      "role": {
+        "lang:cy": "Aelod o 5ed Cynulliad Cenedlaethol Cymru",
+        "lang:en": "Member of the 5th National Assembly for Wales"
       }
     }
   ]
