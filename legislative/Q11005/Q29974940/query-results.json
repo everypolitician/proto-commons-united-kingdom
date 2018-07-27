@@ -300,6 +300,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wythenshawe a Dwyrain Sale"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "mikekanemp"
@@ -1773,6 +1778,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ashton-under-Lyne"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -4121,6 +4131,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Workington"
       },
       "facebook" : {
         "type" : "literal",
@@ -9284,6 +9299,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Cilgwri"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -18992,6 +19012,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wyre a Gogledd Preston"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "benwallaceWPN"
@@ -20762,6 +20787,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Altrincham a Gorllewin Sale"
       },
       "facebook" : {
         "type" : "literal",
@@ -27293,6 +27323,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Swydd Gaerhirfryn"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "Rosie4WestLancs"
@@ -33240,6 +33275,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Warrington"
+      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -35139,6 +35179,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dyffryn Weaver"
       }
     }, {
       "party" : {
@@ -37793,6 +37838,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wallasey"
+      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -39577,6 +39627,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Westmorland a Lonsdale"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -53684,6 +53739,109 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ian Paisley"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-07-24T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "party_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Annibynnwr"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q575881-58495523-4e0a-0c0b-624d-7331bf0437a4"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q751685"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Antrim"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod Seneddol"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16707842"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Parliament in the United Kingdom"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod Seneddol, y Deyrnas Unedig"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q575881"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ian Paisley, Jr."
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11005"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Commons"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Cyffredin"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "650"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-07-24T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ian Paisley"
       }
     }, {
       "party" : {
@@ -54571,6 +54729,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wigan"
       },
       "facebook" : {
         "type" : "literal",
@@ -59617,6 +59780,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Cilgwri"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -64948,6 +65116,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Worsley a De Eccles"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "BarbaraKeeleyforWorsleyandEcclesSouth"
@@ -65350,6 +65523,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Warrington"
       },
       "facebook" : {
         "type" : "literal",
