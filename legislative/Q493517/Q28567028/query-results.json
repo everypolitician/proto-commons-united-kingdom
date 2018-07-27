@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_cy", "name_en", "party", "party_name_cy", "party_name_en", "district", "district_name_cy", "district_name_en", "role", "role_cy", "role_en", "role_superclass", "role_superclass_cy", "role_superclass_en", "start", "end", "facebook", "org", "org_cy", "org_en", "org_jurisdiction", "org_seat_count" ]
+    "vars" : [ "statement", "item", "name_en", "name_cy", "party", "party_name_en", "party_name_cy", "district", "district_name_en", "district_name_cy", "role", "role_en", "role_cy", "role_superclass", "role_superclass_en", "role_superclass_cy", "start", "end", "facebook", "org", "org_en", "org_cy", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
     "bindings" : [ {
@@ -8,15 +8,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -26,15 +26,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4966526"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bridgend"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Pen-y-bont ar Ogwr (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bridgend"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -49,15 +49,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -68,24 +68,19 @@
         "type" : "literal",
         "value" : "Carwyn Jones"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Carwyn Jones"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -95,6 +90,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Carwyn Jones"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -106,13 +106,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -124,15 +124,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8054067"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ynys Môn"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ynys Môn (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ynys Môn"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -147,15 +147,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -166,24 +166,19 @@
         "type" : "literal",
         "value" : "Rhun ap Iorwerth"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rhun ap Iorwerth"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -193,6 +188,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rhun ap Iorwerth"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -204,15 +204,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -222,15 +222,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5038385"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cardiff Central"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Canol Caerdydd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cardiff Central"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -245,15 +245,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -264,24 +264,19 @@
         "type" : "literal",
         "value" : "Jenny Rathbone"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jenny Rathbone"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -291,6 +286,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jenny Rathbone"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -302,15 +302,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -320,15 +320,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4666775"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aberavon"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aberafan (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aberavon"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -343,15 +343,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -362,24 +362,19 @@
         "type" : "literal",
         "value" : "David Rees"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "David Rees"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -389,6 +384,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Rees"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -400,15 +400,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10647"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK Independence Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK Independence Party"
       },
       "statement" : {
         "type" : "uri",
@@ -418,15 +418,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7057143"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -441,15 +441,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -460,24 +460,19 @@
         "type" : "literal",
         "value" : "Nathan Gill"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Nathan Lee Gill"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -487,6 +482,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Nathan Lee Gill"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -503,15 +503,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q327591"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Annibynnwr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
       },
       "statement" : {
         "type" : "uri",
@@ -521,15 +521,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7057143"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -544,15 +544,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -563,24 +563,19 @@
         "type" : "literal",
         "value" : "Nathan Gill"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Nathan Lee Gill"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -590,6 +585,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Nathan Lee Gill"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -606,13 +606,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -624,13 +624,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4789158"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Arfon"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Arfon"
       },
@@ -647,15 +647,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -666,24 +666,19 @@
         "type" : "literal",
         "value" : "Siân Gwenllian"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Sian Gwenllian"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -693,6 +688,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sian Gwenllian"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -704,15 +704,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -722,15 +722,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6084441"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Islwyn"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Islwyn (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islwyn"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -745,15 +745,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -764,24 +764,19 @@
         "type" : "literal",
         "value" : "Rhianon Passmore"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rhianon Passmore"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -791,6 +786,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rhianon Passmore"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -802,15 +802,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -820,15 +820,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5254972"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Delyn"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Delyn (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Delyn"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -843,15 +843,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -862,24 +862,19 @@
         "type" : "literal",
         "value" : "Hannah Blythyn"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hannah Blythyn"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -889,6 +884,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hannah Blythyn"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -900,15 +900,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -918,15 +918,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6661286"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Llanelli"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llanelli (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Llanelli"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -941,15 +941,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -960,24 +960,19 @@
         "type" : "literal",
         "value" : "Lee Waters"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lee Waters"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -987,6 +982,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lee Waters"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1002,15 +1002,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -1020,15 +1020,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5016924"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Caerphilly"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Caerffili (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Caerphilly"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1043,15 +1043,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1062,24 +1062,19 @@
         "type" : "literal",
         "value" : "Hefin David"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hefin David"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1089,6 +1084,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hefin David"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1100,13 +1100,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -1118,15 +1118,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568764"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales Central"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Canol De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales Central"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1141,15 +1141,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1160,24 +1160,19 @@
         "type" : "literal",
         "value" : "Neil McEvoy"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Neil McEvoy"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1187,6 +1182,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Neil McEvoy"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1203,15 +1203,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -1221,15 +1221,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5199989"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cynon Valley"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cwm Cynon (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cynon Valley"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1244,15 +1244,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1263,24 +1263,19 @@
         "type" : "literal",
         "value" : "Vikki Howells"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Vikki Howells"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1290,6 +1285,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Vikki Howells"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1301,15 +1301,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10647"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK Independence Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK Independence Party"
       },
       "statement" : {
         "type" : "uri",
@@ -1319,15 +1319,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7057143"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1342,15 +1342,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1365,15 +1365,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
-      },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1394,15 +1394,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -1412,15 +1412,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6820690"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Merthyr Tydfil and Rhymney"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Merthyr Tudful a Rhymni (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Merthyr Tydfil and Rhymney"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1435,15 +1435,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1454,24 +1454,19 @@
         "type" : "literal",
         "value" : "Dawn Bowden"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dawn Bowden"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1481,6 +1476,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dawn Bowden"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1492,15 +1492,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -1510,15 +1510,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7019054"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Newport West"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gorllewin Casnewydd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newport West"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1533,15 +1533,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1552,24 +1552,19 @@
         "type" : "literal",
         "value" : "Jayne Bryant"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jayne Bryant"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1579,6 +1574,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jayne Bryant"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1590,15 +1590,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10647"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK Independence Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK Independence Party"
       },
       "statement" : {
         "type" : "uri",
@@ -1608,15 +1608,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568795"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales West"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gorllewin De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales West"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1631,15 +1631,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1654,15 +1654,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
-      },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1683,15 +1683,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10647"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK Independence Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK Independence Party"
       },
       "statement" : {
         "type" : "uri",
@@ -1701,15 +1701,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568768"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales East"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Dwyrain De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales East"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1724,15 +1724,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1743,24 +1743,19 @@
         "type" : "literal",
         "value" : "David Rowlands"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "David Rowlands"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1770,6 +1765,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Rowlands"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1781,15 +1781,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10647"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK Independence Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK Independence Party"
       },
       "statement" : {
         "type" : "uri",
@@ -1799,15 +1799,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568764"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales Central"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Canol De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales Central"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1822,15 +1822,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1845,15 +1845,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
-      },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1874,13 +1874,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -1892,15 +1892,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568768"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales East"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Dwyrain De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales East"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1915,15 +1915,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -1934,24 +1934,19 @@
         "type" : "literal",
         "value" : "Steffan Lewis"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Steffan Lewis"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1961,6 +1956,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Steffan Lewis"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1972,15 +1972,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -1990,15 +1990,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6984487"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Neath"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Castell-nedd"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Neath"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2013,15 +2013,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2032,24 +2032,19 @@
         "type" : "literal",
         "value" : "Jeremy Miles"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jeremy Miles"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2059,6 +2054,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jeremy Miles"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2070,15 +2070,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10647"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK Independence Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK Independence Party"
       },
       "statement" : {
         "type" : "uri",
@@ -2088,15 +2088,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6841063"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mid and West Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Canolbarth a Gorllewin Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mid and West Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2111,15 +2111,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2130,24 +2130,19 @@
         "type" : "literal",
         "value" : "Neil Hamilton"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Neil Hamilton"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2157,6 +2152,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Neil Hamilton"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2168,13 +2168,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -2186,15 +2186,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5318359"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dwyfor Meirionnydd"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Dwyfor Meirionnydd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dwyfor Meirionnydd"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2209,15 +2209,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2228,24 +2228,19 @@
         "type" : "literal",
         "value" : "Dafydd Elis-Thomas"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dafydd Elis-Thomas"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2255,6 +2250,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dafydd Elis-Thomas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2271,15 +2271,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q327591"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Annibynnwr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
       },
       "statement" : {
         "type" : "uri",
@@ -2289,15 +2289,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5318359"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dwyfor Meirionnydd"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Dwyfor Meirionnydd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dwyfor Meirionnydd"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2312,15 +2312,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2331,24 +2331,19 @@
         "type" : "literal",
         "value" : "Dafydd Elis-Thomas"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dafydd Elis-Thomas"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2358,6 +2353,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dafydd Elis-Thomas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2369,15 +2369,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -2387,15 +2387,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6841063"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mid and West Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Canolbarth a Gorllewin Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mid and West Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2410,15 +2410,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2429,24 +2429,19 @@
         "type" : "literal",
         "value" : "Eluned Morgan, Baroness Morgan of Ely"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Eluned Morgan"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2456,6 +2451,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Eluned Morgan"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2467,15 +2467,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -2485,15 +2485,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568768"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales East"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Dwyrain De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales East"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2508,15 +2508,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2527,24 +2527,19 @@
         "type" : "literal",
         "value" : "Mohammad Asghar"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mohammad Asghar"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2554,6 +2549,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mohammad Asghar"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2565,13 +2565,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -2583,15 +2583,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5043201"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carmarthen East and Dinefwr"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Dwyrain Caerfyrddin a Dinefwr (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carmarthen East and Dinefwr"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2606,15 +2606,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2625,24 +2625,19 @@
         "type" : "literal",
         "value" : "Adam Price"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Adam Price"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2652,6 +2647,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Adam Price"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2663,13 +2663,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -2681,15 +2681,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6841063"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mid and West Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Canolbarth a Gorllewin Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mid and West Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2704,15 +2704,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2723,24 +2723,19 @@
         "type" : "literal",
         "value" : "Simon Thomas"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Simon Thomas"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2750,6 +2745,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Simon Thomas"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2766,15 +2766,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10647"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK Independence Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK Independence Party"
       },
       "statement" : {
         "type" : "uri",
@@ -2784,15 +2784,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7057143"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2807,15 +2807,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2826,24 +2826,19 @@
         "type" : "literal",
         "value" : "Mandy Jones"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mandy Jones"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2853,6 +2848,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mandy Jones"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2864,15 +2864,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -2882,15 +2882,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4923797"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Blaenau Gwent"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Blaenau Gwent (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Blaenau Gwent"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2905,15 +2905,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -2924,24 +2924,19 @@
         "type" : "literal",
         "value" : "Alun Davies"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Alun Davies"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2951,6 +2946,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Alun Davies"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2962,15 +2962,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -2980,15 +2980,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568764"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales Central"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Canol De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales Central"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3003,15 +3003,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3022,24 +3022,19 @@
         "type" : "literal",
         "value" : "Andrew R. T. Davies"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Andrew R. T. Davies"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3049,6 +3044,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Andrew R. T. Davies"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3060,15 +3060,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -3078,15 +3078,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5043210"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carmarthen West and South Pembrokeshire"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gorllewin Caerfyrddin a De Sir Benfro (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carmarthen West and South Pembrokeshire"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3101,15 +3101,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3120,24 +3120,19 @@
         "type" : "literal",
         "value" : "Angela Burns"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Angela Burns"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3147,6 +3142,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Angela Burns"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3158,15 +3158,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -3176,15 +3176,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7909529"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vale of Clwyd"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Dyffryn Clwyd"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vale of Clwyd"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3199,15 +3199,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3218,24 +3218,19 @@
         "type" : "literal",
         "value" : "Ann Jones"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ann Jones"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3245,6 +3240,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ann Jones"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3256,13 +3256,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -3274,15 +3274,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568795"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales West"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gorllewin De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales West"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3297,15 +3297,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3316,24 +3316,19 @@
         "type" : "literal",
         "value" : "Bethan Jenkins"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bethan Jenkins"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3343,6 +3338,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bethan Jenkins"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3358,15 +3358,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -3376,15 +3376,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4738671"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alyn and Deeside"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Alun a Glannau Dyfrdwy (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alyn and Deeside"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3399,15 +3399,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3418,24 +3418,19 @@
         "type" : "literal",
         "value" : "Carl Sargeant"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Carl Sargeant"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3445,6 +3440,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Carl Sargeant"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3461,15 +3461,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q327591"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "independent politician"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Annibynnwr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
       },
       "statement" : {
         "type" : "uri",
@@ -3479,15 +3479,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4738671"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alyn and Deeside"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Alun a Glannau Dyfrdwy (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alyn and Deeside"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3502,15 +3502,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3521,24 +3521,19 @@
         "type" : "literal",
         "value" : "Carl Sargeant"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Carl Sargeant"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3548,6 +3543,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Carl Sargeant"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3564,15 +3564,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -3582,15 +3582,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q13128697"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Clwyd West"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gorllewin Clwyd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Clwyd West"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3605,15 +3605,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3624,24 +3624,19 @@
         "type" : "literal",
         "value" : "Darren Millar"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Darren Millar"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3651,6 +3646,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Darren Millar"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3662,13 +3662,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -3680,15 +3680,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568795"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales West"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gorllewin De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales West"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3703,15 +3703,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3722,24 +3722,19 @@
         "type" : "literal",
         "value" : "David Lloyd"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "David Lloyd"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3749,6 +3744,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Lloyd"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3760,15 +3760,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -3778,15 +3778,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568764"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales Central"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Canol De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales Central"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3801,15 +3801,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3820,24 +3820,19 @@
         "type" : "literal",
         "value" : "David Melding"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "David Melding"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3847,6 +3842,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Melding"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3858,13 +3858,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -3876,15 +3876,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5064122"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ceredigion"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ceredigion (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ceredigion"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3899,15 +3899,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -3918,24 +3918,19 @@
         "type" : "literal",
         "value" : "Elin Jones"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Elin Jones"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3945,6 +3940,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Elin Jones"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3956,15 +3956,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981939"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Liberal Democrats"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Democratiaid Rhyddfrodol Cymreig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Liberal Democrats"
       },
       "statement" : {
         "type" : "uri",
@@ -3974,15 +3974,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4960088"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brecon and Radnorshire"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Brycheiniog a Sir Faesyfed (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brecon and Radnorshire"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3997,15 +3997,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4016,24 +4016,19 @@
         "type" : "literal",
         "value" : "Kirsty Williams"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Kirsty Williams"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4043,6 +4038,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kirsty Williams"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4054,15 +4054,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10647"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "UK Independence Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "UK Independence Party"
       },
       "statement" : {
         "type" : "uri",
@@ -4072,15 +4072,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568768"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales East"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Dwyrain De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales East"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4095,15 +4095,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4118,15 +4118,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
-      },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4152,15 +4152,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -4170,15 +4170,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568768"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales East"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Dwyrain De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales East"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4193,15 +4193,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4216,15 +4216,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
-      },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4245,15 +4245,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -4263,15 +4263,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7909545"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vale of Glamorgan"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Bro Morgannwg (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vale of Glamorgan"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4286,15 +4286,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4305,24 +4305,19 @@
         "type" : "literal",
         "value" : "Jane Hutt"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jane Hutt"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4332,6 +4327,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jane Hutt"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4343,15 +4343,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -4361,15 +4361,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4666807"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aberconwy"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aberconwy (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aberconwy"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4384,15 +4384,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4403,24 +4403,19 @@
         "type" : "literal",
         "value" : "Janet Finch-Saunders"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Janet Finch-Saunders"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4430,6 +4425,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Janet Finch-Saunders"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4441,15 +4441,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -4459,15 +4459,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7018848"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Newport East"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Dwyrain Casnewydd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newport East"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4482,15 +4482,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4501,24 +4501,19 @@
         "type" : "literal",
         "value" : "John Griffiths"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "John Griffiths"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4528,6 +4523,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "John Griffiths"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4539,15 +4539,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -4557,15 +4557,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6841063"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mid and West Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Canolbarth a Gorllewin Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mid and West Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4580,15 +4580,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4599,24 +4599,19 @@
         "type" : "literal",
         "value" : "Joyce Watson"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Joyce Watson"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4626,6 +4621,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Joyce Watson"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4637,15 +4637,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -4655,15 +4655,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7653727"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swansea West"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gorllewin Abertawe (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swansea West"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4678,15 +4678,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4697,24 +4697,19 @@
         "type" : "literal",
         "value" : "Julie James"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Julie James"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4724,6 +4719,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Julie James"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4735,15 +4735,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -4753,15 +4753,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5038453"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cardiff North"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gogledd Caerdydd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cardiff North"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4776,15 +4776,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4795,24 +4795,19 @@
         "type" : "literal",
         "value" : "Julie Morgan"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Julie Morgan"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4822,6 +4817,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Julie Morgan"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4833,15 +4833,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -4851,15 +4851,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5136797"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Clwyd South"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "De Clwyd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Clwyd South"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4874,15 +4874,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4893,24 +4893,19 @@
         "type" : "literal",
         "value" : "Ken Skates"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ken Skates"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4920,6 +4915,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ken Skates"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -4931,15 +4931,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -4949,15 +4949,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8038114"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wrexham"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Wrecsam (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wrexham"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4972,15 +4972,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -4991,24 +4991,19 @@
         "type" : "literal",
         "value" : "Lesley Griffiths"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lesley Griffiths"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5018,6 +5013,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lesley Griffiths"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5029,13 +5029,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -5047,15 +5047,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7057143"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5070,15 +5070,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5089,24 +5089,19 @@
         "type" : "literal",
         "value" : "Llyr Huws Gruffydd"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llyr Huws Gruffydd"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5116,6 +5111,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llyr Huws Gruffydd"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5127,15 +5127,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -5145,15 +5145,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7825685"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Torfaen"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Torfaen (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Torfaen"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5168,15 +5168,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5187,24 +5187,19 @@
         "type" : "literal",
         "value" : "Lynne Neagle"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lynne Neagle"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5214,6 +5209,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lynne Neagle"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5225,15 +5225,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -5243,15 +5243,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5038486"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cardiff West"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gorllewin Caerdydd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cardiff West"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5266,15 +5266,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5285,24 +5285,19 @@
         "type" : "literal",
         "value" : "Mark Drakeford"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mark Drakeford"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5312,6 +5307,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mark Drakeford"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5323,15 +5323,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -5341,15 +5341,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7057143"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Wales"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Wales"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5364,15 +5364,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5383,24 +5383,19 @@
         "type" : "literal",
         "value" : "Mark Isherwood"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mark Isherwood"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5410,6 +5405,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mark Isherwood"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5421,15 +5421,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -5439,15 +5439,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7228415"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pontypridd"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Pontypridd (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pontypridd"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5462,15 +5462,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5481,24 +5481,19 @@
         "type" : "literal",
         "value" : "Mick Antoniw"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mick Antoniw"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5508,6 +5503,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mick Antoniw"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5519,15 +5519,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -5537,15 +5537,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7653683"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Swansea East"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Dwyrain Abertawe (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swansea East"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5560,15 +5560,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5579,24 +5579,19 @@
         "type" : "literal",
         "value" : "Mike Hedges"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mike Hedges"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5606,6 +5601,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mike Hedges"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5617,15 +5617,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -5635,15 +5635,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7080136"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ogmore"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ogwr (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ogmore"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5658,15 +5658,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5677,24 +5677,19 @@
         "type" : "literal",
         "value" : "Huw Irranca-Davies"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Huw Irranca-Davies"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5704,6 +5699,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Huw Irranca-Davies"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5719,15 +5719,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -5737,15 +5737,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6901044"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Monmouth"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Mynwy (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monmouth"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5760,15 +5760,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5779,24 +5779,19 @@
         "type" : "literal",
         "value" : "Nick Ramsay"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Nick Ramsay"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5806,6 +5801,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Nick Ramsay"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5817,15 +5817,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -5835,15 +5835,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7240912"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Preseli Pembrokeshire"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Preseli Penfro (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Preseli Pembrokeshire"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5858,15 +5858,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5877,24 +5877,19 @@
         "type" : "literal",
         "value" : "Paul Davies"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Paul Davies"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5904,6 +5899,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Paul Davies"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -5915,15 +5915,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -5933,15 +5933,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5590043"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gower"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gŵyr (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gower"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5956,15 +5956,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -5975,24 +5975,19 @@
         "type" : "literal",
         "value" : "Rebecca Evans"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rebecca Evans"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6002,6 +5997,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rebecca Evans"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6013,15 +6013,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -6031,15 +6031,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4243314"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Montgomeryshire"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Maldwyn"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montgomeryshire"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6054,15 +6054,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -6073,24 +6073,19 @@
         "type" : "literal",
         "value" : "Russell George"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Russell George"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6100,6 +6095,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Russell George"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6111,15 +6111,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7981882"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Conservative Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Y Ceidwadwyr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Conservative Party"
       },
       "statement" : {
         "type" : "uri",
@@ -6129,15 +6129,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7568795"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Wales West"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhanbarth Gorllewin De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales West"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6152,15 +6152,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -6171,24 +6171,19 @@
         "type" : "literal",
         "value" : "Suzy Davies"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Suzy Davies"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6198,6 +6193,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Suzy Davies"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6209,15 +6209,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q832685"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Welsh Labour"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Llafur Cymru"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Labour"
       },
       "statement" : {
         "type" : "uri",
@@ -6227,15 +6227,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5038472"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cardiff South and Penarth"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "De Caerdydd a Phenarth"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cardiff South and Penarth"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6250,15 +6250,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -6269,24 +6269,19 @@
         "type" : "literal",
         "value" : "Vaughan Gething"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Vaughan Gething"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6296,6 +6291,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Vaughan Gething"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -6307,13 +6307,13 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10691"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
+      "party_name_cy" : {
+        "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Plaid Cymru"
       },
@@ -6325,15 +6325,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7321386"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rhondda"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rhondda (etholaeth Cynulliad)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rhondda"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6348,15 +6348,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3406079"
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the National Assembly for Wales"
-      },
       "role_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
       },
       "item" : {
         "type" : "uri",
@@ -6367,24 +6367,19 @@
         "type" : "literal",
         "value" : "Leanne Wood"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Leanne Wood"
-      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q493517"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Assembly for Wales"
       },
       "org_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6394,6 +6389,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Leanne Wood"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",

@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_cy", "name_en", "party", "party_name_cy", "party_name_en", "district", "district_name_cy", "district_name_en", "role", "role_cy", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_cy", "role_superclass_en", "org", "org_cy", "org_en", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_en", "name_cy", "party", "party_name_en", "party_name_cy", "district", "district_name_en", "district_name_cy", "role", "role_en", "role_cy", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_cy", "org", "org_en", "org_cy", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ {
@@ -8,15 +8,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10658"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Scottish National Party"
-      },
       "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Plaid Genedlaethol yr Alban"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scottish National Party"
       },
       "item" : {
         "type" : "uri",
@@ -26,15 +26,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Scotland"
-      },
       "district_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Yr Alban"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scotland"
       },
       "role" : {
         "type" : "uri",
@@ -44,17 +44,12 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1362216"
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "First Minister of Scotland"
-      },
       "role_superclass_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Prif Weinidog yr Alban"
       },
-      "role_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "First Minister of Scotland"
@@ -63,6 +58,11 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Prif Weinidog yr Alban"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "First Minister of Scotland"
       },
       "name_en" : {
         "xml:lang" : "en",
