@@ -305,8 +305,8 @@
     },
     {
       "name": {
-        "lang:cy": "Joe Fitzpatrick",
-        "lang:en": "Joe FitzPatrick"
+        "lang:en": "Joe FitzPatrick",
+        "lang:cy": "Joe Fitzpatrick"
       },
       "id": "Q1612012",
       "identifiers": [
@@ -1017,8 +1017,8 @@
     },
     {
       "name": {
-        "lang:cy": "Kate Forbes",
-        "lang:en": "Kate Forbes"
+        "lang:en": "Kate Forbes",
+        "lang:cy": "Kate Forbes"
       },
       "id": "Q24039479",
       "identifiers": [
@@ -1048,8 +1048,8 @@
     },
     {
       "name": {
-        "lang:cy": "Douglas Ross",
-        "lang:en": "Douglas Ross"
+        "lang:en": "Douglas Ross",
+        "lang:cy": "Douglas Ross"
       },
       "id": "Q24039769",
       "identifiers": [
@@ -1634,8 +1634,8 @@
     },
     {
       "name": {
-        "lang:cy": "Nicola Sturgeon",
-        "lang:en": "Nicola Sturgeon"
+        "lang:en": "Nicola Sturgeon",
+        "lang:cy": "Nicola Sturgeon"
       },
       "id": "Q467112",
       "identifiers": [
@@ -2015,8 +2015,8 @@
   "organizations": [
     {
       "name": {
-        "lang:cy": "Senedd yr Alban",
-        "lang:en": "Scottish Parliament"
+        "lang:en": "Scottish Parliament",
+        "lang:cy": "Senedd yr Alban"
       },
       "id": "Q206171",
       "classification": "branch",
@@ -2033,8 +2033,8 @@
     },
     {
       "name": {
-        "lang:cy": "Plaid Genedlaethol yr Alban",
-        "lang:en": "Scottish National Party"
+        "lang:en": "Scottish National Party",
+        "lang:cy": "Plaid Genedlaethol yr Alban"
       },
       "id": "Q10658",
       "classification": "party",
@@ -2060,8 +2060,8 @@
     },
     {
       "name": {
-        "lang:cy": "Plaid Lafur yr Alban",
-        "lang:en": "Scottish Labour Party"
+        "lang:en": "Scottish Labour Party",
+        "lang:cy": "Plaid Lafur yr Alban"
       },
       "id": "Q3179541",
       "classification": "party",
@@ -2100,8 +2100,8 @@
     },
     {
       "name": {
-        "lang:cy": "Annibynnwr",
-        "lang:en": "independent politician"
+        "lang:en": "independent politician",
+        "lang:cy": "Annibynnwr"
       },
       "id": "Q327591",
       "classification": "party",
@@ -2126,8 +2126,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2143,8 +2143,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2160,8 +2160,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2177,8 +2177,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2194,8 +2194,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2211,8 +2211,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2228,8 +2228,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2245,8 +2245,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2262,8 +2262,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2279,8 +2279,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2296,8 +2296,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2313,8 +2313,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2330,8 +2330,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2347,8 +2347,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2364,8 +2364,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2381,8 +2381,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2398,8 +2398,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2415,8 +2415,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2432,8 +2432,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2449,8 +2449,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2466,8 +2466,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2484,8 +2484,8 @@
       "end_date": "2017-11-15",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2501,8 +2501,8 @@
       "start_date": "2017-11-15",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2518,8 +2518,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2535,8 +2535,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2552,8 +2552,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2569,8 +2569,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2587,8 +2587,8 @@
       "end_date": "2017-05-04",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2604,8 +2604,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2621,8 +2621,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2638,8 +2638,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2656,8 +2656,8 @@
       "end_date": "2016-05-12",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2673,8 +2673,8 @@
       "start_date": "2016-05-12",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2690,8 +2690,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2707,8 +2707,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2724,8 +2724,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2741,8 +2741,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2758,8 +2758,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2775,8 +2775,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2793,8 +2793,8 @@
       "end_date": "2018-03-06",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2810,8 +2810,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2827,8 +2827,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2844,8 +2844,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2861,8 +2861,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2878,8 +2878,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2895,8 +2895,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2912,8 +2912,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2929,8 +2929,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2946,8 +2946,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2963,8 +2963,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2980,8 +2980,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -2997,8 +2997,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3014,8 +3014,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3031,8 +3031,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3048,8 +3048,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3065,8 +3065,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3082,8 +3082,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3099,8 +3099,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3117,8 +3117,8 @@
       "end_date": "2017-05-04",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3134,8 +3134,8 @@
       "start_date": "2016-06-08",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3151,8 +3151,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3168,8 +3168,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3185,8 +3185,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3202,8 +3202,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3219,8 +3219,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3236,8 +3236,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3253,8 +3253,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3270,8 +3270,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3288,8 +3288,8 @@
       "end_date": "2017-06-13",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3305,8 +3305,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3322,8 +3322,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3339,8 +3339,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3357,8 +3357,8 @@
       "end_date": "2017-06-13",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3374,8 +3374,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3391,8 +3391,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3408,8 +3408,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3425,8 +3425,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3442,8 +3442,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3459,8 +3459,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3476,8 +3476,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3493,8 +3493,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3510,8 +3510,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3527,8 +3527,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3544,8 +3544,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3561,8 +3561,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3578,8 +3578,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3595,8 +3595,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3612,8 +3612,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3629,8 +3629,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3646,8 +3646,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3663,8 +3663,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3680,8 +3680,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3697,8 +3697,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3714,8 +3714,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3731,8 +3731,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3748,8 +3748,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3765,8 +3765,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3783,8 +3783,8 @@
       "end_date": "2016-12-07",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3800,8 +3800,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3817,8 +3817,8 @@
       "start_date": "2016-12-21",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3834,8 +3834,8 @@
       "start_date": "2017-05-23",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3851,8 +3851,8 @@
       "start_date": "2017-06-20",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3868,8 +3868,8 @@
       "start_date": "2017-06-20",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3885,8 +3885,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3902,8 +3902,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3919,8 +3919,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3936,8 +3936,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3953,8 +3953,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3970,8 +3970,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -3987,8 +3987,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4004,8 +4004,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4021,8 +4021,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4038,8 +4038,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4055,8 +4055,8 @@
       "start_date": "2016-05-06",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4072,8 +4072,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4089,8 +4089,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4106,8 +4106,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4123,8 +4123,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4140,8 +4140,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4157,8 +4157,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4174,8 +4174,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4191,8 +4191,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4208,8 +4208,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4225,8 +4225,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4242,8 +4242,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4259,8 +4259,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4276,8 +4276,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4293,8 +4293,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4310,8 +4310,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4327,8 +4327,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4344,8 +4344,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4361,8 +4361,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4378,8 +4378,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4395,8 +4395,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4412,8 +4412,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {
@@ -4429,8 +4429,8 @@
       "start_date": "2016-05-05",
       "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:cy": "Aelod Seneddol",
-        "lang:en": "member of parliament"
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
       },
       "role_code": "Q1711695",
       "role": {

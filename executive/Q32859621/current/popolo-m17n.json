@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:cy": "Nicola Sturgeon",
-        "lang:en": "Nicola Sturgeon"
+        "lang:en": "Nicola Sturgeon",
+        "lang:cy": "Nicola Sturgeon"
       },
       "id": "Q467112",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:cy": "Plaid Genedlaethol yr Alban",
-        "lang:en": "Scottish National Party"
+        "lang:en": "Scottish National Party",
+        "lang:cy": "Plaid Genedlaethol yr Alban"
       },
       "id": "Q10658",
       "classification": "party",
@@ -60,13 +60,13 @@
       "start_date": "2014-11-20",
       "role_superclass_code": "Q1362216",
       "role_superclass": {
-        "lang:cy": "Prif Weinidog yr Alban",
-        "lang:en": "First Minister of Scotland"
+        "lang:en": "First Minister of Scotland",
+        "lang:cy": "Prif Weinidog yr Alban"
       },
       "role_code": "Q1362216",
       "role": {
-        "lang:cy": "Prif Weinidog yr Alban",
-        "lang:en": "First Minister of Scotland"
+        "lang:en": "First Minister of Scotland",
+        "lang:cy": "Prif Weinidog yr Alban"
       }
     }
   ]

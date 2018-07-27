@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:cy": "Theresa May",
-        "lang:en": "Theresa May"
+        "lang:en": "Theresa May",
+        "lang:cy": "Theresa May"
       },
       "id": "Q264766",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:cy": "Cabinet y Deyrnas Unedig",
-        "lang:en": "Cabinet of the United Kingdom"
+        "lang:en": "Cabinet of the United Kingdom",
+        "lang:cy": "Cabinet y Deyrnas Unedig"
       },
       "id": "Q112014",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:cy": "Y Blaid Geidwadol",
-        "lang:en": "Conservative Party"
+        "lang:en": "Conservative Party",
+        "lang:cy": "Y Blaid Geidwadol"
       },
       "id": "Q9626",
       "classification": "party",
@@ -64,13 +64,13 @@
       "start_date": "2016-07-13",
       "role_superclass_code": "Q14211",
       "role_superclass": {
-        "lang:cy": "Prif Weinidog y Deyrnas Unedig",
-        "lang:en": "Prime Minister of the United Kingdom"
+        "lang:en": "Prime Minister of the United Kingdom",
+        "lang:cy": "Prif Weinidog y Deyrnas Unedig"
       },
       "role_code": "Q14211",
       "role": {
-        "lang:cy": "Prif Weinidog y Deyrnas Unedig",
-        "lang:en": "Prime Minister of the United Kingdom"
+        "lang:en": "Prime Minister of the United Kingdom",
+        "lang:cy": "Prif Weinidog y Deyrnas Unedig"
       }
     }
   ]

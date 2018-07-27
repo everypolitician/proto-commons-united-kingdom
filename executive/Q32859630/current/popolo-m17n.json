@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:cy": "Carwyn Jones",
-        "lang:en": "Carwyn Jones"
+        "lang:en": "Carwyn Jones",
+        "lang:cy": "Carwyn Jones"
       },
       "id": "Q111840",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:cy": "Llafur Cymru",
-        "lang:en": "Welsh Labour"
+        "lang:en": "Welsh Labour",
+        "lang:cy": "Llafur Cymru"
       },
       "id": "Q832685",
       "classification": "party",
@@ -48,8 +48,8 @@
     },
     {
       "name": {
-        "lang:cy": "Y Blaid Lafur",
-        "lang:en": "Labour Party"
+        "lang:en": "Labour Party",
+        "lang:cy": "Y Blaid Lafur"
       },
       "id": "Q9630",
       "classification": "party",
@@ -74,13 +74,13 @@
       "start_date": "2009-12-10",
       "role_superclass_code": "Q18996",
       "role_superclass": {
-        "lang:cy": "Prif Weinidog Cymru",
-        "lang:en": "First Minister of Wales"
+        "lang:en": "First Minister of Wales",
+        "lang:cy": "Prif Weinidog Cymru"
       },
       "role_code": "Q18996",
       "role": {
-        "lang:cy": "Prif Weinidog Cymru",
-        "lang:en": "First Minister of Wales"
+        "lang:en": "First Minister of Wales",
+        "lang:cy": "Prif Weinidog Cymru"
       }
     },
     {
@@ -92,13 +92,13 @@
       "start_date": "2009-12-10",
       "role_superclass_code": "Q18996",
       "role_superclass": {
-        "lang:cy": "Prif Weinidog Cymru",
-        "lang:en": "First Minister of Wales"
+        "lang:en": "First Minister of Wales",
+        "lang:cy": "Prif Weinidog Cymru"
       },
       "role_code": "Q18996",
       "role": {
-        "lang:cy": "Prif Weinidog Cymru",
-        "lang:en": "First Minister of Wales"
+        "lang:en": "First Minister of Wales",
+        "lang:cy": "Prif Weinidog Cymru"
       }
     }
   ]
