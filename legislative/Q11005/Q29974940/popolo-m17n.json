@@ -21366,12 +21366,31 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q575881-58495523-4e0a-0c0b-624d-7331bf0437a4",
+      "person_id": "Q575881",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q11005",
+      "area_id": "Q751685",
+      "start_date": "2018-07-24",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:cy": "Aelod Seneddol",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q16707842",
+      "role": {
+        "lang:cy": "Aelod Seneddol, y Deyrnas Unedig",
+        "lang:en": "Member of Parliament in the United Kingdom"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q575881-7A0182D9-5661-409C-A6E1-B34C598BADDE",
       "person_id": "Q575881",
       "on_behalf_of_id": "Q215519",
       "organization_id": "Q11005",
       "area_id": "Q751685",
       "start_date": "2017-06-08",
+      "end_date": "2018-07-24",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:cy": "Aelod Seneddol",
