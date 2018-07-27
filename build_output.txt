@@ -802,7 +802,7 @@ WARNING: the district Glasgow Anniesland (Q1529483) wasn't found in the boundary
 WARNING: the district Glasgow Maryhill and Springburn (Q1529515) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
 WARNING: the district Cunninghame North (Q1144044) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
 WARNING: the district Lothian (Q1871077) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
-WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position Member of the Legislative Assembly of Northern Ireland (Q3272410) not in boundary associated_wikidata_positions
 WARNING: Position Member of the National Assembly for Wales (Q3406079) not in boundary associated_wikidata_positions
 WARNING: the district Bridgend (Q4966526) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Ynys Môn (Q8054067) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
