@@ -1,0 +1,84 @@
+<OGRVRTDataSource>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="euro_regions">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/european_region_region.shp</SrcDataSource>
+            <SrcLayer>european_region_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="ni_country">
+            <SrcDataSource>https://osni-spatial-ni.opendata.arcgis.com/datasets/d9dfdaf77847401e81efc9471dcd09e1_0.geojson</SrcDataSource>
+            <SrcLayer>d9dfdaf77847401e81efc9471dcd09e1_0</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="gb_westminster_constituencies">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/westminster_const_region.shp</SrcDataSource>
+            <SrcLayer>westminster_const_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="ni_westminster_constituencies">
+            <SrcDataSource>http://osni-spatial-ni.opendata.arcgis.com/datasets/563dc2ec3d9943428e3fe68966d40deb_3.geojson</SrcDataSource>
+            <SrcLayer>563dc2ec3d9943428e3fe68966d40deb_3</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="scot_wales_constituencies">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/scotland_and_wales_const_region.shp</SrcDataSource>
+            <SrcLayer>scotland_and_wales_const_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="district_borough_unitary_region">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/district_borough_unitary_region.shp</SrcDataSource>
+            <SrcLayer>district_borough_unitary_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="ni_local_government_districts">
+            <SrcDataSource>http://osni-spatial-ni.opendata.arcgis.com/datasets/a55726475f1b460c927d1816ffde6c72_2.geojson</SrcDataSource>
+            <SrcLayer>a55726475f1b460c927d1816ffde6c72_2</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="district_borough_unitary_ward_region">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/district_borough_unitary_ward_region.shp</SrcDataSource>
+            <SrcLayer>district_borough_unitary_ward_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="unitary_electoral_division_region">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/unitary_electoral_division_region.shp</SrcDataSource>
+            <SrcLayer>unitary_electoral_division_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="councils_ur">
+            <SrcDataSource>../build/councils/councils-ur.shp</SrcDataSource>
+            <SrcLayer>councils-ur</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+
+</OGRVRTDataSource>
