@@ -56,5 +56,16 @@
         "term_item_id": "Q28567028"
       }
     ]
+  },
+  {
+    "comment": "Council of Leeds City Council",
+    "house_item_id": "Q55465119",
+    "position_item_id": "Q55372701",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
   }
 ]

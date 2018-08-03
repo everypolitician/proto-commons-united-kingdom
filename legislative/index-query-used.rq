@@ -20,6 +20,7 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?admin
     VALUES ?primarySort { 3 }
   } UNION {
     VALUES (?adminArea ?primarySort ?adminAreaType) {
+      (wd:Q774015 4 wd:Q24238356)
     }
   }
 
