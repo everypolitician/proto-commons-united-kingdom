@@ -96,15 +96,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Hackney a Stoke Newington (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Diane Abbott"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Hackney a Stoke Newington (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -883,15 +883,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caithness"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Jamie Stone"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caithness"
       }
     }, {
       "party" : {
@@ -1779,15 +1779,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ashton-under-Lyne"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Angela Rayner"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ashton-under-Lyne"
       },
       "facebook" : {
         "type" : "literal",
@@ -1886,15 +1886,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Heywood a Middleton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Liz McInnes"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Heywood a Middleton"
       },
       "facebook" : {
         "type" : "literal",
@@ -1993,15 +1993,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ross"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ian Blackford"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ross"
       },
       "facebook" : {
         "type" : "literal",
@@ -2100,15 +2100,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De-orllewin Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Christopher Stephens"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De-orllewin Glasgow"
       },
       "facebook" : {
         "type" : "literal",
@@ -2406,15 +2406,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Paisley a De Swydd Renfrew"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Mhairi Black"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Paisley a De Swydd Renfrew"
       },
       "facebook" : {
         "type" : "literal",
@@ -2615,15 +2615,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Aberdeen"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Kirsty Blackman"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Aberdeen"
       },
       "facebook" : {
         "type" : "literal",
@@ -2722,15 +2722,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyfor Meirionnydd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Liz Saville Roberts"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyfor Meirionnydd (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -3019,15 +3019,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Caeredin a Leith"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Deidre Brock"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Caeredin a Leith"
       },
       "facebook" : {
         "type" : "literal",
@@ -3325,15 +3325,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Kilbride"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Lisa Cameron"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Kilbride"
       },
       "facebook" : {
         "type" : "literal",
@@ -4336,15 +4336,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Swydd Ayr"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Philippa Whitford"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Swydd Ayr"
       },
       "facebook" : {
         "type" : "literal",
@@ -4545,15 +4545,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Dundee"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Chris Law"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Dundee"
       },
       "facebook" : {
         "type" : "literal",
@@ -4652,15 +4652,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd-orllewin Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Carol Monaghan"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd-orllewin Glasgow"
       },
       "facebook" : {
         "type" : "literal",
@@ -4759,15 +4759,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Argyll a Bute"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Brendan O'Hara"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Argyll a Bute"
       },
       "facebook" : {
         "type" : "literal",
@@ -4866,15 +4866,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Caeredin"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Tommy Sheppard"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Caeredin"
       },
       "facebook" : {
         "type" : "literal",
@@ -4973,15 +4973,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Motherwell a Wishaw"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Marion Fellows"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Motherwell a Wishaw"
       },
       "facebook" : {
         "type" : "literal",
@@ -5080,15 +5080,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Livingston"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Hannah Bardell"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Livingston"
       },
       "facebook" : {
         "type" : "literal",
@@ -5187,15 +5187,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd-ddwyrain Fife"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Stephen Gethins"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd-ddwyrain Fife"
       },
       "facebook" : {
         "type" : "literal",
@@ -5294,15 +5294,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Falkirk"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "John McNally"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Falkirk"
       },
       "facebook" : {
         "type" : "literal",
@@ -5401,15 +5401,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Airdrie a Shotts (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Neil Gray"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Airdrie a Shotts (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -5508,15 +5508,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Glenrothes"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Peter Grant"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Glenrothes"
       },
       "facebook" : {
         "type" : "literal",
@@ -5615,15 +5615,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Alison Thewliss"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Glasgow"
       },
       "facebook" : {
         "type" : "literal",
@@ -5916,15 +5916,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dunfermline a Gorllewin Fife"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Douglas Chapman"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dunfermline a Gorllewin Fife"
       },
       "facebook" : {
         "type" : "literal",
@@ -6023,15 +6023,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De-orllewin Caeredin (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Joanna Cherry"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De-orllewin Caeredin (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -6130,15 +6130,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Inverclyde"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ronnie Cowan"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Inverclyde"
       },
       "facebook" : {
         "type" : "literal",
@@ -6237,15 +6237,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lanark a Dwyrain Hamilton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Angela Crawley"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lanark a Dwyrain Hamilton"
       },
       "facebook" : {
         "type" : "literal",
@@ -6344,15 +6344,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Linlithgow a Dwyrain Falkirk"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Martyn Day"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Linlithgow a Dwyrain Falkirk"
       },
       "facebook" : {
         "type" : "literal",
@@ -6451,15 +6451,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Swydd Dunbarton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Martin Docherty"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Swydd Dunbarton"
       },
       "facebook" : {
         "type" : "literal",
@@ -6558,15 +6558,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Swydd Ayr ac Arran"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Patricia Gibson"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Swydd Ayr ac Arran"
       },
       "facebook" : {
         "type" : "literal",
@@ -6665,15 +6665,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Patrick Grady"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Glasgow"
       },
       "facebook" : {
         "type" : "literal",
@@ -6772,15 +6772,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Paisley a Gogledd Swydd Renfrew"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gavin Newlands"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Paisley a Gogledd Swydd Renfrew"
       },
       "facebook" : {
         "type" : "literal",
@@ -6879,15 +6879,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Cumbernauld"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Stuart McDonald"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cumbernauld"
       },
       "facebook" : {
         "type" : "literal",
@@ -6986,15 +6986,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Kilmarnock a Loudoun"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Alan Brown"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kilmarnock a Loudoun"
       }
     }, {
       "party" : {
@@ -7186,15 +7186,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caerhirfryn a Fleetwood"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cat Smith"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caerhirfryn a Fleetwood"
       },
       "facebook" : {
         "type" : "literal",
@@ -8187,15 +8187,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Brycheiniog a Sir Faesyfed"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Christopher Davies"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Brycheiniog a Sir Faesyfed"
       },
       "facebook" : {
         "type" : "literal",
@@ -8887,15 +8887,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lewisham Deptford"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Vicky Foxcroft"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lewisham Deptford"
       },
       "facebook" : {
         "type" : "literal",
@@ -9193,15 +9193,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Bolton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Chris Green"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Bolton"
       },
       "facebook" : {
         "type" : "literal",
@@ -9300,15 +9300,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Cilgwri"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Margaret Greenwood"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Cilgwri"
       },
       "facebook" : {
         "type" : "literal",
@@ -9601,15 +9601,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Abertawe (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Carolyn Harris"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Abertawe (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -10305,15 +10305,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Stewart McDonald"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Glasgow"
       },
       "facebook" : {
         "type" : "literal",
@@ -11383,15 +11383,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Caerdydd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Jo Stevens"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Caerdydd (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -12078,15 +12078,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Merthyr Tudful a Rhymni"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Gerald Jones"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Merthyr Tudful a Rhymni"
       },
       "facebook" : {
         "type" : "literal",
@@ -12282,15 +12282,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ellesmere Port a Neston"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Justin Madders"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ellesmere Port a Neston"
       },
       "facebook" : {
         "type" : "literal",
@@ -12486,15 +12486,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dinas Caer (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Chris Matheson"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dinas Caer (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -13263,15 +13263,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Castell-nedd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Christina Rees"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Castell-nedd (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -14064,15 +14064,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Etholaeth Seneddol Torfaen"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Nick Thomas-Symonds"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Etholaeth Seneddol Torfaen"
       },
       "facebook" : {
         "type" : "literal",
@@ -14268,15 +14268,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hazel Grove"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "William Wragg"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hazel Grove"
       }
     }, {
       "party" : {
@@ -14854,15 +14854,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Camberwell a Peckham (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Harriet Harman"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Camberwell a Peckham (etholaeth seneddol)"
       }
     }, {
       "party" : {
@@ -15153,15 +15153,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Moray"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Douglas Ross"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Moray"
       }
     }, {
       "party" : {
@@ -15256,15 +15256,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ogwr (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Chris Elmore"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ogwr (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -15460,15 +15460,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Tooting (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rosena Allin-Khan"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tooting (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -17519,15 +17519,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Aberconwy (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Guto Bebb"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aberconwy (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -17927,15 +17927,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Perth a Gogledd Swydd Perth"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Pete Wishart"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Perth a Gogledd Swydd Perth"
       },
       "facebook" : {
         "type" : "literal",
@@ -20584,15 +20584,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caerwysg"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ben Bradshaw"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caerwysg"
       },
       "facebook" : {
         "type" : "literal",
@@ -21683,15 +21683,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Swydd Henffordd"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Bill Wiggin"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Swydd Henffordd"
       }
     }, {
       "party" : {
@@ -21879,15 +21879,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Congleton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Fiona Bruce"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Congleton"
       },
       "facebook" : {
         "type" : "literal",
@@ -21986,15 +21986,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rhondda (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Chris Bryant"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rhondda (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -22093,15 +22093,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Arfon"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Hywel Williams"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Arfon"
       },
       "facebook" : {
         "type" : "literal",
@@ -23186,15 +23186,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bro Morgannwg (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Alun Cairns"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bro Morgannwg (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -23677,15 +23677,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ynysoedd Erch a Shetland"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Alistair Carmichael"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ynysoedd Erch a Shetland"
       },
       "facebook" : {
         "type" : "literal",
@@ -24957,15 +24957,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Halton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Derek Twigg"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Halton"
       },
       "facebook" : {
         "type" : "literal",
@@ -25856,15 +25856,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Alun a Glannau Dyfrdwy (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Mark Tami"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Alun a Glannau Dyfrdwy (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -26441,15 +26441,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Cwm Cynon"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ann Clwyd"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cwm Cynon"
       }
     }, {
       "party" : {
@@ -27017,15 +27017,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Pen-y-bont ar Ogwr"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Madeleine Moon"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Pen-y-bont ar Ogwr"
       },
       "facebook" : {
         "type" : "literal",
@@ -27527,15 +27527,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Islington"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Jeremy Corbyn"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Islington"
       },
       "facebook" : {
         "type" : "literal",
@@ -27727,15 +27727,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Preseli Penfro (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Stephen Crabb"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Preseli Penfro (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -28324,15 +28324,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Leyton ac Wanstead"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "John Cryer"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Leyton ac Wanstead"
       }
     }, {
       "party" : {
@@ -28816,15 +28816,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caerffili (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Wayne David"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caerffili (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -28923,15 +28923,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mynwy (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "David Davies"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mynwy (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -29025,15 +29025,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Abertawe (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Geraint Davies"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Abertawe (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -29132,15 +29132,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maldwyn (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Glyn Davies"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Maldwyn (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -30101,15 +30101,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Angus"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Kirstene Hair"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Angus"
       },
       "facebook" : {
         "type" : "literal",
@@ -30208,15 +30208,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Battersea (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Marsha de Cordova"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Battersea (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -30417,15 +30417,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Midlothian"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Danielle Rowley"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Midlothian"
       }
     }, {
       "party" : {
@@ -30818,15 +30818,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Kirkcaldy a Cowdenbeath (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "LesleyLaird"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kirkcaldy a Cowdenbeath (etholaeth seneddol)"
       }
     }, {
       "party" : {
@@ -30921,15 +30921,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Caerdydd"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Anna McMorrin"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Caerdydd"
       }
     }, {
       "party" : {
@@ -31117,15 +31117,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Swydd Renfrew"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Paul Masterton"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Swydd Renfrew"
       },
       "facebook" : {
         "type" : "literal",
@@ -31606,15 +31606,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Caeredin"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Christine Jardine"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Caeredin"
       },
       "facebook" : {
         "type" : "literal",
@@ -31987,15 +31987,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Plymouth Sutton and Devonport"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Luke Pollard"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Plymouth Sutton and Devonport"
       },
       "facebook" : {
         "type" : "literal",
@@ -32089,15 +32089,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Plymouth Sutton and Devonport"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Luke Pollard"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Plymouth Sutton and Devonport"
       },
       "facebook" : {
         "type" : "literal",
@@ -32972,15 +32972,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gŵyr"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Tonia Antoniazzi"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gŵyr"
       },
       "facebook" : {
         "type" : "literal",
@@ -33275,15 +33275,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Warrington"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Faisal Rashid"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Warrington"
       },
       "facebook" : {
         "type" : "literal",
@@ -33484,15 +33484,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ochil a De Swydd Perth"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Luke Graham"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ochil a De Swydd Perth"
       }
     }, {
       "party" : {
@@ -33689,15 +33689,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ceredigion"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ben Lake"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ceredigion"
       }
     }, {
       "party" : {
@@ -33987,15 +33987,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gordon"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Colin J. Clark"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gordon"
       }
     }, {
       "party" : {
@@ -34883,15 +34883,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ayr"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Bill Grant"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ayr"
       }
     }, {
       "party" : {
@@ -35473,15 +35473,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "David Linden"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Glasgow"
       },
       "facebook" : {
         "type" : "literal",
@@ -35677,15 +35677,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Swydd Aberdeen a Kincardine"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Andrew Bowie"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Swydd Aberdeen a Kincardine"
       }
     }, {
       "party" : {
@@ -35780,15 +35780,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lerpwl Walton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Dan Carden"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lerpwl Walton"
       }
     }, {
       "party" : {
@@ -37624,15 +37624,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Chingford a Woodford Green"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Iain Duncan Smith"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Chingford a Woodford Green"
       },
       "facebook" : {
         "type" : "literal",
@@ -37731,15 +37731,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llwydlo"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Philip Dunne"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llwydlo"
       },
       "facebook" : {
         "type" : "literal",
@@ -37838,15 +37838,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Wallasey"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Angela Eagle"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wallasey"
       },
       "facebook" : {
         "type" : "literal",
@@ -38047,15 +38047,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Caerfyrddin a Dinefwr"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Jonathan Edwards"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Caerfyrddin a Dinefwr"
       },
       "facebook" : {
         "type" : "literal",
@@ -39021,15 +39021,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Islwyn"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Chris Evans"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Islwyn"
       },
       "facebook" : {
         "type" : "literal",
@@ -39128,15 +39128,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Cwm Ribble"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Nigel Evans"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cwm Ribble"
       },
       "facebook" : {
         "type" : "literal",
@@ -39628,15 +39628,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Westmorland a Lonsdale"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Tim Farron"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Westmorland a Lonsdale"
       },
       "facebook" : {
         "type" : "literal",
@@ -40910,15 +40910,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Penrith a'r Goror"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Rory Stewart"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Penrith a'r Goror"
       },
       "facebook" : {
         "type" : "literal",
@@ -42084,15 +42084,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Swydd Dumfries"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "David Mundell"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Swydd Dumfries"
       },
       "facebook" : {
         "type" : "literal",
@@ -43094,15 +43094,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Aberafan (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Stephen Kinnock"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aberafan (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -44472,15 +44472,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Casnewydd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Paul Flynn"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Casnewydd (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -44579,15 +44579,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Pontypridd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Owen Smith"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Pontypridd (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -44686,15 +44686,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Makerfield"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Yvonne Fovargue"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Makerfield"
       },
       "facebook" : {
         "type" : "literal",
@@ -44793,15 +44793,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Blaenau Gwent (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Nicholas Desmond John Smith"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Blaenau Gwent (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -47721,15 +47721,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llanelli (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Nia Griffith"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llanelli (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -48702,15 +48702,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Eddisbury"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Antoinette Sandbach"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Eddisbury"
       },
       "facebook" : {
         "type" : "literal",
@@ -49008,15 +49008,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Delyn"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "David Hanson"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Delyn"
       },
       "facebook" : {
         "type" : "literal",
@@ -49406,15 +49406,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Caerfyrddin a De Sir Benfro"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Simon Hart"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Caerfyrddin a De Sir Benfro"
       },
       "facebook" : {
         "type" : "literal",
@@ -50394,15 +50394,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dyffryn Clwyd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Chris Ruane"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dyffryn Clwyd (etholaeth seneddol)"
       }
     }, {
       "party" : {
@@ -51663,15 +51663,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Inverness"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Drew Hendry"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Inverness"
       },
       "facebook" : {
         "type" : "literal",
@@ -51770,15 +51770,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Tottenham (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "David Lammy"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tottenham (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -53936,15 +53936,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ynys Môn (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Albert Owen"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ynys Môn (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -54627,15 +54627,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bromley a Chislehurst"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Bob Neill"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bromley a Chislehurst"
       }
     }, {
       "party" : {
@@ -55026,15 +55026,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Caeredin"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ian Murray"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Caeredin"
       },
       "facebook" : {
         "type" : "literal",
@@ -55327,15 +55327,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Morecambe a Lunesdale"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "David Morris"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Morecambe a Lunesdale"
       },
       "facebook" : {
         "type" : "literal",
@@ -55847,15 +55847,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Casnewydd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Jessica Morden"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Casnewydd (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -57217,15 +57217,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Holborn a St Pancras (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Keir Starmer"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Holborn a St Pancras (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -59177,15 +59177,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Dundee"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Stewart Hosie"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Dundee"
       },
       "facebook" : {
         "type" : "literal",
@@ -59674,15 +59674,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Amwythig ac Atcham"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Daniel Kawczynski"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Amwythig ac Atcham"
       },
       "facebook" : {
         "type" : "literal",
@@ -59781,15 +59781,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Cilgwri"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Alison McGovern"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Cilgwri"
       },
       "facebook" : {
         "type" : "literal",
@@ -60973,15 +60973,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Na h-Eileanan an Iar"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Angus MacNeil"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Na h-Eileanan an Iar"
       },
       "facebook" : {
         "type" : "literal",
@@ -61080,15 +61080,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Wrecsam (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Ian Lucas"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wrecsam (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -61284,15 +61284,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Woking"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Jonathan Lord"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Woking"
       }
     }, {
       "party" : {
@@ -62748,15 +62748,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Clwyd"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "David Jones"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Clwyd"
       }
     }, {
       "party" : {
@@ -65218,15 +65218,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Clwyd"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Susan Elan Jones"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Clwyd"
       },
       "facebook" : {
         "type" : "literal",
@@ -65621,15 +65621,15 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Caerdydd a Phenarth (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Stephen Doughty"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Caerdydd a Phenarth (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
