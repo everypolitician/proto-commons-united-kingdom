@@ -514,6 +514,22 @@
     },
     {
       "name": {
+        "lang:en": "Jack Sargeant",
+        "lang:cy": "Jack Sargeant"
+      },
+      "id": "Q47995095",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47995095"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Bethan Jenkins",
         "lang:cy": "Bethan Jenkins"
       },
@@ -1663,6 +1679,23 @@
       "organization_id": "Q493517",
       "area_id": "Q7909529",
       "start_date": "2016-05-05",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3406079",
+      "role": {
+        "lang:en": "Member of the National Assembly for Wales",
+        "lang:cy": "Aelod Cynulliad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47995095-fc28665c-46e0-64bd-acb0-32377959e7c6",
+      "person_id": "Q47995095",
+      "on_behalf_of_id": "Q832685",
+      "organization_id": "Q493517",
+      "area_id": "Q4738671",
+      "start_date": "2018-02-07",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly"
