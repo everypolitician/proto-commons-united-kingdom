@@ -1,0 +1,19 @@
+<OGRVRTDataSource>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="euro_regions">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/european_region_region.shp</SrcDataSource>
+            <SrcLayer>european_region_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="ni_country">
+            <SrcDataSource>https://osni-spatial-ni.opendata.arcgis.com/datasets/d9dfdaf77847401e81efc9471dcd09e1_0.geojson</SrcDataSource>
+            <SrcLayer>d9dfdaf77847401e81efc9471dcd09e1_0</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+</OGRVRTDataSource>
