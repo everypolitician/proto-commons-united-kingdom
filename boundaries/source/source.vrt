@@ -32,4 +32,12 @@
         <TargetSRS>EPSG:4326</TargetSRS>
     </OGRVRTWarpedLayer>
 
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="ni_westminster_constituencies">
+            <SrcDataSource>http://osni-spatial-ni.opendata.arcgis.com/datasets/563dc2ec3d9943428e3fe68966d40deb_3.geojson</SrcDataSource>
+            <SrcLayer>563dc2ec3d9943428e3fe68966d40deb_3</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
 </OGRVRTDataSource>
