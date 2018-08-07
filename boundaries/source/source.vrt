@@ -48,4 +48,12 @@
         <TargetSRS>EPSG:4326</TargetSRS>
     </OGRVRTWarpedLayer>
 
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="scot_wales_constituencies">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/scotland_and_wales_const_region.shp</SrcDataSource>
+            <SrcLayer>scotland_and_wales_const_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
 </OGRVRTDataSource>
