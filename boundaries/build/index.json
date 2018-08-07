@@ -11,9 +11,57 @@
         "comment": "Member of Parliament in the United Kingdom",
         "position_item_id": "Q16707842"
       }
+    ]
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q3336843",
+    "associations": [
+      {
+        "comment": "member of the legislative assembly of northern ireland",
+        "position_item_id": "Q3272410"
+      }
     ],
     "name_columns": {
       "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/province:nir",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q3336843",
+    "associations": [
+      {
+        "comment": "member of the scottish parliament",
+        "position_item_id": "Q1711695"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:sct",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q3336843",
+    "associations": [
+      {
+        "comment": "member of the national assembly for wales",
+        "position_item_id": "Q3406079"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:wls",
+      "column": "MS_FB"
     }
   }
 ]
