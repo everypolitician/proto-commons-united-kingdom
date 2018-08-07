@@ -58,9 +58,702 @@
     ]
   },
   {
-    "comment": "Council of Leeds City Council",
+    "comment": "council of Birmingham City Council",
+    "house_item_id": "Q55932205",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Glasgow City Council",
+    "house_item_id": "Q55934729",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Sheffield City Council",
+    "house_item_id": "Q55935300",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Sheffield City Council",
+    "house_item_id": "Q55935300",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Brighton and Hove City Council",
+    "house_item_id": "Q56006891",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Court of Common Council",
+    "house_item_id": "Q42609766",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Leeds City Council",
     "house_item_id": "Q55465119",
     "position_item_id": "Q55372701",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Birmingham City Council",
+    "house_item_id": "Q55932205",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of City of Edinburgh Council",
+    "house_item_id": "Q55934204",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Glasgow City Council",
+    "house_item_id": "Q55934729",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Belfast City Council",
+    "house_item_id": "Q55934865",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of City of Cardiff Council",
+    "house_item_id": "Q55935434",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Barking and Dagenham London Borough Council",
+    "house_item_id": "Q55935459",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Salford City Council",
+    "house_item_id": "Q55935543",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Southampton City Council",
+    "house_item_id": "Q55935708",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Bradford City Council",
+    "house_item_id": "Q55936924",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Manchester City Council",
+    "house_item_id": "Q55984160",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Liverpool City Council",
+    "house_item_id": "Q55984182",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Bristol City Council",
+    "house_item_id": "Q55984301",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Islington London Borough Council",
+    "house_item_id": "Q55984362",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Kingston upon Thames London Borough Council",
+    "house_item_id": "Q55984451",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Harrow London Borough Council",
+    "house_item_id": "Q55984834",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Stoke-on-Trent City Council",
+    "house_item_id": "Q55985891",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Plymouth City Council",
+    "house_item_id": "Q55985896",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Derby City Council",
+    "house_item_id": "Q55986002",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Sutton London Borough Council",
+    "house_item_id": "Q55986782",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Bexley London Borough Council",
+    "house_item_id": "Q55986971",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Wolverhampton City Council",
+    "house_item_id": "Q55987392",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Hull City Council",
+    "house_item_id": "Q55987515",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Kensington and Chelsea London Borough Council",
+    "house_item_id": "Q55988536",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Westminster City Council",
+    "house_item_id": "Q55988698",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Richmond upon Thames London Borough Council",
+    "house_item_id": "Q55989100",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Rotherham Metropolitan Borough Council",
+    "house_item_id": "Q55989252",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Merton London Borough Council",
+    "house_item_id": "Q55989708",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Hammersmith and Fulham London Borough Council",
+    "house_item_id": "Q55989961",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Barnet London Borough Council",
+    "house_item_id": "Q55990309",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Croydon London Borough Council",
+    "house_item_id": "Q56005992",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Newham London Borough Council",
+    "house_item_id": "Q56006121",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Ealing London Borough Council",
+    "house_item_id": "Q56006212",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Milton Keynes Council",
+    "house_item_id": "Q56006597",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Sunderland City Council",
+    "house_item_id": "Q56006976",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Newcastle City Council",
+    "house_item_id": "Q56007071",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Nottingham City Council",
+    "house_item_id": "Q56007345",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Doncaster Metropolitan Borough Council",
+    "house_item_id": "Q56007630",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Enfield London Borough Council",
+    "house_item_id": "Q56007676",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Leicester City Council",
+    "house_item_id": "Q56007809",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Bromley London Borough Council",
+    "house_item_id": "Q56007943",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Coventry City Council",
+    "house_item_id": "Q56007955",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Wakefield Metropolitan District Council",
+    "house_item_id": "Q56007976",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Brent London Borough Council",
+    "house_item_id": "Q56008172",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Camden London Borough Council",
+    "house_item_id": "Q56008431",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Havering London Borough Council",
+    "house_item_id": "Q56008455",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Hounslow London Borough Council",
+    "house_item_id": "Q56008458",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Haringey London Borough Council",
+    "house_item_id": "Q56008462",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Waltham Forest London Borough Council",
+    "house_item_id": "Q56008464",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Hackney London Borough Council",
+    "house_item_id": "Q56008467",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Greenwich London Borough Council",
+    "house_item_id": "Q56008473",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Lewisham London Borough Council",
+    "house_item_id": "Q56008474",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Redbridge London Borough Council",
+    "house_item_id": "Q56008475",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Hillingdon London Borough Council",
+    "house_item_id": "Q56008478",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Tower Hamlets London Borough Council",
+    "house_item_id": "Q56008483",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Southwark London Borough Council",
+    "house_item_id": "Q56008486",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Wandsworth London Borough Council",
+    "house_item_id": "Q56008490",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Lambeth London Borough Council",
+    "house_item_id": "Q56008493",
+    "position_item_id": null,
     "terms": [
       {
         "start_date": "2018-01-01",
