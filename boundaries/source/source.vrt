@@ -16,4 +16,20 @@
         <TargetSRS>EPSG:4326</TargetSRS>
     </OGRVRTWarpedLayer>
 
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="gb_westminster_constituencies">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/westminster_const_region.shp</SrcDataSource>
+            <SrcLayer>westminster_const_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="ni_westminster_constituencies">
+            <SrcDataSource>http://osni-spatial-ni.opendata.arcgis.com/datasets/563dc2ec3d9943428e3fe68966d40deb_3.geojson</SrcDataSource>
+            <SrcLayer>563dc2ec3d9943428e3fe68966d40deb_3</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
 </OGRVRTDataSource>
