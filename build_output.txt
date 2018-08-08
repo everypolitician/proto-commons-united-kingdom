@@ -664,7 +664,6 @@ WARNING: the district Hampstead and Kilburn (Q3337350) wasn't found in the bound
 WARNING: the district Ilford North (Q3336954) wasn't found in the boundary data for position Member of Parliament in the United Kingdom (Q16707842)
 WARNING: the district Brighton Pavilion (Q1070099) wasn't found in the boundary data for position Member of Parliament in the United Kingdom (Q16707842)
 WARNING: Position Member of the House of Lords (Q18952564) not in boundary associated_wikidata_positions
-WARNING: Position Member of the Scottish Parliament (Q1711695) not in boundary associated_wikidata_positions
 WARNING: the district Hamilton, Larkhall and Stonehouse (Q1573419) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
 WARNING: the district South Scotland (Q1749544) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
 WARNING: the district Midlothian North and Musselburgh (Q1932000) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
@@ -801,8 +800,6 @@ WARNING: the district Glasgow Anniesland (Q1529483) wasn't found in the boundary
 WARNING: the district Glasgow Maryhill and Springburn (Q1529515) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
 WARNING: the district Cunninghame North (Q1144044) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
 WARNING: the district Lothian (Q1871077) wasn't found in the boundary data for position Member of the Scottish Parliament (Q1711695)
-WARNING: Position Member of the Legislative Assembly of Northern Ireland (Q3272410) not in boundary associated_wikidata_positions
-WARNING: Position Member of the National Assembly for Wales (Q3406079) not in boundary associated_wikidata_positions
 WARNING: the district Bridgend (Q4966526) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Ynys Môn (Q8054067) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Cardiff Central (Q5038385) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
