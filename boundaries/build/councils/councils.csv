@@ -1,0 +1,62 @@
+NAME,CODE,AREA_CODE,DESCRIPTIO,FILE_NAME,MS_FB_PARE,MS_FB,WIKIDATA
+City of Kingston upon Hull,E06000010,UTA,Unitary Authority,CITY_OF_KINGSTON_UPON_HULL_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000010,Q21885987
+City of Derby,E06000015,UTA,Unitary Authority,CITY_OF_DERBY_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000015,Q21885980
+City of Leicester,E06000016,UTA,Unitary Authority,CITY_OF_LEICESTER_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000016,Q21683242
+City of Nottingham,E06000018,UTA,Unitary Authority,CITY_OF_NOTTINGHAM_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000018,Q21885994
+City of Stoke-on-Trent,E06000021,UTA,Unitary Authority,CITY_OF_STOKE-ON-TRENT_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000021,Q21891722
+City of Bristol,E06000023,UTA,Unitary Authority,CITY_OF_BRISTOL_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000023,Q21693433
+City of Plymouth,E06000026,UTA,Unitary Authority,CITY_OF_PLYMOUTH_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000026,Q21674890
+Milton Keynes,E06000042,UTA,Unitary Authority,MILTON_KEYNES_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000042,Q894090
+The City of Brighton and Hove,E06000043,UTA,Unitary Authority,THE_CITY_OF_BRIGHTON_AND_HOVE_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000043,Q1022488
+City of Southampton,E06000045,UTA,Unitary Authority,CITY_OF_SOUTHAMPTON_(B),country:gb/country:eng,country:gb/country:eng/uta:e06000045,Q21683230
+Manchester District,E08000003,MTD,Metropolitan District,MANCHESTER_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000003,Q21525592
+Salford District,E08000006,MTD,Metropolitan District,SALFORD_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000006,Q1142118
+Liverpool District,E08000012,MTD,Metropolitan District,LIVERPOOL_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000012,Q21665571
+Doncaster District,E08000017,MTD,Metropolitan District,DONCASTER_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000017,Q1925846
+Rotherham District,E08000018,MTD,Metropolitan District,ROTHERHAM_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000018,Q1878732
+Sheffield District,E08000019,MTD,Metropolitan District,SHEFFIELD_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000019,Q12956644
+Newcastle upon Tyne District,E08000021,MTD,Metropolitan District,NEWCASTLE_UPON_TYNE_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000021,Q21012735
+Sunderland District,E08000024,MTD,Metropolitan District,SUNDERLAND_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000024,Q1280897
+Birmingham District,E08000025,MTD,Metropolitan District,BIRMINGHAM_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000025,Q20986424
+Coventry District,E08000026,MTD,Metropolitan District,COVENTRY_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000026,Q20986417
+City of Wolverhampton District,E08000031,MTD,Metropolitan District,CITY_OF_WOLVERHAMPTON_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000031,Q21885975
+Bradford District,E08000032,MTD,Metropolitan District,BRADFORD_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000032,Q2834810
+Leeds District,E08000035,MTD,Metropolitan District,LEEDS_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000035,Q774015
+Wakefield District,E08000036,MTD,Metropolitan District,WAKEFIELD_DISTRICT_(B),country:gb/country:eng,country:gb/country:eng/mtd:e08000036,Q763171
+City and County of the City of London,E09000001,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000001,Q23311
+Barking and Dagenham London Borough,E09000002,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000002,Q205358
+Barnet London Borough,E09000003,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000003,Q151048
+Bexley London Borough,E09000004,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000004,Q207208
+Brent London Borough,E09000005,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000005,Q207201
+Bromley London Borough,E09000006,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000006,Q208201
+Camden London Borough,E09000007,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000007,Q202088
+Croydon London Borough,E09000008,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000008,Q26888
+Ealing London Borough,E09000009,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000009,Q207218
+Enfield London Borough,E09000010,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000010,Q210531
+Greenwich London Borough,E09000011,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000011,Q693450
+Hackney London Borough,E09000012,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000012,Q205679
+Hammersmith and Fulham London Borough,E09000013,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000013,Q40478
+Haringey London Borough,E09000014,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000014,Q213560
+Harrow London Borough,E09000015,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000015,Q210476
+Havering London Borough,E09000016,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000016,Q215038
+Hillingdon London Borough,E09000017,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000017,Q205690
+Hounslow London Borough,E09000018,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000018,Q214162
+Islington London Borough,E09000019,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000019,Q205817
+Kensington and Chelsea London Borough,E09000020,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000020,Q188801
+Kingston upon Thames London Borough,E09000021,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000021,Q32508
+Lambeth London Borough,E09000022,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000022,Q202059
+Lewisham London Borough,E09000023,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000023,Q215030
+Merton London Borough,E09000024,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000024,Q32504
+Newham London Borough,E09000025,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000025,Q208139
+Redbridge London Borough,E09000026,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000026,Q208955
+Richmond upon Thames London Borough,E09000027,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000027,Q32515
+Southwark London Borough,E09000028,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000028,Q730706
+Sutton London Borough,E09000029,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000029,Q320378
+Tower Hamlets London Borough,E09000030,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000030,Q208152
+Waltham Forest London Borough,E09000031,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000031,Q40608
+Wandsworth London Borough,E09000032,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000032,Q210563
+City of Westminster London Borough,E09000033,LBO,London Borough,GREATER_LONDON_AUTHORITY,country:gb/country:eng,country:gb/country:eng/lbo:e09000033,Q179351
+Belfast,N09000003,LGD,Local Government District,BELFAST,country:gb/province:nir,country:gb/province:nir/lgd:n09000003,Q1140130
+City of Edinburgh,S12000036,UTA,Unitary Authority,CITY_OF_EDINBURGH,country:gb/country:sct,country:gb/country:sct/uta:s12000036,Q2379199
+Glasgow City,S12000046,UTA,Unitary Authority,GLASGOW_CITY,country:gb/country:sct,country:gb/country:sct/uta:s12000046,Q55934339
+Caerdydd - Cardiff,W06000015,UTA,Unitary Authority,CAERDYDD_-_CARDIFF,country:gb/country:wls,country:gb/country:wls/uta:w06000015,Q24342199
