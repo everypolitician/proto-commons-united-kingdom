@@ -1,4 +1,3 @@
-WARNING: Position Member of Parliament in the United Kingdom (Q16707842) not in boundary associated_wikidata_positions
 WARNING: the district Hackney North and Stoke Newington (Q3138286) wasn't found in the boundary data for position Member of Parliament in the United Kingdom (Q16707842)
 WARNING: the district Telford (Q987980) wasn't found in the boundary data for position Member of Parliament in the United Kingdom (Q16707842)
 WARNING: the district Wythenshawe and Sale East (Q750690) wasn't found in the boundary data for position Member of Parliament in the United Kingdom (Q16707842)
@@ -837,6 +836,7 @@ WARNING: the district Blaenau Gwent (Q4923797) wasn't found in the boundary data
 WARNING: the district South Wales Central (Q7568764) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Carmarthen West and South Pembrokeshire (Q5043210) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Vale of Clwyd (Q7909529) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
+WARNING: the district Alyn and Deeside (Q4738671) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district South Wales West (Q7568795) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Alyn and Deeside (Q4738671) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Alyn and Deeside (Q4738671) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
@@ -869,8 +869,6 @@ WARNING: the district Montgomeryshire (Q4243314) wasn't found in the boundary da
 WARNING: the district South Wales West (Q7568795) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Cardiff South and Penarth (Q5038472) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
 WARNING: the district Rhondda (Q7321386) wasn't found in the boundary data for position Member of the National Assembly for Wales (Q3406079)
-WARNING: Position Prime Minister of the United Kingdom (Q14211) not in boundary associated_wikidata_positions
-WARNING: the district United Kingdom (Q145) wasn't found in the boundary data for position Prime Minister of the United Kingdom (Q14211)
 WARNING: Position First Minister of Northern Ireland (Q22979263) not in boundary associated_wikidata_positions
 WARNING: Position deputy First Minister (Q23729452) not in boundary associated_wikidata_positions
 WARNING: Position First Minister of Scotland (Q1362216) not in boundary associated_wikidata_positions

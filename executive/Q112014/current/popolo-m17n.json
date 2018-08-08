@@ -52,7 +52,31 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211",
+        "Q16707842"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
