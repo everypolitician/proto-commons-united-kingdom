@@ -11,7 +11,10 @@
         "comment": "Member of Parliament in the United Kingdom",
         "position_item_id": "Q16707842"
       }
-    ]
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    }
   },
   {
     "directory": "flacs",
