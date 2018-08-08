@@ -203,6 +203,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Telford"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "LucyAllanForTelford"
@@ -11786,6 +11791,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Ribble"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "seema.kennedy.conservative"
@@ -13472,6 +13482,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Royston Smith"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "roystonsmithsoton"
@@ -13767,6 +13782,11 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Marie Rimmer"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De St Helens ac Whiston"
       },
       "facebook" : {
         "type" : "literal",
@@ -26640,6 +26660,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Stockport"
       }
     }, {
       "party" : {
@@ -30622,6 +30647,11 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Damien Moore"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Southport"
       },
       "facebook" : {
         "type" : "literal",
@@ -47429,6 +47459,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Stretford ac Urmston"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "kate.green.773"
@@ -50881,6 +50916,11 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Stalybridge a Hyde"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "JonathanreynoldsMP"
@@ -51171,6 +51211,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd St Helens"
       },
       "facebook" : {
         "type" : "literal",
@@ -52460,6 +52505,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "The Wrekin"
       }
     }, {
       "party" : {
@@ -56633,6 +56683,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tatton"
       }
     }, {
       "party" : {
@@ -63837,6 +63892,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Chris Leslie"
       },
       "facebook" : {
         "type" : "literal",
