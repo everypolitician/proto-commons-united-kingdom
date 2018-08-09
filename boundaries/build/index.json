@@ -131,5 +131,18 @@
     "name_columns": {
       "lang:en": "NAME_WIKI"
     }
+  },
+  {
+    "directory": "wales-constituencies",
+    "area_type_wikidata_item_id": "Q44710774",
+    "associations": [
+      {
+        "comment": "Member of the National Assembly for Wales",
+        "position_item_id": "Q3406079"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_WIKI"
+    }
   }
 ]
