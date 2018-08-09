@@ -6,7 +6,55 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q26",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q22979263",
+        "Q23729452"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Northern Ireland"
+      },
+      "parent_id": "Q145"
+    }
   ],
   "memberships": [
 
