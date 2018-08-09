@@ -79,5 +79,18 @@
     "name_columns": {
       "lang:en": "NAME"
     }
+  },
+  {
+    "directory": "scotland-parliament-regions",
+    "area_type_wikidata_item_id": "Q7437892",
+    "associations": [
+      {
+        "comment": "Member of the Scottish Parliament",
+        "position_item_id": "Q1711695"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    }
   }
 ]
