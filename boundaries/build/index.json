@@ -6,10 +6,6 @@
       {
         "comment": "Prime Minister of the United Kingdom",
         "position_item_id": "Q14211"
-      },
-      {
-        "comment": "Member of Parliament in the United Kingdom",
-        "position_item_id": "Q16707842"
       }
     ],
     "name_columns": {
@@ -21,8 +17,12 @@
     "area_type_wikidata_item_id": "Q3336843",
     "associations": [
       {
-        "comment": "member of the legislative assembly of northern ireland",
-        "position_item_id": "Q3272410"
+        "comment": "First Minister of Northern Ireland",
+        "position_item_id": "Q22979263"
+      },
+      {
+        "comment": "deputy First Minster of Northern Ireland",
+        "position_item_id": "Q23729452"
       }
     ],
     "name_columns": {
@@ -38,8 +38,8 @@
     "area_type_wikidata_item_id": "Q3336843",
     "associations": [
       {
-        "comment": "member of the scottish parliament",
-        "position_item_id": "Q1711695"
+        "comment": "First Minister of Scotland",
+        "position_item_id": "Q1362216"
       }
     ],
     "name_columns": {
@@ -55,8 +55,8 @@
     "area_type_wikidata_item_id": "Q3336843",
     "associations": [
       {
-        "comment": "member of the national assembly for wales",
-        "position_item_id": "Q3406079"
+        "comment": "First Minister of Wales",
+        "position_item_id": "Q18996"
       }
     ],
     "name_columns": {
