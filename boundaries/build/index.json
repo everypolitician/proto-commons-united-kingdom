@@ -94,8 +94,8 @@
     }
   },
   {
-    "directory": "wales-constituencies",
-    "area_type_wikidata_item_id": "Q44710774",
+    "directory": "wales-regions",
+    "area_type_wikidata_item_id": "Q44710480",
     "associations": [
       {
         "comment": "Member of the National Assembly for Wales",
