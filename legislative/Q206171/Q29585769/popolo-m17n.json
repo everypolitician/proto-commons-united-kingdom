@@ -2114,7 +2114,238 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1053991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spr:central-scotland"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1053991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Central Scotland"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1529479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spr:glasgow"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1529479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1549306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spr:highlands-and-islands"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1549306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Highlands and Islands"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1647853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spr:north-east-scotland"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1647853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "North East Scotland"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1749544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spr:south-scotland"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1749544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "South Scotland"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1871077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spr:lothian"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1871077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Lothian"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1931762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spr:mid-scotland-and-fife"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1931762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Mid Scotland and Fife"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q22",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1362216"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Scotland"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q2564353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spr:west-scotland"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2564353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "West Scotland"
+      },
+      "parent_id": "Q22"
+    }
   ],
   "memberships": [
     {
