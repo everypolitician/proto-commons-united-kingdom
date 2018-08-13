@@ -1103,7 +1103,169 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q25",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18996"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Wales"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q6841063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/war:mid-and-west-wales"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6841063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Electoral region of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Mid and West Wales"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7057143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/war:north-wales"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7057143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Electoral region of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "North Wales"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7568764",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/war:south-wales-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7568764"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Electoral region of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "South Wales Central"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7568768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/war:south-wales-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7568768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Electoral region of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "South Wales East"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7568795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/war:south-wales-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7568795"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Electoral region of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "South Wales West"
+      },
+      "parent_id": "Q25"
+    }
   ],
   "memberships": [
     {
