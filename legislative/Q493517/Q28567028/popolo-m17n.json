@@ -1104,6 +1104,29 @@
   ],
   "areas": [
     {
+      "id": "Q13128697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13128697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Clwyd West"
+      },
+      "parent_id": "Q25"
+    },
+    {
       "id": "Q145",
       "identifiers": [
         {
@@ -1152,6 +1175,558 @@
       "parent_id": "Q145"
     },
     {
+      "id": "Q4243314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4243314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Montgomeryshire"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q4666775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Aberavon"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q4666807",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4666807"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Aberconwy"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q4738671",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4738671"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Alyn and Deeside"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q4789158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4789158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Arfon"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q4923797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000038"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4923797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Blaenau Gwent"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q4960088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000041"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4960088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Brecon and Radnorshire"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q4966526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4966526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Bridgend"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5016924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5016924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Caerphilly"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5038385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5038385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Cardiff Central"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5038453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000042"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5038453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Cardiff North"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5038472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000043"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5038472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Cardiff South and Penarth"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5038486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000029"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5038486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Cardiff West"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5043201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5043201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Carmarthen East and Dinefwr"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5043210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5043210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Carmarthen West and South Pembrokeshire"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5064122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5064122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Ceredigion"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5136797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5136797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Clwyd South"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5199989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5199989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Cynon Valley"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5254972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5254972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Delyn"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5318359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5318359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Dwyfor Meirionnydd"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q5590043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5590043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Gower"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q6084441",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6084441"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Islwyn"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q6661286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6661286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Llanelli"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q6820690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000044"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6820690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Merthyr Tydfil and Rhymney"
+      },
+      "parent_id": "Q25"
+    },
+    {
       "id": "Q6841063",
       "identifiers": [
         {
@@ -1175,6 +1750,98 @@
       "parent_id": "Q25"
     },
     {
+      "id": "Q6901044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6901044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Monmouth"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q6984487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6984487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Neath"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7018848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000040"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7018848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Newport East"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7019054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000039"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7019054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Newport West"
+      },
+      "parent_id": "Q25"
+    },
+    {
       "id": "Q7057143",
       "identifiers": [
         {
@@ -1194,6 +1861,98 @@
       },
       "name": {
         "lang:en": "North Wales"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7080136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000045"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7080136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Ogmore"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7228415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7228415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Pontypridd"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7240912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7240912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Preseli Pembrokeshire"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7321386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7321386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Rhondda"
       },
       "parent_id": "Q25"
     },
@@ -1263,6 +2022,167 @@
       },
       "name": {
         "lang:en": "South Wales West"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7653683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000020"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7653683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Swansea East"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7653727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7653727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Swansea West"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7825685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000037"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7825685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Torfaen"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7909529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7909529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Vale of Clwyd"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q7909545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000047"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7909545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Vale of Glamorgan"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q8038114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8038114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Wrexham"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q8054067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/wac:w09000001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8054067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3406079"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Welsh Assembly"
+      },
+      "name": {
+        "lang:en": "Ynys Môn"
       },
       "parent_id": "Q25"
     }
