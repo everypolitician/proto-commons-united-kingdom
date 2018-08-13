@@ -6,7 +6,469 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q15241246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15241246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Lagan Valley"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q26",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q22979263",
+        "Q23729452"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Northern Ireland"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q4882274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4882274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Belfast East"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q4882308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4882308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Belfast North"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q4882329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4882329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Belfast South"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q4882350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4882350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Belfast West"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q5327714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5327714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "East Antrim"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q5328872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5328872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "East Londonderry"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q5444367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5444367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Fermanagh and South Tyrone"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q5477379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5477379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Foyle"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q6841031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6841031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Mid Ulster"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q7019151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7019151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Newry and Armagh"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q7053953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7053953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "North Antrim"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q7055150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7055150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "North Down"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q7565994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7565994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "South Antrim"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q7567069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7567069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "South Down"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q7621629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7621629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Strangford"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q7898475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7898475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "Upper Bann"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q7986717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/niac:n06000018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7986717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3272410"
+      ],
+      "type": {
+        "lang:en": "constituency of the Northern Ireland Assembly"
+      },
+      "name": {
+        "lang:en": "West Tyrone"
+      },
+      "parent_id": "Q26"
+    }
   ],
   "memberships": [
 
