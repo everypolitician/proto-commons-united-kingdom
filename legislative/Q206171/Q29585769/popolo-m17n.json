@@ -2115,6 +2115,52 @@
   ],
   "areas": [
     {
+      "id": "Q1022403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000090"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1022403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Clydesdale"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1026011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000086"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1026011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Caithness, Sutherland and Ross"
+      },
+      "parent_id": "Q22"
+    },
+    {
       "id": "Q1053991",
       "identifiers": [
         {
@@ -2134,6 +2180,535 @@
       },
       "name": {
         "lang:en": "Central Scotland"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1094628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000088"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1094628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Clackmannanshire and Dunblane"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1103746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000089"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1103746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Clydebank and Milngavie"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1104440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000091"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1104440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Coatbridge and Chryston"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1138189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000092"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1138189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Cowdenbeath"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1143732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000093"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1143732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Cumbernauld and Kilsyth"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1144044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000094"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1144044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Cunninghame North"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1144052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000095"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1144052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Cunninghame South"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q124813",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q124813"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Perthshire North"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1248274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1248274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Orkney"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1265524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000099"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1265524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Dundee City West"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1265528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000098"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1265528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Dundee City East"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1265614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1265614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Dunfermline"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1277940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1277940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "East Lothian"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1278307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1278307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Eastwood"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1284729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Edinburgh Eastern"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1284756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Edinburgh Northern and Leith"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1284757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Edinburgh Pentlands"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1284768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Edinburgh Western"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1371899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1371899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Ettrick, Roxburgh and Berwickshire"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1392204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1392204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Kirkcaldy"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1394345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1394345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Falkirk East"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1394351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1394351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Falkirk West"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1396337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1396337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Inverness and Nairn"
       },
       "parent_id": "Q22"
     },
@@ -2162,6 +2737,75 @@
       "parent_id": null
     },
     {
+      "id": "Q1458360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1458360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow Cathcart"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1492567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1492567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Galloway and West Dumfries"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1512696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1512696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Perthshire South and Kinross-shire"
+      },
+      "parent_id": "Q22"
+    },
+    {
       "id": "Q1529479",
       "identifiers": [
         {
@@ -2181,6 +2825,167 @@
       },
       "name": {
         "lang:en": "Glasgow"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1529483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1529483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow Anniesland"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1529510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1529510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow Kelvin"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1529515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1529515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow Maryhill and Springburn"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1529523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1529523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow Pollok"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1529525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1529525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow Provan"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1529535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1529535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow Shettleston"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1544755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1544755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Greenock and Inverclyde"
       },
       "parent_id": "Q22"
     },
@@ -2208,6 +3013,98 @@
       "parent_id": "Q22"
     },
     {
+      "id": "Q1569402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1569402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Linlithgow"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1573419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1573419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Hamilton, Larkhall and Stonehouse"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1589906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000080"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1589906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Almond Valley"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1623093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1623093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Uddingston and Bellshill"
+      },
+      "parent_id": "Q22"
+    },
+    {
       "id": "Q1647853",
       "identifiers": [
         {
@@ -2231,6 +3128,52 @@
       "parent_id": "Q22"
     },
     {
+      "id": "Q1719129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000096"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1719129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Dumbarton"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1741403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1741403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Kilmarnock and Irvine Valley"
+      },
+      "parent_id": "Q22"
+    },
+    {
       "id": "Q1749544",
       "identifiers": [
         {
@@ -2250,6 +3193,52 @@
       },
       "name": {
         "lang:en": "South Scotland"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q178524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q178524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Glasgow Southside"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1799307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1799307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Moray"
       },
       "parent_id": "Q22"
     },
@@ -2300,6 +3289,167 @@
       "parent_id": "Q22"
     },
     {
+      "id": "Q1931997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1931997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Midlothian South, Tweeddale and Lauderdale"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1932000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1932000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Midlothian North and Musselburgh"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1949654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1949654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Motherwell and Wishaw"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q1961874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1961874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Na h-Eileanan an Iar"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q2046519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2046519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Paisley"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q2143939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2143939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Renfrewshire South"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q2177847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2177847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Rutherglen"
+      },
+      "parent_id": "Q22"
+    },
+    {
       "id": "Q22",
       "identifiers": [
         {
@@ -2324,6 +3474,98 @@
       "parent_id": "Q145"
     },
     {
+      "id": "Q2278508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2278508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Shetland"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q2293327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2293327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Skye, Lochaber and Badenoch"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q2350325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2350325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Stirling"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q2353886",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2353886"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Strathkelvin and Bearsden"
+      },
+      "parent_id": "Q22"
+    },
+    {
       "id": "Q2564353",
       "identifiers": [
         {
@@ -2343,6 +3585,443 @@
       },
       "name": {
         "lang:en": "West Scotland"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q287509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000097"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q287509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Dumfriesshire"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q319474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000074"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q319474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Aberdeen Central"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q319480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000075"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q319480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Aberdeen Donside"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q319507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000076"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q319507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Aberdeen South and North Kincardine"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q319516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000077"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q319516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Aberdeenshire East"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q319521",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000078"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q319521"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Aberdeenshire West"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q408547",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000079"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q408547"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Airdrie and Shotts"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q477746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q477746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "East Kilbride"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q5338259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5338259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Edinburgh Southern"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q544582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000081"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q544582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Angus North and Mearns"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q544610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000082"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q544610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Angus South"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q597563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q597563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Edinburgh Central"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q652587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000083"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q652587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Argyll and Bute"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q793213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000084"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q793213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Ayr"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q806431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000085"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q806431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Banffshire and Buchan Coast"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q914974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q914974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "North East Fife"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q925833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000087"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q925833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Carrick, Cumnock and Doon Valley"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q959590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q959590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Renfrewshire North and West"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q999244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/spc:s16000129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q999244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1711695"
+      ],
+      "type": {
+        "lang:en": "region or constituency of the Scottish Parliament"
+      },
+      "name": {
+        "lang:en": "Mid Fife and Glenrothes"
       },
       "parent_id": "Q22"
     }
