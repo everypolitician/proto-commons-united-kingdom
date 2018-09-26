@@ -18,6 +18,22 @@
     },
     {
       "name": {
+        "lang:en": "Helen Mary Jones",
+        "lang:cy": "Helen Mary Jones"
+      },
+      "id": "Q11001680",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11001680"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Carwyn Jones",
         "lang:cy": "Carwyn Jones"
       },
@@ -2195,6 +2211,23 @@
       "organization_id": "Q493517",
       "area_id": "Q7321386",
       "start_date": "2016-05-05",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3406079",
+      "role": {
+        "lang:en": "Member of the National Assembly for Wales",
+        "lang:cy": "Aelod Cynulliad"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11001680-b53f4fbf-4195-7ac7-ba59-5780e5d3153a",
+      "person_id": "Q11001680",
+      "on_behalf_of_id": "Q10691",
+      "organization_id": "Q493517",
+      "area_id": "Q6841063",
+      "start_date": "2018-08-02",
       "role_superclass_code": "Q5230427",
       "role_superclass": {
         "lang:en": "member of a legislative assembly"

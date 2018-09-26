@@ -1,0 +1,69 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Martin Winter"
+      },
+      "id": "Q6776904",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6776904"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "cabinet of Doncaster City Council"
+      },
+      "id": "Q56708972",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708972"
+        }
+      ],
+      "area_id": "Q1925846"
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:cy": "Y Blaid Lafur"
+      },
+      "id": "Q9630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9630"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6776904-5242F768-79F3-479D-BC05-34486F79FFBF",
+      "person_id": "Q6776904",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q56708972",
+      "area_id": "Q1925846",
+      "role_superclass_code": "Q6797698",
+      "role_superclass": {
+        "lang:en": "Mayor of Doncaster"
+      },
+      "role_code": "Q6797698",
+      "role": {
+        "lang:en": "Mayor of Doncaster"
+      }
+    }
+  ]
+}

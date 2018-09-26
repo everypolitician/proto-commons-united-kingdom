@@ -1,0 +1,69 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Steve Bullock"
+      },
+      "id": "Q7612088",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7612088"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "mayor's cabinet, Lewisham borough council"
+      },
+      "id": "Q56708936",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708936"
+        }
+      ],
+      "area_id": "Q215030"
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:cy": "Y Blaid Lafur"
+      },
+      "id": "Q9630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9630"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7612088-DE7E50AF-059A-4B0F-9EE6-641C04813541",
+      "person_id": "Q7612088",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q56708936",
+      "area_id": "Q215030",
+      "role_superclass_code": "Q5280482",
+      "role_superclass": {
+        "lang:en": "Mayor of Lewisham"
+      },
+      "role_code": "Q5280482",
+      "role": {
+        "lang:en": "Mayor of Lewisham"
+      }
+    }
+  ]
+}
