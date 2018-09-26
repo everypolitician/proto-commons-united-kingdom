@@ -4,60 +4,74 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6221877-4A2F7806-D8F7-468D-934C-B8F9C17A227A"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6221877"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Biggs"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9630"
-      },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Y Blaid Lafur"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Labour Party"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6221877"
+      "party_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Blaid Lafur"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q208152"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Tower Hamlets"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "London Borough of Tower Hamlets"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tower Hamlets"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17015787"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17015787"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Tower Hamlets"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mayor of Tower Hamlets"
       },
-      "name_en" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-06-12T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "John Biggs"
+        "value" : "mayor"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "maer"
       },
       "org" : {
         "type" : "uri",
@@ -68,18 +82,9 @@
         "type" : "literal",
         "value" : "cabinet of Tower Hamlets borough council"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6221877-4A2F7806-D8F7-468D-934C-B8F9C17A227A"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q208152"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-06-12T00:00:00Z"
       }
     } ]
   }

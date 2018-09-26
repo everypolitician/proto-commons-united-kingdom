@@ -1,0 +1,3828 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_en", "position_name_cy", "positionType", "adminAreaTypes", "adminArea", "admin_area_en", "admin_area_cy", "positionSuperclass", "position_superclass_en", "position_superclass_cy", "body", "body_en", "body_cy" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1362216"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "First Minister of Scotland"
+      },
+      "position_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Prif Weinidog yr Alban"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scotland"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Yr Alban"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "prif weinidog"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24083746"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Second Sturgeon government"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16707842"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Parliament"
+      },
+      "position_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod Seneddol, y Deyrnas Unedig"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Deyrnas Unedig"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod Seneddol"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11005"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Commons"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Cyffredin"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1711695"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Scottish Parliament"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scotland"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Yr Alban"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod Seneddol"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q206171"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scottish Parliament"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Senedd yr Alban"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "position_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod o'r Tŷ Cyffredin"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Deyrnas Unedig"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "deddfwr"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22979263"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "First Minister of Northern Ireland"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Ireland"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Iwerddon"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "prif weinidog"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2665914"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Ireland Executive"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Adran Weithredol Gogledd Iwerddon"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23729452"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy First Minister"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Ireland"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Iwerddon"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "prif weinidog"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2665914"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Ireland Executive"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Adran Weithredol Gogledd Iwerddon"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3272410"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Legislative Assembly of Northern Ireland"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Ireland"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Iwerddon"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q285714"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Ireland Assembly"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cynulliad Gogledd Iwerddon"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3406079"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
+      },
+      "position_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod Cynulliad"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wales"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cymru"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q493517"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cynulliad Cenedlaethol Cymru"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55372701"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Leeds City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q774015"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leeds"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55465119"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Leeds City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010418"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Belfast City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140130"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belfast district"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55934865"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Belfast City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010419"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Camden London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202088"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Camden"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Camden"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008431"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Camden London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010420"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Havering London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215038"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Havering"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Havering"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008455"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Havering London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010421"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Hounslow London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214162"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Hounslow"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hounslow"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008458"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Hounslow London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010422"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Haringey London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213560"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Haringey"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Haringey"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008462"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Haringey London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010423"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Waltham Forest London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40608"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Waltham Forest"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Waltham Forest"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008464"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Waltham Forest London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010425"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Hackney London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q205679"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Hackney"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hackney"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008467"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Hackney London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010426"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Greenwich London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q693450"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Royal Borough of Greenwich"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Greenwich"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008473"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Greenwich London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010427"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Lewisham London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215030"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Lewisham"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lewisham"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008474"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Lewisham London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010429"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Redbridge London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208955"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Redbridge"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Redbridge"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008475"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Redbridge London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010430"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Hillingdon London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q205690"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Hillingdon"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hillingdon"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008478"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Hillingdon London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010431"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Tower Hamlets London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208152"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Tower Hamlets"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tower Hamlets"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008483"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Tower Hamlets London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010432"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Southwark London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q730706"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Southwark"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Southwark"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008486"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Southwark London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010433"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Wandsworth London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q210563"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Wandsworth"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wandsworth"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008490"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Wandsworth London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010434"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Lambeth London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202059"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Lambeth"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lambeth"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008493"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Lambeth London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010436"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Brent London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207201"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Brent"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Brent"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56008172"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Brent London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010437"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Bromley London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208201"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Bromley"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bromley"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56007943"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Bromley London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010438"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Enfield London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q210531"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Enfield"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Enfield"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56007676"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Enfield London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010440"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Ealing London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207218"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Ealing"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ealing"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56006212"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Ealing London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010441"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Newham London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208139"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Newham"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Newham"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56006121"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Newham London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010442"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Croydon London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26888"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Croydon"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Croydon"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56005992"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Croydon London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010443"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Barnet London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q151048"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Barnet"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Barnet"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55990309"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Barnet London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010444"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Hammersmith and Fulham London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40478"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Hammersmith and Fulham"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hammersmith a Fulham"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55989961"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Hammersmith and Fulham London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010445"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Merton London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32504"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Merton"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Merton"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55989708"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Merton London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010446"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Richmond upon Thames London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32515"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Richmond upon Thames"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Richmond upon Thames"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55989100"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Richmond upon Thames London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010447"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Westminster City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q179351"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Westminster"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dinas Westminster"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55988698"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Westminster City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010448"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Kensington and Chelsea London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q188801"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Royal Borough of Kensington and Chelsea"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kensington a Chelsea"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55988536"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Kensington and Chelsea London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010451"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Bexley London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207208"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Bexley"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bexley"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55986971"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Bexley London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010452"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Sutton London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q320378"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Sutton"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sutton"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55986782"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Sutton London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010453"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Harrow London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q210476"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Harrow"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Harrow"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55984834"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Harrow London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010454"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Kingston upon Thames London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32508"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Royal Borough of Kingston upon Thames"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kingston upon Thames"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55984451"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Kingston upon Thames London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010455"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Islington London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q205817"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Islington"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Islington"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55984362"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Islington London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010456"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Common Councilman of the City of London"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23311"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of London"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dinas Llundain"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42609766"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Court of Common Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010457"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Barking and Dagenham London Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q205358"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London Borough of Barking and Dagenham"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Barking a Dagenham"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55935459"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Barking and Dagenham London Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010458"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Birmingham City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20986424"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Birmingham"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55932205"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Birmingham City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010459"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Salford City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1142118"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Salford"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55935543"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Salford City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010462"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Wolverhampton City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21885975"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Wolverhampton"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55987392"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Wolverhampton City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010463"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Rotherham Metropolitan Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1878732"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rotherham"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55989252"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Rotherham Metropolitan Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010464"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Sunderland City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1280897"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Sunderland"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dinas Sunderland"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56006976"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Sunderland City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010465"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Newcastle City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21012735"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newcastle upon Tyne"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56007071"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Newcastle City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010466"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Doncaster Metropolitan Borough Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1925846"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Doncaster"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56007630"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Doncaster Metropolitan Borough Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010467"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Coventry City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20986417"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coventry"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56007955"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Coventry City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010468"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Wakefield Metropolitan District Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q763171"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wakefield"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56007976"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Wakefield Metropolitan District Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010469"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Liverpool City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21665571"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liverpool"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55984182"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Liverpool City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010470"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Manchester City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21525592"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manchester"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55984160"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Manchester City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010474"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Bradford City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2834810"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bradford"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55936924"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Bradford City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010475"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Sheffield City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12956644"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sheffield"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55935300"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Sheffield City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010476"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of City of Edinburgh Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2379199"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Edinburgh"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55934204"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of City of Edinburgh Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010477"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Glasgow City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55934339"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Glasgow City"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55934729"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Glasgow City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010478"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of City of Cardiff Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24342199"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City and County of Cardiff"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dinas a Sir Caerdydd"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55935434"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of City of Cardiff Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010479"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Southampton City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21683230"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Southampton"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55935708"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Southampton City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010480"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Stoke-on-Trent City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21891722"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Stoke-on-Trent"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55985891"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Stoke-on-Trent City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010481"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Plymouth City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21674890"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Plymouth"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55985896"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Plymouth City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010483"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Derby City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21885980"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Derby"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55986002"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Derby City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010486"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Hull City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21885987"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Kingston upon Hull"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55987515"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Hull City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010487"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Milton Keynes Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q894090"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Milton Keynes"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56006597"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Milton Keynes Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010488"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Brighton and Hove City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q515 Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1022488"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brighton and Hove"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Brighton a Hove"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56006891"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Brighton and Hove City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010489"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Nottingham City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21885994"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Nottingham"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56007345"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Nottingham City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010490"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Leicester City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21683242"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Leicester"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56007809"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Leicester City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56010491"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of Bristol City Council"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21693433"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Bristol"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "cynghorydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55984301"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "council of Bristol City Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q73341"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of London"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q24238356"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23311"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of London"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dinas Llundain"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11902879"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Arglwydd Maer"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1094147"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of London Corporation"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Corfforaeth Dinas Llundain"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14211"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of the United Kingdom"
+      },
+      "position_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Prif Weinidog y Deyrnas Unedig"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Deyrnas Unedig"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "prif weinidog"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112014"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of the United Kingdom"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cabinet y Deyrnas Unedig"
+      }
+    } ]
+  }
+}

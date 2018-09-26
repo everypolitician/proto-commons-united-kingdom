@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q467112-81362a61-419c-4899-f829-7ac6b437ac12"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q467112"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicola Sturgeon"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Nicola Sturgeon"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10658"
-      },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Plaid Genedlaethol yr Alban"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Scottish National Party"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q467112"
+      "party_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Plaid Genedlaethol yr Alban"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Yr Alban"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Scotland"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Yr Alban"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1362216"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1362216"
-      },
-      "role_superclass_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Prif Weinidog yr Alban"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "First Minister of Scotland"
@@ -59,15 +64,24 @@
         "type" : "literal",
         "value" : "Prif Weinidog yr Alban"
       },
-      "role_en" : {
-        "xml:lang" : "en",
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "First Minister of Scotland"
+        "value" : "2014-11-20T00:00:00Z"
       },
-      "name_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nicola Sturgeon"
+        "value" : "prime minister"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "prif weinidog"
       },
       "org" : {
         "type" : "uri",
@@ -78,23 +92,9 @@
         "type" : "literal",
         "value" : "Cabinet of Scotland"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q467112-81362a61-419c-4899-f829-7ac6b437ac12"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2014-11-20T00:00:00Z"
-      },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Nicola Sturgeon"
       }
     } ]
   }
