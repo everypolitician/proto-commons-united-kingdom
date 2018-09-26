@@ -91,17 +91,6 @@
     ]
   },
   {
-    "comment": "council of Sheffield City Council",
-    "house_item_id": "Q55935300",
-    "position_item_id": "Q56010475",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "council of Brighton and Hove City Council",
     "house_item_id": "Q56006891",
     "position_item_id": "Q56010488",
@@ -109,6 +98,28 @@
       {
         "comment": "2015– session of Brighton and Hove City Council",
         "term_item_id": "Q56023520"
+      }
+    ]
+  },
+  {
+    "comment": "council of Nottingham City Council",
+    "house_item_id": "Q56007345",
+    "position_item_id": "Q56010489",
+    "terms": [
+      {
+        "comment": "2015– session of Nottingham City Council",
+        "term_item_id": "Q56023521"
+      }
+    ]
+  },
+  {
+    "comment": "Nottingham City Council",
+    "house_item_id": "Q7063612",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -175,6 +186,17 @@
       {
         "comment": "2014– session of Belfast City Council",
         "term_item_id": "Q56023471"
+      }
+    ]
+  },
+  {
+    "comment": "council of Sheffield City Council",
+    "house_item_id": "Q55935300",
+    "position_item_id": "Q56010475",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
