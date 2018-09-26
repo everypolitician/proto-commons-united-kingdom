@@ -1,0 +1,60 @@
+WARNING: no seat count found for the legislature council of Glasgow City Council
+WARNING: no seat count found for the legislature council of Sheffield City Council
+WARNING: no seat count found for the legislature council of Brighton and Hove City Council
+WARNING: no seat count found for the legislature council of Nottingham City Council
+WARNING: no seat count found for the legislature Court of Common Council
+WARNING: no seat count found for the legislature council of City of Edinburgh Council
+WARNING: no seat count found for the legislature council of Glasgow City Council
+WARNING: no seat count found for the legislature council of Belfast City Council
+WARNING: no seat count found for the legislature council of Sheffield City Council
+WARNING: no seat count found for the legislature council of City of Cardiff Council
+WARNING: no seat count found for the legislature council of Barking and Dagenham London Borough Council
+WARNING: no seat count found for the legislature council of Salford City Council
+WARNING: no seat count found for the legislature council of Southampton City Council
+WARNING: no seat count found for the legislature council of Bradford City Council
+WARNING: no seat count found for the legislature council of Liverpool City Council
+WARNING: no seat count found for the legislature council of Islington London Borough Council
+WARNING: no seat count found for the legislature council of Kingston upon Thames London Borough Council
+WARNING: no seat count found for the legislature council of Harrow London Borough Council
+WARNING: no seat count found for the legislature council of Stoke-on-Trent City Council
+WARNING: no seat count found for the legislature council of Plymouth City Council
+WARNING: no seat count found for the legislature council of Derby City Council
+WARNING: no seat count found for the legislature council of Sutton London Borough Council
+WARNING: no seat count found for the legislature council of Bexley London Borough Council
+WARNING: no seat count found for the legislature council of Wolverhampton City Council
+WARNING: no seat count found for the legislature council of Hull City Council
+WARNING: no seat count found for the legislature council of Kensington and Chelsea London Borough Council
+WARNING: no seat count found for the legislature council of Westminster City Council
+WARNING: no seat count found for the legislature council of Richmond upon Thames London Borough Council
+WARNING: no seat count found for the legislature council of Rotherham Metropolitan Borough Council
+WARNING: no seat count found for the legislature council of Merton London Borough Council
+WARNING: no seat count found for the legislature council of Hammersmith and Fulham London Borough Council
+WARNING: no seat count found for the legislature council of Barnet London Borough Council
+WARNING: no seat count found for the legislature council of Croydon London Borough Council
+WARNING: no seat count found for the legislature council of Newham London Borough Council
+WARNING: no seat count found for the legislature council of Ealing London Borough Council
+WARNING: no seat count found for the legislature council of Milton Keynes Council
+WARNING: no seat count found for the legislature council of Sunderland City Council
+WARNING: no seat count found for the legislature council of Newcastle City Council
+WARNING: no seat count found for the legislature council of Nottingham City Council
+WARNING: no seat count found for the legislature council of Doncaster Metropolitan Borough Council
+WARNING: no seat count found for the legislature council of Enfield London Borough Council
+WARNING: no seat count found for the legislature council of Leicester City Council
+WARNING: no seat count found for the legislature council of Bromley London Borough Council
+WARNING: no seat count found for the legislature council of Coventry City Council
+WARNING: no seat count found for the legislature council of Wakefield Metropolitan District Council
+WARNING: no seat count found for the legislature council of Brent London Borough Council
+WARNING: no seat count found for the legislature council of Camden London Borough Council
+WARNING: no seat count found for the legislature council of Havering London Borough Council
+WARNING: no seat count found for the legislature council of Hounslow London Borough Council
+WARNING: no seat count found for the legislature council of Haringey London Borough Council
+WARNING: no seat count found for the legislature council of Waltham Forest London Borough Council
+WARNING: no seat count found for the legislature council of Hackney London Borough Council
+WARNING: no seat count found for the legislature council of Greenwich London Borough Council
+WARNING: no seat count found for the legislature council of Lewisham London Borough Council
+WARNING: no seat count found for the legislature council of Redbridge London Borough Council
+WARNING: no seat count found for the legislature council of Hillingdon London Borough Council
+WARNING: no seat count found for the legislature council of Tower Hamlets London Borough Council
+WARNING: no seat count found for the legislature council of Southwark London Borough Council
+WARNING: no seat count found for the legislature council of Wandsworth London Borough Council
+WARNING: no seat count found for the legislature council of Lambeth London Borough Council

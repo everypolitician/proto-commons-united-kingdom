@@ -2,6 +2,8 @@
   {
     "comment": "House of Commons",
     "house_item_id": "Q11005",
+    "seat_count": "650",
+    "area_id": "Q145",
     "position_item_id": "Q16707842",
     "terms": [
       {
@@ -14,6 +16,8 @@
   {
     "comment": "House of Lords",
     "house_item_id": "Q11007",
+    "seat_count": "808",
+    "area_id": "Q145",
     "position_item_id": "Q18952564",
     "terms": [
       {
@@ -25,6 +29,8 @@
   {
     "comment": "Scottish Parliament",
     "house_item_id": "Q206171",
+    "seat_count": "129",
+    "area_id": "Q22",
     "position_item_id": "Q1711695",
     "terms": [
       {
@@ -37,85 +43,9 @@
   {
     "comment": "Northern Ireland Assembly",
     "house_item_id": "Q285714",
+    "seat_count": "90",
+    "area_id": "Q26",
     "position_item_id": "Q3272410",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "National Assembly for Wales",
-    "house_item_id": "Q493517",
-    "position_item_id": "Q3406079",
-    "terms": [
-      {
-        "comment": "5th Welsh Assembly",
-        "position_item_id": "Q42310659",
-        "term_item_id": "Q28567028"
-      }
-    ]
-  },
-  {
-    "comment": "council of Birmingham City Council",
-    "house_item_id": "Q55932205",
-    "position_item_id": "Q56010458",
-    "terms": [
-      {
-        "comment": "2018– session of Birmingham City Council",
-        "term_item_id": "Q56023512"
-      }
-    ]
-  },
-  {
-    "comment": "council of Glasgow City Council",
-    "house_item_id": "Q55934729",
-    "position_item_id": "Q56010477",
-    "terms": [
-      {
-        "comment": "2017– session of Glasgow City Council",
-        "term_item_id": "Q56023517"
-      }
-    ]
-  },
-  {
-    "comment": "council of Sheffield City Council",
-    "house_item_id": "Q55935300",
-    "position_item_id": "Q56010475",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "council of Brighton and Hove City Council",
-    "house_item_id": "Q56006891",
-    "position_item_id": "Q56010488",
-    "terms": [
-      {
-        "comment": "2015– session of Brighton and Hove City Council",
-        "term_item_id": "Q56023520"
-      }
-    ]
-  },
-  {
-    "comment": "council of Nottingham City Council",
-    "house_item_id": "Q56007345",
-    "position_item_id": "Q56010489",
-    "terms": [
-      {
-        "comment": "2015– session of Nottingham City Council",
-        "term_item_id": "Q56023521"
-      }
-    ]
-  },
-  {
-    "comment": "Nottingham City Council",
-    "house_item_id": "Q7063612",
-    "position_item_id": null,
     "terms": [
       {
         "start_date": "2018-01-01",
@@ -126,6 +56,8 @@
   {
     "comment": "Court of Common Council",
     "house_item_id": "Q42609766",
+    "seat_count": null,
+    "area_id": "Q23311",
     "position_item_id": "Q56010456",
     "terms": [
       {
@@ -135,8 +67,24 @@
     ]
   },
   {
+    "comment": "National Assembly for Wales",
+    "house_item_id": "Q493517",
+    "seat_count": "60",
+    "area_id": "Q25",
+    "position_item_id": "Q3406079",
+    "terms": [
+      {
+        "comment": "5th Welsh Assembly",
+        "position_item_id": "Q42310659",
+        "term_item_id": "Q28567028"
+      }
+    ]
+  },
+  {
     "comment": "council of Leeds City Council",
     "house_item_id": "Q55465119",
+    "seat_count": "99",
+    "area_id": "Q774015",
     "position_item_id": "Q55372701",
     "terms": [
       {
@@ -148,6 +96,21 @@
   {
     "comment": "council of Birmingham City Council",
     "house_item_id": "Q55932205",
+    "seat_count": "101",
+    "area_id": "Q2256",
+    "position_item_id": "Q56010458",
+    "terms": [
+      {
+        "comment": "2018– session of Birmingham City Council",
+        "term_item_id": "Q56023512"
+      }
+    ]
+  },
+  {
+    "comment": "council of Birmingham City Council",
+    "house_item_id": "Q55932205",
+    "seat_count": "101",
+    "area_id": "Q20986424",
     "position_item_id": "Q56010458",
     "terms": [
       {
@@ -159,6 +122,8 @@
   {
     "comment": "council of City of Edinburgh Council",
     "house_item_id": "Q55934204",
+    "seat_count": null,
+    "area_id": "Q2379199",
     "position_item_id": "Q56010476",
     "terms": [
       {
@@ -170,6 +135,21 @@
   {
     "comment": "council of Glasgow City Council",
     "house_item_id": "Q55934729",
+    "seat_count": null,
+    "area_id": "Q4093",
+    "position_item_id": "Q56010477",
+    "terms": [
+      {
+        "comment": "2017– session of Glasgow City Council",
+        "term_item_id": "Q56023517"
+      }
+    ]
+  },
+  {
+    "comment": "council of Glasgow City Council",
+    "house_item_id": "Q55934729",
+    "seat_count": null,
+    "area_id": "Q55934339",
     "position_item_id": "Q56010477",
     "terms": [
       {
@@ -181,6 +161,8 @@
   {
     "comment": "council of Belfast City Council",
     "house_item_id": "Q55934865",
+    "seat_count": null,
+    "area_id": "Q1140130",
     "position_item_id": "Q56010418",
     "terms": [
       {
@@ -192,6 +174,21 @@
   {
     "comment": "council of Sheffield City Council",
     "house_item_id": "Q55935300",
+    "seat_count": null,
+    "area_id": "Q42448",
+    "position_item_id": "Q56010475",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "council of Sheffield City Council",
+    "house_item_id": "Q55935300",
+    "seat_count": null,
+    "area_id": "Q12956644",
     "position_item_id": "Q56010475",
     "terms": [
       {
@@ -203,6 +200,8 @@
   {
     "comment": "council of City of Cardiff Council",
     "house_item_id": "Q55935434",
+    "seat_count": null,
+    "area_id": "Q24342199",
     "position_item_id": "Q56010478",
     "terms": [
       {
@@ -214,6 +213,8 @@
   {
     "comment": "council of Barking and Dagenham London Borough Council",
     "house_item_id": "Q55935459",
+    "seat_count": null,
+    "area_id": "Q205358",
     "position_item_id": "Q56010457",
     "terms": [
       {
@@ -225,6 +226,8 @@
   {
     "comment": "council of Salford City Council",
     "house_item_id": "Q55935543",
+    "seat_count": null,
+    "area_id": "Q1142118",
     "position_item_id": "Q56010459",
     "terms": [
       {
@@ -236,6 +239,8 @@
   {
     "comment": "council of Southampton City Council",
     "house_item_id": "Q55935708",
+    "seat_count": null,
+    "area_id": "Q21683230",
     "position_item_id": "Q56010479",
     "terms": [
       {
@@ -247,6 +252,8 @@
   {
     "comment": "council of Bradford City Council",
     "house_item_id": "Q55936924",
+    "seat_count": null,
+    "area_id": "Q2834810",
     "position_item_id": "Q56010474",
     "terms": [
       {
@@ -258,6 +265,8 @@
   {
     "comment": "council of Manchester City Council",
     "house_item_id": "Q55984160",
+    "seat_count": "96",
+    "area_id": "Q21525592",
     "position_item_id": "Q56010470",
     "terms": [
       {
@@ -269,6 +278,8 @@
   {
     "comment": "council of Liverpool City Council",
     "house_item_id": "Q55984182",
+    "seat_count": null,
+    "area_id": "Q21665571",
     "position_item_id": "Q56010469",
     "terms": [
       {
@@ -280,6 +291,8 @@
   {
     "comment": "council of Bristol City Council",
     "house_item_id": "Q55984301",
+    "seat_count": "70",
+    "area_id": "Q21693433",
     "position_item_id": "Q56010491",
     "terms": [
       {
@@ -291,6 +304,8 @@
   {
     "comment": "council of Islington London Borough Council",
     "house_item_id": "Q55984362",
+    "seat_count": null,
+    "area_id": "Q205817",
     "position_item_id": "Q56010455",
     "terms": [
       {
@@ -302,6 +317,8 @@
   {
     "comment": "council of Kingston upon Thames London Borough Council",
     "house_item_id": "Q55984451",
+    "seat_count": null,
+    "area_id": "Q32508",
     "position_item_id": "Q56010454",
     "terms": [
       {
@@ -313,6 +330,8 @@
   {
     "comment": "council of Harrow London Borough Council",
     "house_item_id": "Q55984834",
+    "seat_count": null,
+    "area_id": "Q210476",
     "position_item_id": "Q56010453",
     "terms": [
       {
@@ -324,6 +343,8 @@
   {
     "comment": "council of Stoke-on-Trent City Council",
     "house_item_id": "Q55985891",
+    "seat_count": null,
+    "area_id": "Q21891722",
     "position_item_id": "Q56010480",
     "terms": [
       {
@@ -335,6 +356,8 @@
   {
     "comment": "council of Plymouth City Council",
     "house_item_id": "Q55985896",
+    "seat_count": null,
+    "area_id": "Q21674890",
     "position_item_id": "Q56010481",
     "terms": [
       {
@@ -346,6 +369,8 @@
   {
     "comment": "council of Derby City Council",
     "house_item_id": "Q55986002",
+    "seat_count": null,
+    "area_id": "Q21885980",
     "position_item_id": "Q56010483",
     "terms": [
       {
@@ -357,6 +382,8 @@
   {
     "comment": "council of Sutton London Borough Council",
     "house_item_id": "Q55986782",
+    "seat_count": null,
+    "area_id": "Q320378",
     "position_item_id": "Q56010452",
     "terms": [
       {
@@ -368,6 +395,8 @@
   {
     "comment": "council of Bexley London Borough Council",
     "house_item_id": "Q55986971",
+    "seat_count": null,
+    "area_id": "Q207208",
     "position_item_id": "Q56010451",
     "terms": [
       {
@@ -379,6 +408,8 @@
   {
     "comment": "council of Wolverhampton City Council",
     "house_item_id": "Q55987392",
+    "seat_count": null,
+    "area_id": "Q21885975",
     "position_item_id": "Q56010462",
     "terms": [
       {
@@ -390,6 +421,8 @@
   {
     "comment": "council of Hull City Council",
     "house_item_id": "Q55987515",
+    "seat_count": null,
+    "area_id": "Q21885987",
     "position_item_id": "Q56010486",
     "terms": [
       {
@@ -401,6 +434,8 @@
   {
     "comment": "council of Kensington and Chelsea London Borough Council",
     "house_item_id": "Q55988536",
+    "seat_count": null,
+    "area_id": "Q188801",
     "position_item_id": "Q56010448",
     "terms": [
       {
@@ -412,6 +447,8 @@
   {
     "comment": "council of Westminster City Council",
     "house_item_id": "Q55988698",
+    "seat_count": null,
+    "area_id": "Q179351",
     "position_item_id": "Q56010447",
     "terms": [
       {
@@ -423,6 +460,8 @@
   {
     "comment": "council of Richmond upon Thames London Borough Council",
     "house_item_id": "Q55989100",
+    "seat_count": null,
+    "area_id": "Q32515",
     "position_item_id": "Q56010446",
     "terms": [
       {
@@ -434,6 +473,8 @@
   {
     "comment": "council of Rotherham Metropolitan Borough Council",
     "house_item_id": "Q55989252",
+    "seat_count": null,
+    "area_id": "Q1878732",
     "position_item_id": "Q56010463",
     "terms": [
       {
@@ -445,6 +486,8 @@
   {
     "comment": "council of Merton London Borough Council",
     "house_item_id": "Q55989708",
+    "seat_count": null,
+    "area_id": "Q32504",
     "position_item_id": "Q56010445",
     "terms": [
       {
@@ -456,6 +499,8 @@
   {
     "comment": "council of Hammersmith and Fulham London Borough Council",
     "house_item_id": "Q55989961",
+    "seat_count": null,
+    "area_id": "Q40478",
     "position_item_id": "Q56010444",
     "terms": [
       {
@@ -467,6 +512,8 @@
   {
     "comment": "council of Barnet London Borough Council",
     "house_item_id": "Q55990309",
+    "seat_count": null,
+    "area_id": "Q151048",
     "position_item_id": "Q56010443",
     "terms": [
       {
@@ -478,6 +525,8 @@
   {
     "comment": "council of Croydon London Borough Council",
     "house_item_id": "Q56005992",
+    "seat_count": null,
+    "area_id": "Q26888",
     "position_item_id": "Q56010442",
     "terms": [
       {
@@ -489,6 +538,8 @@
   {
     "comment": "council of Newham London Borough Council",
     "house_item_id": "Q56006121",
+    "seat_count": null,
+    "area_id": "Q208139",
     "position_item_id": "Q56010441",
     "terms": [
       {
@@ -500,6 +551,8 @@
   {
     "comment": "council of Ealing London Borough Council",
     "house_item_id": "Q56006212",
+    "seat_count": null,
+    "area_id": "Q207218",
     "position_item_id": "Q56010440",
     "terms": [
       {
@@ -511,6 +564,8 @@
   {
     "comment": "council of Milton Keynes Council",
     "house_item_id": "Q56006597",
+    "seat_count": null,
+    "area_id": "Q894090",
     "position_item_id": "Q56010487",
     "terms": [
       {
@@ -520,8 +575,23 @@
     ]
   },
   {
+    "comment": "council of Brighton and Hove City Council",
+    "house_item_id": "Q56006891",
+    "seat_count": null,
+    "area_id": "Q1022488",
+    "position_item_id": "Q56010488",
+    "terms": [
+      {
+        "comment": "2015– session of Brighton and Hove City Council",
+        "term_item_id": "Q56023520"
+      }
+    ]
+  },
+  {
     "comment": "council of Sunderland City Council",
     "house_item_id": "Q56006976",
+    "seat_count": null,
+    "area_id": "Q1280897",
     "position_item_id": "Q56010464",
     "terms": [
       {
@@ -533,6 +603,8 @@
   {
     "comment": "council of Newcastle City Council",
     "house_item_id": "Q56007071",
+    "seat_count": null,
+    "area_id": "Q21012735",
     "position_item_id": "Q56010465",
     "terms": [
       {
@@ -544,6 +616,21 @@
   {
     "comment": "council of Nottingham City Council",
     "house_item_id": "Q56007345",
+    "seat_count": null,
+    "area_id": "Q41262",
+    "position_item_id": "Q56010489",
+    "terms": [
+      {
+        "comment": "2015– session of Nottingham City Council",
+        "term_item_id": "Q56023521"
+      }
+    ]
+  },
+  {
+    "comment": "council of Nottingham City Council",
+    "house_item_id": "Q56007345",
+    "seat_count": null,
+    "area_id": "Q21885994",
     "position_item_id": "Q56010489",
     "terms": [
       {
@@ -555,6 +642,8 @@
   {
     "comment": "council of Doncaster Metropolitan Borough Council",
     "house_item_id": "Q56007630",
+    "seat_count": null,
+    "area_id": "Q1925846",
     "position_item_id": "Q56010466",
     "terms": [
       {
@@ -566,6 +655,8 @@
   {
     "comment": "council of Enfield London Borough Council",
     "house_item_id": "Q56007676",
+    "seat_count": null,
+    "area_id": "Q210531",
     "position_item_id": "Q56010438",
     "terms": [
       {
@@ -577,6 +668,8 @@
   {
     "comment": "council of Leicester City Council",
     "house_item_id": "Q56007809",
+    "seat_count": null,
+    "area_id": "Q21683242",
     "position_item_id": "Q56010490",
     "terms": [
       {
@@ -588,6 +681,8 @@
   {
     "comment": "council of Bromley London Borough Council",
     "house_item_id": "Q56007943",
+    "seat_count": null,
+    "area_id": "Q208201",
     "position_item_id": "Q56010437",
     "terms": [
       {
@@ -599,6 +694,8 @@
   {
     "comment": "council of Coventry City Council",
     "house_item_id": "Q56007955",
+    "seat_count": null,
+    "area_id": "Q20986417",
     "position_item_id": "Q56010467",
     "terms": [
       {
@@ -610,6 +707,8 @@
   {
     "comment": "council of Wakefield Metropolitan District Council",
     "house_item_id": "Q56007976",
+    "seat_count": null,
+    "area_id": "Q763171",
     "position_item_id": "Q56010468",
     "terms": [
       {
@@ -621,6 +720,8 @@
   {
     "comment": "council of Brent London Borough Council",
     "house_item_id": "Q56008172",
+    "seat_count": null,
+    "area_id": "Q207201",
     "position_item_id": "Q56010436",
     "terms": [
       {
@@ -632,6 +733,8 @@
   {
     "comment": "council of Camden London Borough Council",
     "house_item_id": "Q56008431",
+    "seat_count": null,
+    "area_id": "Q202088",
     "position_item_id": "Q56010419",
     "terms": [
       {
@@ -643,6 +746,8 @@
   {
     "comment": "council of Havering London Borough Council",
     "house_item_id": "Q56008455",
+    "seat_count": null,
+    "area_id": "Q215038",
     "position_item_id": "Q56010420",
     "terms": [
       {
@@ -654,6 +759,8 @@
   {
     "comment": "council of Hounslow London Borough Council",
     "house_item_id": "Q56008458",
+    "seat_count": null,
+    "area_id": "Q214162",
     "position_item_id": "Q56010421",
     "terms": [
       {
@@ -665,6 +772,8 @@
   {
     "comment": "council of Haringey London Borough Council",
     "house_item_id": "Q56008462",
+    "seat_count": null,
+    "area_id": "Q213560",
     "position_item_id": "Q56010422",
     "terms": [
       {
@@ -676,6 +785,8 @@
   {
     "comment": "council of Waltham Forest London Borough Council",
     "house_item_id": "Q56008464",
+    "seat_count": null,
+    "area_id": "Q40608",
     "position_item_id": "Q56010423",
     "terms": [
       {
@@ -687,6 +798,8 @@
   {
     "comment": "council of Hackney London Borough Council",
     "house_item_id": "Q56008467",
+    "seat_count": null,
+    "area_id": "Q205679",
     "position_item_id": "Q56010425",
     "terms": [
       {
@@ -698,6 +811,8 @@
   {
     "comment": "council of Greenwich London Borough Council",
     "house_item_id": "Q56008473",
+    "seat_count": null,
+    "area_id": "Q693450",
     "position_item_id": "Q56010426",
     "terms": [
       {
@@ -709,6 +824,8 @@
   {
     "comment": "council of Lewisham London Borough Council",
     "house_item_id": "Q56008474",
+    "seat_count": null,
+    "area_id": "Q215030",
     "position_item_id": "Q56010427",
     "terms": [
       {
@@ -720,6 +837,8 @@
   {
     "comment": "council of Redbridge London Borough Council",
     "house_item_id": "Q56008475",
+    "seat_count": null,
+    "area_id": "Q208955",
     "position_item_id": "Q56010429",
     "terms": [
       {
@@ -731,6 +850,8 @@
   {
     "comment": "council of Hillingdon London Borough Council",
     "house_item_id": "Q56008478",
+    "seat_count": null,
+    "area_id": "Q205690",
     "position_item_id": "Q56010430",
     "terms": [
       {
@@ -742,6 +863,8 @@
   {
     "comment": "council of Tower Hamlets London Borough Council",
     "house_item_id": "Q56008483",
+    "seat_count": null,
+    "area_id": "Q208152",
     "position_item_id": "Q56010431",
     "terms": [
       {
@@ -753,6 +876,8 @@
   {
     "comment": "council of Southwark London Borough Council",
     "house_item_id": "Q56008486",
+    "seat_count": null,
+    "area_id": "Q730706",
     "position_item_id": "Q56010432",
     "terms": [
       {
@@ -764,6 +889,8 @@
   {
     "comment": "council of Wandsworth London Borough Council",
     "house_item_id": "Q56008490",
+    "seat_count": null,
+    "area_id": "Q210563",
     "position_item_id": "Q56010433",
     "terms": [
       {
@@ -775,6 +902,8 @@
   {
     "comment": "council of Lambeth London Borough Council",
     "house_item_id": "Q56008493",
+    "seat_count": null,
+    "area_id": "Q202059",
     "position_item_id": "Q56010434",
     "terms": [
       {
