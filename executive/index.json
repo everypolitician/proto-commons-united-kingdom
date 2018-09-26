@@ -1,6 +1,7 @@
 [
   {
     "comment": "Cabinet of the United Kingdom",
+    "area_id": "Q145",
     "executive_item_id": "Q112014",
     "positions": [
       {
@@ -10,19 +11,25 @@
     ]
   },
   {
-    "comment": "Northern Ireland Executive",
-    "executive_item_id": "Q2665914",
+    "comment": "Greater London Authority",
+    "area_id": "Q84",
+    "executive_item_id": "Q1135166",
     "positions": [
       {
-        "comment": "First Minister of Northern Ireland",
-        "position_item_id": "Q22979263"
+        "comment": "Mayor of London",
+        "position_item_id": "Q38931"
       }
     ]
   },
   {
     "comment": "Northern Ireland Executive",
+    "area_id": "Q26",
     "executive_item_id": "Q2665914",
     "positions": [
+      {
+        "comment": "First Minister of Northern Ireland",
+        "position_item_id": "Q22979263"
+      },
       {
         "comment": "deputy First Minister",
         "position_item_id": "Q23729452"
@@ -31,6 +38,7 @@
   },
   {
     "comment": "Cabinet of Scotland",
+    "area_id": "Q22",
     "executive_item_id": "Q32859621",
     "positions": [
       {
@@ -41,6 +49,7 @@
   },
   {
     "comment": "Cabinet of Wales",
+    "area_id": "Q25",
     "executive_item_id": "Q32859630",
     "positions": [
       {
@@ -50,27 +59,8 @@
     ]
   },
   {
-    "comment": "Greater London Authority",
-    "executive_item_id": "Q1135166",
-    "positions": [
-      {
-        "comment": "Mayor of London",
-        "position_item_id": "Q38931"
-      }
-    ]
-  },
-  {
-    "comment": "executive of Brighton and Hove City Council",
-    "executive_item_id": "Q56708990",
-    "positions": [
-      {
-        "comment": "leader of Brighton and Hove City Council",
-        "position_item_id": "Q56708872"
-      }
-    ]
-  },
-  {
     "comment": "Executive Board of Leeds City Council",
+    "area_id": "Q774015",
     "executive_item_id": "Q56707470",
     "positions": [
       {
@@ -81,6 +71,7 @@
   },
   {
     "comment": "executive of Belfast City Council",
+    "area_id": "Q1140130",
     "executive_item_id": "Q56708927",
     "positions": [
       {
@@ -91,6 +82,7 @@
   },
   {
     "comment": "cabinet of Camden borough council",
+    "area_id": "Q202088",
     "executive_item_id": "Q56708928",
     "positions": [
       {
@@ -101,6 +93,7 @@
   },
   {
     "comment": "cabinet of Havering borough council",
+    "area_id": "Q215038",
     "executive_item_id": "Q56708929",
     "positions": [
       {
@@ -111,6 +104,7 @@
   },
   {
     "comment": "cabinet of Hounslow borough council",
+    "area_id": "Q214162",
     "executive_item_id": "Q56708931",
     "positions": [
       {
@@ -121,6 +115,7 @@
   },
   {
     "comment": "cabinet of Haringey borough council",
+    "area_id": "Q213560",
     "executive_item_id": "Q56708932",
     "positions": [
       {
@@ -131,6 +126,7 @@
   },
   {
     "comment": "cabinet of Waltham Forest borough council",
+    "area_id": "Q40608",
     "executive_item_id": "Q56708933",
     "positions": [
       {
@@ -141,6 +137,7 @@
   },
   {
     "comment": "cabinet of Hackney borough council",
+    "area_id": "Q205679",
     "executive_item_id": "Q56708934",
     "positions": [
       {
@@ -151,6 +148,7 @@
   },
   {
     "comment": "cabinet of Greenwich borough council",
+    "area_id": "Q693450",
     "executive_item_id": "Q56708935",
     "positions": [
       {
@@ -161,6 +159,7 @@
   },
   {
     "comment": "mayor's cabinet, Lewisham borough council",
+    "area_id": "Q215030",
     "executive_item_id": "Q56708936",
     "positions": [
       {
@@ -171,6 +170,7 @@
   },
   {
     "comment": "cabinet of Redbridge borough council",
+    "area_id": "Q208955",
     "executive_item_id": "Q56708938",
     "positions": [
       {
@@ -181,6 +181,7 @@
   },
   {
     "comment": "cabinet of Hillingdon borough council",
+    "area_id": "Q205690",
     "executive_item_id": "Q56708939",
     "positions": [
       {
@@ -191,6 +192,7 @@
   },
   {
     "comment": "cabinet of Tower Hamlets borough council",
+    "area_id": "Q208152",
     "executive_item_id": "Q56708940",
     "positions": [
       {
@@ -201,6 +203,7 @@
   },
   {
     "comment": "cabinet of Southwark borough council",
+    "area_id": "Q730706",
     "executive_item_id": "Q56708941",
     "positions": [
       {
@@ -211,6 +214,7 @@
   },
   {
     "comment": "cabinet of Wandsworth borough council",
+    "area_id": "Q210563",
     "executive_item_id": "Q56708943",
     "positions": [
       {
@@ -221,6 +225,7 @@
   },
   {
     "comment": "cabinet of Lambeth borough council",
+    "area_id": "Q202059",
     "executive_item_id": "Q56708944",
     "positions": [
       {
@@ -231,6 +236,7 @@
   },
   {
     "comment": "cabinet of Brent borough council",
+    "area_id": "Q207201",
     "executive_item_id": "Q56708945",
     "positions": [
       {
@@ -241,6 +247,7 @@
   },
   {
     "comment": "executive of Bromley borough council",
+    "area_id": "Q208201",
     "executive_item_id": "Q56708946",
     "positions": [
       {
@@ -251,6 +258,7 @@
   },
   {
     "comment": "cabinet of Enfield borough council",
+    "area_id": "Q210531",
     "executive_item_id": "Q56708947",
     "positions": [
       {
@@ -261,6 +269,7 @@
   },
   {
     "comment": "cabinet of Ealing borough council",
+    "area_id": "Q207218",
     "executive_item_id": "Q56708949",
     "positions": [
       {
@@ -271,6 +280,7 @@
   },
   {
     "comment": "cabinet of Newham borough council",
+    "area_id": "Q208139",
     "executive_item_id": "Q56708950",
     "positions": [
       {
@@ -281,6 +291,7 @@
   },
   {
     "comment": "cabinet of Croydon borough council",
+    "area_id": "Q26888",
     "executive_item_id": "Q56708951",
     "positions": [
       {
@@ -291,6 +302,7 @@
   },
   {
     "comment": "cabinet of Barnet borough council",
+    "area_id": "Q151048",
     "executive_item_id": "Q56708952",
     "positions": [
       {
@@ -301,6 +313,7 @@
   },
   {
     "comment": "cabinet of Hammersmith and Fulham borough council",
+    "area_id": "Q40478",
     "executive_item_id": "Q56708953",
     "positions": [
       {
@@ -311,6 +324,7 @@
   },
   {
     "comment": "cabinet of Merton borough council",
+    "area_id": "Q32504",
     "executive_item_id": "Q56708954",
     "positions": [
       {
@@ -321,6 +335,7 @@
   },
   {
     "comment": "cabinet of Richmond borough council",
+    "area_id": "Q32515",
     "executive_item_id": "Q56708955",
     "positions": [
       {
@@ -331,6 +346,7 @@
   },
   {
     "comment": "cabinet of City of Westminster borough council",
+    "area_id": "Q179351",
     "executive_item_id": "Q56708956",
     "positions": [
       {
@@ -341,6 +357,7 @@
   },
   {
     "comment": "leadership team of Kensington and Chelsea borough council",
+    "area_id": "Q188801",
     "executive_item_id": "Q56708957",
     "positions": [
       {
@@ -351,6 +368,7 @@
   },
   {
     "comment": "cabinet of Bexley borough council",
+    "area_id": "Q207208",
     "executive_item_id": "Q56708958",
     "positions": [
       {
@@ -361,6 +379,7 @@
   },
   {
     "comment": "executive of Sutton borough council",
+    "area_id": "Q320378",
     "executive_item_id": "Q56708959",
     "positions": [
       {
@@ -371,6 +390,7 @@
   },
   {
     "comment": "cabinet of Harrow borough council",
+    "area_id": "Q210476",
     "executive_item_id": "Q56708960",
     "positions": [
       {
@@ -381,6 +401,7 @@
   },
   {
     "comment": "executive of Islington borough council",
+    "area_id": "Q205817",
     "executive_item_id": "Q56708961",
     "positions": [
       {
@@ -391,6 +412,7 @@
   },
   {
     "comment": "cabinet of Barking and Dagenham borough council",
+    "area_id": "Q205358",
     "executive_item_id": "Q56708962",
     "positions": [
       {
@@ -401,6 +423,7 @@
   },
   {
     "comment": "executive of Birmingham City Council",
+    "area_id": "Q20986424",
     "executive_item_id": "Q56708963",
     "positions": [
       {
@@ -411,6 +434,7 @@
   },
   {
     "comment": "cabinet of Salford City Council",
+    "area_id": "Q1142118",
     "executive_item_id": "Q56708964",
     "positions": [
       {
@@ -421,6 +445,7 @@
   },
   {
     "comment": "cabinet of the City of Wolverhampton Council",
+    "area_id": "Q21885975",
     "executive_item_id": "Q56708965",
     "positions": [
       {
@@ -431,6 +456,7 @@
   },
   {
     "comment": "cabinet of Rotherham Metropolitan Borough Council",
+    "area_id": "Q1878732",
     "executive_item_id": "Q56708966",
     "positions": [
       {
@@ -441,6 +467,7 @@
   },
   {
     "comment": "cabinet of Sunderland City Council",
+    "area_id": "Q1280897",
     "executive_item_id": "Q56708970",
     "positions": [
       {
@@ -451,6 +478,7 @@
   },
   {
     "comment": "cabinet of Newcastle City Council",
+    "area_id": "Q21012735",
     "executive_item_id": "Q56708971",
     "positions": [
       {
@@ -461,6 +489,7 @@
   },
   {
     "comment": "cabinet of Doncaster City Council",
+    "area_id": "Q1925846",
     "executive_item_id": "Q56708972",
     "positions": [
       {
@@ -471,6 +500,7 @@
   },
   {
     "comment": "cabinet of Coventry City Council",
+    "area_id": "Q20986417",
     "executive_item_id": "Q56708973",
     "positions": [
       {
@@ -481,6 +511,7 @@
   },
   {
     "comment": "cabinet of Wakefield Council",
+    "area_id": "Q763171",
     "executive_item_id": "Q56708974",
     "positions": [
       {
@@ -491,6 +522,7 @@
   },
   {
     "comment": "cabinet of Liverpool City Council",
+    "area_id": "Q21665571",
     "executive_item_id": "Q56708975",
     "positions": [
       {
@@ -501,6 +533,7 @@
   },
   {
     "comment": "executive of Manchester City Council",
+    "area_id": "Q21525592",
     "executive_item_id": "Q56708976",
     "positions": [
       {
@@ -511,6 +544,7 @@
   },
   {
     "comment": "executive of Bradford Metropolitan District Council",
+    "area_id": "Q2834810",
     "executive_item_id": "Q56708977",
     "positions": [
       {
@@ -521,6 +555,7 @@
   },
   {
     "comment": "cabinet of Sheffield City Council",
+    "area_id": "Q12956644",
     "executive_item_id": "Q56708978",
     "positions": [
       {
@@ -531,6 +566,7 @@
   },
   {
     "comment": "executive of the City of Edinburgh Council",
+    "area_id": "Q2379199",
     "executive_item_id": "Q56708980",
     "positions": [
       {
@@ -541,6 +577,7 @@
   },
   {
     "comment": "executive of Glasgow City Council",
+    "area_id": "Q55934339",
     "executive_item_id": "Q56708981",
     "positions": [
       {
@@ -551,6 +588,7 @@
   },
   {
     "comment": "cabinet of Cardiff Council",
+    "area_id": "Q24342199",
     "executive_item_id": "Q56708983",
     "positions": [
       {
@@ -561,6 +599,7 @@
   },
   {
     "comment": "cabinet of Southampton City Council",
+    "area_id": "Q21683230",
     "executive_item_id": "Q56708984",
     "positions": [
       {
@@ -571,6 +610,7 @@
   },
   {
     "comment": "cabinet of Stoke-on-Trent City Council",
+    "area_id": "Q21891722",
     "executive_item_id": "Q56708985",
     "positions": [
       {
@@ -581,6 +621,7 @@
   },
   {
     "comment": "cabinet of Plymouth City Council",
+    "area_id": "Q21674890",
     "executive_item_id": "Q56708986",
     "positions": [
       {
@@ -591,6 +632,7 @@
   },
   {
     "comment": "cabinet of Derby City Council",
+    "area_id": "Q21885980",
     "executive_item_id": "Q56708987",
     "positions": [
       {
@@ -601,6 +643,7 @@
   },
   {
     "comment": "executive of Hull City Council",
+    "area_id": "Q21885987",
     "executive_item_id": "Q56708988",
     "positions": [
       {
@@ -611,6 +654,7 @@
   },
   {
     "comment": "office of the Mayor of Milton Keynes",
+    "area_id": "Q894090",
     "executive_item_id": "Q56708989",
     "positions": [
       {
@@ -620,7 +664,19 @@
     ]
   },
   {
+    "comment": "executive of Brighton and Hove City Council",
+    "area_id": "Q1022488",
+    "executive_item_id": "Q56708990",
+    "positions": [
+      {
+        "comment": "leader of Brighton and Hove City Council",
+        "position_item_id": "Q56708872"
+      }
+    ]
+  },
+  {
     "comment": "executive of Nottingham City Council",
+    "area_id": "Q21885994",
     "executive_item_id": "Q56708992",
     "positions": [
       {
@@ -631,6 +687,7 @@
   },
   {
     "comment": "office of the Mayor of Leicester",
+    "area_id": "Q21683242",
     "executive_item_id": "Q56708993",
     "positions": [
       {
@@ -641,6 +698,7 @@
   },
   {
     "comment": "office of the Mayor of Bristol",
+    "area_id": "Q21693433",
     "executive_item_id": "Q56708994",
     "positions": [
       {
