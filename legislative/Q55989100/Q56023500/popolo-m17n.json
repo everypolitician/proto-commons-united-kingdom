@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Richmond upon Thames London Borough Council"
+      },
+      "id": "Q55989100",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55989100"
+        }
+      ],
+      "area_id": "Q32515"
+    }
   ],
   "areas": [
 

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Salford City Council"
+      },
+      "id": "Q55935543",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55935543"
+        }
+      ],
+      "area_id": "Q1142118"
+    }
   ],
   "areas": [
 

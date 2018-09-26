@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Manchester City Council"
+      },
+      "id": "Q55984160",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55984160"
+        }
+      ],
+      "area_id": "Q21525592",
+      "seat_counts": {
+        "Q56010470": "96"
+      }
+    }
   ],
   "areas": [
 

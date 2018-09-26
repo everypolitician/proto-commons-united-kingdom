@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Bexley borough council"
+      },
+      "id": "Q56708958",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708958"
+        }
+      ],
+      "area_id": "Q207208"
+    }
   ],
   "areas": [
 

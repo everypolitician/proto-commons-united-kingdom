@@ -84,9 +84,10 @@
       "on_behalf_of_id": "Q6071313",
       "organization_id": "Q56708927",
       "area_id": "Q1140130",
-      "role_superclass_code": "Q6679766",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
-        "lang:en": "Lord Mayor of Belfast"
+        "lang:en": "Lord Mayor",
+        "lang:cy": "Arglwydd Maer"
       },
       "role_code": "Q6679766",
       "role": {
@@ -99,9 +100,10 @@
       "on_behalf_of_id": "Q841045",
       "organization_id": "Q56708927",
       "area_id": "Q1140130",
-      "role_superclass_code": "Q6679766",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
-        "lang:en": "Lord Mayor of Belfast"
+        "lang:en": "Lord Mayor",
+        "lang:cy": "Arglwydd Maer"
       },
       "role_code": "Q6679766",
       "role": {

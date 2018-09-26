@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Hackney borough council"
+      },
+      "id": "Q56708934",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708934"
+        }
+      ],
+      "area_id": "Q205679"
+    }
   ],
   "areas": [
 

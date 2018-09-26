@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Havering borough council"
+      },
+      "id": "Q56708929",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708929"
+        }
+      ],
+      "area_id": "Q215038"
+    }
   ],
   "areas": [
 

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Newcastle City Council"
+      },
+      "id": "Q56007071",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56007071"
+        }
+      ],
+      "area_id": "Q21012735"
+    }
   ],
   "areas": [
 

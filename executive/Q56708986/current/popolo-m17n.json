@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Plymouth City Council"
+      },
+      "id": "Q56708986",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708986"
+        }
+      ],
+      "area_id": "Q21674890"
+    }
   ],
   "areas": [
 

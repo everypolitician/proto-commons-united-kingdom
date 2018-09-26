@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "executive of Islington borough council"
+      },
+      "id": "Q56708961",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708961"
+        }
+      ],
+      "area_id": "Q205817"
+    }
   ],
   "areas": [
 

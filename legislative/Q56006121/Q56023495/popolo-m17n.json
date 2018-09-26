@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Newham London Borough Council"
+      },
+      "id": "Q56006121",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56006121"
+        }
+      ],
+      "area_id": "Q208139"
+    }
   ],
   "areas": [
 

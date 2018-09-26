@@ -1,0 +1,1221 @@
+[
+  {
+    "role_id": "Q1362216",
+    "role_name": {
+      "lang:en": "First Minister of Scotland",
+      "lang:cy": "Prif Weinidog yr Alban"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister",
+      "lang:cy": "prif weinidog"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q24083746",
+    "organization_name": {
+      "lang:en": "Second Sturgeon government"
+    }
+  },
+  {
+    "role_id": "Q16707842",
+    "role_name": {
+      "lang:en": "Member of Parliament",
+      "lang:cy": "Aelod Seneddol, y Deyrnas Unedig"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament",
+      "lang:cy": "Aelod Seneddol"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q11005",
+    "organization_name": {
+      "lang:en": "House of Commons",
+      "lang:cy": "Tŷ'r Cyffredin"
+    }
+  },
+  {
+    "role_id": "Q1711695",
+    "role_name": {
+      "lang:en": "Member of the Scottish Parliament"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament",
+      "lang:cy": "Aelod Seneddol"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q206171",
+    "organization_name": {
+      "lang:en": "Scottish Parliament",
+      "lang:cy": "Senedd yr Alban"
+    }
+  },
+  {
+    "role_id": "Q18952564",
+    "role_name": {
+      "lang:en": "Member of the House of Lords",
+      "lang:cy": "Aelod o'r Tŷ Cyffredin"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator",
+      "lang:cy": "deddfwr"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q11007",
+    "organization_name": {
+      "lang:en": "House of Lords",
+      "lang:cy": "Tŷ'r Arglwyddi"
+    }
+  },
+  {
+    "role_id": "Q22979263",
+    "role_name": {
+      "lang:en": "First Minister of Northern Ireland"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister",
+      "lang:cy": "prif weinidog"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q2665914",
+    "organization_name": {
+      "lang:en": "Northern Ireland Executive",
+      "lang:cy": "Adran Weithredol Gogledd Iwerddon"
+    }
+  },
+  {
+    "role_id": "Q23729452",
+    "role_name": {
+      "lang:en": "deputy First Minister"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister",
+      "lang:cy": "prif weinidog"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q2665914",
+    "organization_name": {
+      "lang:en": "Northern Ireland Executive",
+      "lang:cy": "Adran Weithredol Gogledd Iwerddon"
+    }
+  },
+  {
+    "role_id": "Q3272410",
+    "role_name": {
+      "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q285714",
+    "organization_name": {
+      "lang:en": "Northern Ireland Assembly",
+      "lang:cy": "Cynulliad Gogledd Iwerddon"
+    }
+  },
+  {
+    "role_id": "Q3406079",
+    "role_name": {
+      "lang:en": "Member of the National Assembly for Wales",
+      "lang:cy": "Aelod Cynulliad"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q493517",
+    "organization_name": {
+      "lang:en": "National Assembly for Wales",
+      "lang:cy": "Cynulliad Cenedlaethol Cymru"
+    }
+  },
+  {
+    "role_id": "Q55372701",
+    "role_name": {
+      "lang:en": "member of Leeds City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55465119",
+    "organization_name": {
+      "lang:en": "council of Leeds City Council"
+    }
+  },
+  {
+    "role_id": "Q56010418",
+    "role_name": {
+      "lang:en": "member of Belfast City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55934865",
+    "organization_name": {
+      "lang:en": "council of Belfast City Council"
+    }
+  },
+  {
+    "role_id": "Q56010419",
+    "role_name": {
+      "lang:en": "member of Camden London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008431",
+    "organization_name": {
+      "lang:en": "council of Camden London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010420",
+    "role_name": {
+      "lang:en": "member of Havering London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008455",
+    "organization_name": {
+      "lang:en": "council of Havering London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010421",
+    "role_name": {
+      "lang:en": "member of Hounslow London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008458",
+    "organization_name": {
+      "lang:en": "council of Hounslow London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010422",
+    "role_name": {
+      "lang:en": "member of Haringey London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008462",
+    "organization_name": {
+      "lang:en": "council of Haringey London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010423",
+    "role_name": {
+      "lang:en": "member of Waltham Forest London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008464",
+    "organization_name": {
+      "lang:en": "council of Waltham Forest London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010425",
+    "role_name": {
+      "lang:en": "member of Hackney London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008467",
+    "organization_name": {
+      "lang:en": "council of Hackney London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010426",
+    "role_name": {
+      "lang:en": "member of Greenwich London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008473",
+    "organization_name": {
+      "lang:en": "council of Greenwich London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010427",
+    "role_name": {
+      "lang:en": "member of Lewisham London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008474",
+    "organization_name": {
+      "lang:en": "council of Lewisham London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010429",
+    "role_name": {
+      "lang:en": "member of Redbridge London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008475",
+    "organization_name": {
+      "lang:en": "council of Redbridge London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010430",
+    "role_name": {
+      "lang:en": "member of Hillingdon London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008478",
+    "organization_name": {
+      "lang:en": "council of Hillingdon London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010431",
+    "role_name": {
+      "lang:en": "member of Tower Hamlets London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008483",
+    "organization_name": {
+      "lang:en": "council of Tower Hamlets London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010432",
+    "role_name": {
+      "lang:en": "member of Southwark London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008486",
+    "organization_name": {
+      "lang:en": "council of Southwark London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010433",
+    "role_name": {
+      "lang:en": "member of Wandsworth London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008490",
+    "organization_name": {
+      "lang:en": "council of Wandsworth London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010434",
+    "role_name": {
+      "lang:en": "member of Lambeth London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008493",
+    "organization_name": {
+      "lang:en": "council of Lambeth London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010436",
+    "role_name": {
+      "lang:en": "member of Brent London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56008172",
+    "organization_name": {
+      "lang:en": "council of Brent London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010437",
+    "role_name": {
+      "lang:en": "member of Bromley London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56007943",
+    "organization_name": {
+      "lang:en": "council of Bromley London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010438",
+    "role_name": {
+      "lang:en": "member of Enfield London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56007676",
+    "organization_name": {
+      "lang:en": "council of Enfield London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010440",
+    "role_name": {
+      "lang:en": "member of Ealing London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56006212",
+    "organization_name": {
+      "lang:en": "council of Ealing London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010441",
+    "role_name": {
+      "lang:en": "member of Newham London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56006121",
+    "organization_name": {
+      "lang:en": "council of Newham London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010442",
+    "role_name": {
+      "lang:en": "member of Croydon London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56005992",
+    "organization_name": {
+      "lang:en": "council of Croydon London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010443",
+    "role_name": {
+      "lang:en": "member of Barnet London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55990309",
+    "organization_name": {
+      "lang:en": "council of Barnet London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010444",
+    "role_name": {
+      "lang:en": "member of Hammersmith and Fulham London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55989961",
+    "organization_name": {
+      "lang:en": "council of Hammersmith and Fulham London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010445",
+    "role_name": {
+      "lang:en": "member of Merton London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55989708",
+    "organization_name": {
+      "lang:en": "council of Merton London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010446",
+    "role_name": {
+      "lang:en": "member of Richmond upon Thames London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55989100",
+    "organization_name": {
+      "lang:en": "council of Richmond upon Thames London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010447",
+    "role_name": {
+      "lang:en": "member of Westminster City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55988698",
+    "organization_name": {
+      "lang:en": "council of Westminster City Council"
+    }
+  },
+  {
+    "role_id": "Q56010448",
+    "role_name": {
+      "lang:en": "member of Kensington and Chelsea London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55988536",
+    "organization_name": {
+      "lang:en": "council of Kensington and Chelsea London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010451",
+    "role_name": {
+      "lang:en": "member of Bexley London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55986971",
+    "organization_name": {
+      "lang:en": "council of Bexley London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010452",
+    "role_name": {
+      "lang:en": "member of Sutton London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55986782",
+    "organization_name": {
+      "lang:en": "council of Sutton London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010453",
+    "role_name": {
+      "lang:en": "member of Harrow London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55984834",
+    "organization_name": {
+      "lang:en": "council of Harrow London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010454",
+    "role_name": {
+      "lang:en": "member of Kingston upon Thames London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55984451",
+    "organization_name": {
+      "lang:en": "council of Kingston upon Thames London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010455",
+    "role_name": {
+      "lang:en": "member of Islington London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55984362",
+    "organization_name": {
+      "lang:en": "council of Islington London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010456",
+    "role_name": {
+      "lang:en": "Common Councilman of the City of London"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q42609766",
+    "organization_name": {
+      "lang:en": "Court of Common Council"
+    }
+  },
+  {
+    "role_id": "Q56010457",
+    "role_name": {
+      "lang:en": "member of Barking and Dagenham London Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55935459",
+    "organization_name": {
+      "lang:en": "council of Barking and Dagenham London Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010458",
+    "role_name": {
+      "lang:en": "member of Birmingham City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55932205",
+    "organization_name": {
+      "lang:en": "council of Birmingham City Council"
+    }
+  },
+  {
+    "role_id": "Q56010459",
+    "role_name": {
+      "lang:en": "member of Salford City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55935543",
+    "organization_name": {
+      "lang:en": "council of Salford City Council"
+    }
+  },
+  {
+    "role_id": "Q56010462",
+    "role_name": {
+      "lang:en": "member of Wolverhampton City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55987392",
+    "organization_name": {
+      "lang:en": "council of Wolverhampton City Council"
+    }
+  },
+  {
+    "role_id": "Q56010463",
+    "role_name": {
+      "lang:en": "member of Rotherham Metropolitan Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55989252",
+    "organization_name": {
+      "lang:en": "council of Rotherham Metropolitan Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010464",
+    "role_name": {
+      "lang:en": "member of Sunderland City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56006976",
+    "organization_name": {
+      "lang:en": "council of Sunderland City Council"
+    }
+  },
+  {
+    "role_id": "Q56010465",
+    "role_name": {
+      "lang:en": "member of Newcastle City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56007071",
+    "organization_name": {
+      "lang:en": "council of Newcastle City Council"
+    }
+  },
+  {
+    "role_id": "Q56010466",
+    "role_name": {
+      "lang:en": "member of Doncaster Metropolitan Borough Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56007630",
+    "organization_name": {
+      "lang:en": "council of Doncaster Metropolitan Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56010467",
+    "role_name": {
+      "lang:en": "member of Coventry City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56007955",
+    "organization_name": {
+      "lang:en": "council of Coventry City Council"
+    }
+  },
+  {
+    "role_id": "Q56010468",
+    "role_name": {
+      "lang:en": "member of Wakefield Metropolitan District Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56007976",
+    "organization_name": {
+      "lang:en": "council of Wakefield Metropolitan District Council"
+    }
+  },
+  {
+    "role_id": "Q56010469",
+    "role_name": {
+      "lang:en": "member of Liverpool City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55984182",
+    "organization_name": {
+      "lang:en": "council of Liverpool City Council"
+    }
+  },
+  {
+    "role_id": "Q56010470",
+    "role_name": {
+      "lang:en": "member of Manchester City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55984160",
+    "organization_name": {
+      "lang:en": "council of Manchester City Council"
+    }
+  },
+  {
+    "role_id": "Q56010474",
+    "role_name": {
+      "lang:en": "member of Bradford City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55936924",
+    "organization_name": {
+      "lang:en": "council of Bradford City Council"
+    }
+  },
+  {
+    "role_id": "Q56010475",
+    "role_name": {
+      "lang:en": "member of Sheffield City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55935300",
+    "organization_name": {
+      "lang:en": "council of Sheffield City Council"
+    }
+  },
+  {
+    "role_id": "Q56010476",
+    "role_name": {
+      "lang:en": "member of City of Edinburgh Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55934204",
+    "organization_name": {
+      "lang:en": "council of City of Edinburgh Council"
+    }
+  },
+  {
+    "role_id": "Q56010477",
+    "role_name": {
+      "lang:en": "member of Glasgow City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55934729",
+    "organization_name": {
+      "lang:en": "council of Glasgow City Council"
+    }
+  },
+  {
+    "role_id": "Q56010478",
+    "role_name": {
+      "lang:en": "member of City of Cardiff Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55935434",
+    "organization_name": {
+      "lang:en": "council of City of Cardiff Council"
+    }
+  },
+  {
+    "role_id": "Q56010479",
+    "role_name": {
+      "lang:en": "member of Southampton City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55935708",
+    "organization_name": {
+      "lang:en": "council of Southampton City Council"
+    }
+  },
+  {
+    "role_id": "Q56010480",
+    "role_name": {
+      "lang:en": "member of Stoke-on-Trent City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55985891",
+    "organization_name": {
+      "lang:en": "council of Stoke-on-Trent City Council"
+    }
+  },
+  {
+    "role_id": "Q56010481",
+    "role_name": {
+      "lang:en": "member of Plymouth City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55985896",
+    "organization_name": {
+      "lang:en": "council of Plymouth City Council"
+    }
+  },
+  {
+    "role_id": "Q56010483",
+    "role_name": {
+      "lang:en": "member of Derby City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55986002",
+    "organization_name": {
+      "lang:en": "council of Derby City Council"
+    }
+  },
+  {
+    "role_id": "Q56010486",
+    "role_name": {
+      "lang:en": "member of Hull City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55987515",
+    "organization_name": {
+      "lang:en": "council of Hull City Council"
+    }
+  },
+  {
+    "role_id": "Q56010487",
+    "role_name": {
+      "lang:en": "member of Milton Keynes Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56006597",
+    "organization_name": {
+      "lang:en": "council of Milton Keynes Council"
+    }
+  },
+  {
+    "role_id": "Q56010488",
+    "role_name": {
+      "lang:en": "member of Brighton and Hove City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q515 Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56006891",
+    "organization_name": {
+      "lang:en": "council of Brighton and Hove City Council"
+    }
+  },
+  {
+    "role_id": "Q56010489",
+    "role_name": {
+      "lang:en": "member of Nottingham City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56007345",
+    "organization_name": {
+      "lang:en": "council of Nottingham City Council"
+    }
+  },
+  {
+    "role_id": "Q56010490",
+    "role_name": {
+      "lang:en": "member of Leicester City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56007809",
+    "organization_name": {
+      "lang:en": "council of Leicester City Council"
+    }
+  },
+  {
+    "role_id": "Q56010491",
+    "role_name": {
+      "lang:en": "member of Bristol City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor",
+      "lang:cy": "cynghorydd"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q55984301",
+    "organization_name": {
+      "lang:en": "council of Bristol City Council"
+    }
+  },
+  {
+    "role_id": "Q73341",
+    "role_name": {
+      "lang:en": "Lord Mayor of London"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor",
+      "lang:cy": "Arglwydd Maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q1094147",
+    "organization_name": {
+      "lang:en": "City of London Corporation",
+      "lang:cy": "Corfforaeth Dinas Llundain"
+    }
+  },
+  {
+    "role_id": "Q14211",
+    "role_name": {
+      "lang:en": "Prime Minister of the United Kingdom",
+      "lang:cy": "Prif Weinidog y Deyrnas Unedig"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister",
+      "lang:cy": "prif weinidog"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q112014",
+    "organization_name": {
+      "lang:en": "Cabinet of the United Kingdom",
+      "lang:cy": "Cabinet y Deyrnas Unedig"
+    }
+  }
+]

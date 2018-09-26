@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Harrow London Borough Council"
+      },
+      "id": "Q55984834",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55984834"
+        }
+      ],
+      "area_id": "Q210476"
+    }
   ],
   "areas": [
 

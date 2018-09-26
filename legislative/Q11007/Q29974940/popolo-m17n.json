@@ -1,14 +1,1951 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Clive Soley, Baron Soley"
+      },
+      "id": "Q1101999",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1101999"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Alton, Baron Alton of Liverpool"
+      },
+      "id": "Q1173562",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1173562"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malcolm Pearson, Baron Pearson of Rannoch"
+      },
+      "id": "Q127742",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q127742"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Foulkes, Baron Foulkes of Cumnock"
+      },
+      "id": "Q1507362",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1507362"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Angela Smith, Baroness Smith of Basildon"
+      },
+      "id": "Q168606",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q168606"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim O'Neill"
+      },
+      "id": "Q1689184",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1689184"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alex Carlile, Baron Carlile of Berriew",
+        "lang:cy": "Alex Carlile"
+      },
+      "id": "Q1739190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1739190"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Sainsbury, Baron Sainsbury of Turville"
+      },
+      "id": "Q174327",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q174327"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Lloyd Webber",
+        "lang:cy": "Andrew Lloyd Webber"
+      },
+      "id": "Q180975",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q180975"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AndrewLloydWebber"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sebastian Coe",
+        "lang:cy": "Sebastian Coe"
+      },
+      "id": "Q188502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q188502"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mary Goudie, Baroness Goudie"
+      },
+      "id": "Q1906271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1906271"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Trimble",
+        "lang:cy": "David Trimble"
+      },
+      "id": "Q192556",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q192556"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patricia Scotland, Baroness Scotland of Asthal"
+      },
+      "id": "Q194713",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q194713"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Usha Prashar, Baroness Prashar"
+      },
+      "id": "Q198183",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q198183"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Bishop, Baron Glendonbrook"
+      },
+      "id": "Q202923",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q202923"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rupert Guinness, 2nd Earl of Iveagh",
+        "lang:cy": "Rupert Guinness, 2nd Earl of Iveagh"
+      },
+      "id": "Q2176533",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2176533"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hélène Hayman"
+      },
+      "id": "Q24165",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24165"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Menzies Campbell",
+        "lang:cy": "Menzies Campbell"
+      },
+      "id": "Q248021",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q248021"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Waheed Alli",
+        "lang:cy": "Waheed Alli"
+      },
+      "id": "Q2539282",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2539282"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Arbuthnot"
+      },
+      "id": "Q259736",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q259736"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sir George Young"
+      },
+      "id": "Q259836",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q259836"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alan Beith"
+      },
+      "id": "Q260960",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q260960"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Thurso"
+      },
+      "id": "Q272384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q272384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alistair Darling",
+        "lang:cy": "Alistair Darling"
+      },
+      "id": "Q296639",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q296639"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lynne Featherstone"
+      },
+      "id": "Q304302",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q304302"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Mandelson",
+        "lang:cy": "Peter Mandelson"
+      },
+      "id": "Q310046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q310046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Susan Kramer"
+      },
+      "id": "Q332968",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q332968"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kenneth Baker, Baron Baker of Dorking",
+        "lang:cy": "Kenneth Baker, Barwn Baker o Dorking"
+      },
+      "id": "Q333390",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q333390"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dafydd Wigley",
+        "lang:cy": "Dafydd Wigley"
+      },
+      "id": "Q333600",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q333600"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Betty Boothroyd"
+      },
+      "id": "Q333722",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q333722"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Emma Nicholson",
+        "lang:cy": "Emma Nicholson"
+      },
+      "id": "Q334097",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q334097"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Derick Heathcoat-Amory, 1st Viscount Amory"
+      },
+      "id": "Q334287",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q334287"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Harold Watkinson, 1st Viscount Watkinson"
+      },
+      "id": "Q334345",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q334345"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jenny Tonge, Baroness Tonge"
+      },
+      "id": "Q334348",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q334348"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Carington, 6th Baron Carrington",
+        "lang:cy": "Peter Carington, 6ed Barwn Carrington"
+      },
+      "id": "Q335038",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q335038"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colin Renfrew"
+      },
+      "id": "Q335189",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q335189"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Casey, Baron Casey"
+      },
+      "id": "Q335310",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q335310"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Galbraith, 2nd Baron Strathclyde"
+      },
+      "id": "Q335576",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q335576"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Graham, 8th Duke of Montrose"
+      },
+      "id": "Q335692",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q335692"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Neuberger, Baron Neuberger of Abbotsbury"
+      },
+      "id": "Q335930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q335930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Chidgey, Baron Chidgey"
+      },
+      "id": "Q336133",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336133"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Wallace, Baron Wallace of Saltaire"
+      },
+      "id": "Q336362",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336362"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Conrad Black",
+        "lang:cy": "Conrad Black"
+      },
+      "id": "Q336444",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336444"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Mackay, Baron Mackay of Clashfern"
+      },
+      "id": "Q336480",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336480"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alan Sugar",
+        "lang:cy": "Alan Sugar"
+      },
+      "id": "Q336520",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336520"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eluned Morgan, Baroness Morgan of Ely",
+        "lang:cy": "Eluned Morgan"
+      },
+      "id": "Q336521",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336521"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Taylor, Baron Taylor of Warwick"
+      },
+      "id": "Q336790",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336790"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Forster"
+      },
+      "id": "Q336912",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336912"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Roundell Palmer, 3rd Earl of Selborne"
+      },
+      "id": "Q3443398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3443398"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Oliver Baldwin, 2nd Earl Baldwin of Bewdley"
+      },
+      "id": "Q4090718",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4090718"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Albert Denison, 1st Baron Londesborough"
+      },
+      "id": "Q4710027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4710027"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Cavendish, 1st Baron Chesham"
+      },
+      "id": "Q5076148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5076148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Royle, Baron Royle"
+      },
+      "id": "Q5082203",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5082203"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dennis Vosper, Baron Runcorn"
+      },
+      "id": "Q5259036",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5259036"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Doreen Lawrence"
+      },
+      "id": "Q5297667",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5297667"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Angela Browning"
+      },
+      "id": "Q532347",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q532347"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Elaine Burton, Baroness Burton of Coventry"
+      },
+      "id": "Q5353173",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5353173"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frederick Banbury, 1st Baron Banbury of Southam"
+      },
+      "id": "Q5497336",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5497336"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dick Mitchison, Baron Mitchison"
+      },
+      "id": "Q5561118",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5561118"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Henry Strauss, 1st Baron Conesford"
+      },
+      "id": "Q5728787",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5728787"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Herbert Cayzer, 1st Baron Rotherwick"
+      },
+      "id": "Q5733773",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5733773"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hervey Rhodes, Baron Rhodes"
+      },
+      "id": "Q5744989",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5744989"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eliza Manningham-Buller",
+        "lang:cy": "Eliza Manningham-Buller"
+      },
+      "id": "Q613460",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q613460"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jenny Jones"
+      },
+      "id": "Q6179340",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6179340"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Hope, 1st Baron Glendevon"
+      },
+      "id": "Q6239787",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6239787"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Maclay, 1st Viscount Muirshiel"
+      },
+      "id": "Q6246292",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6246292"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Max Rosenheim, Baron Rosenheim",
+        "lang:cy": "Max Rosenheim, Barwn Rosenheim"
+      },
+      "id": "Q6795190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6795190"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Platt, Baron Platt"
+      },
+      "id": "Q7348929",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7348929"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samuel Jones-Loyd, 1st Baron Overstone"
+      },
+      "id": "Q7411869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7411869"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Margaret Thatcher",
+        "lang:cy": "Margaret Thatcher"
+      },
+      "id": "Q7416",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7416"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tom Williamson, Baron Williamson"
+      },
+      "id": "Q7818070",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7818070"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Fletcher-Vane, 1st Baron Inglewood"
+      },
+      "id": "Q8009155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8009155"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nicholas Lowther, 2nd Viscount Ullswater",
+        "lang:cy": "Nicholas Lowther"
+      },
+      "id": "Q936742",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q936742"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "House of Lords",
+        "lang:cy": "Tŷ'r Arglwyddi"
+      },
+      "id": "Q11007",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11007"
+        }
+      ],
+      "area_id": "Q145",
+      "seat_counts": {
+        "Q18952564": "808"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1101999-F071AAB1-21E7-4896-BC9B-82DDDF375726",
+      "person_id": "Q1101999",
+      "organization_id": "Q11007",
+      "start_date": "2005-06-29",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1173562-E1753528-71A9-4015-A886-165A36CE458F",
+      "person_id": "Q1173562",
+      "organization_id": "Q11007",
+      "start_date": "1997-06-17",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q127742-a96038d4-486b-163d-fc7f-daa8cf60cac7",
+      "person_id": "Q127742",
+      "organization_id": "Q11007",
+      "start_date": "1990-06-18",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1507362-DFEBF870-8B5C-4502-9C13-FBB1385F1D72",
+      "person_id": "Q1507362",
+      "organization_id": "Q11007",
+      "start_date": "2005-05-13",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q168606-D9EB73C4-D24A-492B-9CC3-B615029B2F77",
+      "person_id": "Q168606",
+      "organization_id": "Q11007",
+      "start_date": "2010-07-07",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1689184-2c14a01c-4741-7643-1b38-53411ff48b4c",
+      "person_id": "Q1689184",
+      "organization_id": "Q11007",
+      "start_date": "2015-05-28",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1739190-412469FA-F01D-47AC-8BFF-C8DCA9865005",
+      "person_id": "Q1739190",
+      "organization_id": "Q11007",
+      "start_date": "1999-07-27",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q174327-2C9A41E8-F2C9-458C-9345-E9E86CF59952",
+      "person_id": "Q174327",
+      "organization_id": "Q11007",
+      "start_date": "1997-10-03",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q180975-03137710-2357-4982-9ACC-E7D598E80529",
+      "person_id": "Q180975",
+      "organization_id": "Q11007",
+      "start_date": "1997-02-25",
+      "end_date": "2017-10-17",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q188502-778FE2A0-278D-4EA7-9820-418A00DD590D",
+      "person_id": "Q188502",
+      "organization_id": "Q11007",
+      "start_date": "2000-05-16",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1906271-20A4A297-1E55-49F1-8C36-643730647484",
+      "person_id": "Q1906271",
+      "organization_id": "Q11007",
+      "start_date": "1998-01-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q192556-4130108A-1332-4ECC-A041-313B5A5CC601",
+      "person_id": "Q192556",
+      "organization_id": "Q11007",
+      "start_date": "2006-06-02",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q194713-74DDF80A-EC8F-41EC-A024-8EC8D97D86D6",
+      "person_id": "Q194713",
+      "organization_id": "Q11007",
+      "start_date": "1997-10-30",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q198183-75098652-3D32-4BB1-A5A0-CB33FA9A572D",
+      "person_id": "Q198183",
+      "organization_id": "Q11007",
+      "start_date": "1999-07-15",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q202923-9BD720AC-6A31-4F69-95D7-914DE7CC013F",
+      "person_id": "Q202923",
+      "organization_id": "Q11007",
+      "start_date": "2011-03-22",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2176533-5E6A16AF-B38F-406F-B3A2-ECB2EF10FBF0",
+      "person_id": "Q2176533",
+      "organization_id": "Q11007",
+      "start_date": "1927-10-07",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24165-FE01E2CC-0530-4649-A39C-B459B0F4F172",
+      "person_id": "Q24165",
+      "organization_id": "Q11007",
+      "start_date": "1996-01-02",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q248021-1341372A-8238-4073-9A31-6AD14BA5AC98",
+      "person_id": "Q248021",
+      "organization_id": "Q11007",
+      "start_date": "2015-10-13",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2539282-BFD17C4D-FAC2-42B0-ADDB-27197B5A5C58",
+      "person_id": "Q2539282",
+      "organization_id": "Q11007",
+      "start_date": "1998-07-18",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q259736-2A0178F1-B103-4135-A4F6-5FA2C70BBB01",
+      "person_id": "Q259736",
+      "organization_id": "Q11007",
+      "start_date": "2015-10-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q259836-8d204be9-421b-cb69-c341-39e4184ea7b9",
+      "person_id": "Q259836",
+      "organization_id": "Q11007",
+      "start_date": "2015-09-29",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q260960-84C5E8A7-8012-48D0-88E0-7122782585B5",
+      "person_id": "Q260960",
+      "organization_id": "Q11007",
+      "start_date": "2015-10-19",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q272384-382B27CA-3410-4832-B781-5F0C9354887E",
+      "person_id": "Q272384",
+      "organization_id": "Q11007",
+      "start_date": "2016-04-19",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q296639-510F3196-6E50-42EF-9A8A-9CAA64DFD99B",
+      "person_id": "Q296639",
+      "organization_id": "Q11007",
+      "start_date": "2015-12-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q304302-90B52489-0BAE-4CE5-9EAB-83B4975F0493",
+      "person_id": "Q304302",
+      "organization_id": "Q11007",
+      "start_date": "2015-10-20",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q310046-987BE069-0572-4B4B-ACFD-005BCA1E3E1C",
+      "person_id": "Q310046",
+      "organization_id": "Q11007",
+      "start_date": "2008-10-13",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q332968-761D9C07-C848-4172-A105-62DB3AF3AA03",
+      "person_id": "Q332968",
+      "organization_id": "Q11007",
+      "start_date": "2010-12-22",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q333390-E7F7F5C4-1775-48AB-9E16-FA2C9B49ECAB",
+      "person_id": "Q333390",
+      "organization_id": "Q11007",
+      "start_date": "1997-06-16",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q333600-C5EB7D7B-1718-4BD5-88F5-585CDDF03C71",
+      "person_id": "Q333600",
+      "organization_id": "Q11007",
+      "start_date": "2011-01-19",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q333722-A0F31FF1-EA3B-45A5-AAC5-71BC8EB860A8",
+      "person_id": "Q333722",
+      "organization_id": "Q11007",
+      "start_date": "2001-01-15",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q334097-53D598F0-CF04-41CA-BFC7-09F4256CF2F3",
+      "person_id": "Q334097",
+      "organization_id": "Q11007",
+      "start_date": "1997-11-03",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q334287-47FB4C25-BC88-436A-8677-5FC4487F3F61",
+      "person_id": "Q334287",
+      "organization_id": "Q11007",
+      "start_date": "1960-09-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q334345-6EE5A15A-66F3-4605-921F-B1A06276D7C3",
+      "person_id": "Q334345",
+      "organization_id": "Q11007",
+      "start_date": "1964-06-26",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q334348-F112132E-D0C1-42D5-A0DA-FEBFEFA5CEA6",
+      "person_id": "Q334348",
+      "organization_id": "Q11007",
+      "start_date": "2005-01-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q335038-FEBF5466-C6D3-43AE-A059-B2C0B58F9F95",
+      "person_id": "Q335038",
+      "organization_id": "Q11007",
+      "start_date": "1999-11-17",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q335189-321BE257-F358-4474-B4C8-C73004E6ADAA",
+      "person_id": "Q335189",
+      "organization_id": "Q11007",
+      "start_date": "1991-01-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q335310-BE99FC39-881C-4D21-BCC2-B4CC1B007816",
+      "person_id": "Q335310",
+      "organization_id": "Q11007",
+      "start_date": "1960-01-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q335576-6B593F81-F4E3-4690-B76A-D9FE7B2828BB",
+      "person_id": "Q335576",
+      "organization_id": "Q11007",
+      "start_date": "1985-07-12",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q335692-3FE0D073-656C-4DE1-8391-3405AEFE6EA5",
+      "person_id": "Q335692",
+      "organization_id": "Q11007",
+      "start_date": "1999-11-11",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q335930-27B16C0A-DC6C-47E3-A4B5-411127B26E94",
+      "person_id": "Q335930",
+      "organization_id": "Q11007",
+      "start_date": "2007-01-15",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336133-922366A5-1456-4440-8CDD-E5311F0822BC",
+      "person_id": "Q336133",
+      "organization_id": "Q11007",
+      "start_date": "2005-06-17",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336362-FE27FC9C-0E11-4636-B662-71105857B811",
+      "person_id": "Q336362",
+      "organization_id": "Q11007",
+      "start_date": "1996-01-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336444-2EA279D4-25AB-4067-9A90-878B9621B050",
+      "person_id": "Q336444",
+      "organization_id": "Q11007",
+      "start_date": "2002-10-31",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336480-3CAA6D75-83A6-4C30-A4CA-A9E72B600648",
+      "person_id": "Q336480",
+      "organization_id": "Q11007",
+      "start_date": "1979-07-06",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336520-F5FAAA0C-9D82-42EF-ADAE-988B79F965C2",
+      "person_id": "Q336520",
+      "organization_id": "Q11007",
+      "start_date": "2009-07-20",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336521-FBD811BC-C398-40BB-88C2-75CE213FB355",
+      "person_id": "Q336521",
+      "organization_id": "Q11007",
+      "start_date": "2011-01-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336790-FA87F45C-C462-4FF5-B457-159891FA45D2",
+      "person_id": "Q336790",
+      "organization_id": "Q11007",
+      "start_date": "1996-10-02",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q336912-1f95da72-4e6d-fe73-bcc0-f3be8cdaad80",
+      "person_id": "Q336912",
+      "organization_id": "Q11007",
+      "start_date": "2001-11-08",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3443398-0a22b89a-4be6-7421-858d-01010121bca6",
+      "person_id": "Q3443398",
+      "organization_id": "Q11007",
+      "start_date": "1941-01-09",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4090718-218fc8f1-4f79-1b7c-fb2d-523641c2f13b",
+      "person_id": "Q4090718",
+      "organization_id": "Q11007",
+      "start_date": "1947-12-14",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4710027-c74046e8-498d-109a-a9e1-90150b75ba61",
+      "person_id": "Q4710027",
+      "organization_id": "Q11007",
+      "start_date": "1850-02-28",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5076148-ac5e6829-4b01-8f66-8428-56dafcf0d681",
+      "person_id": "Q5076148",
+      "organization_id": "Q11007",
+      "start_date": "1858-01-15",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5082203-585f86e5-4188-9e28-29e8-6e00b9b2d351",
+      "person_id": "Q5082203",
+      "organization_id": "Q11007",
+      "start_date": "1964-08-25",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5259036-93c5caa5-44e4-4a3f-1aee-1a940563f244",
+      "person_id": "Q5259036",
+      "organization_id": "Q11007",
+      "start_date": "1964-04-20",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5297667-c35644c1-49d8-176c-06aa-f59b47635d53",
+      "person_id": "Q5297667",
+      "organization_id": "Q11007",
+      "start_date": "2013-09-06",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q532347-5DBA6770-01C6-4B9D-8DEE-58F2A88C8C23",
+      "person_id": "Q532347",
+      "organization_id": "Q11007",
+      "start_date": "2010-07-13",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5353173-D9D46DBA-0FD1-4E14-95DE-DC61A00911ED",
+      "person_id": "Q5353173",
+      "organization_id": "Q11007",
+      "start_date": "1962-04-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5497336-72f2fe0b-4fcd-3522-dcb2-acb3c074971c",
+      "person_id": "Q5497336",
+      "organization_id": "Q11007",
+      "start_date": "1924-01-22",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5561118-0EF7D36C-D94A-470B-8A4D-32126EC8437F",
+      "person_id": "Q5561118",
+      "organization_id": "Q11007",
+      "start_date": "1964-10-05",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5728787-0b22e953-4ac9-fa65-c9f8-c20a6a0e9658",
+      "person_id": "Q5728787",
+      "organization_id": "Q11007",
+      "start_date": "1955-05-12",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5733773-5479d1f2-4f83-8344-1794-442d0d581ad9",
+      "person_id": "Q5733773",
+      "organization_id": "Q11007",
+      "start_date": "1939-07-05",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5744989-1B9F9526-506E-4F59-A6E1-CB3917BC1D65",
+      "person_id": "Q5744989",
+      "organization_id": "Q11007",
+      "start_date": "1964-09-14",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q613460-BDBFFCDA-D537-48AF-84FE-6EDFACF5938D",
+      "person_id": "Q613460",
+      "organization_id": "Q11007",
+      "start_date": "2008-04-18",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6179340-1BF16F6E-BC3B-4C12-A9AC-AD6ECAEBB7B0",
+      "person_id": "Q6179340",
+      "organization_id": "Q11007",
+      "start_date": "2013-11-05",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6239787-BF421C8C-B6EF-409B-A33B-65687E7DEC3B",
+      "person_id": "Q6239787",
+      "organization_id": "Q11007",
+      "start_date": "1964-07-16",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6246292-DE12CD7F-3FFE-4528-8568-B17E5B9D0A88",
+      "person_id": "Q6246292",
+      "organization_id": "Q11007",
+      "start_date": "1964-07-16",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6795190-AEDB318A-C12A-4AB7-9AFF-1CD17301BE68",
+      "person_id": "Q6795190",
+      "organization_id": "Q11007",
+      "start_date": "1970-07-31",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7348929-4B2F167C-59FC-4183-B3A9-40975E73D03E",
+      "person_id": "Q7348929",
+      "organization_id": "Q11007",
+      "start_date": "1967-01-16",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7411869-ec98a48f-452f-4d25-4741-37124047184f",
+      "person_id": "Q7411869",
+      "organization_id": "Q11007",
+      "start_date": "1850-02-28",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7416-8520BDD5-BC44-456C-AECF-CF841BE78E7C",
+      "person_id": "Q7416",
+      "organization_id": "Q11007",
+      "start_date": "1992-01-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7818070-bed9e188-4cba-38bd-fa07-7e72073e308b",
+      "person_id": "Q7818070",
+      "organization_id": "Q11007",
+      "start_date": "1962-05-15",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8009155-B5901D56-B4C5-4B79-B7A0-74C6810EF85B",
+      "person_id": "Q8009155",
+      "organization_id": "Q11007",
+      "start_date": "1964-06-30",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q936742-E01060C0-2E10-468D-B165-040AF7703284",
+      "person_id": "Q936742",
+      "organization_id": "Q11007",
+      "start_date": "2003-01-01",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "Aelod o'r Tŷ Cyffredin"
+      }
+    }
   ]
 }

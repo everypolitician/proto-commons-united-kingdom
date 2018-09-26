@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Waltham Forest London Borough Council"
+      },
+      "id": "Q56008464",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56008464"
+        }
+      ],
+      "area_id": "Q40608"
+    }
   ],
   "areas": [
 

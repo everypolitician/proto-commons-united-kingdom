@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Southampton City Council"
+      },
+      "id": "Q56708984",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708984"
+        }
+      ],
+      "area_id": "Q21683230"
+    }
   ],
   "areas": [
 

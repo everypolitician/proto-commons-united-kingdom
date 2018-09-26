@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Kensington and Chelsea London Borough Council"
+      },
+      "id": "Q55988536",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55988536"
+        }
+      ],
+      "area_id": "Q188801"
+    }
   ],
   "areas": [
 

@@ -56,9 +56,10 @@
       "on_behalf_of_id": "Q9630",
       "organization_id": "Q56708972",
       "area_id": "Q1925846",
-      "role_superclass_code": "Q6797698",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Mayor of Doncaster"
+        "lang:en": "mayor",
+        "lang:cy": "maer"
       },
       "role_code": "Q6797698",
       "role": {

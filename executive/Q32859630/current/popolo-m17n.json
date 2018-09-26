@@ -119,10 +119,10 @@
       "organization_id": "Q32859630",
       "area_id": "Q25",
       "start_date": "2009-12-10",
-      "role_superclass_code": "Q18996",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:en": "First Minister of Wales",
-        "lang:cy": "Prif Weinidog Cymru"
+        "lang:en": "prime minister",
+        "lang:cy": "prif weinidog"
       },
       "role_code": "Q18996",
       "role": {
@@ -137,10 +137,10 @@
       "organization_id": "Q32859630",
       "area_id": "Q25",
       "start_date": "2009-12-10",
-      "role_superclass_code": "Q18996",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:en": "First Minister of Wales",
-        "lang:cy": "Prif Weinidog Cymru"
+        "lang:en": "prime minister",
+        "lang:cy": "prif weinidog"
       },
       "role_code": "Q18996",
       "role": {

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "executive of Manchester City Council"
+      },
+      "id": "Q56708976",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708976"
+        }
+      ],
+      "area_id": "Q21525592"
+    }
   ],
   "areas": [
 
