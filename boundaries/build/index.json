@@ -1181,5 +1181,1059 @@
       "match": "country:gb/country:wls/uta:w06000015",
       "column": "MS_FB"
     }
+  },
+    {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q7969215",
+    "associations": [
+      {
+        "comment": "common councilman of the city of london",
+        "position_item_id": "Q56010456"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000001",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q618123",
+    "associations": [
+      {
+        "comment": "member of barking and dagenham london borough council",
+        "position_item_id": "Q56010457"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000002",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of barnet london borough council",
+        "position_item_id": "Q56010443"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000003",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of bexley london borough council",
+        "position_item_id": "Q56010451"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000004",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of brent london borough council",
+        "position_item_id": "Q56010436"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000005",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of bromley london borough council",
+        "position_item_id": "Q56010437"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000006",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "council of camden london borough council",
+        "position_item_id": "Q56008431"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000007",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q1195098",
+    "associations": [
+      {
+        "comment": "member of croydon london borough council",
+        "position_item_id": "Q56010442"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000008",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of ealing london borough council",
+        "position_item_id": "Q56010440"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000009",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of enfield london borough council",
+        "position_item_id": "Q56010438"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000010",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of greenwich london borough council",
+        "position_item_id": "Q56010426"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000011",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of hackney london borough council",
+        "position_item_id": "Q56010425"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000012",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of hammersmith and fulham london borough council",
+        "position_item_id": "Q56010444"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000013",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of haringey london borough council",
+        "position_item_id": "Q56010422"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000014",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of harrow london borough council",
+        "position_item_id": "Q56010453"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000015",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of havering london borough council",
+        "position_item_id": "Q56010420"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000016",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of hillingdon london borough council",
+        "position_item_id": "Q56010430"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000017",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of hounslow london borough council",
+        "position_item_id": "Q56010421"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000018",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of islington london borough council",
+        "position_item_id": "Q56010455"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000019",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of kensington and chelsea london borough council",
+        "position_item_id": "Q56010448"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000020",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of kingston upon thames london borough council",
+        "position_item_id": "Q56010454"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000021",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q618123",
+    "associations": [
+      {
+        "comment": "member of lambeth london borough council",
+        "position_item_id": "Q56010434"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000022",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of lewisham london borough council",
+        "position_item_id": "Q56010427"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000023",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of merton london borough council",
+        "position_item_id": "Q56010445"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000024",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of newham london borough council",
+        "position_item_id": "Q56010441"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000025",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of redbridge london borough council",
+        "position_item_id": "Q56010429"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000026",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of richmond upon thames london borough council",
+        "position_item_id": "Q56010446"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000027",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of southwark london borough council",
+        "position_item_id": "Q56010432"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000028",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of sutton london borough council",
+        "position_item_id": "Q56010452"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000029",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of tower hamlets london borough council",
+        "position_item_id": "Q56010431"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000030",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of waltham forest london borough council",
+        "position_item_id": "Q56010423"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000031",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of wandsworth london borough council",
+        "position_item_id": "Q56010433"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000032",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of westminster city council",
+        "position_item_id": "Q56010447"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000033",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of manchester city council",
+        "position_item_id": "Q56010470"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000003",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of salford city council",
+        "position_item_id": "Q56010459"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000006",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of liverpool city council",
+        "position_item_id": "Q56010469"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000012",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of doncaster metropolitan borough council",
+        "position_item_id": "Q56010466"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000017",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of rotherham metropolitan borough council",
+        "position_item_id": "Q56010463"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000018",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of sheffield city council",
+        "position_item_id": "Q56010475"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000019",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of newcastle city council",
+        "position_item_id": "Q56010465"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000021",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of sunderland city council",
+        "position_item_id": "Q56010464"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000024",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of birmingham city council",
+        "position_item_id": "Q56010458"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000025",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of coventry city council",
+        "position_item_id": "Q56010467"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000026",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of wolverhampton city council",
+        "position_item_id": "Q56010462"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000031",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of bradford city council",
+        "position_item_id": "Q56010474"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000032",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of leeds city council",
+        "position_item_id": "Q55372701"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000035",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of wakefield metropolitan district council",
+        "position_item_id": "Q56010468"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000036",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of hull city council",
+        "position_item_id": "Q56010486"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000010",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of derby city council",
+        "position_item_id": "Q56010483"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000015",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of leicester city council",
+        "position_item_id": "Q56010490"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000016",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of nottingham city council",
+        "position_item_id": "Q56010489"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000018",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of stoke-on-trent city council",
+        "position_item_id": "Q56010480"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000021",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q1195098",
+    "associations": [
+      {
+        "comment": "member of bristol city council",
+        "position_item_id": "Q56010491"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000023",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of plymouth city council",
+        "position_item_id": "Q56010481"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000026",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of milton keynes council",
+        "position_item_id": "Q56010487"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000042",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of brighton and hove city council",
+        "position_item_id": "Q56010488"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000043",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of southampton city council",
+        "position_item_id": "Q56010479"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000045",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of city of edinburgh council",
+        "position_item_id": "Q56010476"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:sct/uta:s12000036",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of glasgow city council",
+        "position_item_id": "Q56010477"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:sct/uta:s12000046",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of Camden London Borough Council",
+        "position_item_id": "Q56010419"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000007",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of city of cardiff council",
+        "position_item_id": "Q56010478"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:wls/uta:w06000015",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "council-constituencies",
+    "area_type_wikidata_item_id": "Q589282",
+    "associations": [
+      {
+        "comment": "member of Belfast City Council",
+        "position_item_id": "Q56010418"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/province:nir/lgd:n09000003",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
