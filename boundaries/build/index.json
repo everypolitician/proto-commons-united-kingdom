@@ -144,5 +144,1042 @@
     "name_columns": {
       "lang:en": "NAME_WIKI"
     }
+  },
+    {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1136601",
+    "associations": [
+      {
+        "comment": "leader of hull city council",
+        "position_item_id": "Q56708870"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000010",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1136601",
+    "associations": [
+      {
+        "comment": "leader of derby city council",
+        "position_item_id": "Q56708869"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000015",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1136601",
+    "associations": [
+      {
+        "comment": "mayor of leicester",
+        "position_item_id": "Q56708875"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000016",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1136601",
+    "associations": [
+      {
+        "comment": "leader of nottingham city council",
+        "position_item_id": "Q56708873"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000018",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1136601",
+    "associations": [
+      {
+        "comment": "leader of stoke-on-trent city council",
+        "position_item_id": "Q56708864"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000021",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q180673",
+    "associations": [
+      {
+        "comment": "mayor of bristol",
+        "position_item_id": "Q56708876"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000023",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1136601",
+    "associations": [
+      {
+        "comment": "leader of plymouth city council",
+        "position_item_id": "Q56708865"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000026",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1006876",
+    "associations": [
+      {
+        "comment": "mayor of milton keynes",
+        "position_item_id": "Q56708871"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000042",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "leader of brighton and hove city council",
+        "position_item_id": "Q56708872"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000043",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1136601",
+    "associations": [
+      {
+        "comment": "leader of southampton city council",
+        "position_item_id": "Q56708863"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/uta:e06000045",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "leader of manchester city council",
+        "position_item_id": "Q56708856"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000003",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q21503295",
+    "associations": [
+      {
+        "comment": "mayor of salford",
+        "position_item_id": "Q6797805"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000006",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "mayor of liverpool",
+        "position_item_id": "Q5280483"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000012",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "mayor of doncaster",
+        "position_item_id": "Q6797698"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000017",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "leader of rotherham metropolitan borough council",
+        "position_item_id": "Q56708851"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000018",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "leader of sheffield city council",
+        "position_item_id": "Q56708858"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000019",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "leader of newcastle city council",
+        "position_item_id": "Q56708853"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000021",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q21503295",
+    "associations": [
+      {
+        "comment": "leader of sunderland city council",
+        "position_item_id": "Q56708852"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000024",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "leader of birmingham city council",
+        "position_item_id": "Q56708847"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000025",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "leader of coventry city council",
+        "position_item_id": "Q56708854"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000026",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "leader of the city of wolverhampton council",
+        "position_item_id": "Q56708850"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000031",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q21503295",
+    "associations": [
+      {
+        "comment": "leader of bradford metropolitan district council",
+        "position_item_id": "Q56708857"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000032",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q21503295",
+    "associations": [
+      {
+        "comment": "leader of leeds city council",
+        "position_item_id": "Q56708848"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000035",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1002812",
+    "associations": [
+      {
+        "comment": "leader of wakefield council",
+        "position_item_id": "Q56708855"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/mtd:e08000036",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q515",
+    "associations": [
+      {
+        "comment": "lord mayor of london",
+        "position_item_id": "Q73341"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000001",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of barking and dagenham borough council",
+        "position_item_id": "Q56708845"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000002",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of barnet borough council",
+        "position_item_id": "Q56708830"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000003",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of bexley borough council",
+        "position_item_id": "Q56708839"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000004",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of brent borough council",
+        "position_item_id": "Q56708825"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000005",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of bromley borough council",
+        "position_item_id": "Q56708826"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000006",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of camden borough council",
+        "position_item_id": "Q56708809"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000007",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of croydon borough council",
+        "position_item_id": "Q56708829"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000008",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of ealing borough council",
+        "position_item_id": "Q56708828"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000009",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of enfield borough council",
+        "position_item_id": "Q56708827"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000010",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of greenwich borough council",
+        "position_item_id": "Q56708814"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000011",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "mayor of hackney",
+        "position_item_id": "Q5280481"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000012",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of hammersmith and fulham borough council",
+        "position_item_id": "Q56708831"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000013",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of haringey borough council",
+        "position_item_id": "Q56708812"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000014",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of harrow borough council",
+        "position_item_id": "Q56708841"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000015",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of havering borough council",
+        "position_item_id": "Q56708810"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000016",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of hillingdon borough council",
+        "position_item_id": "Q56708817"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000017",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of hounslow borough council",
+        "position_item_id": "Q56708811"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000018",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of islington borough council",
+        "position_item_id": "Q56708843"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000019",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of kensington and chelsea borough council",
+        "position_item_id": "Q56708838"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000020",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of kingston upon thames borough council",
+        "position_item_id": "Q56708842"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000021",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of lambeth borough council",
+        "position_item_id": "Q56708823"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000022",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "mayor of lewisham",
+        "position_item_id": "Q5280482"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000023",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of merton borough council",
+        "position_item_id": "Q56708833"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000024",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "mayor of newham",
+        "position_item_id": "Q5280484"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000025",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of redbridge borough council",
+        "position_item_id": "Q56708816"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000026",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of richmond borough council",
+        "position_item_id": "Q56708834"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000027",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of southwark borough council",
+        "position_item_id": "Q56708818"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000028",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of sutton borough council",
+        "position_item_id": "Q56708840"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000029",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "mayor of tower hamlets",
+        "position_item_id": "Q17015787"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000030",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "leader of waltham forest borough council",
+        "position_item_id": "Q56708813"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000031",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q211690",
+    "associations": [
+      {
+        "comment": "mayor of wandsworth",
+        "position_item_id": "Q56708822"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000032",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q1901835",
+    "associations": [
+      {
+        "comment": "leader of city of westminster borough council",
+        "position_item_id": "Q56708836"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:eng/lbo:e09000033",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q17364572",
+    "associations": [
+      {
+        "comment": "lord mayor of belfast",
+        "position_item_id": "Q6679766"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/province:nir/lgd:n09000003",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q15060255",
+    "associations": [
+      {
+        "comment": "leader of the city of edinburgh council",
+        "position_item_id": "Q56708860"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:sct/uta:s12000036",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q15060255",
+    "associations": [
+      {
+        "comment": "leader of glasgow city council",
+        "position_item_id": "Q56708861"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:sct/uta:s12000046",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "councils",
+    "area_type_wikidata_item_id": "Q15979307",
+    "associations": [
+      {
+        "comment": "leader of cardiff council",
+        "position_item_id": "Q56708862"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    },
+    "filter": {
+      "match": "country:gb/country:wls/uta:w06000015",
+      "column": "MS_FB"
+    }
   }
 ]
