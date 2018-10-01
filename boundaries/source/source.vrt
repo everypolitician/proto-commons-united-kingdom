@@ -56,4 +56,53 @@
         <TargetSRS>EPSG:4326</TargetSRS>
     </OGRVRTWarpedLayer>
 
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="district_borough_unitary_region">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/district_borough_unitary_region.shp</SrcDataSource>
+            <SrcLayer>district_borough_unitary_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="ni_local_government_districts">
+            <SrcDataSource>http://osni-spatial-ni.opendata.arcgis.com/datasets/a55726475f1b460c927d1816ffde6c72_2.geojson</SrcDataSource>
+            <SrcLayer>a55726475f1b460c927d1816ffde6c72_2</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="district_borough_unitary_ward_region">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/district_borough_unitary_ward_region.shp</SrcDataSource>
+            <SrcLayer>district_borough_unitary_ward_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="unitary_electoral_division_region">
+            <SrcDataSource>/vsizip//vsicurl/http://parlvid.mysociety.org/os/bdline_gb-2018-05.zip/Data/GB/unitary_electoral_division_region.shp</SrcDataSource>
+            <SrcLayer>unitary_electoral_division_region</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="councils">
+            <SrcDataSource>../build/councils/councils.shp</SrcDataSource>
+            <SrcLayer>councils</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
+    <OGRVRTWarpedLayer>
+        <OGRVRTLayer name="ni_wards">
+            <SrcDataSource>http://osni-spatial-ni.opendata.arcgis.com/datasets/55cd419b2d2144de9565c9b8f73a226d_0.geojson</SrcDataSource>
+            <SrcLayer>55cd419b2d2144de9565c9b8f73a226d_0</SrcLayer>
+        </OGRVRTLayer>
+        <TargetSRS>EPSG:4326</TargetSRS>
+    </OGRVRTWarpedLayer>
+
 </OGRVRTDataSource>
+
