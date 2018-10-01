@@ -2218,5 +2218,18 @@
       "match": "country:gb/province:nir/lgd:n09000003",
       "column": "MS_FB_PARE"
     }
+  },
+  {
+    "directory": "greater-london",
+    "area_type_wikidata_item_id": "Q180673",
+    "associations": [
+      {
+        "comment": "Mayor of London",
+        "position_item_id": "Q38931"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    }
   }
 ]
