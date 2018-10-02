@@ -113,7 +113,6 @@ WARNING: Position member of Birmingham City Council (Q56010458) not in boundary 
 WARNING: Position member of City of Edinburgh Council (Q56010476) not in boundary associated_wikidata_positions
 WARNING: Position member of Glasgow City Council (Q56010477) not in boundary associated_wikidata_positions
 WARNING: Position member of Belfast City Council (Q56010418) not in boundary associated_wikidata_positions
-WARNING: Position member of Belfast City Council (Q56010418) not in boundary associated_wikidata_positions
 WARNING: Position member of Sheffield City Council (Q56010475) not in boundary associated_wikidata_positions
 WARNING: Position member of City of Cardiff Council (Q56010478) not in boundary associated_wikidata_positions
 WARNING: Position member of Barking and Dagenham London Borough Council (Q56010457) not in boundary associated_wikidata_positions
