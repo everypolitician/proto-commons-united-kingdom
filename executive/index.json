@@ -27,12 +27,12 @@
     "executive_item_id": "Q2665914",
     "positions": [
       {
-        "comment": "First Minister of Northern Ireland",
-        "position_item_id": "Q22979263"
-      },
-      {
         "comment": "deputy First Minister",
         "position_item_id": "Q23729452"
+      },
+      {
+        "comment": "First Minister of Northern Ireland",
+        "position_item_id": "Q22979263"
       }
     ]
   },
