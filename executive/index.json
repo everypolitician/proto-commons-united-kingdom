@@ -48,5 +48,605 @@
         "position_item_id": "Q18996"
       }
     ]
+  },
+  {
+    "comment": "Greater London Authority",
+    "executive_item_id": "Q1135166",
+    "positions": [
+      {
+        "comment": "Mayor of London",
+        "position_item_id": "Q38931"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Brighton and Hove City Council",
+    "executive_item_id": "Q56708990",
+    "positions": [
+      {
+        "comment": "leader of Brighton and Hove City Council",
+        "position_item_id": "Q56708872"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Board of Leeds City Council",
+    "executive_item_id": "Q56707470",
+    "positions": [
+      {
+        "comment": "leader of Leeds City Council",
+        "position_item_id": "Q56708848"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Belfast City Council",
+    "executive_item_id": "Q56708927",
+    "positions": [
+      {
+        "comment": "Lord Mayor of Belfast",
+        "position_item_id": "Q6679766"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Camden borough council",
+    "executive_item_id": "Q56708928",
+    "positions": [
+      {
+        "comment": "leader of Camden borough council",
+        "position_item_id": "Q56708809"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Havering borough council",
+    "executive_item_id": "Q56708929",
+    "positions": [
+      {
+        "comment": "leader of Havering borough council",
+        "position_item_id": "Q56708810"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Hounslow borough council",
+    "executive_item_id": "Q56708931",
+    "positions": [
+      {
+        "comment": "leader of Hounslow borough council",
+        "position_item_id": "Q56708811"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Haringey borough council",
+    "executive_item_id": "Q56708932",
+    "positions": [
+      {
+        "comment": "leader of Haringey borough council",
+        "position_item_id": "Q56708812"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Waltham Forest borough council",
+    "executive_item_id": "Q56708933",
+    "positions": [
+      {
+        "comment": "leader of Waltham Forest borough council",
+        "position_item_id": "Q56708813"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Hackney borough council",
+    "executive_item_id": "Q56708934",
+    "positions": [
+      {
+        "comment": "Mayor of Hackney",
+        "position_item_id": "Q5280481"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Greenwich borough council",
+    "executive_item_id": "Q56708935",
+    "positions": [
+      {
+        "comment": "leader of Greenwich borough council",
+        "position_item_id": "Q56708814"
+      }
+    ]
+  },
+  {
+    "comment": "mayor's cabinet, Lewisham borough council",
+    "executive_item_id": "Q56708936",
+    "positions": [
+      {
+        "comment": "Mayor of Lewisham",
+        "position_item_id": "Q5280482"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Redbridge borough council",
+    "executive_item_id": "Q56708938",
+    "positions": [
+      {
+        "comment": "leader of Redbridge borough council",
+        "position_item_id": "Q56708816"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Hillingdon borough council",
+    "executive_item_id": "Q56708939",
+    "positions": [
+      {
+        "comment": "leader of Hillingdon borough council",
+        "position_item_id": "Q56708817"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Tower Hamlets borough council",
+    "executive_item_id": "Q56708940",
+    "positions": [
+      {
+        "comment": "Mayor of Tower Hamlets",
+        "position_item_id": "Q17015787"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Southwark borough council",
+    "executive_item_id": "Q56708941",
+    "positions": [
+      {
+        "comment": "leader of Southwark borough council",
+        "position_item_id": "Q56708818"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Wandsworth borough council",
+    "executive_item_id": "Q56708943",
+    "positions": [
+      {
+        "comment": "mayor of Wandsworth",
+        "position_item_id": "Q56708822"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Lambeth borough council",
+    "executive_item_id": "Q56708944",
+    "positions": [
+      {
+        "comment": "leader of Lambeth borough council",
+        "position_item_id": "Q56708823"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Brent borough council",
+    "executive_item_id": "Q56708945",
+    "positions": [
+      {
+        "comment": "leader of Brent borough council",
+        "position_item_id": "Q56708825"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Bromley borough council",
+    "executive_item_id": "Q56708946",
+    "positions": [
+      {
+        "comment": "leader of Bromley borough council",
+        "position_item_id": "Q56708826"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Enfield borough council",
+    "executive_item_id": "Q56708947",
+    "positions": [
+      {
+        "comment": "leader of Enfield borough council",
+        "position_item_id": "Q56708827"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Ealing borough council",
+    "executive_item_id": "Q56708949",
+    "positions": [
+      {
+        "comment": "leader of Ealing borough council",
+        "position_item_id": "Q56708828"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Newham borough council",
+    "executive_item_id": "Q56708950",
+    "positions": [
+      {
+        "comment": "Mayor of Newham",
+        "position_item_id": "Q5280484"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Croydon borough council",
+    "executive_item_id": "Q56708951",
+    "positions": [
+      {
+        "comment": "leader of Croydon borough council",
+        "position_item_id": "Q56708829"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Barnet borough council",
+    "executive_item_id": "Q56708952",
+    "positions": [
+      {
+        "comment": "leader of Barnet borough council",
+        "position_item_id": "Q56708830"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Hammersmith and Fulham borough council",
+    "executive_item_id": "Q56708953",
+    "positions": [
+      {
+        "comment": "leader of Hammersmith and Fulham borough council",
+        "position_item_id": "Q56708831"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Merton borough council",
+    "executive_item_id": "Q56708954",
+    "positions": [
+      {
+        "comment": "leader of Merton borough council",
+        "position_item_id": "Q56708833"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Richmond borough council",
+    "executive_item_id": "Q56708955",
+    "positions": [
+      {
+        "comment": "leader of Richmond borough council",
+        "position_item_id": "Q56708834"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of City of Westminster borough council",
+    "executive_item_id": "Q56708956",
+    "positions": [
+      {
+        "comment": "leader of City of Westminster borough council",
+        "position_item_id": "Q56708836"
+      }
+    ]
+  },
+  {
+    "comment": "leadership team of Kensington and Chelsea borough council",
+    "executive_item_id": "Q56708957",
+    "positions": [
+      {
+        "comment": "leader of Kensington and Chelsea borough council",
+        "position_item_id": "Q56708838"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Bexley borough council",
+    "executive_item_id": "Q56708958",
+    "positions": [
+      {
+        "comment": "leader of Bexley borough council",
+        "position_item_id": "Q56708839"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Sutton borough council",
+    "executive_item_id": "Q56708959",
+    "positions": [
+      {
+        "comment": "leader of Sutton borough council",
+        "position_item_id": "Q56708840"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Harrow borough council",
+    "executive_item_id": "Q56708960",
+    "positions": [
+      {
+        "comment": "leader of Harrow borough council",
+        "position_item_id": "Q56708841"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Islington borough council",
+    "executive_item_id": "Q56708961",
+    "positions": [
+      {
+        "comment": "leader of Islington borough council",
+        "position_item_id": "Q56708843"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Barking and Dagenham borough council",
+    "executive_item_id": "Q56708962",
+    "positions": [
+      {
+        "comment": "leader of Barking and Dagenham borough council",
+        "position_item_id": "Q56708845"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Birmingham City Council",
+    "executive_item_id": "Q56708963",
+    "positions": [
+      {
+        "comment": "leader of Birmingham City Council",
+        "position_item_id": "Q56708847"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Salford City Council",
+    "executive_item_id": "Q56708964",
+    "positions": [
+      {
+        "comment": "Mayor of Salford",
+        "position_item_id": "Q6797805"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of the City of Wolverhampton Council",
+    "executive_item_id": "Q56708965",
+    "positions": [
+      {
+        "comment": "leader of the City of Wolverhampton Council",
+        "position_item_id": "Q56708850"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Rotherham Metropolitan Borough Council",
+    "executive_item_id": "Q56708966",
+    "positions": [
+      {
+        "comment": "leader of Rotherham Metropolitan Borough Council",
+        "position_item_id": "Q56708851"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Sunderland City Council",
+    "executive_item_id": "Q56708970",
+    "positions": [
+      {
+        "comment": "leader of Sunderland City Council",
+        "position_item_id": "Q56708852"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Newcastle City Council",
+    "executive_item_id": "Q56708971",
+    "positions": [
+      {
+        "comment": "leader of Newcastle City Council",
+        "position_item_id": "Q56708853"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Doncaster City Council",
+    "executive_item_id": "Q56708972",
+    "positions": [
+      {
+        "comment": "Mayor of Doncaster",
+        "position_item_id": "Q6797698"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Coventry City Council",
+    "executive_item_id": "Q56708973",
+    "positions": [
+      {
+        "comment": "leader of Coventry City Council",
+        "position_item_id": "Q56708854"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Wakefield Council",
+    "executive_item_id": "Q56708974",
+    "positions": [
+      {
+        "comment": "leader of Wakefield Council",
+        "position_item_id": "Q56708855"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Liverpool City Council",
+    "executive_item_id": "Q56708975",
+    "positions": [
+      {
+        "comment": "Mayor of Liverpool",
+        "position_item_id": "Q5280483"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Manchester City Council",
+    "executive_item_id": "Q56708976",
+    "positions": [
+      {
+        "comment": "leader of Manchester City Council",
+        "position_item_id": "Q56708856"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Bradford Metropolitan District Council",
+    "executive_item_id": "Q56708977",
+    "positions": [
+      {
+        "comment": "leader of Bradford Metropolitan District Council",
+        "position_item_id": "Q56708857"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Sheffield City Council",
+    "executive_item_id": "Q56708978",
+    "positions": [
+      {
+        "comment": "leader of Sheffield City Council",
+        "position_item_id": "Q56708858"
+      }
+    ]
+  },
+  {
+    "comment": "executive of the City of Edinburgh Council",
+    "executive_item_id": "Q56708980",
+    "positions": [
+      {
+        "comment": "leader of the City of Edinburgh Council",
+        "position_item_id": "Q56708860"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Glasgow City Council",
+    "executive_item_id": "Q56708981",
+    "positions": [
+      {
+        "comment": "leader of Glasgow City Council",
+        "position_item_id": "Q56708861"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Cardiff Council",
+    "executive_item_id": "Q56708983",
+    "positions": [
+      {
+        "comment": "leader of Cardiff Council",
+        "position_item_id": "Q56708862"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Southampton City Council",
+    "executive_item_id": "Q56708984",
+    "positions": [
+      {
+        "comment": "leader of Southampton City Council",
+        "position_item_id": "Q56708863"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Stoke-on-Trent City Council",
+    "executive_item_id": "Q56708985",
+    "positions": [
+      {
+        "comment": "leader of Stoke-on-Trent City Council",
+        "position_item_id": "Q56708864"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Plymouth City Council",
+    "executive_item_id": "Q56708986",
+    "positions": [
+      {
+        "comment": "leader of Plymouth City Council",
+        "position_item_id": "Q56708865"
+      }
+    ]
+  },
+  {
+    "comment": "cabinet of Derby City Council",
+    "executive_item_id": "Q56708987",
+    "positions": [
+      {
+        "comment": "leader of Derby City Council",
+        "position_item_id": "Q56708869"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Hull City Council",
+    "executive_item_id": "Q56708988",
+    "positions": [
+      {
+        "comment": "leader of Hull City Council",
+        "position_item_id": "Q56708870"
+      }
+    ]
+  },
+  {
+    "comment": "office of the Mayor of Milton Keynes",
+    "executive_item_id": "Q56708989",
+    "positions": [
+      {
+        "comment": "Mayor of Milton Keynes",
+        "position_item_id": "Q56708871"
+      }
+    ]
+  },
+  {
+    "comment": "executive of Nottingham City Council",
+    "executive_item_id": "Q56708992",
+    "positions": [
+      {
+        "comment": "leader of Nottingham City Council",
+        "position_item_id": "Q56708873"
+      }
+    ]
+  },
+  {
+    "comment": "office of the Mayor of Leicester",
+    "executive_item_id": "Q56708993",
+    "positions": [
+      {
+        "comment": "Mayor of Leicester",
+        "position_item_id": "Q56708875"
+      }
+    ]
+  },
+  {
+    "comment": "office of the Mayor of Bristol",
+    "executive_item_id": "Q56708994",
+    "positions": [
+      {
+        "comment": "Mayor of Bristol",
+        "position_item_id": "Q56708876"
+      }
+    ]
   }
 ]
