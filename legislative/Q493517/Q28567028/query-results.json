@@ -91,15 +91,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Helen Mary Jones"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-08-02T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Helen Mary Jones"
       }
     }, {
       "party" : {
@@ -189,15 +189,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Carwyn Jones"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Carwyn Jones"
       }
     }, {
       "party" : {
@@ -287,15 +287,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rhun ap Iorwerth"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rhun ap Iorwerth"
       }
     }, {
       "party" : {
@@ -385,15 +385,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jenny Rathbone"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jenny Rathbone"
       }
     }, {
       "party" : {
@@ -483,15 +483,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "David Rees"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Rees"
       }
     }, {
       "party" : {
@@ -581,15 +581,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Nathan Lee Gill"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Nathan Lee Gill"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -684,15 +684,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Nathan Lee Gill"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-08-17T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Nathan Lee Gill"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -787,15 +787,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Sian Gwenllian"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sian Gwenllian"
       }
     }, {
       "party" : {
@@ -885,15 +885,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rhianon Passmore"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rhianon Passmore"
       }
     }, {
       "party" : {
@@ -983,15 +983,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hannah Blythyn"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hannah Blythyn"
       }
     }, {
       "party" : {
@@ -1081,15 +1081,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lee Waters"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lee Waters"
       },
       "facebook" : {
         "type" : "literal",
@@ -1183,15 +1183,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hefin David"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hefin David"
       }
     }, {
       "party" : {
@@ -1281,20 +1281,118 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Neil McEvoy"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
       },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Neil McEvoy"
+      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-01-16T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Annibynnwr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q24041564-efda1289-4fd7-2724-f268-152d519df21b"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7568764"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rhanbarth Canol De Cymru (Cynulliad Cenedlaethol)"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Wales Central"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3406079"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod Cynulliad"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the National Assembly for Wales"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24041564"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Neil McEvoy"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q493517"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cynulliad Cenedlaethol Cymru"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly for Wales"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-01-16T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Neil McEvoy"
       }
     }, {
       "party" : {
@@ -1384,15 +1482,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Vikki Howells"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Vikki Howells"
       }
     }, {
       "party" : {
@@ -1575,15 +1673,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dawn Bowden"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dawn Bowden"
       }
     }, {
       "party" : {
@@ -1673,15 +1771,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jayne Bryant"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jayne Bryant"
       }
     }, {
       "party" : {
@@ -1864,15 +1962,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "David Rowlands"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Rowlands"
       }
     }, {
       "party" : {
@@ -2055,15 +2153,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Steffan Lewis"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Steffan Lewis"
       }
     }, {
       "party" : {
@@ -2153,15 +2251,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jeremy Miles"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jeremy Miles"
       }
     }, {
       "party" : {
@@ -2251,15 +2349,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Neil Hamilton"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Neil Hamilton"
       }
     }, {
       "party" : {
@@ -2349,15 +2447,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dafydd Elis-Thomas"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dafydd Elis-Thomas"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2452,15 +2550,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dafydd Elis-Thomas"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-14T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dafydd Elis-Thomas"
       }
     }, {
       "party" : {
@@ -2550,15 +2648,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Eluned Morgan"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Eluned Morgan"
       }
     }, {
       "party" : {
@@ -2648,15 +2746,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mohammad Asghar"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mohammad Asghar"
       }
     }, {
       "party" : {
@@ -2746,15 +2844,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Adam Price"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Adam Price"
       }
     }, {
       "party" : {
@@ -2844,15 +2942,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Simon Thomas"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Simon Thomas"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -2947,15 +3045,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mandy Jones"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-12-28T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mandy Jones"
       }
     }, {
       "party" : {
@@ -3045,15 +3143,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Alun Davies"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Alun Davies"
       }
     }, {
       "party" : {
@@ -3143,15 +3241,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Andrew R. T. Davies"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Andrew R. T. Davies"
       }
     }, {
       "party" : {
@@ -3241,15 +3339,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Angela Burns"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Angela Burns"
       }
     }, {
       "party" : {
@@ -3339,15 +3437,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ann Jones"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ann Jones"
       }
     }, {
       "party" : {
@@ -3437,15 +3535,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jack Sargeant"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-02-07T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jack Sargeant"
       }
     }, {
       "party" : {
@@ -3535,15 +3633,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bethan Jenkins"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bethan Jenkins"
       },
       "facebook" : {
         "type" : "literal",
@@ -3637,15 +3735,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Carl Sargeant"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Carl Sargeant"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3740,15 +3838,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Carl Sargeant"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-03T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Carl Sargeant"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -3843,15 +3941,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Darren Millar"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Darren Millar"
       }
     }, {
       "party" : {
@@ -3941,15 +4039,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "David Lloyd"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Lloyd"
       }
     }, {
       "party" : {
@@ -4039,15 +4137,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "David Melding"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Melding"
       }
     }, {
       "party" : {
@@ -4137,15 +4235,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Elin Jones"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Elin Jones"
       }
     }, {
       "party" : {
@@ -4235,15 +4333,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Kirsty Williams"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kirsty Williams"
       }
     }, {
       "party" : {
@@ -4524,15 +4622,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Jane Hutt"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Jane Hutt"
       }
     }, {
       "party" : {
@@ -4622,15 +4720,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Janet Finch-Saunders"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Janet Finch-Saunders"
       }
     }, {
       "party" : {
@@ -4720,15 +4818,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "John Griffiths"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "John Griffiths"
       }
     }, {
       "party" : {
@@ -4818,15 +4916,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Joyce Watson"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Joyce Watson"
       }
     }, {
       "party" : {
@@ -4916,15 +5014,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Julie James"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Julie James"
       }
     }, {
       "party" : {
@@ -5014,15 +5112,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Julie Morgan"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Julie Morgan"
       }
     }, {
       "party" : {
@@ -5112,15 +5210,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ken Skates"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ken Skates"
       }
     }, {
       "party" : {
@@ -5210,15 +5308,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lesley Griffiths"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lesley Griffiths"
       }
     }, {
       "party" : {
@@ -5308,15 +5406,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llyr Huws Gruffydd"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llyr Huws Gruffydd"
       }
     }, {
       "party" : {
@@ -5406,15 +5504,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lynne Neagle"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lynne Neagle"
       }
     }, {
       "party" : {
@@ -5504,15 +5602,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mark Drakeford"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mark Drakeford"
       }
     }, {
       "party" : {
@@ -5602,15 +5700,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mark Isherwood"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mark Isherwood"
       }
     }, {
       "party" : {
@@ -5700,15 +5798,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mick Antoniw"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mick Antoniw"
       }
     }, {
       "party" : {
@@ -5798,15 +5896,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mike Hedges"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mike Hedges"
       }
     }, {
       "party" : {
@@ -5896,15 +5994,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Huw Irranca-Davies"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Huw Irranca-Davies"
       },
       "facebook" : {
         "type" : "literal",
@@ -5998,15 +6096,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Nick Ramsay"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Nick Ramsay"
       }
     }, {
       "party" : {
@@ -6096,15 +6194,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Paul Davies"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Paul Davies"
       }
     }, {
       "party" : {
@@ -6194,15 +6292,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rebecca Evans"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rebecca Evans"
       }
     }, {
       "party" : {
@@ -6292,15 +6390,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Russell George"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Russell George"
       }
     }, {
       "party" : {
@@ -6390,15 +6488,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Suzy Davies"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Suzy Davies"
       }
     }, {
       "party" : {
@@ -6488,15 +6586,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Vaughan Gething"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Vaughan Gething"
       }
     }, {
       "party" : {
@@ -6586,15 +6684,15 @@
         "type" : "literal",
         "value" : "60"
       },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Leanne Wood"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-05-05T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Leanne Wood"
       }
     } ]
   }

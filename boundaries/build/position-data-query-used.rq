@@ -1,0 +1,153 @@
+SELECT DISTINCT
+  ?position ?position_name_en ?position_name_cy
+  ?positionType
+  ?adminAreaTypes
+  ?adminArea ?admin_area_en ?admin_area_cy
+  ?positionSuperclass ?position_superclass_en ?position_superclass_cy
+  ?body ?body_en ?body_cy
+WHERE {
+  {
+    SELECT DISTINCT ?adminArea
+                (MIN(?primarySort) AS ?primarySort)
+                (GROUP_CONCAT(DISTINCT REPLACE(STR(?adminAreaType), '^.*/', ''); SEPARATOR=" ") AS ?adminAreaTypes) {
+  {
+    VALUES (?adminArea ?primarySort ?adminAreaType) { (wd:Q145 1 wd:Q6256) }
+  } UNION {
+    # Find regional admin areas of this country (generally FLACSen)
+    ?adminArea wdt:P17 wd:Q145 ;
+          wdt:P31/wdt:P279* wd:Q10864048
+    VALUES (?primarySort ?adminAreaType) { (2 wd:Q10864048) }
+  } UNION {
+    # Find cities or municipalities with populations of over 250k
+    VALUES ?adminAreaType { wd:Q515 wd:Q15284 }
+    ?adminArea wdt:P17 wd:Q145 ;
+       wdt:P31/wdt:P279* ?adminAreaType ;
+       wdt:P1082 ?population .
+    FILTER (?population > 250000)
+    VALUES ?primarySort { 3 }
+  } UNION {
+    VALUES (?adminArea ?primarySort ?adminAreaType) {
+      (wd:Q1140130 4 wd:Q24238356)
+      (wd:Q202088 4 wd:Q24238356)
+      (wd:Q215038 4 wd:Q24238356)
+      (wd:Q214162 4 wd:Q24238356)
+      (wd:Q213560 4 wd:Q24238356)
+      (wd:Q40608 4 wd:Q24238356)
+      (wd:Q205679 4 wd:Q24238356)
+      (wd:Q693450 4 wd:Q24238356)
+      (wd:Q215030 4 wd:Q24238356)
+      (wd:Q208955 4 wd:Q24238356)
+      (wd:Q205690 4 wd:Q24238356)
+      (wd:Q208152 4 wd:Q24238356)
+      (wd:Q730706 4 wd:Q24238356)
+      (wd:Q210563 4 wd:Q24238356)
+      (wd:Q202059 4 wd:Q24238356)
+      (wd:Q207201 4 wd:Q24238356)
+      (wd:Q208201 4 wd:Q24238356)
+      (wd:Q210531 4 wd:Q24238356)
+      (wd:Q207218 4 wd:Q24238356)
+      (wd:Q208139 4 wd:Q24238356)
+      (wd:Q26888 4 wd:Q24238356)
+      (wd:Q151048 4 wd:Q24238356)
+      (wd:Q40478 4 wd:Q24238356)
+      (wd:Q32504 4 wd:Q24238356)
+      (wd:Q32515 4 wd:Q24238356)
+      (wd:Q179351 4 wd:Q24238356)
+      (wd:Q188801 4 wd:Q24238356)
+      (wd:Q207208 4 wd:Q24238356)
+      (wd:Q320378 4 wd:Q24238356)
+      (wd:Q210476 4 wd:Q24238356)
+      (wd:Q32508 4 wd:Q24238356)
+      (wd:Q205817 4 wd:Q24238356)
+      (wd:Q23311 4 wd:Q24238356)
+      (wd:Q205358 4 wd:Q24238356)
+      (wd:Q20986424 4 wd:Q24238356)
+      (wd:Q774015 4 wd:Q24238356)
+      (wd:Q1142118 4 wd:Q24238356)
+      (wd:Q21885975 4 wd:Q24238356)
+      (wd:Q1878732 4 wd:Q24238356)
+      (wd:Q1280897 4 wd:Q24238356)
+      (wd:Q21012735 4 wd:Q24238356)
+      (wd:Q1925846 4 wd:Q24238356)
+      (wd:Q20986417 4 wd:Q24238356)
+      (wd:Q763171 4 wd:Q24238356)
+      (wd:Q21665571 4 wd:Q24238356)
+      (wd:Q21525592 4 wd:Q24238356)
+      (wd:Q2834810 4 wd:Q24238356)
+      (wd:Q12956644 4 wd:Q24238356)
+      (wd:Q2379199 4 wd:Q24238356)
+      (wd:Q55934339 4 wd:Q24238356)
+      (wd:Q24342199 4 wd:Q24238356)
+      (wd:Q21683230 4 wd:Q24238356)
+      (wd:Q21891722 4 wd:Q24238356)
+      (wd:Q21674890 4 wd:Q24238356)
+      (wd:Q21885980 4 wd:Q24238356)
+      (wd:Q21885987 4 wd:Q24238356)
+      (wd:Q894090 4 wd:Q24238356)
+      (wd:Q1022488 4 wd:Q24238356)
+      (wd:Q21885994 4 wd:Q24238356)
+      (wd:Q21683242 4 wd:Q24238356)
+      (wd:Q21693433 4 wd:Q24238356)
+    }
+  }
+
+  # Remove admin areas that have ended
+  FILTER NOT EXISTS { ?adminArea wdt:P582|wdt:P576 ?adminAreaEnd . FILTER (?adminAreaEnd < NOW()) }
+} GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
+
+  }
+  OPTIONAL {
+  ?position rdfs:label ?position_name_en
+  FILTER(LANG(?position_name_en) = "en")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_cy
+  FILTER(LANG(?position_name_cy) = "cy")
+}
+
+  ?body wdt:P527|wdt:P2670|wdt:P2388 ?position .
+  MINUS { ?body wdt:P576|wdt:P582 ?bodyEnd . FILTER(?bodyEnd < NOW()) }
+  OPTIONAL {
+  ?body rdfs:label ?body_en
+  FILTER(LANG(?body_en) = "en")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_cy
+  FILTER(LANG(?body_cy) = "cy")
+}
+
+  ?body wdt:P1001 ?adminArea .
+  OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_en
+  FILTER(LANG(?admin_area_en) = "en")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_cy
+  FILTER(LANG(?admin_area_cy) = "cy")
+}
+
+  OPTIONAL {
+    # If this position appears to be legislative (it's an subclass* of 'legislator')
+    # populate ?positionType with that:
+    VALUES ?positionType { wd:Q4175034 }
+    ?position wdt:P279* ?positionType
+  }
+  # Add the immediate superclass of the position on its way to legislator, head of
+  # government or president:
+  VALUES ?positionAncestor { wd:Q4175034 wd:Q2285706 wd:Q30461  }
+  ?position wdt:P279 ?positionSuperclass .
+            ?positionSuperclass wdt:P279* ?positionAncestor .
+  OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_en
+  FILTER(LANG(?position_superclass_en) = "en")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_cy
+  FILTER(LANG(?position_superclass_cy) = "cy")
+}
+
+} ORDER BY ?position

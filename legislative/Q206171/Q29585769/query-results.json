@@ -3524,6 +3524,94 @@
     }, {
       "party" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Annibynnwr"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1900265-3e9a9c19-4ea2-59f8-2a1c-4b2c8e028ceb"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q319480"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aberdeen Donside"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aelod Seneddol"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1711695"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Scottish Parliament"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1900265"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mark McDonald"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q206171"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Senedd yr Alban"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Scottish Parliament"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "129"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-06T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1256956"
       },
       "party_name_en" : {

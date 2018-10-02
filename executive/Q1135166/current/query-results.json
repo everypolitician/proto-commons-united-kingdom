@@ -4,47 +4,9 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23306"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llundain Fawr"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Greater London"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38931"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38931"
-      },
-      "role_superclass_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maer Llundain"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of London"
-      },
-      "role_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maer Llundain"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of London"
+        "value" : "http://www.wikidata.org/entity/statement/Q18530507-ffe9798b-4a1f-09ba-e7da-7b5865f9f84c"
       },
       "item" : {
         "type" : "uri",
@@ -55,52 +17,25 @@
         "type" : "literal",
         "value" : "Nicholas Twyford"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1135166"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Greater London Authority"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18530507-ffe9798b-4a1f-09ba-e7da-7b5865f9f84c"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23306"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23306"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llundain Fawr"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Greater London"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llundain Fawr"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q38931"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38931"
-      },
-      "role_superclass_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maer Llundain"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mayor of London"
@@ -110,10 +45,37 @@
         "type" : "literal",
         "value" : "Maer Llundain"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mayor of London"
+        "value" : "mayor"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "maer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1135166"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London Authority"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23306"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18936120-69e30ea9-4d2d-ecd0-addc-9c4bf1fb6525"
       },
       "item" : {
         "type" : "uri",
@@ -124,52 +86,25 @@
         "type" : "literal",
         "value" : "John Allen"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1135166"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Greater London Authority"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18936120-69e30ea9-4d2d-ecd0-addc-9c4bf1fb6525"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23306"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23306"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llundain Fawr"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Greater London"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llundain Fawr"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q38931"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38931"
-      },
-      "role_superclass_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maer Llundain"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mayor of London"
@@ -179,10 +114,37 @@
         "type" : "literal",
         "value" : "Maer Llundain"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mayor of London"
+        "value" : "mayor"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "maer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1135166"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London Authority"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23306"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q27171252-9222a975-43b4-a668-7aae-926f5c723421"
       },
       "item" : {
         "type" : "uri",
@@ -193,52 +155,25 @@
         "type" : "literal",
         "value" : "William Eastfield"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1135166"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Greater London Authority"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27171252-9222a975-43b4-a668-7aae-926f5c723421"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23306"
-      }
-    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23306"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llundain Fawr"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Greater London"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llundain Fawr"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q38931"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38931"
-      },
-      "role_superclass_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maer Llundain"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mayor of London"
@@ -248,10 +183,37 @@
         "type" : "literal",
         "value" : "Maer Llundain"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mayor of London"
+        "value" : "mayor"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "maer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1135166"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London Authority"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23306"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q334155-8f3d3dde-462f-8bea-1671-65d8512bd3c1"
       },
       "item" : {
         "type" : "uri",
@@ -262,6 +224,48 @@
         "type" : "literal",
         "value" : "Sadiq Khan"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23306"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llundain Fawr"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38931"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of London"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Maer Llundain"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "maer"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1135166"
@@ -271,32 +275,28 @@
         "type" : "literal",
         "value" : "Greater London Authority"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q334155-8f3d3dde-462f-8bea-1671-65d8512bd3c1"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23306"
       },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sadiq Khan"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9630"
-      },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Y Blaid Lafur"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Labour Party"
       },
-      "name_cy" : {
+      "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
-        "value" : "Sadiq Khan"
+        "value" : "Y Blaid Lafur"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -308,47 +308,9 @@
         "value" : "sadiqforlondon"
       }
     }, {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23306"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llundain Fawr"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Greater London"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38931"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38931"
-      },
-      "role_superclass_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maer Llundain"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of London"
-      },
-      "role_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maer Llundain"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of London"
+        "value" : "http://www.wikidata.org/entity/statement/Q334155-8f3d3dde-462f-8bea-1671-65d8512bd3c1"
       },
       "item" : {
         "type" : "uri",
@@ -359,6 +321,48 @@
         "type" : "literal",
         "value" : "Sadiq Khan"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23306"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llundain Fawr"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38931"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of London"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Maer Llundain"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "role_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "maer"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1135166"
@@ -368,32 +372,28 @@
         "type" : "literal",
         "value" : "Greater London Authority"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q334155-8f3d3dde-462f-8bea-1671-65d8512bd3c1"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23306"
       },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sadiq Khan"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9630"
-      },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Y Blaid Lafur"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Labour Party"
       },
-      "name_cy" : {
+      "party_name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
-        "value" : "Sadiq Khan"
+        "value" : "Y Blaid Lafur"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",

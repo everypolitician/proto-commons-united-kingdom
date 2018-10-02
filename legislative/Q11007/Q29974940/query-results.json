@@ -3,6 +3,4203 @@
     "vars" : [ "statement", "item", "name_en", "name_cy", "party", "party_name_en", "party_name_cy", "district", "district_name_en", "district_name_cy", "role", "role_en", "role_cy", "role_superclass", "role_superclass_en", "role_superclass_cy", "start", "end", "facebook", "org", "org_en", "org_cy", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1101999"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Clive Soley, Baron Soley"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1101999-F071AAB1-21E7-4896-BC9B-82DDDF375726"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-06-29T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1173562"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Alton, Baron Alton of Liverpool"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1173562-E1753528-71A9-4015-A886-165A36CE458F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-06-17T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127742"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malcolm Pearson, Baron Pearson of Rannoch"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q127742-a96038d4-486b-163d-fc7f-daa8cf60cac7"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1990-06-18T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1507362"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "George Foulkes, Baron Foulkes of Cumnock"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1507362-DFEBF870-8B5C-4502-9C13-FBB1385F1D72"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-05-13T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168606"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angela Smith, Baroness Smith of Basildon"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q168606-D9EB73C4-D24A-492B-9CC3-B615029B2F77"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-07-07T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1689184"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jim O'Neill"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1689184-2c14a01c-4741-7643-1b38-53411ff48b4c"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-05-28T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1739190"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alex Carlile, Baron Carlile of Berriew"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1739190-412469FA-F01D-47AC-8BFF-C8DCA9865005"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-07-27T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Alex Carlile"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174327"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Sainsbury, Baron Sainsbury of Turville"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q174327-2C9A41E8-F2C9-458C-9345-E9E86CF59952"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-10-03T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q180975"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andrew Lloyd Webber"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q180975-03137710-2357-4982-9ACC-E7D598E80529"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-02-25T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Andrew Lloyd Webber"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-10-17T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "AndrewLloydWebber"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q188502"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sebastian Coe"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q188502-778FE2A0-278D-4EA7-9820-418A00DD590D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2000-05-16T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sebastian Coe"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1906271"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mary Goudie, Baroness Goudie"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1906271-20A4A297-1E55-49F1-8C36-643730647484"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-01-01T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192556"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Trimble"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q192556-4130108A-1332-4ECC-A041-313B5A5CC601"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2006-06-02T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "David Trimble"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q194713"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Patricia Scotland, Baroness Scotland of Asthal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q194713-74DDF80A-EC8F-41EC-A024-8EC8D97D86D6"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-10-30T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q198183"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Usha Prashar, Baroness Prashar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q198183-75098652-3D32-4BB1-A5A0-CB33FA9A572D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-07-15T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202923"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael Bishop, Baron Glendonbrook"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q202923-9BD720AC-6A31-4F69-95D7-914DE7CC013F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-03-22T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2176533"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rupert Guinness, 2nd Earl of Iveagh"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2176533-5E6A16AF-B38F-406F-B3A2-ECB2EF10FBF0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-10-07T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rupert Guinness, 2nd Earl of Iveagh"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q248021"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Menzies Campbell"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q248021-1341372A-8238-4073-9A31-6AD14BA5AC98"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-10-13T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Menzies Campbell"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2539282"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Waheed Alli"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2539282-BFD17C4D-FAC2-42B0-ADDB-27197B5A5C58"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-07-18T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Waheed Alli"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q259736"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "James Arbuthnot"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q259736-2A0178F1-B103-4135-A4F6-5FA2C70BBB01"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-10-01T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q259836"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sir George Young"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q259836-8d204be9-421b-cb69-c341-39e4184ea7b9"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-09-29T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q260960"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alan Beith"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q260960-84C5E8A7-8012-48D0-88E0-7122782585B5"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-10-19T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q272384"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Thurso"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q272384-382B27CA-3410-4832-B781-5F0C9354887E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-04-19T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q296639"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alistair Darling"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q296639-510F3196-6E50-42EF-9A8A-9CAA64DFD99B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-12-01T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Alistair Darling"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q304302"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lynne Featherstone"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q304302-90B52489-0BAE-4CE5-9EAB-83B4975F0493"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-10-20T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q310046"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peter Mandelson"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q310046-987BE069-0572-4B4B-ACFD-005BCA1E3E1C"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-10-13T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Peter Mandelson"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q332968"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Susan Kramer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q332968-761D9C07-C848-4172-A105-62DB3AF3AA03"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-12-22T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q333390"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kenneth Baker, Baron Baker of Dorking"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q333390-E7F7F5C4-1775-48AB-9E16-FA2C9B49ECAB"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-06-16T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kenneth Baker, Barwn Baker o Dorking"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q333600"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dafydd Wigley"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q333600-C5EB7D7B-1718-4BD5-88F5-585CDDF03C71"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-01-19T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dafydd Wigley"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q333722"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Betty Boothroyd"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q333722-A0F31FF1-EA3B-45A5-AAC5-71BC8EB860A8"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-01-15T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334097"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emma Nicholson"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q334097-53D598F0-CF04-41CA-BFC7-09F4256CF2F3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-11-03T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Emma Nicholson"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334287"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Derick Heathcoat-Amory, 1st Viscount Amory"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q334287-47FB4C25-BC88-436A-8677-5FC4487F3F61"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1960-09-01T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334345"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harold Watkinson, 1st Viscount Watkinson"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q334345-6EE5A15A-66F3-4605-921F-B1A06276D7C3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-06-26T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334348"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jenny Tonge, Baroness Tonge"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q334348-F112132E-D0C1-42D5-A0DA-FEBFEFA5CEA6"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335038"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peter Carington, 6th Baron Carrington"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q335038-FEBF5466-C6D3-43AE-A059-B2C0B58F9F95"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-11-17T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Peter Carington, 6ed Barwn Carrington"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335189"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colin Renfrew"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q335189-321BE257-F358-4474-B4C8-C73004E6ADAA"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1991-01-01T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335310"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Richard Casey, Baron Casey"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q335310-BE99FC39-881C-4D21-BCC2-B4CC1B007816"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1960-01-01T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335576"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thomas Galbraith, 2nd Baron Strathclyde"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q335576-6B593F81-F4E3-4690-B76A-D9FE7B2828BB"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1985-07-12T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335692"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "James Graham, 8th Duke of Montrose"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q335692-3FE0D073-656C-4DE1-8391-3405AEFE6EA5"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-11-11T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q335930"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Neuberger, Baron Neuberger of Abbotsbury"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q335930-27B16C0A-DC6C-47E3-A4B5-411127B26E94"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-01-15T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336133"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Chidgey, Baron Chidgey"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q336133-922366A5-1456-4440-8CDD-E5311F0822BC"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-06-17T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336362"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "William Wallace, Baron Wallace of Saltaire"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q336362-FE27FC9C-0E11-4636-B662-71105857B811"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-01-01T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336444"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conrad Black"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q336444-2EA279D4-25AB-4067-9A90-878B9621B050"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2002-10-31T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Conrad Black"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336480"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "James Mackay, Baron Mackay of Clashfern"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q336480-3CAA6D75-83A6-4C30-A4CA-A9E72B600648"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1979-07-06T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336520"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alan Sugar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q336520-F5FAAA0C-9D82-42EF-ADAE-988B79F965C2"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-07-20T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Alan Sugar"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336521"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eluned Morgan, Baroness Morgan of Ely"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q336521-FBD811BC-C398-40BB-88C2-75CE213FB355"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-01-01T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Eluned Morgan"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336790"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Taylor, Baron Taylor of Warwick"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q336790-FA87F45C-C462-4FF5-B457-159891FA45D2"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-10-02T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q336912"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peter Forster"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q336912-1f95da72-4e6d-fe73-bcc0-f3be8cdaad80"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-11-08T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3443398"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roundell Palmer, 3rd Earl of Selborne"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3443398-0a22b89a-4be6-7421-858d-01010121bca6"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-09T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4090718"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oliver Baldwin, 2nd Earl Baldwin of Bewdley"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4090718-218fc8f1-4f79-1b7c-fb2d-523641c2f13b"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-12-14T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4710027"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albert Denison, 1st Baron Londesborough"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4710027-c74046e8-498d-109a-a9e1-90150b75ba61"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1850-02-28T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5076148"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles Cavendish, 1st Baron Chesham"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5076148-ac5e6829-4b01-8f66-8428-56dafcf0d681"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1858-01-15T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5082203"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles Royle, Baron Royle"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5082203-585f86e5-4188-9e28-29e8-6e00b9b2d351"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-08-25T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5259036"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dennis Vosper, Baron Runcorn"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5259036-93c5caa5-44e4-4a3f-1aee-1a940563f244"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-04-20T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5297667"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Doreen Lawrence"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5297667-c35644c1-49d8-176c-06aa-f59b47635d53"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-09-06T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q532347"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angela Browning"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q532347-5DBA6770-01C6-4B9D-8DEE-58F2A88C8C23"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-07-13T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5353173"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elaine Burton, Baroness Burton of Coventry"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5353173-D9D46DBA-0FD1-4E14-95DE-DC61A00911ED"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1962-04-01T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5497336"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frederick Banbury, 1st Baron Banbury of Southam"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5497336-72f2fe0b-4fcd-3522-dcb2-acb3c074971c"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1924-01-22T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5561118"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dick Mitchison, Baron Mitchison"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5561118-0EF7D36C-D94A-470B-8A4D-32126EC8437F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-10-05T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5728787"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henry Strauss, 1st Baron Conesford"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5728787-0b22e953-4ac9-fa65-c9f8-c20a6a0e9658"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1955-05-12T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5733773"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Herbert Cayzer, 1st Baron Rotherwick"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5733773-5479d1f2-4f83-8344-1794-442d0d581ad9"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1939-07-05T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5744989"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hervey Rhodes, Baron Rhodes"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5744989-1B9F9526-506E-4F59-A6E1-CB3917BC1D65"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-09-14T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q613460"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eliza Manningham-Buller"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q613460-BDBFFCDA-D537-48AF-84FE-6EDFACF5938D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-04-18T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Eliza Manningham-Buller"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6179340"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jenny Jones"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6179340-1BF16F6E-BC3B-4C12-A9AC-AD6ECAEBB7B0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-11-05T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6239787"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Hope, 1st Baron Glendevon"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6239787-BF421C8C-B6EF-409B-A33B-65687E7DEC3B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-07-16T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6246292"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Maclay, 1st Viscount Muirshiel"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6246292-DE12CD7F-3FFE-4528-8568-B17E5B9D0A88"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-07-16T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6795190"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Max Rosenheim, Baron Rosenheim"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6795190-AEDB318A-C12A-4AB7-9AFF-1CD17301BE68"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1970-07-31T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Max Rosenheim, Barwn Rosenheim"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7348929"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Robert Platt, Baron Platt"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7348929-4B2F167C-59FC-4183-B3A9-40975E73D03E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1967-01-16T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7411869"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samuel Jones-Loyd, 1st Baron Overstone"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7411869-ec98a48f-452f-4d25-4741-37124047184f"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1850-02-28T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7818070"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tom Williamson, Baron Williamson"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7818070-bed9e188-4cba-38bd-fa07-7e72073e308b"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1962-05-15T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8009155"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "William Fletcher-Vane, 1st Baron Inglewood"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8009155-B5901D56-B4C5-4B79-B7A0-74C6810EF85B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-06-30T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q936742"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicholas Lowther, 2nd Viscount Ullswater"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q936742-E01060C0-2E10-468D-B165-040AF7703284"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-01-01T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Nicholas Lowther"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24165"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hélène Hayman"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q24165-FE01E2CC-0530-4649-A39C-B459B0F4F172"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1996-01-02T00:00:00Z"
+      }
+    }, {
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18952564"
+      },
+      "role_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "aelod o Dŷ'r Arglwyddi"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the House of Lords"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7416"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Margaret Thatcher"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11007"
+      },
+      "org_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Arglwyddi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Lords"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7416-8520BDD5-BC44-456C-AECF-CF841BE78E7C"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "808"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1992-01-01T00:00:00Z"
+      },
+      "name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Margaret Thatcher"
+      }
+    } ]
   }
 }
