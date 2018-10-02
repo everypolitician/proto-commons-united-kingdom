@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Barnet London Borough Council"
+      },
+      "id": "Q55990309",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55990309"
+        }
+      ],
+      "area_id": "Q151048"
+    }
   ],
   "areas": [
 

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Merton London Borough Council"
+      },
+      "id": "Q55989708",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55989708"
+        }
+      ],
+      "area_id": "Q32504"
+    }
   ],
   "areas": [
 

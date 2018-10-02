@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Nottingham City Council"
+      },
+      "id": "Q56007345",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56007345"
+        }
+      ],
+      "area_id": "Q21885994"
+    }
   ],
   "areas": [
 

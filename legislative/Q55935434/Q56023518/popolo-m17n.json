@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of City of Cardiff Council"
+      },
+      "id": "Q55935434",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55935434"
+        }
+      ],
+      "area_id": "Q24342199"
+    }
   ],
   "areas": [
 

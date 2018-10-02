@@ -1,0 +1,187 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Nicholas Twyford"
+      },
+      "id": "Q18530507",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18530507"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Allen"
+      },
+      "id": "Q18936120",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18936120"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Eastfield"
+      },
+      "id": "Q27171252",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27171252"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sadiq Khan",
+        "lang:cy": "Sadiq Khan"
+      },
+      "id": "Q334155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q334155"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/sadiqforlondon"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Greater London Authority"
+      },
+      "id": "Q1135166",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1135166"
+        }
+      ],
+      "area_id": "Q84"
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:cy": "Y Blaid Lafur"
+      },
+      "id": "Q9630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9630"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18530507-ffe9798b-4a1f-09ba-e7da-7b5865f9f84c",
+      "person_id": "Q18530507",
+      "organization_id": "Q1135166",
+      "area_id": "Q23306",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q38931",
+      "role": {
+        "lang:en": "Mayor of London",
+        "lang:cy": "Maer Llundain"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18936120-69e30ea9-4d2d-ecd0-addc-9c4bf1fb6525",
+      "person_id": "Q18936120",
+      "organization_id": "Q1135166",
+      "area_id": "Q23306",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q38931",
+      "role": {
+        "lang:en": "Mayor of London",
+        "lang:cy": "Maer Llundain"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27171252-9222a975-43b4-a668-7aae-926f5c723421",
+      "person_id": "Q27171252",
+      "organization_id": "Q1135166",
+      "area_id": "Q23306",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q38931",
+      "role": {
+        "lang:en": "Mayor of London",
+        "lang:cy": "Maer Llundain"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q334155-8f3d3dde-462f-8bea-1671-65d8512bd3c1",
+      "person_id": "Q334155",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q1135166",
+      "area_id": "Q23306",
+      "start_date": "2016-05-07",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q38931",
+      "role": {
+        "lang:en": "Mayor of London",
+        "lang:cy": "Maer Llundain"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q334155-8f3d3dde-462f-8bea-1671-65d8512bd3c1",
+      "person_id": "Q334155",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q1135166",
+      "area_id": "Q23306",
+      "start_date": "2016-05-09",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q38931",
+      "role": {
+        "lang:en": "Mayor of London",
+        "lang:cy": "Maer Llundain"
+      }
+    }
+  ]
+}

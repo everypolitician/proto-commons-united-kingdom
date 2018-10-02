@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Southwark London Borough Council"
+      },
+      "id": "Q56008486",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56008486"
+        }
+      ],
+      "area_id": "Q730706"
+    }
   ],
   "areas": [
 

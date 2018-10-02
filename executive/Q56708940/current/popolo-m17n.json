@@ -1,0 +1,71 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "John Biggs"
+      },
+      "id": "Q6221877",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6221877"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "cabinet of Tower Hamlets borough council"
+      },
+      "id": "Q56708940",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708940"
+        }
+      ],
+      "area_id": "Q208152"
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:cy": "Y Blaid Lafur"
+      },
+      "id": "Q9630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9630"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6221877-4A2F7806-D8F7-468D-934C-B8F9C17A227A",
+      "person_id": "Q6221877",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q56708940",
+      "area_id": "Q208152",
+      "start_date": "2015-06-12",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q17015787",
+      "role": {
+        "lang:en": "Mayor of Tower Hamlets"
+      }
+    }
+  ]
+}

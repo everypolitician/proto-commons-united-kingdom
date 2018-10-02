@@ -1,9 +1,1526 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Alex Maskey"
+      },
+      "id": "Q1116655",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1116655"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Máirtín Ó Muilleoir",
+        "lang:cy": "Máirtín Ó Muilleoir"
+      },
+      "id": "Q13586248",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13586248"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ian Milne"
+      },
+      "id": "Q15054230",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15054230"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Hilditch"
+      },
+      "id": "Q16195114",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16195114"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Frew"
+      },
+      "id": "Q16214843",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16214843"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Claire Sugden"
+      },
+      "id": "Q17017367",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17017367"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nichola Mallon"
+      },
+      "id": "Q17306227",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17306227"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Claire Hanna"
+      },
+      "id": "Q20631177",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20631177"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Doug Beattie"
+      },
+      "id": "Q20675966",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20675966"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gordon Lyons"
+      },
+      "id": "Q20966622",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20966622"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andy Allen"
+      },
+      "id": "Q20979148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20979148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gerry Carroll"
+      },
+      "id": "Q20979152",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20979152"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gary Middleton"
+      },
+      "id": "Q21130106",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21130106"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Raymond McCartney"
+      },
+      "id": "Q2134210",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2134210"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Daniel McCrossan"
+      },
+      "id": "Q22006766",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22006766"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Declan Kearney"
+      },
+      "id": "Q24052777",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052777"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christopher Stalford"
+      },
+      "id": "Q24052778",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052778"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Clare Bailey"
+      },
+      "id": "Q24052779",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052779"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paula Bradshaw"
+      },
+      "id": "Q24052780",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052780"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Carla Lockhart"
+      },
+      "id": "Q24052782",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052782"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alan Chambers"
+      },
+      "id": "Q24052783",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052783"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Caoimhe Archibald"
+      },
+      "id": "Q24052784",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052784"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joanne Bunting"
+      },
+      "id": "Q24052786",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052786"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kellie Armstrong"
+      },
+      "id": "Q24052787",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052787"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rosemary Barton"
+      },
+      "id": "Q24052788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Steve Aiken"
+      },
+      "id": "Q24052789",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24052789"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maurice Bradley"
+      },
+      "id": "Q24083699",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24083699"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sinéad Bradley"
+      },
+      "id": "Q24083702",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24083702"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colin McGrath"
+      },
+      "id": "Q24083703",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24083703"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Linda Dillon"
+      },
+      "id": "Q24083708",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24083708"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robbie Butler",
+        "lang:cy": "Robbie Butler"
+      },
+      "id": "Q24083709",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24083709"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Keith Buchanan"
+      },
+      "id": "Q24088044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24088044"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Órlaithí Flynn"
+      },
+      "id": "Q27973930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27973930"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/OrlaithiFlynnSF"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sinéad Ennis"
+      },
+      "id": "Q28867758",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28867758"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jemma Dolan"
+      },
+      "id": "Q28867959",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28867959"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jonathan Buckley"
+      },
+      "id": "Q28867994",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28867994"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Stewart"
+      },
+      "id": "Q28868387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28868387"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat Catney"
+      },
+      "id": "Q28868438",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28868438"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Karen Mullan"
+      },
+      "id": "Q30582985",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30582985"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Catherine Kelly"
+      },
+      "id": "Q30583110",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30583110"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colm Gildernew"
+      },
+      "id": "Q31373965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31373965"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Emma Rogan"
+      },
+      "id": "Q33088456",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q33088456"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/emmaroganmla"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim Allister"
+      },
+      "id": "Q3499853",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3499853"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat Sheehan"
+      },
+      "id": "Q428996",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q428996"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alex Easton"
+      },
+      "id": "Q4716944",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4716944"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Arlene Foster"
+      },
+      "id": "Q4792148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4792148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Carál Ní Chuilín"
+      },
+      "id": "Q5047760",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5047760"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cathal Boylan"
+      },
+      "id": "Q5052017",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5052017"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chris Lyttle"
+      },
+      "id": "Q5107294",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5107294"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colum Eastwood"
+      },
+      "id": "Q5149523",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5149523"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Ford"
+      },
+      "id": "Q5233732",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5233732"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Declan McAleer"
+      },
+      "id": "Q5249360",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5249360"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dolores Kelly"
+      },
+      "id": "Q5289533",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5289533"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Edwin Poots"
+      },
+      "id": "Q5346750",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5346750"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fra McCann"
+      },
+      "id": "Q5477442",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5477442"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Robinson"
+      },
+      "id": "Q5543965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5543965"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gerry Kelly"
+      },
+      "id": "Q5552825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5552825"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gordon Dunne"
+      },
+      "id": "Q5585084",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5585084"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Blair"
+      },
+      "id": "Q56702135",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56702135"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/john.blair.9809672"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Conor Murphy"
+      },
+      "id": "Q578710",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q578710"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim Wells"
+      },
+      "id": "Q6198868",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6198868"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Dallat"
+      },
+      "id": "Q6228425",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6228425"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John O'Dowd"
+      },
+      "id": "Q6250866",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6250866"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Justin McNulty"
+      },
+      "id": "Q6317891",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6317891"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mark H. Durkan"
+      },
+      "id": "Q6767859",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6767859"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Megan Fearon"
+      },
+      "id": "Q6808653",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6808653"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mervyn Storey"
+      },
+      "id": "Q6820936",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6820936"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michaela Boyle"
+      },
+      "id": "Q6835582",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6835582"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michelle McIlveen"
+      },
+      "id": "Q6837153",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6837153"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michelle O'Neill"
+      },
+      "id": "Q6837191",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6837191"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/michelle.oneill.sf"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mike Nesbitt"
+      },
+      "id": "Q6848174",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6848174"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Naomi Long"
+      },
+      "id": "Q695272",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q695272"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pam Cameron"
+      },
+      "id": "Q7128949",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7128949"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patsy McGlone"
+      },
+      "id": "Q7148268",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7148268"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Givan"
+      },
+      "id": "Q7150914",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7150914"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paula Bradley"
+      },
+      "id": "Q7154645",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7154645"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Weir"
+      },
+      "id": "Q7177640",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7177640"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Philip McGuigan"
+      },
+      "id": "Q7184061",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7184061"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robin Newton"
+      },
+      "id": "Q7352684",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7352684"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robin Swann"
+      },
+      "id": "Q7352813",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7352813"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Roy Beggs, Jr."
+      },
+      "id": "Q7372562",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7372562"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Lynch"
+      },
+      "id": "Q7441173",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7441173"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Simon Hamilton"
+      },
+      "id": "Q7518906",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7518906"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephen Farry"
+      },
+      "id": "Q7609180",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7609180"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Steven Agnew"
+      },
+      "id": "Q7614439",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7614439"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stewart Dickson"
+      },
+      "id": "Q7615771",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7615771"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Buchanan"
+      },
+      "id": "Q7787999",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7787999"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Trevor Clarke"
+      },
+      "id": "Q7839094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7839094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Trevor Lunn"
+      },
+      "id": "Q7839296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7839296"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Humphrey"
+      },
+      "id": "Q8012668",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8012668"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "William Irwin"
+      },
+      "id": "Q8013107",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8013107"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Northern Ireland Assembly",
+        "lang:cy": "Cynulliad Gogledd Iwerddon"
+      },
+      "id": "Q285714",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q285714"
+        }
+      ],
+      "area_id": "Q26",
+      "seat_counts": {
+        "Q3272410": "90"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Green Party in Northern Ireland"
+      },
+      "id": "Q1096979",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1096979"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Social Democratic and Labour Party",
+        "lang:cy": "SDLP"
+      },
+      "id": "Q175443",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q175443"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Democratic Unionist Party",
+        "lang:cy": "Plaid yr Unoliaethwyr Democrataidd"
+      },
+      "id": "Q215519",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q215519"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alliance Party of Northern Ireland"
+      },
+      "id": "Q244927",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q244927"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician",
+        "lang:cy": "Annibynnwr"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "People Before Profit Alliance"
+      },
+      "id": "Q3545406",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3545406"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sinn Féin",
+        "lang:cy": "Sinn Féin"
+      },
+      "id": "Q76382",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q76382"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ulster Unionist Party",
+        "lang:cy": "Plaid Unoliaethol Ulster"
+      },
+      "id": "Q841045",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q841045"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Traditional Unionist Voice"
+      },
+      "id": "Q985076",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q985076"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -471,6 +1988,1462 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1116655-EFC7E3A0-10E4-4E9B-A97A-886302654D45",
+      "person_id": "Q1116655",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q4882350",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13586248-6493F416-BB46-44AF-AB14-F5943C0D0198",
+      "person_id": "Q13586248",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q4882329",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15054230-47FB3D98-1BEC-4BA4-9757-680F6551DE22",
+      "person_id": "Q15054230",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q6841031",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16195114-312FC819-F2F2-4B56-BC04-1A0B21F1EBD9",
+      "person_id": "Q16195114",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q5327714",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16214843-176E3D3E-436E-4C42-850A-20743C366F1F",
+      "person_id": "Q16214843",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7053953",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17017367-F9F6F322-4997-43A5-B49A-9B159EAEFD83",
+      "person_id": "Q17017367",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q285714",
+      "area_id": "Q5328872",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17306227-B32D70CF-EE85-4889-9091-5C1341E4E7CC",
+      "person_id": "Q17306227",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q4882308",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20631177-CDB45E2B-4F6B-430C-8B31-70BB6CB397BC",
+      "person_id": "Q20631177",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q4882329",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20675966-09E67C10-7934-4B25-8643-87D9A2E92ABB",
+      "person_id": "Q20675966",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q7898475",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20966622-C64987F0-0B7A-45F9-8763-9F3AF56C1C9B",
+      "person_id": "Q20966622",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q5327714",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20979148-613EB3B7-53D4-4E65-87D0-8571C9B49955",
+      "person_id": "Q20979148",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q4882274",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20979152-E900C346-A8F2-4E57-8303-F34C0AE02B2D",
+      "person_id": "Q20979152",
+      "on_behalf_of_id": "Q3545406",
+      "organization_id": "Q285714",
+      "area_id": "Q4882350",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21130106-AFF413B2-1B84-4FDE-997E-99FCBB90A96A",
+      "person_id": "Q21130106",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q5477379",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2134210-5FEA4379-64FB-48EE-8F2D-B2613464F905",
+      "person_id": "Q2134210",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q5477379",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22006766-59255FD4-D9C0-4979-8C0C-5848F9B6B53C",
+      "person_id": "Q22006766",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q7986717",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052777-D677C8D6-834F-45A4-A1FF-F1E62E22B607",
+      "person_id": "Q24052777",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7565994",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052778-9BE5D570-ED52-47E2-B769-160B65AB9CB4",
+      "person_id": "Q24052778",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q4882329",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052779-E26B0155-ABCA-40EB-A366-15E429104A94",
+      "person_id": "Q24052779",
+      "on_behalf_of_id": "Q1096979",
+      "organization_id": "Q285714",
+      "area_id": "Q4882329",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052780-9715282C-6F94-49CC-95A8-DB8C4707EB61",
+      "person_id": "Q24052780",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q4882329",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052782-B2E366B6-2498-48C5-9246-35E56E109E34",
+      "person_id": "Q24052782",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7898475",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052783-6DA05D98-98FA-4AC0-A42E-C0458DD3FF17",
+      "person_id": "Q24052783",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q7055150",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052784-E1AB7388-6373-4F34-8E79-CD6E885C5AF9",
+      "person_id": "Q24052784",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q5328872",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052786-03948C44-7384-44CD-B3AE-35ACAB11CB65",
+      "person_id": "Q24052786",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q4882274",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052787-301C0939-489F-4CFC-A03F-9F220E6C7CE3",
+      "person_id": "Q24052787",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q7621629",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052788-47D36B10-DC35-4519-B1A0-92992DE7924A",
+      "person_id": "Q24052788",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q5444367",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24052789-840A911A-CA97-4E29-A409-B6C8B8921787",
+      "person_id": "Q24052789",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q7565994",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24083699-8F57D5E8-04B4-4749-9201-E554390AAEFD",
+      "person_id": "Q24083699",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q5328872",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24083702-EB9FF5B1-308D-4F8C-8A6F-CB3D49B9ADB5",
+      "person_id": "Q24083702",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q7567069",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24083703-40727EF4-16C4-4615-BA1E-4CF813709F3F",
+      "person_id": "Q24083703",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q7567069",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24083708-98F267F2-8114-4DED-989C-C987718064CB",
+      "person_id": "Q24083708",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q6841031",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24083709-C23AF7AF-D78A-478C-AC36-F08EBB14CEA4",
+      "person_id": "Q24083709",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q15241246",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24088044-184E4D4A-7DF8-48E1-B265-B6B03C6969C7",
+      "person_id": "Q24088044",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q6841031",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27973930-19DD0453-2FF6-4D28-8013-3D59B7EC00A0",
+      "person_id": "Q27973930",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q4882350",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28867758-0EAAA4F7-5F88-480E-80D0-CD27A670671D",
+      "person_id": "Q28867758",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7567069",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28867959-8963ED1B-1424-4807-84C3-176126249E22",
+      "person_id": "Q28867959",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q5444367",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28867994-CF6860B7-2F5C-4CC2-AC10-9D059813517D",
+      "person_id": "Q28867994",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7898475",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28868387-0FAFB528-F200-4B70-8EBC-1149BFA7D341",
+      "person_id": "Q28868387",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q5327714",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28868438-1624A413-06F1-41B2-A5C2-13104C30A625",
+      "person_id": "Q28868438",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q15241246",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30582985-884B365D-3A66-4A41-A47C-41636B271AFC",
+      "person_id": "Q30582985",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q5477379",
+      "start_date": "2017-06-12",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30583110-2C18FCA4-74BC-4309-960F-09F70BE0257E",
+      "person_id": "Q30583110",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7986717",
+      "start_date": "2017-06-12",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31373965-38621C0D-B6C8-41BE-A22E-BDEDBA655C4A",
+      "person_id": "Q31373965",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q5444367",
+      "start_date": "2017-06-15",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q33088456-0fc99c7a-47d5-30d3-154c-88db9874d6ba",
+      "person_id": "Q33088456",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7567069",
+      "start_date": "2017-06-20",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3499853-DB9372D1-8419-454A-852F-48DF118A11F8",
+      "person_id": "Q3499853",
+      "on_behalf_of_id": "Q985076",
+      "organization_id": "Q285714",
+      "area_id": "Q7053953",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q428996-2D30A838-F13F-4B3C-9ADB-00031E4AF129",
+      "person_id": "Q428996",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q4882350",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4716944-FC93425A-A6E8-428E-BB15-324C70A56229",
+      "person_id": "Q4716944",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7055150",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4792148-D7B7F2AF-B9F1-415A-B312-A1B5744442EE",
+      "person_id": "Q4792148",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q5444367",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5047760-6B1004CE-FF26-4DFE-AA13-4E74A00CAEA9",
+      "person_id": "Q5047760",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q4882308",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5052017-2C4AAD74-BC54-4F4B-8ED4-4DDD2276FC6F",
+      "person_id": "Q5052017",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7019151",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5107294-DC0D2D66-CD64-42AF-909F-D044A564A616",
+      "person_id": "Q5107294",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q4882274",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5149523-8125BCD4-1973-45FC-827B-DDB90873D628",
+      "person_id": "Q5149523",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q5477379",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5233732-3175C6F6-5275-499F-82F3-34E9A08C9E5C",
+      "person_id": "Q5233732",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q7565994",
+      "start_date": "2017-03-03",
+      "end_date": "2018-06-25",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5249360-B5DE995F-3C6E-407C-832D-9869DAF36900",
+      "person_id": "Q5249360",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7986717",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5289533-908B6071-8881-4C55-B2BE-A6B1E974154B",
+      "person_id": "Q5289533",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q7898475",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5346750-D891E8BF-6203-43FA-8B5C-09C85E306595",
+      "person_id": "Q5346750",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q15241246",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5477442-380B1434-D737-4271-9E01-622A15C972EA",
+      "person_id": "Q5477442",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q4882350",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5543965-DC9760D3-AE32-4358-A65A-D155ACB91565",
+      "person_id": "Q5543965",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q5328872",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5552825-A8130D2E-D328-4197-BC11-DFD351A484E6",
+      "person_id": "Q5552825",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q4882308",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5585084-D0737436-F95B-4E76-90B1-A9DFC02DE470",
+      "person_id": "Q5585084",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7055150",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56702135-3a153c7c-4f91-7166-877c-9e3d5005b7d3",
+      "person_id": "Q56702135",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q7565994",
+      "start_date": "2018-07-02",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q578710-990E5476-969D-4196-B887-BF6C58A126B9",
+      "person_id": "Q578710",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7019151",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6198868-7BDC8B3D-4778-41AC-ADA3-863F293CED19",
+      "person_id": "Q6198868",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7567069",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6228425-431EB73F-4D14-4E4A-9DD1-99AA1A68A896",
+      "person_id": "Q6228425",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q5328872",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6250866-7236C3A6-DDAF-40F8-89C5-8166CB710684",
+      "person_id": "Q6250866",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7898475",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6317891-CE933CC3-5E77-45A6-BDE9-ACEEB0E7365E",
+      "person_id": "Q6317891",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q7019151",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6767859-7F22C4DA-5955-4A9D-BC5B-25450C98AFFF",
+      "person_id": "Q6767859",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q5477379",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6808653-4FA647D3-7D99-4694-A0CA-68DE912F8E5B",
+      "person_id": "Q6808653",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7019151",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6820936-C8A90C44-B9EA-478F-927D-04EB2D83F1AA",
+      "person_id": "Q6820936",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7053953",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6835582-4386FD48-7CF2-4F3E-AB92-306A9028BB3B",
+      "person_id": "Q6835582",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7986717",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6837153-0082A208-74DB-42CE-A1A4-BFA31E7C0C91",
+      "person_id": "Q6837153",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7621629",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6837191-CE2A94B9-1CA8-4F5D-B08E-CBFEF1B5D080",
+      "person_id": "Q6837191",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q6841031",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6848174-51EA57D1-A1AB-479C-A028-254A40CB933D",
+      "person_id": "Q6848174",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q7621629",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q695272-BC942F6B-920A-4CCD-895F-D2E9EA95F013",
+      "person_id": "Q695272",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q4882274",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7128949-41664611-5B8F-4719-ABDD-865967E36B4B",
+      "person_id": "Q7128949",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7565994",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7148268-150B6BA2-0848-4C3D-98F2-2E3F486F31B6",
+      "person_id": "Q7148268",
+      "on_behalf_of_id": "Q175443",
+      "organization_id": "Q285714",
+      "area_id": "Q6841031",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7150914-DA5ED7B9-4DBA-42B8-90B8-529064155393",
+      "person_id": "Q7150914",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q15241246",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7154645-52AF2D1E-5303-4528-A415-442C72E9ED27",
+      "person_id": "Q7154645",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q4882308",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7177640-93807984-F181-4D84-A025-2D78F7348A1B",
+      "person_id": "Q7177640",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7621629",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7184061-05A92BD5-E654-4D1E-B20B-D7D4B72709C9",
+      "person_id": "Q7184061",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q7053953",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7352684-8FFC3FF0-2ED8-471F-BA16-BB865FC33440",
+      "person_id": "Q7352684",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q4882274",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7352813-892DEE87-6860-4E2B-A085-C5AB9215D664",
+      "person_id": "Q7352813",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q7053953",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7372562-72488665-156B-4F1B-AB6D-51957856B6EA",
+      "person_id": "Q7372562",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q285714",
+      "area_id": "Q5327714",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7441173-2ACCA9AF-5D4F-4BF7-93E9-90D6959EFF92",
+      "person_id": "Q7441173",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q285714",
+      "area_id": "Q5444367",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7518906-D081D722-A560-403F-9AF6-40240E568259",
+      "person_id": "Q7518906",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7621629",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7609180-5528593B-323D-47F1-BDA1-78DEA81F014A",
+      "person_id": "Q7609180",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q7055150",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7614439-8537294B-37B2-4C3C-8DC7-0F99E88108D1",
+      "person_id": "Q7614439",
+      "on_behalf_of_id": "Q1096979",
+      "organization_id": "Q285714",
+      "area_id": "Q7055150",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7615771-1290AB4E-EF40-40E7-9858-6D5D557B356D",
+      "person_id": "Q7615771",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q5327714",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7787999-016B084F-4C94-4F12-810D-D06BA8A45542",
+      "person_id": "Q7787999",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7986717",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7839094-12a867d3-4776-d22a-39b2-b82e515cb6e2",
+      "person_id": "Q7839094",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7565994",
+      "start_date": "2017-06-28",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7839296-CE83ECCB-41F8-473D-81B4-2261A8CAF53A",
+      "person_id": "Q7839296",
+      "on_behalf_of_id": "Q244927",
+      "organization_id": "Q285714",
+      "area_id": "Q15241246",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8012668-0CFED79D-DE16-49EE-8078-8175B802F543",
+      "person_id": "Q8012668",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q4882308",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8013107-0E4DC68F-011A-49FF-9061-5A779BE85E61",
+      "person_id": "Q8013107",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q285714",
+      "area_id": "Q7019151",
+      "start_date": "2017-03-03",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3272410",
+      "role": {
+        "lang:en": "Member of the Legislative Assembly of Northern Ireland"
+      }
+    }
   ]
 }

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Camden London Borough Council"
+      },
+      "id": "Q56008431",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56008431"
+        }
+      ],
+      "area_id": "Q202088"
+    }
   ],
   "areas": [
 

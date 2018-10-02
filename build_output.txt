@@ -1,1 +1,243 @@
 WARNING: Position Member of the House of Lords (Q18952564) not in boundary associated_wikidata_positions
+WARNING: Position Common Councilman of the City of London (Q56010456) not in boundary associated_wikidata_positions
+WARNING: Position member of Leeds City Council (Q55372701) not in boundary associated_wikidata_positions
+WARNING: the district Middleton Park (Q6842031) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Middleton Park (Q6842031) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Middleton Park (Q6842031) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Guiseley & Rawdon (Q56666324) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Guiseley & Rawdon (Q55466823) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Armley (Q55466825) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Armley (Q55466825) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Little London & Woodhouse (Q55466753) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Beeston & Holbeck (Q55466755) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Adel & Wharfedale (Q55466756) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Adel & Wharfedale (Q55466756) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Adel & Wharfedale (Q55466756) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Gipton & Harehills (Q55466757) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Weetwood (Q55466759) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Kirkstall (Q55466761) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Farnley & Wortley (Q55466762) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Farnley & Wortley (Q55466762) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Little London & Woodhouse (Q55466753) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Rothwell (Q55466765) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Alwoodley (Q56651541) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Otley & Yeadon (Q55466766) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Calverley & Farsley (Q55466776) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Calverley & Farsley (Q55466776) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Calverley & Farsley (Q55466776) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Moortown (Q55466778) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Alwoodley (Q56651541) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Horsforth (Q55466779) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Temple Newsam (Q55466781) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Morley South (Q55466782) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Garforth & Swillington (Q55466783) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Otley & Yeadon (Q55466766) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Chapel Allerton (Q55466785) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Killingbeck & Seacroft (Q55466786) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Killingbeck & Seacroft (Q55466786) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Morley South (Q55466782) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Garforth & Swillington (Q55466783) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Harewood (Q55466789) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Adel & Wharfedale (Q55466756) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Adel & Wharfedale (Q55466756) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Beeston & Holbeck (Q55466755) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Ardsley & Robin Hood (Q55466797) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Headingley (Q55791843) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Headingley & Hyde Park (Q55466799) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Morley North (Q55466800) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Weetwood (Q55466759) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Farnley & Wortley (Q55466762) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Roundhay (Q56651558) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Rothwell (Q55466765) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Cross Gates & Whinmoor (Q55466803) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Burmantofts & Richmond Hill (Q55466805) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Middleton Park (Q6842031) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Bramley & Stanningley (Q55466807) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Cross Gates & Whinmoor (Q55466803) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Moortown (Q55466778) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Kippax & Methley (Q55466808) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Little London & Woodhouse (Q55466753) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Alwoodley (Q56651541) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Wetherby (Q55466810) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Rothwell (Q55466765) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Pudsey (Q55466813) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Temple Newsam (Q55466781) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Bramley & Stanningley (Q55466807) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Gipton & Harehills (Q55466757) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Morley North (Q55466800) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Hunslet & Riverside (Q55466821) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Killingbeck & Seacroft (Q55466786) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Burmantofts & Richmond Hill (Q55466805) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Morley South (Q55466782) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Weetwood (Q55466759) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Wetherby (Q55466810) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Wetherby (Q55466810) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Guiseley & Rawdon (Q55466823) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Otley & Yeadon (Q55466766) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Morley North (Q55466800) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Cross Gates & Whinmoor (Q55466803) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Kippax & Methley (Q55466808) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Pudsey (Q55466813) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Temple Newsam (Q55466781) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Gipton & Harehills (Q55466757) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Garforth & Swillington (Q55466783) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Armley (Q55466825) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Ardsley & Robin Hood (Q55466797) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Hunslet & Riverside (Q55466821) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Headingley & Hyde Park (Q55466799) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Chapel Allerton (Q55466785) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Burmantofts & Richmond Hill (Q55466805) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Ardsley & Robin Hood (Q55466797) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Bramley & Stanningley (Q55466807) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Harewood (Q55466789) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Beeston & Holbeck (Q55466755) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Pudsey (Q55466813) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Moortown (Q55466778) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Horsforth (Q55466779) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Armley (Q55466825) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Armley (Q55466825) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Harewood (Q55466789) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Chapel Allerton (Q55466785) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Horsforth (Q55466779) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Roundhay (Q56651558) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Kirkstall (Q55466761) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Guiseley & Rawdon (Q55466823) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Kippax & Methley (Q55466808) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Headingley & Hyde Park (Q55466799) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Roundhay (Q56651558) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Wetherby (Q55466810) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Hunslet & Riverside (Q55466821) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Kirkstall (Q55466761) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: the district Horsforth (Q55466779) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
+WARNING: Position member of Birmingham City Council (Q56010458) not in boundary associated_wikidata_positions
+WARNING: Position member of City of Edinburgh Council (Q56010476) not in boundary associated_wikidata_positions
+WARNING: Position member of Glasgow City Council (Q56010477) not in boundary associated_wikidata_positions
+WARNING: Position member of Belfast City Council (Q56010418) not in boundary associated_wikidata_positions
+WARNING: Position member of Belfast City Council (Q56010418) not in boundary associated_wikidata_positions
+WARNING: Position member of Sheffield City Council (Q56010475) not in boundary associated_wikidata_positions
+WARNING: Position member of City of Cardiff Council (Q56010478) not in boundary associated_wikidata_positions
+WARNING: Position member of Barking and Dagenham London Borough Council (Q56010457) not in boundary associated_wikidata_positions
+WARNING: Position member of Salford City Council (Q56010459) not in boundary associated_wikidata_positions
+WARNING: Position member of Southampton City Council (Q56010479) not in boundary associated_wikidata_positions
+WARNING: Position member of Bradford City Council (Q56010474) not in boundary associated_wikidata_positions
+WARNING: Position member of Manchester City Council (Q56010470) not in boundary associated_wikidata_positions
+WARNING: Position member of Liverpool City Council (Q56010469) not in boundary associated_wikidata_positions
+WARNING: Position member of Bristol City Council (Q56010491) not in boundary associated_wikidata_positions
+WARNING: Position member of Islington London Borough Council (Q56010455) not in boundary associated_wikidata_positions
+WARNING: Position member of Kingston upon Thames London Borough Council (Q56010454) not in boundary associated_wikidata_positions
+WARNING: Position member of Harrow London Borough Council (Q56010453) not in boundary associated_wikidata_positions
+WARNING: Position member of Stoke-on-Trent City Council (Q56010480) not in boundary associated_wikidata_positions
+WARNING: Position member of Plymouth City Council (Q56010481) not in boundary associated_wikidata_positions
+WARNING: Position member of Derby City Council (Q56010483) not in boundary associated_wikidata_positions
+WARNING: Position member of Sutton London Borough Council (Q56010452) not in boundary associated_wikidata_positions
+WARNING: Position member of Bexley London Borough Council (Q56010451) not in boundary associated_wikidata_positions
+WARNING: Position member of Wolverhampton City Council (Q56010462) not in boundary associated_wikidata_positions
+WARNING: Position member of Hull City Council (Q56010486) not in boundary associated_wikidata_positions
+WARNING: Position member of Kensington and Chelsea London Borough Council (Q56010448) not in boundary associated_wikidata_positions
+WARNING: Position member of Westminster City Council (Q56010447) not in boundary associated_wikidata_positions
+WARNING: Position member of Richmond upon Thames London Borough Council (Q56010446) not in boundary associated_wikidata_positions
+WARNING: Position member of Rotherham Metropolitan Borough Council (Q56010463) not in boundary associated_wikidata_positions
+WARNING: Position member of Merton London Borough Council (Q56010445) not in boundary associated_wikidata_positions
+WARNING: Position member of Hammersmith and Fulham London Borough Council (Q56010444) not in boundary associated_wikidata_positions
+WARNING: Position member of Barnet London Borough Council (Q56010443) not in boundary associated_wikidata_positions
+WARNING: Position member of Croydon London Borough Council (Q56010442) not in boundary associated_wikidata_positions
+WARNING: Position member of Newham London Borough Council (Q56010441) not in boundary associated_wikidata_positions
+WARNING: Position member of Ealing London Borough Council (Q56010440) not in boundary associated_wikidata_positions
+WARNING: Position member of Milton Keynes Council (Q56010487) not in boundary associated_wikidata_positions
+WARNING: Position member of Brighton and Hove City Council (Q56010488) not in boundary associated_wikidata_positions
+WARNING: Position member of Sunderland City Council (Q56010464) not in boundary associated_wikidata_positions
+WARNING: Position member of Newcastle City Council (Q56010465) not in boundary associated_wikidata_positions
+WARNING: Position member of Nottingham City Council (Q56010489) not in boundary associated_wikidata_positions
+WARNING: Position member of Nottingham City Council (Q56010489) not in boundary associated_wikidata_positions
+WARNING: Position member of Doncaster Metropolitan Borough Council (Q56010466) not in boundary associated_wikidata_positions
+WARNING: Position member of Enfield London Borough Council (Q56010438) not in boundary associated_wikidata_positions
+WARNING: Position member of Leicester City Council (Q56010490) not in boundary associated_wikidata_positions
+WARNING: Position member of Bromley London Borough Council (Q56010437) not in boundary associated_wikidata_positions
+WARNING: Position member of Coventry City Council (Q56010467) not in boundary associated_wikidata_positions
+WARNING: Position member of Wakefield Metropolitan District Council (Q56010468) not in boundary associated_wikidata_positions
+WARNING: Position member of Brent London Borough Council (Q56010436) not in boundary associated_wikidata_positions
+WARNING: Position member of Camden London Borough Council (Q56010419) not in boundary associated_wikidata_positions
+WARNING: Position member of Havering London Borough Council (Q56010420) not in boundary associated_wikidata_positions
+WARNING: Position member of Hounslow London Borough Council (Q56010421) not in boundary associated_wikidata_positions
+WARNING: Position member of Haringey London Borough Council (Q56010422) not in boundary associated_wikidata_positions
+WARNING: Position member of Waltham Forest London Borough Council (Q56010423) not in boundary associated_wikidata_positions
+WARNING: Position member of Hackney London Borough Council (Q56010425) not in boundary associated_wikidata_positions
+WARNING: Position member of Greenwich London Borough Council (Q56010426) not in boundary associated_wikidata_positions
+WARNING: Position member of Lewisham London Borough Council (Q56010427) not in boundary associated_wikidata_positions
+WARNING: Position member of Redbridge London Borough Council (Q56010429) not in boundary associated_wikidata_positions
+WARNING: Position member of Hillingdon London Borough Council (Q56010430) not in boundary associated_wikidata_positions
+WARNING: Position member of Tower Hamlets London Borough Council (Q56010431) not in boundary associated_wikidata_positions
+WARNING: Position member of Southwark London Borough Council (Q56010432) not in boundary associated_wikidata_positions
+WARNING: Position member of Wandsworth London Borough Council (Q56010433) not in boundary associated_wikidata_positions
+WARNING: Position member of Lambeth London Borough Council (Q56010434) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of London (Q38931) not in boundary associated_wikidata_positions
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: Position leader of Leeds City Council (Q56708848) not in boundary associated_wikidata_positions
+WARNING: Position Lord Mayor of Belfast (Q6679766) not in boundary associated_wikidata_positions
+WARNING: the district Belfast district (Q1140130) wasn't found in the boundary data for position Lord Mayor of Belfast (Q6679766)
+WARNING: the district Belfast district (Q1140130) wasn't found in the boundary data for position Lord Mayor of Belfast (Q6679766)
+WARNING: Position leader of Camden borough council (Q56708809) not in boundary associated_wikidata_positions
+WARNING: Position leader of Havering borough council (Q56708810) not in boundary associated_wikidata_positions
+WARNING: Position leader of Hounslow borough council (Q56708811) not in boundary associated_wikidata_positions
+WARNING: Position leader of Haringey borough council (Q56708812) not in boundary associated_wikidata_positions
+WARNING: Position leader of Waltham Forest borough council (Q56708813) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Hackney (Q5280481) not in boundary associated_wikidata_positions
+WARNING: Position leader of Greenwich borough council (Q56708814) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Lewisham (Q5280482) not in boundary associated_wikidata_positions
+WARNING: the district London Borough of Lewisham (Q215030) wasn't found in the boundary data for position Mayor of Lewisham (Q5280482)
+WARNING: Position leader of Redbridge borough council (Q56708816) not in boundary associated_wikidata_positions
+WARNING: Position leader of Hillingdon borough council (Q56708817) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Tower Hamlets (Q17015787) not in boundary associated_wikidata_positions
+WARNING: the district London Borough of Tower Hamlets (Q208152) wasn't found in the boundary data for position Mayor of Tower Hamlets (Q17015787)
+WARNING: Position leader of Southwark borough council (Q56708818) not in boundary associated_wikidata_positions
+WARNING: Position mayor of Wandsworth (Q56708822) not in boundary associated_wikidata_positions
+WARNING: Position leader of Lambeth borough council (Q56708823) not in boundary associated_wikidata_positions
+WARNING: Position leader of Brent borough council (Q56708825) not in boundary associated_wikidata_positions
+WARNING: Position leader of Bromley borough council (Q56708826) not in boundary associated_wikidata_positions
+WARNING: Position leader of Enfield borough council (Q56708827) not in boundary associated_wikidata_positions
+WARNING: Position leader of Ealing borough council (Q56708828) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Newham (Q5280484) not in boundary associated_wikidata_positions
+WARNING: the district London Borough of Newham (Q208139) wasn't found in the boundary data for position Mayor of Newham (Q5280484)
+WARNING: Position leader of Croydon borough council (Q56708829) not in boundary associated_wikidata_positions
+WARNING: Position leader of Barnet borough council (Q56708830) not in boundary associated_wikidata_positions
+WARNING: Position leader of Hammersmith and Fulham borough council (Q56708831) not in boundary associated_wikidata_positions
+WARNING: Position leader of Merton borough council (Q56708833) not in boundary associated_wikidata_positions
+WARNING: Position leader of Richmond borough council (Q56708834) not in boundary associated_wikidata_positions
+WARNING: Position leader of City of Westminster borough council (Q56708836) not in boundary associated_wikidata_positions
+WARNING: Position leader of Kensington and Chelsea borough council (Q56708838) not in boundary associated_wikidata_positions
+WARNING: Position leader of Bexley borough council (Q56708839) not in boundary associated_wikidata_positions
+WARNING: Position leader of Sutton borough council (Q56708840) not in boundary associated_wikidata_positions
+WARNING: Position leader of Harrow borough council (Q56708841) not in boundary associated_wikidata_positions
+WARNING: Position leader of Islington borough council (Q56708843) not in boundary associated_wikidata_positions
+WARNING: Position leader of Barking and Dagenham borough council (Q56708845) not in boundary associated_wikidata_positions
+WARNING: Position leader of Birmingham City Council (Q56708847) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Salford (Q6797805) not in boundary associated_wikidata_positions
+WARNING: Position leader of the City of Wolverhampton Council (Q56708850) not in boundary associated_wikidata_positions
+WARNING: Position leader of Rotherham Metropolitan Borough Council (Q56708851) not in boundary associated_wikidata_positions
+WARNING: Position leader of Sunderland City Council (Q56708852) not in boundary associated_wikidata_positions
+WARNING: Position leader of Newcastle City Council (Q56708853) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Doncaster (Q6797698) not in boundary associated_wikidata_positions
+WARNING: the district Doncaster (Q1925846) wasn't found in the boundary data for position Mayor of Doncaster (Q6797698)
+WARNING: Position leader of Coventry City Council (Q56708854) not in boundary associated_wikidata_positions
+WARNING: Position leader of Wakefield Council (Q56708855) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Liverpool (Q5280483) not in boundary associated_wikidata_positions
+WARNING: Position leader of Manchester City Council (Q56708856) not in boundary associated_wikidata_positions
+WARNING: Position leader of Bradford Metropolitan District Council (Q56708857) not in boundary associated_wikidata_positions
+WARNING: Position leader of Sheffield City Council (Q56708858) not in boundary associated_wikidata_positions
+WARNING: Position leader of the City of Edinburgh Council (Q56708860) not in boundary associated_wikidata_positions
+WARNING: Position leader of Glasgow City Council (Q56708861) not in boundary associated_wikidata_positions
+WARNING: Position leader of Cardiff Council (Q56708862) not in boundary associated_wikidata_positions
+WARNING: Position leader of Southampton City Council (Q56708863) not in boundary associated_wikidata_positions
+WARNING: Position leader of Stoke-on-Trent City Council (Q56708864) not in boundary associated_wikidata_positions
+WARNING: Position leader of Plymouth City Council (Q56708865) not in boundary associated_wikidata_positions
+WARNING: Position leader of Derby City Council (Q56708869) not in boundary associated_wikidata_positions
+WARNING: Position leader of Hull City Council (Q56708870) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Milton Keynes (Q56708871) not in boundary associated_wikidata_positions
+WARNING: Position leader of Brighton and Hove City Council (Q56708872) not in boundary associated_wikidata_positions
+WARNING: Position leader of Nottingham City Council (Q56708873) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Leicester (Q56708875) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Bristol (Q56708876) not in boundary associated_wikidata_positions

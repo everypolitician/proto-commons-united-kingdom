@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Croydon London Borough Council"
+      },
+      "id": "Q56005992",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56005992"
+        }
+      ],
+      "area_id": "Q26888"
+    }
   ],
   "areas": [
 

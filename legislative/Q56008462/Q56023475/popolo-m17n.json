@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Haringey London Borough Council"
+      },
+      "id": "Q56008462",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56008462"
+        }
+      ],
+      "area_id": "Q213560"
+    }
   ],
   "areas": [
 

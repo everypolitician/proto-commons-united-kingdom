@@ -1,9 +1,51 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Arlene Foster"
+      },
+      "id": "Q4792148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4792148"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Northern Ireland Executive",
+        "lang:cy": "Adran Weithredol Gogledd Iwerddon"
+      },
+      "id": "Q2665914",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2665914"
+        }
+      ],
+      "area_id": "Q26"
+    },
+    {
+      "name": {
+        "lang:en": "Democratic Unionist Party",
+        "lang:cy": "Plaid yr Unoliaethwyr Democrataidd"
+      },
+      "id": "Q215519",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q215519"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -57,6 +99,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4792148-0695b7cb-47d0-626e-81aa-4e20756c11e6",
+      "person_id": "Q4792148",
+      "on_behalf_of_id": "Q215519",
+      "organization_id": "Q2665914",
+      "area_id": "Q26",
+      "start_date": "2016-01-11",
+      "role_superclass_code": "Q14212",
+      "role_superclass": {
+        "lang:en": "prime minister",
+        "lang:cy": "prif weinidog"
+      },
+      "role_code": "Q22979263",
+      "role": {
+        "lang:en": "First Minister of Northern Ireland"
+      }
+    }
   ]
 }

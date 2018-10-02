@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Leicester City Council"
+      },
+      "id": "Q56007809",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56007809"
+        }
+      ],
+      "area_id": "Q21683242"
+    }
   ],
   "areas": [
 
