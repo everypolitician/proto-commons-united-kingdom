@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Lewisham London Borough Council"
+      },
+      "id": "Q56008474",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56008474"
+        }
+      ],
+      "area_id": "Q215030"
+    }
   ],
   "areas": [
 

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Westminster City Council"
+      },
+      "id": "Q55988698",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55988698"
+        }
+      ],
+      "area_id": "Q179351"
+    }
   ],
   "areas": [
 

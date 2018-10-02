@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Sheffield City Council"
+      },
+      "id": "Q55935300",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55935300"
+        }
+      ],
+      "area_id": "Q12956644"
+    }
   ],
   "areas": [
 

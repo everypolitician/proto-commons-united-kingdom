@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Bromley London Borough Council"
+      },
+      "id": "Q56007943",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56007943"
+        }
+      ],
+      "area_id": "Q208201"
+    }
   ],
   "areas": [
 

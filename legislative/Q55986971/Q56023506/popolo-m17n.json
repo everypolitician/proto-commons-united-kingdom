@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Bexley London Borough Council"
+      },
+      "id": "Q55986971",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55986971"
+        }
+      ],
+      "area_id": "Q207208"
+    }
   ],
   "areas": [
 

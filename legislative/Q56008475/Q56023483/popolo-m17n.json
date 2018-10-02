@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Redbridge London Borough Council"
+      },
+      "id": "Q56008475",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56008475"
+        }
+      ],
+      "area_id": "Q208955"
+    }
   ],
   "areas": [
 

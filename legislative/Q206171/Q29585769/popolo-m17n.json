@@ -4694,6 +4694,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1900265-3e9a9c19-4ea2-59f8-2a1c-4b2c8e028ceb",
+      "person_id": "Q1900265",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q206171",
+      "area_id": "Q319480",
+      "start_date": "2018-03-06",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:cy": "Aelod Seneddol"
+      },
+      "role_code": "Q1711695",
+      "role": {
+        "lang:en": "Member of the Scottish Parliament"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1900265-6D41A620-E142-437E-A0B5-7DD03A9CC6B6",
       "person_id": "Q1900265",
       "on_behalf_of_id": "Q10658",

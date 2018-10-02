@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Derby City Council"
+      },
+      "id": "Q55986002",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55986002"
+        }
+      ],
+      "area_id": "Q21885980"
+    }
   ],
   "areas": [
 

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Tower Hamlets London Borough Council"
+      },
+      "id": "Q56008483",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56008483"
+        }
+      ],
+      "area_id": "Q208152"
+    }
   ],
   "areas": [
 

@@ -85,10 +85,10 @@
       "organization_id": "Q112014",
       "area_id": "Q145",
       "start_date": "2016-07-13",
-      "role_superclass_code": "Q14211",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:en": "Prime Minister of the United Kingdom",
-        "lang:cy": "Prif Weinidog y Deyrnas Unedig"
+        "lang:en": "prime minister",
+        "lang:cy": "prif weinidog"
       },
       "role_code": "Q14211",
       "role": {

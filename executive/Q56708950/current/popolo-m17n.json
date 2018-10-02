@@ -1,0 +1,70 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Robin Wales"
+      },
+      "id": "Q7352849",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7352849"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "cabinet of Newham borough council"
+      },
+      "id": "Q56708950",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708950"
+        }
+      ],
+      "area_id": "Q208139"
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:cy": "Y Blaid Lafur"
+      },
+      "id": "Q9630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9630"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7352849-0FB2F124-0D86-4768-A875-16C466884432",
+      "person_id": "Q7352849",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q56708950",
+      "area_id": "Q208139",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q5280484",
+      "role": {
+        "lang:en": "Mayor of Newham"
+      }
+    }
+  ]
+}

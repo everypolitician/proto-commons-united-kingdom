@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Ealing London Borough Council"
+      },
+      "id": "Q56006212",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56006212"
+        }
+      ],
+      "area_id": "Q207218"
+    }
   ],
   "areas": [
 

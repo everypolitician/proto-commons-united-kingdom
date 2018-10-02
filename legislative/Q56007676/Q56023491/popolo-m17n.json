@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Enfield London Borough Council"
+      },
+      "id": "Q56007676",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56007676"
+        }
+      ],
+      "area_id": "Q210531"
+    }
   ],
   "areas": [
 
