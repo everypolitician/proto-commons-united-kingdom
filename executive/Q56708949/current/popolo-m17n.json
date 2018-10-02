@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Ealing borough council"
+      },
+      "id": "Q56708949",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708949"
+        }
+      ],
+      "area_id": "Q207218"
+    }
   ],
   "areas": [
 

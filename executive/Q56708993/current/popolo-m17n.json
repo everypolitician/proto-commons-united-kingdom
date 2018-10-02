@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Mayor of Leicester"
+      },
+      "id": "Q56708993",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708993"
+        }
+      ],
+      "area_id": "Q21683242"
+    }
   ],
   "areas": [
 

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Haringey borough council"
+      },
+      "id": "Q56708932",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708932"
+        }
+      ],
+      "area_id": "Q213560"
+    }
   ],
   "areas": [
 

@@ -56,9 +56,10 @@
       "on_behalf_of_id": "Q9630",
       "organization_id": "Q56708950",
       "area_id": "Q208139",
-      "role_superclass_code": "Q5280484",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Mayor of Newham"
+        "lang:en": "mayor",
+        "lang:cy": "maer"
       },
       "role_code": "Q5280484",
       "role": {

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "council of Milton Keynes Council"
+      },
+      "id": "Q56006597",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56006597"
+        }
+      ],
+      "area_id": "Q894090"
+    }
   ],
   "areas": [
 

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Merton borough council"
+      },
+      "id": "Q56708954",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708954"
+        }
+      ],
+      "area_id": "Q32504"
+    }
   ],
   "areas": [
 

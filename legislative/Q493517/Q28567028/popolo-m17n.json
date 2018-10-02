@@ -2446,6 +2446,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q24041564-efda1289-4fd7-2724-f268-152d519df21b",
+      "person_id": "Q24041564",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q493517",
+      "area_id": "Q7568764",
+      "start_date": "2018-01-16",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q3406079",
+      "role": {
+        "lang:en": "Member of the National Assembly for Wales",
+        "lang:cy": "Aelod Cynulliad"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q24045680-0108365A-1032-4DEF-9EDD-1F8649BFF2E5",
       "person_id": "Q24045680",
       "on_behalf_of_id": "Q832685",

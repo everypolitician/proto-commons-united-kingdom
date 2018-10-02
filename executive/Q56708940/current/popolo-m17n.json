@@ -57,9 +57,10 @@
       "organization_id": "Q56708940",
       "area_id": "Q208152",
       "start_date": "2015-06-12",
-      "role_superclass_code": "Q17015787",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Mayor of Tower Hamlets"
+        "lang:en": "mayor",
+        "lang:cy": "maer"
       },
       "role_code": "Q17015787",
       "role": {

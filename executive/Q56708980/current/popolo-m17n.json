@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "executive of the City of Edinburgh Council"
+      },
+      "id": "Q56708980",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708980"
+        }
+      ],
+      "area_id": "Q2379199"
+    }
   ],
   "areas": [
 

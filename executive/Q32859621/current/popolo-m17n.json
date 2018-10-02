@@ -105,10 +105,10 @@
       "organization_id": "Q32859621",
       "area_id": "Q22",
       "start_date": "2014-11-20",
-      "role_superclass_code": "Q1362216",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:en": "First Minister of Scotland",
-        "lang:cy": "Prif Weinidog yr Alban"
+        "lang:en": "prime minister",
+        "lang:cy": "prif weinidog"
       },
       "role_code": "Q1362216",
       "role": {

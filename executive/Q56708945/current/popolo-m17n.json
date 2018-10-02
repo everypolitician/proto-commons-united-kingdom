@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "cabinet of Brent borough council"
+      },
+      "id": "Q56708945",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708945"
+        }
+      ],
+      "area_id": "Q207201"
+    }
   ],
   "areas": [
 
