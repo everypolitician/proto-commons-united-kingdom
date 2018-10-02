@@ -1,0 +1,112 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Otto Jaffe"
+      },
+      "id": "Q7109658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7109658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim Rodgers"
+      },
+      "id": "Q9011758",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9011758"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "executive of Belfast City Council"
+      },
+      "id": "Q56708927",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56708927"
+        }
+      ],
+      "area_id": "Q1140130"
+    },
+    {
+      "name": {
+        "lang:en": "Irish Unionist Alliance"
+      },
+      "id": "Q6071313",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6071313"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ulster Unionist Party",
+        "lang:cy": "Plaid Unoliaethol Ulster"
+      },
+      "id": "Q841045",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q841045"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7109658-EE00C0D6-1DD3-46C3-86E5-65B055C16A29",
+      "person_id": "Q7109658",
+      "on_behalf_of_id": "Q6071313",
+      "organization_id": "Q56708927",
+      "area_id": "Q1140130",
+      "role_superclass_code": "Q6679766",
+      "role_superclass": {
+        "lang:en": "Lord Mayor of Belfast"
+      },
+      "role_code": "Q6679766",
+      "role": {
+        "lang:en": "Lord Mayor of Belfast"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9011758-17BD9179-61E2-4D59-B1E2-3DC7A883B12B",
+      "person_id": "Q9011758",
+      "on_behalf_of_id": "Q841045",
+      "organization_id": "Q56708927",
+      "area_id": "Q1140130",
+      "role_superclass_code": "Q6679766",
+      "role_superclass": {
+        "lang:en": "Lord Mayor of Belfast"
+      },
+      "role_code": "Q6679766",
+      "role": {
+        "lang:en": "Lord Mayor of Belfast"
+      }
+    }
+  ]
+}
