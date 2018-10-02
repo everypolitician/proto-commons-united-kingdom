@@ -1,4 +1,3 @@
-WARNING: no seat count found for the legislature council of Belfast City Council
 WARNING: no seat count found for the legislature council of Brighton and Hove City Council
 WARNING: no seat count found for the legislature council of Nottingham City Council
 WARNING: no seat count found for the legislature Court of Common Council
