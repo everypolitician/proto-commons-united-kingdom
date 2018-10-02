@@ -19,7 +19,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q894090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q894090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708871"
+      ],
+      "type": {
+        "lang:en": "borough in the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Milton Keynes"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q20986417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20986417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708854"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Coventry District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

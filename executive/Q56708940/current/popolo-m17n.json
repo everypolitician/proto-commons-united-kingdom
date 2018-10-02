@@ -47,7 +47,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q208152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q208152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17015787"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Tower Hamlets London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

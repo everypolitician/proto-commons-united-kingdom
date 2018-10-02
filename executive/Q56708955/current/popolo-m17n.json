@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q32515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708834"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Richmond upon Thames London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

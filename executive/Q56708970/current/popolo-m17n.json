@@ -19,7 +19,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1280897",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280897"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708852"
+      ],
+      "type": {
+        "lang:en": "district with city status"
+      },
+      "name": {
+        "lang:en": "Sunderland District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

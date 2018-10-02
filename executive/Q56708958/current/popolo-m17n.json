@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q207208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q207208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708839"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Bexley London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

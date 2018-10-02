@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q202059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q202059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708823"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Lambeth London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21693433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21693433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708876"
+      ],
+      "type": {
+        "lang:en": "ceremonial county of England",
+        "lang:cy": "swydd seremonïol Lloegr"
+      },
+      "name": {
+        "lang:en": "City of Bristol"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

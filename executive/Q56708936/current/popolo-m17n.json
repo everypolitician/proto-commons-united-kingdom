@@ -47,7 +47,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q215030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q215030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5280482"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Lewisham London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q730706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q730706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708818"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Southwark London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

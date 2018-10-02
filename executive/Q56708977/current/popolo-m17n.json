@@ -19,7 +19,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2834810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2834810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708857"
+      ],
+      "type": {
+        "lang:en": "district with city status"
+      },
+      "name": {
+        "lang:en": "Bradford District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

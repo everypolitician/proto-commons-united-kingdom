@@ -19,7 +19,77 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q22",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1362216"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Scotland"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q55934339",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55934339"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708861"
+      ],
+      "type": {
+        "lang:en": "Scottish council area"
+      },
+      "name": {
+        "lang:en": "Glasgow City"
+      },
+      "parent_id": "Q22"
+    }
   ],
   "memberships": [
 

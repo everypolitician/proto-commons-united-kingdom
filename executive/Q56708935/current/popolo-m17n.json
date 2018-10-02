@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q693450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q693450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708814"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Greenwich London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

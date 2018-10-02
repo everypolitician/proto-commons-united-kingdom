@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q40608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708813"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Waltham Forest London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

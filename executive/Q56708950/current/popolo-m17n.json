@@ -47,7 +47,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q208139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q208139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5280484"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Newham London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

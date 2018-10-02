@@ -47,7 +47,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1925846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1925846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6797698"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Doncaster District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q151048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q151048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708830"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Barnet London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

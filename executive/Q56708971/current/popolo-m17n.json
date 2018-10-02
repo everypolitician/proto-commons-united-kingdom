@@ -19,7 +19,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21012735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21012735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708853"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Newcastle upon Tyne District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

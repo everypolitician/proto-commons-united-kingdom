@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q202088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q202088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708809"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Camden London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

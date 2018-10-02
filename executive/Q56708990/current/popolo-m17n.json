@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1022488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1022488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708872"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:cy": "dinas"
+      },
+      "name": {
+        "lang:en": "The City of Brighton and Hove"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

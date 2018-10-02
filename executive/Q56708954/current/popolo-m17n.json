@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q32504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708833"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Merton London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,77 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q22",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1362216"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Scotland"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q2379199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2379199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708860"
+      ],
+      "type": {
+        "lang:en": "Scottish council area"
+      },
+      "name": {
+        "lang:en": "City of Edinburgh"
+      },
+      "parent_id": "Q22"
+    }
   ],
   "memberships": [
 

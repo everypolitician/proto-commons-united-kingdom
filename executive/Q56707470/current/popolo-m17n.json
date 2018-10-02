@@ -19,7 +19,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q774015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q774015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708848"
+      ],
+      "type": {
+        "lang:en": "district with city status"
+      },
+      "name": {
+        "lang:en": "Leeds District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

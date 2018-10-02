@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q210476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q210476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708841"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Harrow London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

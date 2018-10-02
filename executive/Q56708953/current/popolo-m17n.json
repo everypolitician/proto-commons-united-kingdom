@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q40478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708831"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Hammersmith and Fulham London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

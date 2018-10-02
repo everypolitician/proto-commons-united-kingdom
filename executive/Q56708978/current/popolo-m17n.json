@@ -19,7 +19,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q12956644",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12956644"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708858"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Sheffield District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

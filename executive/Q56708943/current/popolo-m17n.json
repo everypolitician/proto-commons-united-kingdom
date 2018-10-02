@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q210563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q210563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708822"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Wandsworth London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

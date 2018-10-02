@@ -19,7 +19,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q205690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q205690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708817"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Hillingdon London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
