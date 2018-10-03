@@ -1,16 +1,15 @@
-SELECT DISTINCT
-       ?statement
+SELECT ?statement
        ?item ?name_en ?name_cy
        ?party ?party_name_en ?party_name_cy
        ?district ?district_name_en ?district_name_cy
        ?role ?role_en ?role_cy
-       ?start ?end ?facebook
        ?role_superclass ?role_superclass_en ?role_superclass_cy
-       ?org ?org_en ?org_cy ?org_jurisdiction
+       ?start ?end ?facebook
+       ?org ?org_en ?org_cy ?org_jurisdiction ?org_seat_count
 WHERE {
-  VALUES ?role { wd:Q22979263 wd:Q23729452 }
-  BIND(?role AS ?specific_role) .
-  BIND(wd:Q2665914 AS ?org) .
+  BIND(wd:Q56573014 as ?role) .
+  BIND(wd:Q56573014 as ?specific_role) .
+  BIND(wd:Q1135593 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_en
   FILTER(LANG(?org_en) = "en")
@@ -24,8 +23,30 @@ OPTIONAL {
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
   }
+  OPTIONAL {
+    ?org wdt:P1342 ?org_seat_count
+  }
   ?item wdt:P31 wd:Q5 ;
         p:P39 ?statement .
+  ?statement ps:P39/wdt:P279* ?specific_role .
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  OPTIONAL { wd:Q56573441 wdt:P571|wdt:P580 ?termStart }
+  OPTIONAL { wd:Q56573441 wdt:P576|wdt:P582 ?termEnd }
+  # A P39 is relevant if it's directly related to the term with a "parliamentary term" qualifier (1), or
+  # it overlaps it. In the latter case, the P39 and term must each have a start date (2), and either
+  #  * starts before it and either doesn't end, or ends after the term start (3), or
+  #  * starts after the term, and if the term ends, starts before it ends (4)
+  FILTER (
+    (EXISTS { ?statement pq:P2937 wd:Q56573441 })               # (1)
+    ||
+    (BOUND(?start) && BOUND(?termStart) && (                             # (2)
+      (?start <= ?termStart && (!BOUND(?end) || ?end > ?termStart))      # (4)
+      ||
+      (?start > ?termStart && (!BOUND(?termEnd) || ?start < ?termEnd))   # (5)
+    ))
+  )
+
   OPTIONAL {
   ?item rdfs:label ?name_en
   FILTER(LANG(?name_en) = "en")
@@ -36,7 +57,6 @@ OPTIONAL {
   FILTER(LANG(?name_cy) = "cy")
 }
 
-  ?statement ps:P39 ?specific_role .
   OPTIONAL {
   ?role rdfs:label ?role_en
   FILTER(LANG(?role_en) = "en")
@@ -48,9 +68,8 @@ OPTIONAL {
 }
 
   OPTIONAL {
-    VALUES ?superclass_type { wd:Q2285706 wd:Q30461 }
     ?role wdt:P279 ?role_superclass .
-    ?role_superclass wdt:P279* ?superclass_type .
+    ?role_superclass wdt:P279+ wd:Q4175034
     OPTIONAL {
   ?role_superclass rdfs:label ?role_superclass_en
   FILTER(LANG(?role_superclass_en) = "en")
@@ -62,10 +81,8 @@ OPTIONAL {
 }
 
   }
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
-    ?role p:P1001/ps:P1001 ?district .
+    ?statement pq:P768 ?district.
     OPTIONAL {
   ?district rdfs:label ?district_name_en
   FILTER(LANG(?district_name_en) = "en")
@@ -77,12 +94,8 @@ OPTIONAL {
 }
 
   }
-  BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
-  FILTER(?end_or_sentinel >= NOW())
-  # Find any current party membership:
   OPTIONAL {
-    ?item p:P102 ?party_statement .
-    ?party_statement ps:P102 ?party .
+    ?statement pq:P4100 ?party.
     OPTIONAL {
   ?party rdfs:label ?party_name_en
   FILTER(LANG(?party_name_en) = "en")
@@ -93,9 +106,7 @@ OPTIONAL {
   FILTER(LANG(?party_name_cy) = "cy")
 }
 
-    OPTIONAL { ?party_statement pq:P582 ?end_party }
-    BIND(COALESCE(?end_party, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?party_end_or_sentinel)
-    FILTER(?party_end_or_sentinel >= NOW())
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-} ORDER BY ?item ?role ?district ?start ?end ?role_superclass ?party ?org
+  
+} ORDER BY ?item ?role ?term ?start ?end ?role_superclass ?party ?org ?district
