@@ -19,7 +19,466 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q56613011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009406"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bletchley East Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009407"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bletchley Park Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009408"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bletchley West Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009409"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bradwell Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009410"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Broughton Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009411"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Campbell Park & Old Woughton Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009412"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Central Milton Keynes Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009413"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Danesborough & Walton Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009414"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Loughton & Shenley Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009415"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Monkston Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009416"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Newport Pagnell North & Hanslope Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009417"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Newport Pagnell South Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009418"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Olney Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009419"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shenley Brook End Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009420"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stantonbury Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009421"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stony Stratford Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009422"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tattenhoe Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009423"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wolverton Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q56613030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042/utw:e05009424"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56613030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010487"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woughton & Fishermead Ward"
+      },
+      "parent_id": "Q894090"
+    },
+    {
+      "id": "Q894090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000042"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q894090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708871"
+      ],
+      "type": {
+        "lang:en": "borough in the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Milton Keynes"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

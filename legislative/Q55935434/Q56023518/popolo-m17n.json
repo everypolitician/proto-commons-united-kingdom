@@ -19,7 +19,745 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q24342199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24342199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708862"
+      ],
+      "type": {
+        "lang:en": "principal area of Wales",
+        "lang:cy": "prif ardal"
+      },
+      "name": {
+        "lang:en": "Caerdydd - Cardiff"
+      },
+      "parent_id": "Q25"
+    },
+    {
+      "id": "Q25",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18996"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Wales"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q28452604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000854"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28452604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Butetown ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q42887985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000863"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42887985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Grangetown ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q48814456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000877"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48814456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Riverside ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q48815139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05001012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48815139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Llanishen ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q48815320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000876"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48815320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rhiwbina ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q5052158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000857"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5052158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cathays ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q5184033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000858"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5184033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Creigiau/St. Fagans ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q55611426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000861"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55611426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fairwater ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q55629457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05001014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55629457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pentwyn ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q55631063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000875"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55631063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Radyr ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q55633721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000879"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55633721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Splott ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000853"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Adamsdown ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000855"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Caerau ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000856"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Canton ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05001011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cyncoed ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000860"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ely ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000862"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Gabalfa ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000864"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Heath ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000865"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lisvane ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000866"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Llandaff ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000867"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Llandaff North ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05001013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Llanrumney ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000871"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pentyrch ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000872"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Penylan ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05001015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rumney ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q56649412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05001016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Trowbridge ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q7201997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000873"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7201997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plasnewydd ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q7228362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000900"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7228362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pontprennau/Old St. Mellons ED"
+      },
+      "parent_id": "Q24342199"
+    },
+    {
+      "id": "Q7994195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:wls/uta:w06000015/ute:w05000881"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7994195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010478"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Whitchurch and Tongwynlais ED"
+      },
+      "parent_id": "Q24342199"
+    }
   ],
   "memberships": [
 

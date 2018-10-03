@@ -19,7 +19,398 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q40478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708831"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Hammersmith and Fulham London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56295518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Addison Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Askew Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Avonmore and Brook Green Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "College Park and Old Oak Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fulham Broadway Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fulham Reach Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hammersmith Broadway Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000257"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Munster Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295548",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295548"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North End Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295550",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000259"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295550"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Palace Riverside Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000260"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Parsons Green and Walham Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000262"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sands End Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shepherd's Bush Green Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000264"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Town Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q56295563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000265"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wormholt and White City Ward"
+      },
+      "parent_id": "Q40478"
+    },
+    {
+      "id": "Q7296504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000013/lbw:e05000261"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7296504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010444"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ravenscourt Park Ward"
+      },
+      "parent_id": "Q40478"
+    }
   ],
   "memberships": [
 

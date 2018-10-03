@@ -19,7 +19,490 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1795188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000491"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1795188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Royal Docks Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q208139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q208139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5280484"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Newham London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q28792675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000476"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28792675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Boleyn Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000475"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Beckton Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000477"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Canning Town North Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000478"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Canning Town South Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000479"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Custom House Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000480"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Ham Central Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000481"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Ham North Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000482"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Ham South Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000483"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Forest Gate North Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000484"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Forest Gate South Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000485"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Green Street East Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000486"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Green Street West Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000487"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Little Ilford Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000488"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Manor Park Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000489"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plaistow North Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000490"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plaistow South Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000492"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stratford and New Town Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000493"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wall End Ward"
+      },
+      "parent_id": "Q208139"
+    },
+    {
+      "id": "Q56296021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000025/lbw:e05000494"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010441"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Ham Ward"
+      },
+      "parent_id": "Q208139"
+    }
   ],
   "memberships": [
 

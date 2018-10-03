@@ -22,7 +22,765 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q15205098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011353"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15205098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brooklands Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q21525592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21525592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708856"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Manchester District"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q30597345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011358"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30597345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chorlton Park Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q30605887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011354"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30605887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Burnage Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q30605968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011357"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30605968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chorlton Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q30606233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011362"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30606233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Didsbury East Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q30606239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011363"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30606239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Didsbury West Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q30606249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011375"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30606249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Old Moat Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q30606255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011380"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30606255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Withington Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q48816935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011365"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48816935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Gorton & Abbey Hey Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q48817098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011350"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48817098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ancoats & Beswick Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q48817103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011359"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48817103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clayton & Openshaw Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q48817451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011361"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48817451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Deansgate Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q48817452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011376"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48817452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Piccadilly Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q5084210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011355"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5084210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Charlestown Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011351"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ardwick Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011352"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Baguley Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011356"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cheetham Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011360"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Crumpsall Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011364"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fallowfield Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011366"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Harpurhey Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011367"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Higher Blackley Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011368"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hulme Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011369"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Levenshulme Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011370"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Longsight Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011372"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Moss Side Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011373"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Moston Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011374"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northenden Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011377"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rusholme Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011378"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sharston Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011379"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Whalley Range Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q56661261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011381"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56661261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woodhouse Park Ward"
+      },
+      "parent_id": "Q21525592"
+    },
+    {
+      "id": "Q6851507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000003/mtw:e05011371"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6851507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010470"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Miles Platting & Newton Heath Ward"
+      },
+      "parent_id": "Q21525592"
+    }
   ],
   "memberships": [
 

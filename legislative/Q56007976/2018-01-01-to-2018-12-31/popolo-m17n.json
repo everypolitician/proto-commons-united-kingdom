@@ -19,7 +19,512 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q15267432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001456"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15267432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pontefract South Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001444"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ackworth, North Elmsall and Upton Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001445"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Airedale and Ferry Fryston Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653527",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001446"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653527"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Altofts and Whitwood Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001447"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Castleford Central and Glasshoughton Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001448"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Crofton, Ryhill and Walton Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001449"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Featherstone Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001450"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hemsworth Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001451"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Horbury and South Ossett Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001452"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Knottingley Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653534",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001453"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653534"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Normanton Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001454"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ossett Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001455"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pontefract North Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001457"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "South Elmsall and South Kirkby Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001458"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stanley and Outwood East Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001459"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wakefield East Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001460"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wakefield North Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001461"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wakefield Rural Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001462"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wakefield South Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001463"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wakefield West Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q56653545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036/mtw:e05001464"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010468"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wrenthorpe and Outwood West Ward"
+      },
+      "parent_id": "Q763171"
+    },
+    {
+      "id": "Q763171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q763171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708855"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Wakefield District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

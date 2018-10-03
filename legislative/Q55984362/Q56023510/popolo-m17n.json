@@ -19,7 +19,398 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q205817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q205817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708843"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Islington London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q28836898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000374"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28836898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hillrise Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000366"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Barnsbury Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000367"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bunhill Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000368"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Caledonian Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000369"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Canonbury Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000370"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clerkenwell Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000371"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Finsbury Park Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000372"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Highbury East Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000373"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Highbury West Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000376"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Junction Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000377"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mildmay Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000378"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. George's Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000379"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Mary's Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q56295933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000380"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Peter's Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q5881794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000375"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5881794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Holloway Ward"
+      },
+      "parent_id": "Q205817"
+    },
+    {
+      "id": "Q7814410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000019/lbw:e05000381"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7814410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010455"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tollington Ward"
+      },
+      "parent_id": "Q205817"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,719 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q15227916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001353"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15227916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Idle and Thackley Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q15273555",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001361"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15273555"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Royds Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q2834810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2834810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708857"
+      ],
+      "type": {
+        "lang:en": "district with city status"
+      },
+      "name": {
+        "lang:en": "Bradford District"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4914269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001342"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4914269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bingley Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q4914277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001343"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4914277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bingley Rural Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q4940245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001344"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4940245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bolton and Undercliffe Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q4951200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001345"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4951200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bowling and Barkerend Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q4954721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001346"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4954721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bradford Moor Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q5123013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001347"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5123013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "City Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q5182717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001349"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5182717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Craven Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q5599330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001351"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5599330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Great Horton Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001341"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Baildon Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001348"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clayton and Fairweather Green Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001350"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Eccleshill Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001352"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Heaton Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660720",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001354"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660720"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ilkley Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001359"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Manningham Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001360"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Queensbury Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001362"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shipley Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001367"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wibsey Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q56660725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001370"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56660725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wyke Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q6383584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001355"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6383584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Keighley Central Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q6383585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001356"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6383585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Keighley East Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q6383592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001357"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6383592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Keighley West Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q6650352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001358"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6650352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Little Horton Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q748652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001365"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q748652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tong Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q7796572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001363"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7796572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Thornton and Allerton Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q7814379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001364"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7814379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Toller Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q7990673",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001366"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7990673"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wharfedale Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q8024210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001368"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8024210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Windhill and Wrose Ward"
+      },
+      "parent_id": "Q2834810"
+    },
+    {
+      "id": "Q8037181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000032/mtw:e05001369"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8037181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010474"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Worth Valley Ward"
+      },
+      "parent_id": "Q2834810"
+    }
   ],
   "memberships": [
 

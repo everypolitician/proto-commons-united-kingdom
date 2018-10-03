@@ -19,7 +19,606 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q16934238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002985"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16934238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shettleston Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q22",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1362216"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Scotland"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q30608168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002989"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30608168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Partick East/Kelvindale Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q5023994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002975"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5023994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Calton Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q5309132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002980"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5309132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Drumchapel/Anniesland Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q5524273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002979"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5524273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Garscadden/Scotstounhill Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q5588561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002971"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5588561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Govan Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q55934339",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55934339"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708861"
+      ],
+      "type": {
+        "lang:en": "Scottish council area"
+      },
+      "name": {
+        "lang:en": "Glasgow City"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q5600724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002969"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5600724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Greater Pollok Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002976"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Anderston/City/Yorkhill Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002986"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611894"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Baillieston Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611895",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002982"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611895"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Canal Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002970"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cardonald Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611897",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002988"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611897"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dennistoun Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002984"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Centre Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611900",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002981"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611900"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Maryhill Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002987"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North East Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611902",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002972"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611902"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pollokshields Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q56611903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002983"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56611903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Springburn/Robroyston Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q5763161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002977"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5763161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hillhead Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q6486482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002973"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6486482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Langside Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q6554496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002967"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6554496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Linn Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q7018331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002968"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7018331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Newlands/Auldburn Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q7571049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002974"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7571049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southside Central Ward"
+      },
+      "parent_id": "Q55934339"
+    },
+    {
+      "id": "Q7926917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000046/utw:s13002978"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7926917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010477"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Victoria Park Ward"
+      },
+      "parent_id": "Q55934339"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,536 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q205690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q205690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708817"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Hillingdon London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56295768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000324"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Barnhill Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000325"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Botwell Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000326"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brunel Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000327"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cavendish Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000328"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Charville Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000329"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Eastcote and East Ruislip Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000330"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Harefield Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000331"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Heathrow Villages Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000332"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hillingdon East Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000333"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ickenham Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000334"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Manor Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000336"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northwood Hills Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000335"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northwood Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000337"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pinkwell Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000338"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "South Ruislip Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000339"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Townfield Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000340"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Uxbridge North Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000341"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Uxbridge South Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000342"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Drayton Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000343"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Ruislip Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000344"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Yeading Ward"
+      },
+      "parent_id": "Q205690"
+    },
+    {
+      "id": "Q56295853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000017/lbw:e05000345"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010430"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Yiewsley Ward"
+      },
+      "parent_id": "Q205690"
+    }
   ],
   "memberships": [
 

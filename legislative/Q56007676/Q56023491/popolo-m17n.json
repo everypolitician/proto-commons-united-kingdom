@@ -19,7 +19,513 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q210531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q210531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708827"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Enfield London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q28836918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28836918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Haselbury Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bowes Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bush Hill Park Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chase Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cockfosters Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Edmonton Green Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Enfield Highway Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Enfield Lock Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Grange Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Highlands Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Jubilee Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lower Edmonton Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Palmers Green Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ponders End Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southbury Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southgate Green Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southgate Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Town Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Turkey Street Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Upper Edmonton Ward"
+      },
+      "parent_id": "Q210531"
+    },
+    {
+      "id": "Q56295387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000010/lbw:e05000213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010438"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Winchmore Hill Ward"
+      },
+      "parent_id": "Q210531"
+    }
   ],
   "memberships": [
 

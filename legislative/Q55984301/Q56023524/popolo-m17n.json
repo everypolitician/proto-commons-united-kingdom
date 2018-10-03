@@ -22,7 +22,812 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21693433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21693433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708876"
+      ],
+      "type": {
+        "lang:en": "ceremonial county of England",
+        "lang:cy": "swydd seremonïol Lloegr"
+      },
+      "name": {
+        "lang:en": "City of Bristol"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4805350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010885"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4805350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Ashley Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q4968701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010890"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4968701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Brislington East Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q4968709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010891"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4968709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Brislington West Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q5449281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010898"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5449281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Filwood Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q5505740",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010899"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5505740"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Frome Vale Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56558863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010889"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56558863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Bishopsworth Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010886"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Avonmouth & Lawrence Weston Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010887"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Bedminster Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010888"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Bishopston & Ashley Down Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010892"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010894"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Clifton Down Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010893"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Clifton Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010895"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Cotham Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010896"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Easton Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010897"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Eastville Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010900"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Hartcliffe & Withywood Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010901"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Henbury & Brentry Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010902"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Hengrove & Whitchurch Park Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010903"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Hillfields Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010904"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Horfield Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010905"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Hotwells & Harbourside Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010906"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Knowle Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010908"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Lockleaze Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010913"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Southmead Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010914"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Southville Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010910"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "St. George Central Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010911"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "St. George Troopers Hill Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010915"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Stockwood Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572527",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010916"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572527"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Stoke Bishop Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010917"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Westbury-on-Trym & Henleaze Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q56572530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010918"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56572530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Windmill Hill Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q6504157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010907"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6504157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Lawrence Hill Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q7306009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010909"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7306009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Redland Ward"
+      },
+      "parent_id": "Q21693433"
+    },
+    {
+      "id": "Q7593234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000023/utw:e05010912"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7593234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010491"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "St. George West Ward"
+      },
+      "parent_id": "Q21693433"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,513 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1022488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1022488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708872"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:cy": "dinas"
+      },
+      "name": {
+        "lang:en": "The City of Brighton and Hove"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56573524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002420"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brunswick and Adelaide Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573525",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002421"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573525"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Central Hove Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002422"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Brighton Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002423"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Goldsmid Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002424"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hangleton and Knoll Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002425"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hanover and Elm Grove Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002426"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hollingdean and Stanmer Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002436"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hove Park Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573534",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002427"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573534"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Moulsecoomb and Bevendean Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002428"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North Portslade Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573539",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002429"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573539"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Patcham Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002430"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Preston Park Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002431"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Queen's Park Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002432"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Regency Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002433"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rottingdean Coastal Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002435"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "South Portslade Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573547",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002434"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573547"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Peter's and North Laine Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002437"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Westbourne Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002438"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wish Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002439"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Withdean Ward"
+      },
+      "parent_id": "Q1022488"
+    },
+    {
+      "id": "Q56573554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000043/utw:e05002440"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56573554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010488"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woodingdean Ward"
+      },
+      "parent_id": "Q1022488"
+    }
   ],
   "memberships": [
 

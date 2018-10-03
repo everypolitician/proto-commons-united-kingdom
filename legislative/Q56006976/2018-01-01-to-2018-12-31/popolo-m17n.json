@@ -19,7 +19,604 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1280897",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280897"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708852"
+      ],
+      "type": {
+        "lang:en": "district with city status"
+      },
+      "name": {
+        "lang:en": "Sunderland District"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q28062027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28062027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sandhill Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Barnes Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Castle Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Copt Hill Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Doxford Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fulwell Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hendon Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hetton Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Houghton Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Millfield Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pallion Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Redhill Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ryhope Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shiney Row Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Silksworth Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Anne's Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Chad's Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Michael's Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Peter's Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Washington Central Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Washington East Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Washington North Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Washington South Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q56653943",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653943"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Washington West Ward"
+      },
+      "parent_id": "Q1280897"
+    },
+    {
+      "id": "Q7571464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000024/mtw:e05001172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7571464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010464"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southwick Ward"
+      },
+      "parent_id": "Q1280897"
+    }
   ],
   "memberships": [
 

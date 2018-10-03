@@ -19,7 +19,880 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21891722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21891722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708864"
+      ],
+      "type": {
+        "lang:en": "unitary authority of England"
+      },
+      "name": {
+        "lang:en": "City of Stoke-on-Trent"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56649086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008714"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Abbey Hulton and Townsend Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008715"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Baddeley, Milton and Norton Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008716"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bentilee and Ubberley Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649089",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008717"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649089"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Birches Head and Central Forest Park Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008718"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blurton East Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008719"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blurton West and Newstead Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008720"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Boothen and Oak Hill Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008721"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bradeley and Chell Heath Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649094",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008722"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649094"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Broadway and Longton East Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008723"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Burslem Central Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008724"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Burslem Park Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649097",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008725"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649097"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dresden and Florence Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008726"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Eaton Park Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008727"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Etruria and Hanley Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649100",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008728"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649100"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fenton East Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649101",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008729"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649101"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fenton West and Mount Pleasant Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649102",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008730"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649102"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ford Green and Smallthorne Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008731"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Goldenhill and Sandyford Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008732"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Great Chell and Packmoor Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008733"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hanford and Trentham Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008734"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hanley Park and Shelton Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008735"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hartshill and Basford Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008736"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hollybush and Longton West Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008737"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Joiner's Square Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008738"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lightwood North and Normacot Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008739"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Little Chell and Stanfield Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008740"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Meir Hay Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008741"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Meir North Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008742"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Meir Park Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008743"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Meir South Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008744"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Moorcroft Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008745"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Penkhull and Stoke Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649127",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008746"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649127"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sandford Hill Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008747"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sneyd Green Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008748"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Springfields and Trent Vale Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008749"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tunstall Ward"
+      },
+      "parent_id": "Q21891722"
+    },
+    {
+      "id": "Q56649134",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000021/utw:e05008750"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649134"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010480"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Weston Coyney Ward"
+      },
+      "parent_id": "Q21891722"
+    }
   ],
   "memberships": [
 

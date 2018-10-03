@@ -19,7 +19,467 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q213560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q213560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708812"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Haringey London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q55639885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000272"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55639885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Highgate Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56243388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000283"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56243388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "White Hart Lane Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000266"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Alexandra Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bounds Green Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000268"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bruce Grove Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Crouch End Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000270"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fortis Green Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Harringay Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000273"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hornsey Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000274"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Muswell Hill Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000275"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Noel Park Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000276"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northumberland Park Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000278"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Seven Sisters Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000277"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Ann's Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000279"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stroud Green Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000281"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tottenham Hale Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000282"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Green Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q56295626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000284"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woodside Ward"
+      },
+      "parent_id": "Q213560"
+    },
+    {
+      "id": "Q7828446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000014/lbw:e05000280"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7828446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010422"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tottenham Green Ward"
+      },
+      "parent_id": "Q213560"
+    }
   ],
   "memberships": [
 

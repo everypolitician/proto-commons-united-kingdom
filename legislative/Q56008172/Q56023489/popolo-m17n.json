@@ -19,7 +19,513 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q207201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q207201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708825"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Brent London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q28938133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28938133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Willesden Green Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000085"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Alperton Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000086"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Barnhill Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000087"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brondesbury Park Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000088"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dollis Hill Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000089"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dudden Hill Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000090"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fryent Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000091"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Harlesden Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000092"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kensal Green Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000093"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kenton Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000094"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kilburn Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000095"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mapesbury Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000096"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northwick Park Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000098"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Queens Park Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000099"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Queensbury Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stonebridge Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sudbury Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q56295085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tokyngton Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q7241829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000097"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7241829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Preston Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q7981910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7981910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Welsh Harp Ward"
+      },
+      "parent_id": "Q207201"
+    },
+    {
+      "id": "Q7982174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000005/lbw:e05000104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7982174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010436"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wembley Central Ward"
+      },
+      "parent_id": "Q207201"
+    }
   ],
   "memberships": [
 

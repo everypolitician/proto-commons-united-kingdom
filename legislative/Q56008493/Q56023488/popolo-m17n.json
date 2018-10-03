@@ -19,7 +19,534 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q15223729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000423"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15223729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Herne Hill Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q16897478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000435"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16897478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Tulse Hill Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q202059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q202059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708823"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Lambeth London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4917393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000416"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4917393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Bishop's Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q4971719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000417"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4971719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Brixton Hill Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q5125864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000418"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5125864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Clapham Common Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q5125873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000419"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5125873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Clapham Town Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q5142528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000420"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5142528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Coldharbour Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q5445052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000421"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5445052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Ferndale Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q5564083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000422"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5564083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Gipsy Hill Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q56243575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000430"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56243575"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Streatham Hill Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q56243584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000426"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56243584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Oval Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q6422168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000424"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6422168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Knight's Hill Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q6489588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000425"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6489588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Larkhall Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q7243726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000427"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7243726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Prince's Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q7593975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000428"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7593975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "St. Leonard's Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q7618273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000429"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7618273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Stockwell Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q7622737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000431"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7622737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Streatham South Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q7622739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000432"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7622739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Streatham Wells Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q7796507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000433"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7796507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Thornton Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q7799327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000434"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7799327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Thurlow Park Ward"
+      },
+      "parent_id": "Q202059"
+    },
+    {
+      "id": "Q7916898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000022/lbw:e05000436"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7916898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010434"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Vassall Ward"
+      },
+      "parent_id": "Q202059"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,438 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q11703246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000038"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11703246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "River Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q205358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q205358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708845"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Barking and Dagenham London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4663970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4663970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Abbey Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Becontree Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000029"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Chadwell Heath Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Eastbrook Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294839",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294839"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Eastbury Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Gascoigne Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294842",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000033"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294842"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Goresbrook Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Heath Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Longbridge Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Mayesbrook Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294867",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000040"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294867"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Valence Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000041"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Village Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q56294870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000042"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Whalebone Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q5668649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5668649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Alibon Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q6063823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000037"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6063823"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Parsloes Ward"
+      },
+      "parent_id": "Q205358"
+    },
+    {
+      "id": "Q7709858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000002/lbw:e05000039"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7709858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010457"
+      ],
+      "type": {
+        "lang:en": "geographical object",
+        "lang:cy": "gwrthrych daearyddol"
+      },
+      "name": {
+        "lang:en": "Thames Ward"
+      },
+      "parent_id": "Q205358"
+    }
   ],
   "memberships": [
 

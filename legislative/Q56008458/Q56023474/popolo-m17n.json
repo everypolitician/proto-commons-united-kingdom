@@ -19,7 +19,490 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q214162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q214162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708811"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Hounslow London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56295855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000346"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bedfont Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000347"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brentford Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000348"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chiswick Homefields Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000349"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chiswick Riverside Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295867",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000350"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295867"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cranford Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000351"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Feltham North Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295879",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000352"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295879"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Feltham West Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000354"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hanworth Park Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000353"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hanworth Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000355"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Heston Central Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000356"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Heston East Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000357"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Heston West Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000358"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hounslow Central Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000359"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hounslow Heath Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000360"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hounslow South Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000361"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hounslow West Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000362"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Isleworth Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000363"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Osterley and Spring Grove Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000364"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Syon Ward"
+      },
+      "parent_id": "Q214162"
+    },
+    {
+      "id": "Q56295920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000018/lbw:e05000365"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010421"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Turnham Green Ward"
+      },
+      "parent_id": "Q214162"
+    }
   ],
   "memberships": [
 

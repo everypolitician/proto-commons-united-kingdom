@@ -19,7 +19,468 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q22",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1362216"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Scotland"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q2379199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2379199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708860"
+      ],
+      "type": {
+        "lang:en": "Scottish council area"
+      },
+      "name": {
+        "lang:en": "City of Edinburgh"
+      },
+      "parent_id": "Q22"
+    },
+    {
+      "id": "Q56574017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002929"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "City Centre Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002926"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Colinton/Fairmilehead Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002924"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Corstorphine/Murrayfield Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002932"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Craigentinny/Duddingston Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002921"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Drum Brae/Gyle Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002922"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Forth Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002927"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fountainbridge/Craiglockhart Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002923"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Inverleith Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002930"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Leith Walk Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002931"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Leith Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002934"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Liberton/Gilmerton Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002928"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Morningside Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002920"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pentland Hills Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002935"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Portobello/Craigmillar Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002925"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sighthill/Gorgie Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56574038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002933"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56574038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southside/Newington Ward"
+      },
+      "parent_id": "Q2379199"
+    },
+    {
+      "id": "Q56578220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:sct/uta:s12000036/utw:s13002919"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56578220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010476"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Almond Ward"
+      },
+      "parent_id": "Q2379199"
+    }
   ],
   "memberships": [
 

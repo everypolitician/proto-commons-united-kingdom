@@ -19,7 +19,559 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q56296063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011095"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Borough & Bankside Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011096"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Camberwell Green Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011097"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Champion Hill Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011098"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chaucer Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011099"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dulwich Hill Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dulwich Village Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dulwich Wood Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Faraday Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Goose Green Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "London Bridge & West Bermondsey Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Newington Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North Bermondsey Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North Walworth Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Nunhead & Queen's Road Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Old Kent Road Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Peckham Rye Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296080",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296080"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Peckham Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rotherhithe Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rye Lane Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "South Bermondsey Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296084",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296084"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. George's Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Giles Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q56296086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028/lbw:e05011117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010432"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Surrey Docks Ward"
+      },
+      "parent_id": "Q730706"
+    },
+    {
+      "id": "Q730706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q730706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708818"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Southwark London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

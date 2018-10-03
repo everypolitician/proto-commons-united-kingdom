@@ -19,7 +19,421 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q56295389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Abbey Wood Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blackheath Westcombe Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Charlton Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295396",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295396"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Coldharbour and New Eltham Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Eltham North Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Eltham South Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Eltham West Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Glyndon Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Greenwich West Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kidbrooke with Hornfair Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Middle Park and Sutcliffe Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Peninsula Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plumstead Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shooters Hill Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Thamesmead Moorings Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woolwich Common Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q56295451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011/lbw:e05000230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010426"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woolwich Riverside Ward"
+      },
+      "parent_id": "Q693450"
+    },
+    {
+      "id": "Q693450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q693450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708814"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Greenwich London Borough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

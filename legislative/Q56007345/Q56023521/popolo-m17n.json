@@ -19,7 +19,489 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21885994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21885994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708873"
+      ],
+      "type": {
+        "lang:en": "unitary authority of England"
+      },
+      "name": {
+        "lang:en": "City of Nottingham"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56648413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001823"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Aspley Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001822"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Arboretum Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001824"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Basford Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001825"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Berridge Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648580",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001826"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648580"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bestwood Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001827"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bilborough Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001828"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bridge Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001830"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bulwell Forest Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001829"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bulwell Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001831"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clifton North Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001832"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clifton South Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001833"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dales Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001834"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dunkirk and Lenton Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001835"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Leen Valley Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001836"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mapperley Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001837"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Radford and Park Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001839"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sherwood Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001838"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Ann's Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001840"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648594"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wollaton East and Lenton Abbey Ward"
+      },
+      "parent_id": "Q21885994"
+    },
+    {
+      "id": "Q56648595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000018/utw:e05001841"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010489"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wollaton West Ward"
+      },
+      "parent_id": "Q21885994"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,559 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q207218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q207218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708828"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Ealing London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56295229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Acton Central Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cleveland Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dormers Wells Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ealing Broadway Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ealing Common Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Acton Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Elthorne Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Greenford Broadway Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Greenford Green Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hanger Hill Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hobbayne Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lady Margaret Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North Greenford Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northfield Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northolt Mandeville Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northolt West End Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295291"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Norwood Green Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295293",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295293"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Perivale Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "South Acton Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southall Broadway Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295300"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southall Green Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southfield Ward"
+      },
+      "parent_id": "Q207218"
+    },
+    {
+      "id": "Q56295314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000009/lbw:e05000192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010440"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Walpole Ward"
+      },
+      "parent_id": "Q207218"
+    }
   ],
   "memberships": [
 

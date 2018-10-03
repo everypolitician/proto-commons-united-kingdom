@@ -19,7 +19,444 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q188801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q188801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708838"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Kensington and Chelsea London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q28938159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009393"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28938159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Courtfield Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56243412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009400"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56243412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pembridge Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009388"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Abingdon Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009389"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brompton & Hans Town Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009390"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Campden Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009391"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chelsea Riverside Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009392"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Colville Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009394"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dalgarno Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009395"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Earl's Court Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009396"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Golborne Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009397"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Holland Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295943",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009398"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295943"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Norland Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295944",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009399"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295944"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Notting Dale Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295945",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009401"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295945"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Queen's Gate Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009402"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Redcliffe Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009403"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Royal Hospital Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009404"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Helen's Ward"
+      },
+      "parent_id": "Q188801"
+    },
+    {
+      "id": "Q56295949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000020/lbw:e05009405"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010448"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stanley Ward"
+      },
+      "parent_id": "Q188801"
+    }
   ],
   "memberships": [
 

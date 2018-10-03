@@ -19,7 +19,444 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q32515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708834"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Richmond upon Thames London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56296045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000516"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Barnes Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000517"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Sheen Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000518"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fulwell and Hampton Hill Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000519"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ham, Petersham and Richmond Riverside Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000521"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hampton North Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000520"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hampton Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000522"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hampton Wick Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000523"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Heathfield Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000524"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kew Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000525"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mortlake and Barnes Common Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000526"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North Richmond Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000528"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "South Richmond Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000529"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "South Twickenham Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296058",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000527"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296058"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Margarets and North Twickenham Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000530"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Teddington Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000531"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Twickenham Riverside Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000532"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Twickenham Ward"
+      },
+      "parent_id": "Q32515"
+    },
+    {
+      "id": "Q56296062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000027/lbw:e05000533"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010446"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Whitton Ward"
+      },
+      "parent_id": "Q32515"
+    }
   ],
   "memberships": [
 

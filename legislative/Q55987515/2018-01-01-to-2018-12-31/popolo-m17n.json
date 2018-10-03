@@ -19,7 +19,512 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21885987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21885987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708870"
+      ],
+      "type": {
+        "lang:en": "unitary authority of England"
+      },
+      "name": {
+        "lang:en": "City of Kingston upon Hull"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56612243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011525"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Avenue Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011526"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Beverley & Newland Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011527"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Boothferry Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011528"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bricknell Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011529"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Central Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011530"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Derringham Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011531"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Drypool Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011532"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Holderness Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011533"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ings Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612253",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011534"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612253"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kingswood Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011535"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Longhill & Bilton Grange Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011536"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Marfleet Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011537"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Newington & Gipsyville Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011538"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North Carr Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011539"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Orchard Park Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011540"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pickering Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011542"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southcoates Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011541"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Andrew's & Docklands Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011543"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sutton Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011544"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "University Ward"
+      },
+      "parent_id": "Q21885987"
+    },
+    {
+      "id": "Q56612265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000010/utw:e05011545"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010486"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Carr Ward"
+      },
+      "parent_id": "Q21885987"
+    }
   ],
   "memberships": [
 

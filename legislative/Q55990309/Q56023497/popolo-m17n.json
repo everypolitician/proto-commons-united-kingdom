@@ -19,7 +19,513 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q151048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q151048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708830"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Barnet London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56294874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000043"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brunswick Park Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000044"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Burnt Oak Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294878",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000045"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294878"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Childs Hill Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000046"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Colindale Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000047"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Coppetts Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000048"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Barnet Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000049"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Finchley Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000050"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Edgware Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000051"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Finchley Church End Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000052"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Garden Suburb Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000053"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Golders Green Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000054"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hale Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000055"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hendon Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000056"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "High Barnet Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000057"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mill Hill Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000058"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Oakleigh Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294945",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000059"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294945"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Totteridge Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000060"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Underhill Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000061"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Finchley Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000062"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Hendon Ward"
+      },
+      "parent_id": "Q151048"
+    },
+    {
+      "id": "Q56294954",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000003/lbw:e05000063"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294954"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010443"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woodhouse Ward"
+      },
+      "parent_id": "Q151048"
+    }
   ],
   "memberships": [
 

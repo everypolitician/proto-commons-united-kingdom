@@ -19,7 +19,308 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1140130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1140130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6679766"
+      ],
+      "type": {
+        "lang:en": "district of Northern Ireland"
+      },
+      "name": {
+        "lang:en": "Belfast"
+      },
+      "parent_id": "Q26"
+    },
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q16984470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000302"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16984470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Black Mountain"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q16984952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000303"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16984952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Botanic"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q16988116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000305"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16988116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Collin"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q16996388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000307"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16996388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lisnasharragh"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q17016705",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000309"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17016705"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ormiston"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q17017641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000310"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17017641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Titanic"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q26",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q22979263",
+        "Q23729452"
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "Northern Ireland"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q4852377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000301"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4852377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Balmoral"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q5049967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000304"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5049967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Castle"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q5178210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000306"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5178210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Court"
+      },
+      "parent_id": "Q1140130"
+    },
+    {
+      "id": "Q7085704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/province:nir/lgd:n09000003/lea:N10000308"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7085704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010418"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Oldpark"
+      },
+      "parent_id": "Q1140130"
+    }
   ],
   "memberships": [
 

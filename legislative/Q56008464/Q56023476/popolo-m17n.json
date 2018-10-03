@@ -19,7 +19,490 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q20711356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000596"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20711356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Grove Green Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q40608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708813"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Waltham Forest London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5032532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000590"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5032532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cann Hall Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q5052078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000591"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5052078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cathall Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q5101012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000593"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5101012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chingford Green Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000592"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chapel End Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000594"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Endlebury Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000595"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Forest Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000597"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hale End and Highams Park Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000599"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "High Street Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000600"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Higham Hill Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296134",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000602"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296134"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Larkswood Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000605"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Leytonstone Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000606"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Markhouse Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000607"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Valley Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000608"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "William Morris Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q56296139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000609"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wood Street Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q5681030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000598"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5681030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hatch Lane Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q5876366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000601"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5876366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hoe Street Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q6508175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000603"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6508175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lea Bridge Ward"
+      },
+      "parent_id": "Q40608"
+    },
+    {
+      "id": "Q6538137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000031/lbw:e05000604"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6538137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010423"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Leyton Ward"
+      },
+      "parent_id": "Q40608"
+    }
   ],
   "memberships": [
 

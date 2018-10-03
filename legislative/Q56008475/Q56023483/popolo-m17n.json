@@ -19,7 +19,536 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q208955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q208955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708816"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Redbridge London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56296022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Aldborough Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Barkingside Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bridge Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chadwell Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Churchfields Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clayhall Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clementswood Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cranbrook Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fairlop Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fullwell Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Goodmayes Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hainault Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ilford Town Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Loxford Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mayfield Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Monkhams Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Newbury Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296040",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296040"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Seven Kings Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "South Woodford Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Valentines Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wanstead Park Ward"
+      },
+      "parent_id": "Q208955"
+    },
+    {
+      "id": "Q56296044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000026/lbw:e05011255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010429"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wanstead Village Ward"
+      },
+      "parent_id": "Q208955"
+    }
   ],
   "memberships": [
 

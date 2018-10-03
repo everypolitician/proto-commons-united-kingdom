@@ -19,7 +19,489 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q179351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q179351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708836"
+      ],
+      "type": {
+        "lang:en": "seat of government"
+      },
+      "name": {
+        "lang:en": "City of Westminster London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q26001166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000647"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26001166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Warwick Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q5116695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000634"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5116695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Church Street Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000630"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Abbey Road Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000631"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bayswater Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000632"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bryanston and Dorset Square Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000633"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Churchill Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000635"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Harrow Road Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000636"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hyde Park Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000637"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Knightsbridge and Belgravia Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000638"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lancaster Gate Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000639"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Little Venice Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000640"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Maida Vale Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000641"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Marylebone High Street Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000642"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Queen's Park Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000643"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Regent's Park Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000644"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. James's Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000645"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tachbrook Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000646"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Vincent Square Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000649"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West End Ward"
+      },
+      "parent_id": "Q179351"
+    },
+    {
+      "id": "Q56295227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000033/lbw:e05000648"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010447"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Westbourne Ward"
+      },
+      "parent_id": "Q179351"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,490 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q210563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q210563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708822"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Wandsworth London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56296140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000610"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Balham Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000611"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bedford Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000612"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Earlsfield Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000613"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Putney Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000614"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fairfield Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000615"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Furzedown Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000616"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Graveney Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000617"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Latchmere Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296148",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000618"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296148"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Nightingale Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000619"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northcote Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000620"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Queenstown Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000621"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Roehampton and Putney Heath Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000623"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shaftesbury Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000624"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southfields Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000622"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Mary's Park Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000625"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Thamesfield Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000626"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tooting Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000627"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wandsworth Common Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000628"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Hill Ward"
+      },
+      "parent_id": "Q210563"
+    },
+    {
+      "id": "Q56296160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000032/lbw:e05000629"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010433"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Putney Ward"
+      },
+      "parent_id": "Q210563"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,489 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21885975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21885975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708850"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "City of Wolverhampton District"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3640842",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001323"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3640842"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blakenhall Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q4913612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001321"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4913612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bilston East Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q4913613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001322"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4913613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bilston North Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q5001463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001324"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5001463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bushbury North Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q5001465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001325"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5001465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bushbury South and Low Hill Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q5329110",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001326"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5329110"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Park Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q56651511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001327"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ettingshall Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q56651512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001328"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fallings Park Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q56651513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001329"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Graiseley Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q56651514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001330"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Heath Town Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q56651515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001331"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Merry Hill Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q56651516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001332"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Oxley Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q56651517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001334"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Penn Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q7137600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001333"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7137600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Park Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q7580700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001336"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7580700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Spring Vale Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q7595202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001335"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7595202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Peter's Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q7706975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001337"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7706975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tettenhall Regis Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q7706976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001338"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7706976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tettenhall Wightwick Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q7979251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001339"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7979251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wednesfield North Ward"
+      },
+      "parent_id": "Q21885975"
+    },
+    {
+      "id": "Q7979252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000031/mtw:e05001340"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7979252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010462"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wednesfield South Ward"
+      },
+      "parent_id": "Q21885975"
+    }
   ],
   "memberships": [
 

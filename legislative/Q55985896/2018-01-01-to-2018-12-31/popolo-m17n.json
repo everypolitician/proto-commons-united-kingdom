@@ -19,7 +19,489 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21674890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21674890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708865"
+      ],
+      "type": {
+        "lang:en": "unitary authority of England"
+      },
+      "name": {
+        "lang:en": "City of Plymouth"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5305586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002081"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5305586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Drake Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002085"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Honicknowle Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002078"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Budshead Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002079"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Compton Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002080"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Devonport Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002082"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Efford and Lipson Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002083"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Eggbuckland Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002084"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ham Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648851",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002086"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648851"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Moor View Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002087"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Peverell Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002088"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plympton Chaddlewood Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002089"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plympton Erle Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002090"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648856"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plympton St. Mary Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002091"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plymstock Dunstone Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002092"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plymstock Radford Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648859",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002095"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648859"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Southway Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002093"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Budeaux Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002094"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Peter and the Waterfront Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002096"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stoke Ward"
+      },
+      "parent_id": "Q21674890"
+    },
+    {
+      "id": "Q56648863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000026/utw:e05002097"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56648863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010481"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sutton and Mount Gould Ward"
+      },
+      "parent_id": "Q21674890"
+    }
   ],
   "memberships": [
 

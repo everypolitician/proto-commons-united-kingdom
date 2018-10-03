@@ -19,7 +19,512 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21683242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21683242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708875"
+      ],
+      "type": {
+        "lang:en": "unitary authority of England"
+      },
+      "name": {
+        "lang:en": "City of Leicester"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q28407626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010463"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28407626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Castle Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q4958298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010462"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4958298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Braunstone Park & Rowley Fields Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q5423005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010465"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5423005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Eyres Monsell Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010477"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Western Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010458"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Abbey Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010459"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Aylestone Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010460"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Beaumont Leys Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010461"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Belgrave Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010466"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fosse Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010468"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Knighton Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010469"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "North Evington Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010471"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Saffron Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010472"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Spinney Hills Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010473"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stoneygate Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010475"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Troon Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010476"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Westcotes Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q56612970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010478"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56612970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wycliffe Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q573937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010464"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q573937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Evington Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q7380817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010470"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7380817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rushey Mead Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q7799357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010474"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7799357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Thurncourt Ward"
+      },
+      "parent_id": "Q21683242"
+    },
+    {
+      "id": "Q9285781",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000016/utw:e05010467"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9285781"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010490"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Humberstone & Hamilton Ward"
+      },
+      "parent_id": "Q21683242"
+    }
   ],
   "memberships": [
 

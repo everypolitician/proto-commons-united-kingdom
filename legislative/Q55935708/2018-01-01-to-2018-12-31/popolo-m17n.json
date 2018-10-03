@@ -19,7 +19,397 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21683230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21683230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708863"
+      ],
+      "type": {
+        "lang:en": "unitary authority of England"
+      },
+      "name": {
+        "lang:en": "City of Southampton"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4860549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002455"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bargate Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q4899692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002457"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4899692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bevois Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q5179947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002460"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5179947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Coxford Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002456"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bassett Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002459"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bitterne Park Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002458"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bitterne Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002461"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Freemantle Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002462"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Harefield Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002463"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Millbrook Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649040",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002465"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649040"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Portswood Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002466"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Redbridge Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002467"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shirley Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002468"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sholing Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002469"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Swaythling Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q56649047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002470"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56649047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woolston Ward"
+      },
+      "parent_id": "Q21683230"
+    },
+    {
+      "id": "Q7158386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000045/utw:e05002464"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7158386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010479"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Peartree Ward"
+      },
+      "parent_id": "Q21683230"
+    }
   ],
   "memberships": [
 

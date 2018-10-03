@@ -19,7 +19,444 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q215030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q215030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5280482"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Lewisham London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q5416278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000443"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5416278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Evelyn Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000437"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bellingham Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000438"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blackheath Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000439"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brockley Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000440"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Catford South Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000441"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Crofton Park Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000442"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Downham Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000444"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Forest Hill Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000445"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Grove Park Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000446"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ladywell Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000447"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lee Green Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000448"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lewisham Central Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000449"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "New Cross Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000450"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Perry Vale Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000452"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sydenham Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q56295981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000453"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Telegraph Hill Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q7380815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000451"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7380815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rushey Green Ward"
+      },
+      "parent_id": "Q215030"
+    },
+    {
+      "id": "Q7995910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000023/lbw:e05000454"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7995910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010427"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Whitefoot Ward"
+      },
+      "parent_id": "Q215030"
+    }
   ],
   "memberships": [
 

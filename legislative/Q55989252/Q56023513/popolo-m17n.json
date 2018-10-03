@@ -19,7 +19,512 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1878732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1878732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708851"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Rotherham District"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56653556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05008935"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Anston and Woodsetts Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001020"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brinsworth and Catcliffe Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05008936"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dinnington Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653559",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001022"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653559"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hellaby Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001023"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Holderness Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hoober Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001025"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Keppel Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Maltby Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001027"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rawmarsh Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001028"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rother Vale Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001029"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rotherham East Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rotherham West Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653569",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001031"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653569"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Silverwood Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001032"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sitwell Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001033"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Swinton Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001034"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Valley Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wales Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001036"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wath Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653576",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001037"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653576"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wickersley Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001038"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wingfield Ward"
+      },
+      "parent_id": "Q1878732"
+    },
+    {
+      "id": "Q56653638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000018/mtw:e05001019"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010463"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Boston Castle Ward"
+      },
+      "parent_id": "Q1878732"
+    }
   ],
   "memberships": [
 

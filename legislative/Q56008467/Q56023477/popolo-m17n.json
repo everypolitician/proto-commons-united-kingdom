@@ -19,7 +19,513 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q205679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q205679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5280481"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Hackney London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56219172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009370"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56219172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dalston Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56219200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009369"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56219200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clissold Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56219344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009368"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56219344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cazenove Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56219420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009367"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56219420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Brownswood Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295454",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009371"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295454"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "De Beauvoir Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009372"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hackney Central Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009373"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hackney Downs Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009374"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hackney Wick Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009375"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Haggerston Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009376"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Homerton Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009377"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hoxton East & Shoreditch Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009378"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hoxton West Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009379"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "King's Park Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009380"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lea Bridge Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009381"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "London Fields Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295492",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009382"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295492"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shacklewell Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009383"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Springfield Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009384"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stamford Hill West Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009385"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stoke Newington Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009386"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Victoria Ward"
+      },
+      "parent_id": "Q205679"
+    },
+    {
+      "id": "Q56295515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000012/lbw:e05009387"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010425"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woodberry Down Ward"
+      },
+      "parent_id": "Q205679"
+    }
   ],
   "memberships": [
 

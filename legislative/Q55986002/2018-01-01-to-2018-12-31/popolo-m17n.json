@@ -19,7 +19,420 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q21750250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001767"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21750250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Abbey Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q21885980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21885980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708869"
+      ],
+      "type": {
+        "lang:en": "unitary authority of England"
+      },
+      "name": {
+        "lang:en": "City of Derby"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56577461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001777"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Littleover Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001768"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Allestree Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001769"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Alvaston Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001770"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577699"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Arboretum Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001771"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blagreaves Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001772"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Boulton Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001773"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chaddesden Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001774"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chellaston Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577705",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001775"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577705"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Darley Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001776"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Derwent Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001778"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mackworth Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001779"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mickleover Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577713",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001780"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577713"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Normanton Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001781"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Oakwood Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001782"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sinfin Ward"
+      },
+      "parent_id": "Q21885980"
+    },
+    {
+      "id": "Q56577716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/uta:e06000015/utw:e05001783"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010483"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Spondon Ward"
+      },
+      "parent_id": "Q21885980"
+    }
   ],
   "memberships": [
 

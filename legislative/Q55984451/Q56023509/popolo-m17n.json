@@ -19,7 +19,398 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q32508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708842"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Kingston upon Thames London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56295950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000400"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Alexandra Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000401"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Berrylands Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000402"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Beverley Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000403"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Canbury Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295954",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000404"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295954"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chessington North and Hook Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000405"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chessington South Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000406"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Coombe Hill Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000407"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Coombe Vale Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000408"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Grove Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000409"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Norbiton Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000410"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Old Malden Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000411"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. James Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000412"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Mark's Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000413"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Surbiton Hill Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000414"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tolworth and Hook Rise Ward"
+      },
+      "parent_id": "Q32508"
+    },
+    {
+      "id": "Q56295965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000021/lbw:e05000415"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010454"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tudor Ward"
+      },
+      "parent_id": "Q32508"
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,443 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q20986417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20986417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708854"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Coventry District"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56651466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bablake Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Binley and Willenhall Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cheylesmore Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Earlsdon Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Foleshill Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Henley Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Holbrook Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Longford Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lower Stoke Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Radford Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sherbourne Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Michael's Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Upper Stoke Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wainbody Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Westwood Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Whoberley Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Woodlands Ward"
+      },
+      "parent_id": "Q20986417"
+    },
+    {
+      "id": "Q56651483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000026/mtw:e05001235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010467"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wyken Ward"
+      },
+      "parent_id": "Q20986417"
+    }
   ],
   "memberships": [
 

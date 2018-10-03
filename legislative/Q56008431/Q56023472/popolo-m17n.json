@@ -19,7 +19,444 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q15224474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15224474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Holborn and Covent Garden Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16828848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16828848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cantelowes Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16842240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16842240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Haverstock Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16852619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16852619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kentish Town Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16951138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16951138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Belsize Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16955068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16955068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Camden Town with Primrose Hill Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16962273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16962273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Pancras and Somers Town Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16967163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16967163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Hampstead Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16992376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16992376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Fortune Green Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16993628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16993628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hampstead Town Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16994036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16994036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Highgate Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q16995654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16995654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kilburn Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q17007112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17007112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Gospel Oak Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q17018776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17018776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Regent's Park Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q17021874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17021874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Swiss Cottage Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q202088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q202088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708809"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Camden London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4928380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4928380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bloomsbury Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q5505290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5505290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Frognal and Fitzjohns Ward"
+      },
+      "parent_id": "Q202088"
+    },
+    {
+      "id": "Q6410915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000007/lbw:e05000141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6410915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010419"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "King's Cross Ward"
+      },
+      "parent_id": "Q202088"
+    }
   ],
   "memberships": [
 

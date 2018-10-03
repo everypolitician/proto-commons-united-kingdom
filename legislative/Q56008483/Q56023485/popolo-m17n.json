@@ -19,7 +19,490 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q208152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q208152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17015787"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Tower Hamlets London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56296107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009317"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bethnal Green Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296108",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009318"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296108"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blackwall & Cubitt Town Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009319"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bow East Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296110",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009320"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296110"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bow West Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296111",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009321"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296111"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bromley North Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009322"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bromley South Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009323"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Canary Wharf Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009324"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Island Gardens Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009325"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lansbury Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009326"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Limehouse Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009327"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mile End Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009328"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Poplar Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009332"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shadwell Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009333"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Spitalfields & Banglatown Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009329"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Dunstan's Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009330"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Katharine's & Wapping Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009331"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Peter's Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009334"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stepney Green Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009335"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Weavers Ward"
+      },
+      "parent_id": "Q208152"
+    },
+    {
+      "id": "Q56296127",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000030/lbw:e05009336"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296127"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010431"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Whitechapel Ward"
+      },
+      "parent_id": "Q208152"
+    }
   ],
   "memberships": [
 

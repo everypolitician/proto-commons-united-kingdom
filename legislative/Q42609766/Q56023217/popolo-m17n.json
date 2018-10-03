@@ -19,7 +19,605 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1261052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009312"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1261052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Walbrook Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q1524847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009309"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1524847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Queenhithe Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q1619586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009302"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1619586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Cripplegate Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q1782039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009301"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1782039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Cornhill Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q1783406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009291"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1783406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Billingsgate Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q2098078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009289"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2098078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Aldgate Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q23311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q73341"
+      ],
+      "type": {
+        "lang:en": "city",
+        "lang:cy": "dinas"
+      },
+      "name": {
+        "lang:en": "City and County of the City of London"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q2337831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009288"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2337831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Aldersgate Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q3535927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009310"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3535927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Tower Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q4868164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009290"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4868164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Bassishaw Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q4959146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009293"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4959146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Bread Street Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q4966196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009294"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4966196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Bridge Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q4971950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009295"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4971950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Broad Street Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q5032001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009296"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5032001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Candlewick Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q5049993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009297"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5049993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Castle Baynard Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q5088843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009298"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5088843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Cheap Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q5143033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009299"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5143033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Coleman Street Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q5170081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009300"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5170081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Cordwainer Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q5302683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009303"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5302683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Dowgate Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q5436292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009304"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5436292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Farringdon Within Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q5436293",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009305"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5436293"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Farringdon Without Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q6485756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009306"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6485756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Langbourn Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q6549148",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009307"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6549148"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Lime Street Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q7232519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009308"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7232519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Portsoken Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q779444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009292"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q779444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Bishopsgate Ward"
+      },
+      "parent_id": "Q23311"
+    },
+    {
+      "id": "Q7932905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000001/lbw:e05009311"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7932905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010456"
+      ],
+      "type": {
+        "lang:en": "ward of the City of London"
+      },
+      "name": {
+        "lang:en": "Vintry Ward"
+      },
+      "parent_id": "Q23311"
+    }
   ],
   "memberships": [
 

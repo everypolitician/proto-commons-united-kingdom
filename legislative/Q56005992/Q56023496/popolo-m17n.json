@@ -19,7 +19,674 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q26888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708829"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Croydon London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4890213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011464"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4890213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Bensham Manor Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q4971886",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011465"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4971886"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Broad Green Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q5430232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011468"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5430232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Fairfield Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55076664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011472"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55076664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Norbury & Pollards Hill Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55608624",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011467"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55608624"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Crystal Palace & Upper Norwood Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55615804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011469"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55615804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Kenley Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55625012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011471"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55625012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "New Addington South Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55625384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011473"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55625384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Norbury Park Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55629049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011475"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55629049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Park Hill & Whitgift Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55630834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011477"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55630834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Purley Oaks & Riddlesdown Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55630835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011476"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55630835"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Purley & Woodcote Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55632493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011478"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55632493"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Sanderstead Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55632831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011479"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55632831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Selhurst Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55632837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011481"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55632837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Selsdon Vale & Forestdale Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55632838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011480"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55632838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Selsdon & Addington Village Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55633076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011482"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55633076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Shirley North Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55633077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011483"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55633077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Shirly South Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55633593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011485"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55633593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "South Norwood Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55635794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011486"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55635794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Thornton Heath Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55637314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011487"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55637314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Waddon Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55637556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011488"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55637556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "West Thornton Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q55637892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011489"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55637892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Woodside Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q56148845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011462"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56148845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Addiscombe East Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q56148991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011463"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56148991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Addiscombe West Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q56149056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011474"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56149056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Old Coulsdon Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q56149170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011466"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56149170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "Coulsdon Town Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q56149215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011470"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56149215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "New Addington North Ward"
+      },
+      "parent_id": "Q26888"
+    },
+    {
+      "id": "Q56149359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000008/lbw:e05011484"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56149359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010442"
+      ],
+      "type": {
+        "lang:en": "ward"
+      },
+      "name": {
+        "lang:en": "South Croydon Ward"
+      },
+      "parent_id": "Q26888"
+    }
   ],
   "memberships": [
 

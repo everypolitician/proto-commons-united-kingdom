@@ -19,7 +19,490 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q32504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708833"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Merton London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56243623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000473"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56243623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Barnes Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000455"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Abbey Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000456"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cannon Hill Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000457"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Colliers Wood Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000458"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cricket Green Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000459"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Dundonald Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000460"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Figge's Marsh Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000461"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Graveney Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000462"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hillside Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000463"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lavender Fields Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000464"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Longthornton Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000465"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Lower Morden Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000466"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Merton Park Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000467"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pollards Hill Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000468"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ravensbury Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000469"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Raynes Park Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000470"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Helier Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56295999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000471"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Trinity Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56296001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000472"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Village Ward"
+      },
+      "parent_id": "Q32504"
+    },
+    {
+      "id": "Q56296002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000024/lbw:e05000474"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56296002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010445"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wimbledon Park Ward"
+      },
+      "parent_id": "Q32504"
+    }
   ],
   "memberships": [
 

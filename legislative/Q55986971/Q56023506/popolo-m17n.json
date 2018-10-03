@@ -19,7 +19,421 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q207208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q207208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708839"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Bexley London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4926024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4926024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blendon & Penhill Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Barnehurst Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Belvedere Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bexleyheath Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Blackfen & Lamorbey Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Crayford Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Crook Log Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "East Wickham Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Erith Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Falconwood & Welling Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Longlands Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Northumberland Heath Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56294993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56294993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sidcup Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56295007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Slade Green & Northend Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56295010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "St. Mary's & St. James Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56295012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Thamesmead East Ward"
+      },
+      "parent_id": "Q207208"
+    },
+    {
+      "id": "Q56295015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000004/lbw:e05011233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010451"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Heath Ward"
+      },
+      "parent_id": "Q207208"
+    }
   ],
   "memberships": [
 

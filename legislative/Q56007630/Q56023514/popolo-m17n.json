@@ -19,7 +19,512 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1925846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1925846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6797698"
+      ],
+      "type": {
+        "lang:en": "metropolitan borough"
+      },
+      "name": {
+        "lang:en": "Doncaster District"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q26821869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010730"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26821869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Balby South Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010728"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Adwick le Street & Carcroft Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010729"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Armthorpe Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010733"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Conisbrough Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010734"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Edenthorpe & Kirk Sandall Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010735"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Edlington & Warmsworth Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010736"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Finningley Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010737"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hatfield Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010738"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hexthorpe & Balby North Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010739"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mexborough Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010740"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Norton & Askern Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010741"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Roman Ridge Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010742"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rossington & Bawtry Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010743"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Sprotbrough Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010744"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Stainforth & Barnby Dun Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010745"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Thorne & Moorends Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010746"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tickhill & Wadsworth Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010747"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Town Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010748"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wheatley Hills & Intake Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010732"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bessacarr Ward"
+      },
+      "parent_id": "Q1925846"
+    },
+    {
+      "id": "Q56653632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000017/mtw:e05010731"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56653632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010466"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bentley Ward"
+      },
+      "parent_id": "Q1925846"
+    }
   ],
   "memberships": [
 

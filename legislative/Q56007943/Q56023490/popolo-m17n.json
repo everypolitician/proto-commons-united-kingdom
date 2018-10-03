@@ -19,7 +19,536 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q16988265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16988265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Crystal Palace Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q208201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q208201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708826"
+      ],
+      "type": {
+        "lang:en": "London borough",
+        "lang:cy": "Bwrdeistrefi Llundain"
+      },
+      "name": {
+        "lang:en": "Bromley London Borough"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q56295087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bickley Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Biggin Hill Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bromley Common and Keston Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295094",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295094"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bromley Town Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chelsfield and Pratts Bottom Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chislehurst Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Clock House Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Copers Cope Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cray Valley East Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cray Valley West Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Darwin Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Farnborough and Crofton Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hayes and Coney Hall Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kelsey and Eden Park Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Mottingham and Chislehurst North Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Orpington Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Penge and Cator Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Petts Wood and Knoll Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Plaistow and Sundridge Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Shortlands Ward"
+      },
+      "parent_id": "Q208201"
+    },
+    {
+      "id": "Q56295160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/lbo:e09000006/lbw:e05000127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56295160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56010437"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "West Wickham Ward"
+      },
+      "parent_id": "Q208201"
+    }
   ],
   "memberships": [
 

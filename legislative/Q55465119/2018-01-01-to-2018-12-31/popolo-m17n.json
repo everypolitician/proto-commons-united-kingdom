@@ -1606,7 +1606,788 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q55466753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011403"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Little London & Woodhouse Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011386"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Beeston & Holbeck Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011382"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Adel & Wharfedale Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011394"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Gipton & Harehills Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011413"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Weetwood Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011402"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kirkstall Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011392"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Farnley & Wortley Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466765",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011410"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466765"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Rothwell Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466766",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011408"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466766"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Otley & Yeadon Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011389"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Calverley & Farsley Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011405"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Moortown Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011398"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Horsforth Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466781",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011412"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466781"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Temple Newsam Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011407"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Morley South Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011393"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Garforth & Swillington Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011390"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Chapel Allerton Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011400"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Killingbeck & Seacroft Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011396"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Harewood Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011384"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Ardsley & Robin Hood Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011397"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Headingley & Hyde Park Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011406"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Morley North Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011391"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Cross Gates & Whinmoor Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011388"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Burmantofts & Richmond Hill Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466807",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011387"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466807"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Bramley & Stanningley Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011401"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Kippax & Methley Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011414"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Wetherby Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466813",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011409"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466813"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Pudsey Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011399"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Hunslet & Riverside Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011395"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466823"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Guiseley & Rawdon Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q55466825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011385"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55466825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Armley Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q56651541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011383"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Alwoodley Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q56651558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011411"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56651558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Roundhay Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q6842031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035/mtw:e05011404"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6842031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55372701"
+      ],
+      "type": {
+        "lang:en": "ward or electoral division of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Middleton Park Ward"
+      },
+      "parent_id": "Q774015"
+    },
+    {
+      "id": "Q774015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/mtd:e08000035"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q774015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56708848"
+      ],
+      "type": {
+        "lang:en": "district with city status"
+      },
+      "name": {
+        "lang:en": "Leeds District"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
