@@ -27,6 +27,19 @@
     ]
   },
   {
+    "comment": "London Assembly",
+    "house_item_id": "Q1135593",
+    "seat_count": "25",
+    "area_id": "Q23306",
+    "position_item_id": "Q56573014",
+    "terms": [
+      {
+        "comment": "2016-2020 Assembly",
+        "term_item_id": "Q56573441"
+      }
+    ]
+  },
+  {
     "comment": "Scottish Parliament",
     "house_item_id": "Q206171",
     "seat_count": "129",

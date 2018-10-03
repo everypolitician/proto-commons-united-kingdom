@@ -74,6 +74,23 @@
     }
   },
   {
+    "role_id": "Q19655061",
+    "role_name": {
+      "lang:en": "Mayor of Greater Manchester"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q5600634",
+    "organization_name": {
+      "lang:en": "Greater Manchester Combined Authority"
+    }
+  },
+  {
     "role_id": "Q22979263",
     "role_name": {
       "lang:en": "First Minister of Northern Ireland"
@@ -107,6 +124,91 @@
     "organization_name": {
       "lang:en": "Northern Ireland Executive",
       "lang:cy": "Adran Weithredol Gogledd Iwerddon"
+    }
+  },
+  {
+    "role_id": "Q28450344",
+    "role_name": {
+      "lang:en": "Mayor of the West Midlands"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q21061625",
+    "organization_name": {
+      "lang:en": "West Midlands Combined Authority"
+    }
+  },
+  {
+    "role_id": "Q28530239",
+    "role_name": {
+      "lang:en": "Mayor of Cambridgeshire and Peterborough"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q28451058",
+    "organization_name": {
+      "lang:en": "Cambridgeshire and Peterborough Combined Authority"
+    }
+  },
+  {
+    "role_id": "Q28530240",
+    "role_name": {
+      "lang:en": "Mayor of the West of England"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q24993670",
+    "organization_name": {
+      "lang:en": "West of England Combined Authority"
+    }
+  },
+  {
+    "role_id": "Q28530241",
+    "role_name": {
+      "lang:en": "Mayor of the Liverpool City Region"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q16996746",
+    "organization_name": {
+      "lang:en": "Liverpool City Region Combined Authority"
+    }
+  },
+  {
+    "role_id": "Q28530242",
+    "role_name": {
+      "lang:en": "Mayor of the Tees Valley"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q21061639",
+    "organization_name": {
+      "lang:en": "Tees Valley Combined Authority"
     }
   },
   {
@@ -1182,6 +1284,24 @@
     }
   },
   {
+    "role_id": "Q56573014",
+    "role_name": {
+      "lang:en": "member of the London Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:en": "legislator",
+      "lang:cy": "deddfwr"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q1135593",
+    "organization_name": {
+      "lang:en": "London Assembly",
+      "lang:cy": "Cynulliad Llundain"
+    }
+  },
+  {
     "role_id": "Q73341",
     "role_name": {
       "lang:en": "Lord Mayor of London"
@@ -1216,6 +1336,24 @@
     "organization_name": {
       "lang:en": "Cabinet of the United Kingdom",
       "lang:cy": "Cabinet y Deyrnas Unedig"
+    }
+  },
+  {
+    "role_id": "Q38931",
+    "role_name": {
+      "lang:en": "Mayor of London",
+      "lang:cy": "Maer Llundain"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q1135166",
+    "organization_name": {
+      "lang:en": "Greater London Authority"
     }
   }
 ]

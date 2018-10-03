@@ -12,6 +12,17 @@
   },
   {
     "comment": "Greater London Authority",
+    "area_id": "Q23306",
+    "executive_item_id": "Q1135166",
+    "positions": [
+      {
+        "comment": "Mayor of London",
+        "position_item_id": "Q38931"
+      }
+    ]
+  },
+  {
+    "comment": "Greater London Authority",
     "area_id": "Q84",
     "executive_item_id": "Q1135166",
     "positions": [
@@ -22,17 +33,72 @@
     ]
   },
   {
+    "comment": "Liverpool City Region Combined Authority",
+    "area_id": "Q15242530",
+    "executive_item_id": "Q16996746",
+    "positions": [
+      {
+        "comment": "Mayor of the Liverpool City Region",
+        "position_item_id": "Q28530241"
+      }
+    ]
+  },
+  {
+    "comment": "West Midlands Combined Authority",
+    "area_id": "Q56856175",
+    "executive_item_id": "Q21061625",
+    "positions": [
+      {
+        "comment": "Mayor of the West Midlands",
+        "position_item_id": "Q28450344"
+      }
+    ]
+  },
+  {
+    "comment": "Tees Valley Combined Authority",
+    "area_id": "Q3982570",
+    "executive_item_id": "Q21061639",
+    "positions": [
+      {
+        "comment": "Mayor of the Tees Valley",
+        "position_item_id": "Q28530242"
+      }
+    ]
+  },
+  {
+    "comment": "West of England Combined Authority",
+    "area_id": "Q56840292",
+    "executive_item_id": "Q24993670",
+    "positions": [
+      {
+        "comment": "Mayor of the West of England",
+        "position_item_id": "Q28530240"
+      }
+    ]
+  },
+  {
     "comment": "Northern Ireland Executive",
     "area_id": "Q26",
     "executive_item_id": "Q2665914",
     "positions": [
       {
-        "comment": "deputy First Minister",
-        "position_item_id": "Q23729452"
-      },
-      {
         "comment": "First Minister of Northern Ireland",
         "position_item_id": "Q22979263"
+      },
+      {
+        "comment": "deputy First Minister",
+        "position_item_id": "Q23729452"
+      }
+    ]
+  },
+  {
+    "comment": "Cambridgeshire and Peterborough Combined Authority",
+    "area_id": "Q56855521",
+    "executive_item_id": "Q28451058",
+    "positions": [
+      {
+        "comment": "Mayor of Cambridgeshire and Peterborough",
+        "position_item_id": "Q28530239"
       }
     ]
   },
@@ -55,6 +121,17 @@
       {
         "comment": "First Minister of Wales",
         "position_item_id": "Q18996"
+      }
+    ]
+  },
+  {
+    "comment": "Greater Manchester Combined Authority",
+    "area_id": "Q56856017",
+    "executive_item_id": "Q5600634",
+    "positions": [
+      {
+        "comment": "Mayor of Greater Manchester",
+        "position_item_id": "Q19655061"
       }
     ]
   },

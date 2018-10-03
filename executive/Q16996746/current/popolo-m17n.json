@@ -1,0 +1,71 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Steve Rotheram"
+      },
+      "id": "Q480068",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q480068"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Liverpool City Region Combined Authority"
+      },
+      "id": "Q16996746",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16996746"
+        }
+      ],
+      "area_id": "Q15242530"
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:cy": "Y Blaid Lafur"
+      },
+      "id": "Q9630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9630"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q480068-d57ba880-4723-5548-8f41-399be265a6da",
+      "person_id": "Q480068",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q16996746",
+      "area_id": "Q15242530",
+      "start_date": "2017-05-04",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q28530241",
+      "role": {
+        "lang:en": "Mayor of the Liverpool City Region"
+      }
+    }
+  ]
+}

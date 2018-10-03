@@ -1,0 +1,56 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Tim Bowles"
+      },
+      "id": "Q30122645",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30122645"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "West of England Combined Authority"
+      },
+      "id": "Q24993670",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24993670"
+        }
+      ],
+      "area_id": "Q56840292"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30122645-117f6425-41aa-5f2f-d8d5-1ea506ad7bc8",
+      "person_id": "Q30122645",
+      "organization_id": "Q24993670",
+      "area_id": "Q56840292",
+      "start_date": "2017-05-04",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q28530240",
+      "role": {
+        "lang:en": "Mayor of the West of England"
+      }
+    }
+  ]
+}
