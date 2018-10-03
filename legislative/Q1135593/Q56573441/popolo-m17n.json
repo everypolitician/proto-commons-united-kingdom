@@ -1,0 +1,735 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Peter Whittle"
+      },
+      "id": "Q16734441",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16734441"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Kurten"
+      },
+      "id": "Q24039484",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24039484"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Caroline Russell"
+      },
+      "id": "Q24039485",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24039485"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Unmesh Desai"
+      },
+      "id": "Q24039527",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24039527"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Florence Eshalomi"
+      },
+      "id": "Q24061230",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24061230"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Leonie Cooper"
+      },
+      "id": "Q24298912",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24298912"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Keith Prince"
+      },
+      "id": "Q31389937",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31389937"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tony Devenish"
+      },
+      "id": "Q31391020",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31391020"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Susan Hall"
+      },
+      "id": "Q31391024",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31391024"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Dismore"
+      },
+      "id": "Q338076",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q338076"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Boff"
+      },
+      "id": "Q4756378",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4756378"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Caroline Pidgeon"
+      },
+      "id": "Q5045195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5045195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fiona Twycross"
+      },
+      "id": "Q5451124",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5451124"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gareth Bacon"
+      },
+      "id": "Q5522788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5522788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jennette Arnold"
+      },
+      "id": "Q5996937",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5996937"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joanne McCartney"
+      },
+      "id": "Q6206173",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6206173"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Len Duvall"
+      },
+      "id": "Q6521755",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6521755"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Navin Shah"
+      },
+      "id": "Q6982484",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6982484"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nicky Gavron"
+      },
+      "id": "Q7028596",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7028596"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Onkar Sahota"
+      },
+      "id": "Q7093978",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7093978"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shaun Bailey"
+      },
+      "id": "Q7490793",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7490793"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Siân Berry"
+      },
+      "id": "Q7533470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7533470"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Steve O'Connell"
+      },
+      "id": "Q7613485",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7613485"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tom Copley"
+      },
+      "id": "Q7815398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7815398"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tony Arbour"
+      },
+      "id": "Q7821772",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7821772"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "London Assembly",
+        "lang:cy": "Cynulliad Llundain"
+      },
+      "id": "Q1135593",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1135593"
+        }
+      ],
+      "area_id": "Q23306",
+      "seat_counts": {
+        "Q56573014": "25"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "UK Independence Party",
+        "lang:cy": "Plaid Annibyniaeth y Deyrnas Unedig"
+      },
+      "id": "Q10647",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10647"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "London Conservatives"
+      },
+      "id": "Q20712896",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20712896"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Labour Group"
+      },
+      "id": "Q56577681",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56577681"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Green Party Group"
+      },
+      "id": "Q56578473",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56578473"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Liberal Democrats",
+        "lang:cy": "Y Democratiaid Rhyddfrydol"
+      },
+      "id": "Q9624",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9624"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16734441-86315CC9-E812-4165-9D03-6C52F80163C1",
+      "person_id": "Q16734441",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24039484-49687498-C243-419C-9FA3-C33AE9CB0B30",
+      "person_id": "Q24039484",
+      "on_behalf_of_id": "Q10647",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24039485-9369A67C-FFA6-4B14-80AD-2661593AC0F2",
+      "person_id": "Q24039485",
+      "on_behalf_of_id": "Q56578473",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24039527-B9C7E431-C771-4656-A775-195163C12CB1",
+      "person_id": "Q24039527",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q2974584",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24061230-FE43C0B0-1FB0-4B64-8D47-FEC9D6D18D67",
+      "person_id": "Q24061230",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q3216654",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24298912-3E79DA19-FCAA-4307-9F89-49D41969CED9",
+      "person_id": "Q24298912",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q3306662",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31389937-78F1687F-3F08-4648-AD50-510B7CAC064C",
+      "person_id": "Q31389937",
+      "on_behalf_of_id": "Q20712896",
+      "organization_id": "Q1135593",
+      "area_id": "Q3128701",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31391020-8E13CD0F-0549-4AE2-B88D-4E107190D19C",
+      "person_id": "Q31391020",
+      "on_behalf_of_id": "Q20712896",
+      "organization_id": "Q1135593",
+      "area_id": "Q3567405",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31391024-3C3D3F60-8891-4B88-AD49-BBAF3B3209E9",
+      "person_id": "Q31391024",
+      "on_behalf_of_id": "Q20712896",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q338076-6A2B188F-0029-4F89-8DD7-D038EDE20A67",
+      "person_id": "Q338076",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q2884679",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4756378-2B28E1CC-62F4-4663-B660-3CB6DFF8B3AB",
+      "person_id": "Q4756378",
+      "on_behalf_of_id": "Q20712896",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5045195-DF90B433-8C98-4313-AEAC-BA3BDA5EC353",
+      "person_id": "Q5045195",
+      "on_behalf_of_id": "Q9624",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5451124-5CA09D78-B2F6-48E9-8F85-E328C8BE76EE",
+      "person_id": "Q5451124",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5522788-0578A00C-657E-48F0-93D6-19B37E0679BB",
+      "person_id": "Q5522788",
+      "on_behalf_of_id": "Q20712896",
+      "organization_id": "Q1135593",
+      "area_id": "Q2900428",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5996937-B0A0A2FF-0EA3-43D2-B8DA-A3545C3D7EB4",
+      "person_id": "Q5996937",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q3344113",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6206173-B7994C44-B814-4E75-9AE8-2EB14C666C95",
+      "person_id": "Q6206173",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q3054197",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6521755-3DACCFF5-C989-48F7-9F66-2CFB4EA0E938",
+      "person_id": "Q6521755",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q3116153",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6982484-72B8023E-053A-4502-8115-8F1901331813",
+      "person_id": "Q6982484",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q15078119",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7028596-813D67F3-1E8E-4D16-BBD8-899A6A50F08B",
+      "person_id": "Q7028596",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7093978-A6D765BE-D065-40E4-AE6C-FF0CE6044DB4",
+      "person_id": "Q7093978",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "area_id": "Q2388154",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7490793-A612E5FC-10F6-48C5-AE02-BE76E04D4C7B",
+      "person_id": "Q7490793",
+      "on_behalf_of_id": "Q20712896",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7533470-072F4BA5-7D22-47A5-9DD5-5C7A0D60865C",
+      "person_id": "Q7533470",
+      "on_behalf_of_id": "Q56578473",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7613485-AFFC1E08-14C7-4132-88A9-CB87EBC33DEC",
+      "person_id": "Q7613485",
+      "on_behalf_of_id": "Q20712896",
+      "organization_id": "Q1135593",
+      "area_id": "Q3005479",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7815398-5646D2DF-C6CF-432E-800E-1DA6F28083CE",
+      "person_id": "Q7815398",
+      "on_behalf_of_id": "Q56577681",
+      "organization_id": "Q1135593",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7821772-A6A2E7E6-7BD0-405F-B146-3C59AA650F27",
+      "person_id": "Q7821772",
+      "on_behalf_of_id": "Q20712896",
+      "organization_id": "Q1135593",
+      "area_id": "Q11799091",
+      "role_code": "Q56573014",
+      "role": {
+        "lang:en": "member of the London Assembly"
+      }
+    }
+  ]
+}

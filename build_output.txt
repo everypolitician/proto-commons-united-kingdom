@@ -1,4 +1,19 @@
 WARNING: Position Member of the House of Lords (Q18952564) not in boundary associated_wikidata_positions
+WARNING: Position member of the London Assembly (Q56573014) not in boundary associated_wikidata_positions
+WARNING: the district City and East (Q2974584) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Lambeth and Southwark (Q3216654) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Merton and Wandsworth (Q3306662) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Havering and Redbridge (Q3128701) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district West Central (Q3567405) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Barnet and Camden (Q2884679) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Bexley and Bromley (Q2900428) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district North East (Q3344113) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Enfield and Haringey (Q3054197) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Greenwich and Lewisham (Q3116153) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Brent and Harrow (Q15078119) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Ealing and Hillingdon (Q2388154) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district Croydon and Sutton (Q3005479) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
+WARNING: the district South West (London Assembly constituency) (Q11799091) wasn't found in the boundary data for position member of the London Assembly (Q56573014)
 WARNING: Position Common Councilman of the City of London (Q56010456) not in boundary associated_wikidata_positions
 WARNING: Position member of Leeds City Council (Q55372701) not in boundary associated_wikidata_positions
 WARNING: the district Middleton Park (Q6842031) wasn't found in the boundary data for position member of Leeds City Council (Q55372701)
@@ -175,3 +190,21 @@ WARNING: the district Greater London (Q23306) wasn't found in the boundary data 
 WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
 WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
 WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: Position Mayor of London (Q38931) not in boundary associated_wikidata_positions
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: the district Greater London (Q23306) wasn't found in the boundary data for position Mayor of London (Q38931)
+WARNING: Position Mayor of the Liverpool City Region (Q28530241) not in boundary associated_wikidata_positions
+WARNING: the district Liverpool City Region (Q15242530) wasn't found in the boundary data for position Mayor of the Liverpool City Region (Q28530241)
+WARNING: Position Mayor of the West Midlands (Q28450344) not in boundary associated_wikidata_positions
+WARNING: the district West Midlands (Q56856175) wasn't found in the boundary data for position Mayor of the West Midlands (Q28450344)
+WARNING: Position Mayor of the Tees Valley (Q28530242) not in boundary associated_wikidata_positions
+WARNING: the district Tees Valley (Q3982570) wasn't found in the boundary data for position Mayor of the Tees Valley (Q28530242)
+WARNING: Position Mayor of the West of England (Q28530240) not in boundary associated_wikidata_positions
+WARNING: the district West of England (Q56840292) wasn't found in the boundary data for position Mayor of the West of England (Q28530240)
+WARNING: Position Mayor of Cambridgeshire and Peterborough (Q28530239) not in boundary associated_wikidata_positions
+WARNING: the district Cambridgeshire and Peterborough (Q56855521) wasn't found in the boundary data for position Mayor of Cambridgeshire and Peterborough (Q28530239)
+WARNING: Position Mayor of Greater Manchester (Q19655061) not in boundary associated_wikidata_positions
+WARNING: the district Greater Manchester (Q56856017) wasn't found in the boundary data for position Mayor of Greater Manchester (Q19655061)

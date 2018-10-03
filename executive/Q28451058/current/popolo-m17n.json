@@ -1,0 +1,56 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "James Palmer"
+      },
+      "id": "Q30122660",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30122660"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Cambridgeshire and Peterborough Combined Authority"
+      },
+      "id": "Q28451058",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28451058"
+        }
+      ],
+      "area_id": "Q56855521"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30122660-1012d337-4f29-0f69-b7c6-7830589fbf90",
+      "person_id": "Q30122660",
+      "organization_id": "Q28451058",
+      "area_id": "Q56855521",
+      "start_date": "2017-05-04",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q28530239",
+      "role": {
+        "lang:en": "Mayor of Cambridgeshire and Peterborough"
+      }
+    }
+  ]
+}

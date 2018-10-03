@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Andy Burnham",
+        "lang:cy": "Andrew Burnham"
+      },
+      "id": "Q269909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q269909"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/burnhamformayor"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Greater Manchester Combined Authority"
+      },
+      "id": "Q5600634",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5600634"
+        }
+      ],
+      "area_id": "Q56856017"
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:cy": "Y Blaid Lafur"
+      },
+      "id": "Q9630",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9630"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q269909-43BB5ADB-0F6E-40B3-9EE8-BF18A1A53687",
+      "person_id": "Q269909",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q5600634",
+      "area_id": "Q56856017",
+      "start_date": "2017-05-08",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q19655061",
+      "role": {
+        "lang:en": "Mayor of Greater Manchester"
+      }
+    }
+  ]
+}

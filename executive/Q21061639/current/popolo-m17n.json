@@ -1,0 +1,56 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Ben Houchen"
+      },
+      "id": "Q29788057",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29788057"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Tees Valley Combined Authority"
+      },
+      "id": "Q21061639",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21061639"
+        }
+      ],
+      "area_id": "Q3982570"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29788057-a751d274-4b6a-243e-418b-13cc40d8b3af",
+      "person_id": "Q29788057",
+      "organization_id": "Q21061639",
+      "area_id": "Q3982570",
+      "start_date": "2017-05-04",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:cy": "maer"
+      },
+      "role_code": "Q28530242",
+      "role": {
+        "lang:en": "Mayor of the Tees Valley"
+      }
+    }
+  ]
+}
