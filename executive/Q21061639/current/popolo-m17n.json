@@ -33,7 +33,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q3982570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/ca:tees-valley"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3982570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28530242"
+      ],
+      "type": {
+        "lang:en": "NUTS 2 statistical territorial entity of the United Kingdom"
+      },
+      "name": {
+        "lang:en": "Tees Valley"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

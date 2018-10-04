@@ -464,7 +464,328 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q11799091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000013"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11799091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "South West"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q15078119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000003"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15078119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Brent and Harrow"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q2388154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000006"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2388154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Ealing and Hillingdon"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q2884679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000001"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2884679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Barnet and Camden"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q2900428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000002"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2900428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Bexley and Bromley"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q2974584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000004"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2974584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "City and East"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3005479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000005"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3005479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Croydon and Sutton"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3054197",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3054197"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Enfield and Haringey"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3116153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000008"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3116153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Greenwich and Lewisham"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3128701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000009"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3128701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Havering and Redbridge"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3216654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000010"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3216654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Lambeth and Southwark"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3306662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000011"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3306662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Merton and Wandsworth"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3344113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000012"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3344113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "North East"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q3567405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000014"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3567405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "West Central"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

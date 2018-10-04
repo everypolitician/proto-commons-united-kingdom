@@ -47,7 +47,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q15242530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/ca:liverpool-city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15242530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28530241"
+      ],
+      "type": {
+        "lang:en": "combined authority area"
+      },
+      "name": {
+        "lang:en": "Liverpool City Region"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

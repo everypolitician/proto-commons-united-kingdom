@@ -51,7 +51,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q56856175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/ca:west-midlands"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56856175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28450344"
+      ],
+      "type": {
+        "lang:en": "combined authority area"
+      },
+      "name": {
+        "lang:en": "West Midlands"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

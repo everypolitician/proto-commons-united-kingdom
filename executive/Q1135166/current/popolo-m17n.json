@@ -96,7 +96,30 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q23306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:E12000007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38931"
+      ],
+      "type": {
+        "lang:en": "ceremonial county of England",
+        "lang:cy": "swydd seremonïol Lloegr"
+      },
+      "name": {
+        "lang:en": "Greater London"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

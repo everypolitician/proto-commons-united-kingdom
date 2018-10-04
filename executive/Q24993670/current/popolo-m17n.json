@@ -33,7 +33,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q56840292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/ca:west-of-england"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56840292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28530240"
+      ],
+      "type": {
+        "lang:en": "combined authority area"
+      },
+      "name": {
+        "lang:en": "West of England"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

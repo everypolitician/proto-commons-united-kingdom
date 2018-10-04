@@ -33,7 +33,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q56855521",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/ca:cambridgeshire-and-peterborough"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56855521"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28530239"
+      ],
+      "type": {
+        "lang:en": "combined authority area"
+      },
+      "name": {
+        "lang:en": "Cambridgeshire and Peterborough"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

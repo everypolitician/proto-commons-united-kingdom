@@ -51,7 +51,29 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q56856017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/ca:greater-manchester"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56856017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19655061"
+      ],
+      "type": {
+        "lang:en": "combined authority area"
+      },
+      "name": {
+        "lang:en": "Greater Manchester"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
