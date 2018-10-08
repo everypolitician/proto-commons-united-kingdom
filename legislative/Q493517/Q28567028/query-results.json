@@ -2461,6 +2461,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-10-14T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "dafydd.elisthomas"
       }
     }, {
       "party" : {
@@ -2559,6 +2563,10 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Dafydd Elis-Thomas"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "dafydd.elisthomas"
       }
     }, {
       "party" : {
@@ -4925,6 +4933,10 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Joyce Watson"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "joycewatsonam"
       }
     }, {
       "party" : {
@@ -5905,6 +5917,10 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Mike Hedges"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "mike.john.hedges"
       }
     }, {
       "party" : {
@@ -6595,6 +6611,10 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Vaughan Gething"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "vaughan.gethingassembly"
       }
     }, {
       "party" : {
