@@ -22,6 +22,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16734441-86315CC9-E812-4165-9D03-6C52F80163C1"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -82,6 +91,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24039484-49687498-C243-419C-9FA3-C33AE9CB0B30"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -136,6 +154,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24039485-9369A67C-FFA6-4B14-80AD-2661593AC0F2"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
       },
       "role" : {
         "type" : "uri",
@@ -192,6 +219,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24039527-B9C7E431-C771-4656-A775-195163C12CB1"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2974584"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City and East"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -232,15 +268,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2974584"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City and East"
       }
     }, {
       "party" : {
@@ -255,6 +282,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24061230-FE43C0B0-1FB0-4B64-8D47-FEC9D6D18D67"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3216654"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lambeth and Southwark"
       },
       "role" : {
         "type" : "uri",
@@ -296,15 +332,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3216654"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lambeth and Southwark"
       }
     }, {
       "party" : {
@@ -319,6 +346,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q24298912-3E79DA19-FCAA-4307-9F89-49D41969CED9"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3306662"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Merton and Wandsworth"
       },
       "role" : {
         "type" : "uri",
@@ -360,15 +396,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3306662"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Merton and Wandsworth"
       }
     }, {
       "party" : {
@@ -383,6 +410,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q31389937-78F1687F-3F08-4648-AD50-510B7CAC064C"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3128701"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Havering and Redbridge"
       },
       "role" : {
         "type" : "uri",
@@ -424,15 +460,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3128701"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Havering and Redbridge"
       }
     }, {
       "party" : {
@@ -447,6 +474,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q31391020-8E13CD0F-0549-4AE2-B88D-4E107190D19C"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3567405"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "West Central"
       },
       "role" : {
         "type" : "uri",
@@ -488,15 +524,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3567405"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "West Central"
       }
     }, {
       "party" : {
@@ -511,6 +538,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q31391024-3C3D3F60-8891-4B88-AD49-BBAF3B3209E9"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
       },
       "role" : {
         "type" : "uri",
@@ -567,6 +603,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q338076-6A2B188F-0029-4F89-8DD7-D038EDE20A67"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2884679"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Barnet and Camden"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -607,15 +652,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2884679"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Barnet and Camden"
       }
     }, {
       "party" : {
@@ -630,6 +666,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4756378-2B28E1CC-62F4-4663-B660-3CB6DFF8B3AB"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
       },
       "role" : {
         "type" : "uri",
@@ -691,6 +736,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5045195-DF90B433-8C98-4313-AEAC-BA3BDA5EC353"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -745,6 +799,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5451124-5CA09D78-B2F6-48E9-8F85-E328C8BE76EE"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
       },
       "role" : {
         "type" : "uri",
@@ -801,6 +864,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5522788-0578A00C-657E-48F0-93D6-19B37E0679BB"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2900428"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bexley and Bromley"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -841,15 +913,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2900428"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bexley and Bromley"
       }
     }, {
       "party" : {
@@ -864,6 +927,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5996937-B0A0A2FF-0EA3-43D2-B8DA-A3545C3D7EB4"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3344113"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North East"
       },
       "role" : {
         "type" : "uri",
@@ -905,15 +977,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3344113"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North East"
       }
     }, {
       "party" : {
@@ -928,6 +991,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6206173-B7994C44-B814-4E75-9AE8-2EB14C666C95"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3054197"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enfield and Haringey"
       },
       "role" : {
         "type" : "uri",
@@ -969,15 +1041,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3054197"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Enfield and Haringey"
       }
     }, {
       "party" : {
@@ -992,6 +1055,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6521755-3DACCFF5-C989-48F7-9F66-2CFB4EA0E938"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3116153"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greenwich and Lewisham"
       },
       "role" : {
         "type" : "uri",
@@ -1033,15 +1105,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3116153"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Greenwich and Lewisham"
       }
     }, {
       "party" : {
@@ -1056,6 +1119,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6982484-72B8023E-053A-4502-8115-8F1901331813"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15078119"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brent and Harrow"
       },
       "role" : {
         "type" : "uri",
@@ -1097,15 +1169,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15078119"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brent and Harrow"
       }
     }, {
       "party" : {
@@ -1120,6 +1183,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7028596-813D67F3-1E8E-4D16-BBD8-899A6A50F08B"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
       },
       "role" : {
         "type" : "uri",
@@ -1176,6 +1248,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7093978-A6D765BE-D065-40E4-AE6C-FF0CE6044DB4"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2388154"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ealing and Hillingdon"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -1216,15 +1297,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2388154"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ealing and Hillingdon"
       }
     }, {
       "party" : {
@@ -1239,6 +1311,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7490793-A612E5FC-10F6-48C5-AE02-BE76E04D4C7B"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
       },
       "role" : {
         "type" : "uri",
@@ -1295,6 +1376,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7533470-072F4BA5-7D22-47A5-9DD5-5C7A0D60865C"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -1350,6 +1440,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7613485-AFFC1E08-14C7-4132-88A9-CB87EBC33DEC"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3005479"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Croydon and Sutton"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -1390,15 +1489,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3005479"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Croydon and Sutton"
       }
     }, {
       "party" : {
@@ -1413,6 +1503,15 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7815398-5646D2DF-C6CF-432E-800E-1DA6F28083CE"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57081905"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greater London"
       },
       "role" : {
         "type" : "uri",
@@ -1469,6 +1568,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7821772-A6A2E7E6-7BD0-405F-B146-3C59AA650F27"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11799091"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South West (London Assembly constituency)"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56573014"
@@ -1509,15 +1617,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "25"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q11799091"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South West (London Assembly constituency)"
       }
     } ]
   }
