@@ -469,7 +469,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000013"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000013"
         },
         {
           "scheme": "wikidata",
@@ -492,7 +492,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000003"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000003"
         },
         {
           "scheme": "wikidata",
@@ -515,7 +515,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000006"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000006"
         },
         {
           "scheme": "wikidata",
@@ -538,7 +538,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000001"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000001"
         },
         {
           "scheme": "wikidata",
@@ -561,7 +561,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000002"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000002"
         },
         {
           "scheme": "wikidata",
@@ -584,7 +584,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000004"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000004"
         },
         {
           "scheme": "wikidata",
@@ -607,7 +607,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000005"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000005"
         },
         {
           "scheme": "wikidata",
@@ -630,7 +630,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000007"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000007"
         },
         {
           "scheme": "wikidata",
@@ -653,7 +653,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000008"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000008"
         },
         {
           "scheme": "wikidata",
@@ -676,7 +676,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000009"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000009"
         },
         {
           "scheme": "wikidata",
@@ -699,7 +699,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000010"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000010"
         },
         {
           "scheme": "wikidata",
@@ -722,7 +722,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000011"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000011"
         },
         {
           "scheme": "wikidata",
@@ -745,7 +745,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000012"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000012"
         },
         {
           "scheme": "wikidata",
@@ -768,7 +768,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:E32000014"
+          "identifier": "country:gb/country:eng/region:e12000007/la-constituency:e32000014"
         },
         {
           "scheme": "wikidata",
@@ -785,6 +785,29 @@
         "lang:en": "West Central"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q57081905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007/additional-members"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57081905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56573014"
+      ],
+      "type": {
+        "lang:en": "constituency of the London Assembly"
+      },
+      "name": {
+        "lang:en": "Greater London"
+      },
+      "parent_id": null
     }
   ],
   "memberships": [
@@ -793,6 +816,7 @@
       "person_id": "Q16734441",
       "on_behalf_of_id": "Q10647",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -803,6 +827,7 @@
       "person_id": "Q24039484",
       "on_behalf_of_id": "Q10647",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -813,6 +838,7 @@
       "person_id": "Q24039485",
       "on_behalf_of_id": "Q56578473",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -878,6 +904,7 @@
       "person_id": "Q31391024",
       "on_behalf_of_id": "Q20712896",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -899,6 +926,7 @@
       "person_id": "Q4756378",
       "on_behalf_of_id": "Q20712896",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -909,6 +937,7 @@
       "person_id": "Q5045195",
       "on_behalf_of_id": "Q9624",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -919,6 +948,7 @@
       "person_id": "Q5451124",
       "on_behalf_of_id": "Q56577681",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -984,6 +1014,7 @@
       "person_id": "Q7028596",
       "on_behalf_of_id": "Q56577681",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -1005,6 +1036,7 @@
       "person_id": "Q7490793",
       "on_behalf_of_id": "Q20712896",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -1015,6 +1047,7 @@
       "person_id": "Q7533470",
       "on_behalf_of_id": "Q56578473",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
@@ -1036,6 +1069,7 @@
       "person_id": "Q7815398",
       "on_behalf_of_id": "Q56577681",
       "organization_id": "Q1135593",
+      "area_id": "Q57081905",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
