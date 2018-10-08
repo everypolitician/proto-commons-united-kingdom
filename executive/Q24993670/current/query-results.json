@@ -17,6 +17,20 @@
         "type" : "literal",
         "value" : "Tim Bowles"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9626"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conservative Party"
+      },
+      "party_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Blaid Geidwadol"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56840292"
