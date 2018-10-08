@@ -227,21 +227,6 @@
     },
     {
       "name": {
-        "lang:en": "Joanne McCartney"
-      },
-      "id": "Q6206173",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6206173"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Len Duvall"
       },
       "id": "Q6521755",
@@ -264,21 +249,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6982484"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Nicky Gavron"
-      },
-      "id": "Q7028596",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7028596"
         }
       ],
       "links": [
@@ -947,17 +917,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6206173-B7994C44-B814-4E75-9AE8-2EB14C666C95",
-      "person_id": "Q6206173",
-      "on_behalf_of_id": "Q56577681",
-      "organization_id": "Q1135593",
-      "area_id": "Q3054197",
-      "role_code": "Q56573014",
-      "role": {
-        "lang:en": "member of the London Assembly"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6521755-3DACCFF5-C989-48F7-9F66-2CFB4EA0E938",
       "person_id": "Q6521755",
       "on_behalf_of_id": "Q56577681",
@@ -974,16 +933,6 @@
       "on_behalf_of_id": "Q56577681",
       "organization_id": "Q1135593",
       "area_id": "Q15078119",
-      "role_code": "Q56573014",
-      "role": {
-        "lang:en": "member of the London Assembly"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7028596-813D67F3-1E8E-4D16-BBD8-899A6A50F08B",
-      "person_id": "Q7028596",
-      "on_behalf_of_id": "Q56577681",
-      "organization_id": "Q1135593",
       "role_code": "Q56573014",
       "role": {
         "lang:en": "member of the London Assembly"
