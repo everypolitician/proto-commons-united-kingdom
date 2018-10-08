@@ -771,36 +771,6 @@
     },
     {
       "name": {
-        "lang:en": "Albert Denison, 1st Baron Londesborough"
-      },
-      "id": "Q4710027",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4710027"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Charles Cavendish, 1st Baron Chesham"
-      },
-      "id": "Q5076148",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5076148"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Charles Royle, Baron Royle"
       },
       "id": "Q5082203",
@@ -1012,22 +982,6 @@
     },
     {
       "name": {
-        "lang:en": "Max Rosenheim, Baron Rosenheim",
-        "lang:cy": "Max Rosenheim, Barwn Rosenheim"
-      },
-      "id": "Q6795190",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q6795190"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Robert Platt, Baron Platt"
       },
       "id": "Q7348929",
@@ -1035,37 +989,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7348929"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Samuel Jones-Loyd, 1st Baron Overstone"
-      },
-      "id": "Q7411869",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7411869"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Margaret Thatcher",
-        "lang:cy": "Margaret Thatcher"
-      },
-      "id": "Q7416",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7416"
         }
       ],
       "links": [
@@ -1533,7 +1456,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q335189-321BE257-F358-4474-B4C8-C73004E6ADAA",
       "person_id": "Q335189",
       "organization_id": "Q11007",
-      "start_date": "1991-01-01",
+      "start_date": "1991-06-24",
       "role_code": "Q18952564",
       "role": {
         "lang:en": "Member of the House of Lords",
@@ -1695,28 +1618,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4710027-c74046e8-498d-109a-a9e1-90150b75ba61",
-      "person_id": "Q4710027",
-      "organization_id": "Q11007",
-      "start_date": "1850-02-28",
-      "role_code": "Q18952564",
-      "role": {
-        "lang:en": "Member of the House of Lords",
-        "lang:cy": "aelod o Dŷ'r Arglwyddi"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5076148-ac5e6829-4b01-8f66-8428-56dafcf0d681",
-      "person_id": "Q5076148",
-      "organization_id": "Q11007",
-      "start_date": "1858-01-15",
-      "role_code": "Q18952564",
-      "role": {
-        "lang:en": "Member of the House of Lords",
-        "lang:cy": "aelod o Dŷ'r Arglwyddi"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q5082203-585f86e5-4188-9e28-29e8-6e00b9b2d351",
       "person_id": "Q5082203",
       "organization_id": "Q11007",
@@ -1871,43 +1772,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6795190-AEDB318A-C12A-4AB7-9AFF-1CD17301BE68",
-      "person_id": "Q6795190",
-      "organization_id": "Q11007",
-      "start_date": "1970-07-31",
-      "role_code": "Q18952564",
-      "role": {
-        "lang:en": "Member of the House of Lords",
-        "lang:cy": "aelod o Dŷ'r Arglwyddi"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q7348929-4B2F167C-59FC-4183-B3A9-40975E73D03E",
       "person_id": "Q7348929",
       "organization_id": "Q11007",
       "start_date": "1967-01-16",
-      "role_code": "Q18952564",
-      "role": {
-        "lang:en": "Member of the House of Lords",
-        "lang:cy": "aelod o Dŷ'r Arglwyddi"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7411869-ec98a48f-452f-4d25-4741-37124047184f",
-      "person_id": "Q7411869",
-      "organization_id": "Q11007",
-      "start_date": "1850-02-28",
-      "role_code": "Q18952564",
-      "role": {
-        "lang:en": "Member of the House of Lords",
-        "lang:cy": "aelod o Dŷ'r Arglwyddi"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7416-8520BDD5-BC44-456C-AECF-CF841BE78E7C",
-      "person_id": "Q7416",
-      "organization_id": "Q11007",
-      "start_date": "1992-01-01",
       "role_code": "Q18952564",
       "role": {
         "lang:en": "Member of the House of Lords",
