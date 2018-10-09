@@ -30,6 +30,20 @@
         }
       ],
       "area_id": "Q56855521"
+    },
+    {
+      "name": {
+        "lang:en": "Conservative Party",
+        "lang:cy": "Y Blaid Geidwadol"
+      },
+      "id": "Q9626",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9626"
+        }
+      ]
     }
   ],
   "areas": [
@@ -109,6 +123,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q30122660-1012d337-4f29-0f69-b7c6-7830589fbf90",
       "person_id": "Q30122660",
+      "on_behalf_of_id": "Q9626",
       "organization_id": "Q28451058",
       "area_id": "Q56855521",
       "start_date": "2017-05-04",

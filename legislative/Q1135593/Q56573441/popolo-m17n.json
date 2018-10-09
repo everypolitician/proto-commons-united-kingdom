@@ -485,6 +485,30 @@
       "name": {
         "lang:en": "South West"
       },
+      "parent_id": "Q23306"
+    },
+    {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
       "parent_id": null
     },
     {
@@ -508,7 +532,55 @@
       "name": {
         "lang:en": "Brent and Harrow"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
+    },
+    {
+      "id": "Q21",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21"
+        }
+      ],
+      "associated_wikidata_positions": [
+
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "England"
+      },
+      "parent_id": "Q145"
+    },
+    {
+      "id": "Q23306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng/region:e12000007"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38931"
+      ],
+      "type": {
+        "lang:en": "ceremonial county of England",
+        "lang:cy": "swydd seremonïol Lloegr"
+      },
+      "name": {
+        "lang:en": "Greater London"
+      },
+      "parent_id": "Q21"
     },
     {
       "id": "Q2388154",
@@ -531,7 +603,7 @@
       "name": {
         "lang:en": "Ealing and Hillingdon"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q2884679",
@@ -554,7 +626,7 @@
       "name": {
         "lang:en": "Barnet and Camden"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q2900428",
@@ -577,7 +649,7 @@
       "name": {
         "lang:en": "Bexley and Bromley"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q2974584",
@@ -600,7 +672,7 @@
       "name": {
         "lang:en": "City and East"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q3005479",
@@ -623,7 +695,7 @@
       "name": {
         "lang:en": "Croydon and Sutton"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q3054197",
@@ -646,7 +718,7 @@
       "name": {
         "lang:en": "Enfield and Haringey"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q3116153",
@@ -669,7 +741,7 @@
       "name": {
         "lang:en": "Greenwich and Lewisham"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q3128701",
@@ -692,7 +764,7 @@
       "name": {
         "lang:en": "Havering and Redbridge"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q3216654",
@@ -715,7 +787,7 @@
       "name": {
         "lang:en": "Lambeth and Southwark"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q3306662",
@@ -738,7 +810,7 @@
       "name": {
         "lang:en": "Merton and Wandsworth"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q3344113",
@@ -761,7 +833,7 @@
       "name": {
         "lang:en": "North East"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q3567405",
@@ -784,7 +856,7 @@
       "name": {
         "lang:en": "West Central"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     },
     {
       "id": "Q57081905",
@@ -807,7 +879,7 @@
       "name": {
         "lang:en": "Greater London"
       },
-      "parent_id": null
+      "parent_id": "Q23306"
     }
   ],
   "memberships": [
