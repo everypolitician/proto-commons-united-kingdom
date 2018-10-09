@@ -27,7 +27,7 @@ city_parts = {
 }
 
 city_attribs = {'Greater London': {
-    'MS_FB': 'country:gb/country:eng/region:E12000007',
+    'MS_FB': 'country:gb/country:eng/region:e12000007',
     'WIKIDATA': 'Q23306'
 },
     'Greater Manchester': {

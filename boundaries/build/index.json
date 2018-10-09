@@ -2261,7 +2261,7 @@
       "lang:en": "NAME"
     },
     "filter": {
-      "match": "country:gb/country:eng/region:E12000007",
+      "match": "country:gb/country:eng/region:e12000007",
       "column": "MS_FB"
     }
   },
