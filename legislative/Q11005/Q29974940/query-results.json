@@ -26,6 +26,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138286"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Hackney a Stoke Newington (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -96,11 +101,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Hackney a Stoke Newington (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -132,6 +132,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q987980"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Telford"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -203,11 +208,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Telford"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "LucyAllanForTelford"
@@ -234,6 +234,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q750690"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wythenshawe a Dwyrain Sale"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -304,11 +309,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Wythenshawe a Dwyrain Sale"
       },
       "facebook" : {
         "type" : "literal",
@@ -818,6 +818,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238840"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caithness"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -887,11 +892,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caithness"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -1116,6 +1116,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3134016"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Swydd Berwick"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1185,11 +1190,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Swydd Berwick"
       },
       "facebook" : {
         "type" : "literal",
@@ -1412,6 +1412,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050950"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Oldham a Royton"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1481,11 +1486,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Oldham a Royton"
       }
     }, {
       "party" : {
@@ -1714,6 +1714,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q751233"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ashton-under-Lyne"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1784,11 +1789,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ashton-under-Lyne"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -1820,6 +1820,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3302282"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Heywood a Middleton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1891,11 +1896,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Heywood a Middleton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -1927,6 +1927,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031947"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ross"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1998,11 +2003,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ross"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -2034,6 +2034,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301862"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De-orllewin Glasgow"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2104,11 +2109,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De-orllewin Glasgow"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -2239,6 +2239,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1052248"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Swydd Amwythig"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2309,11 +2314,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Swydd Amwythig"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "owen.paterson.94"
@@ -2340,6 +2340,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q253159"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Paisley a De Swydd Renfrew"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2410,11 +2415,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Paisley a De Swydd Renfrew"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -2550,6 +2550,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q299984"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Aberdeen"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2620,11 +2625,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Aberdeen"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -2656,6 +2656,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3231892"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyfor Meirionnydd (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2726,11 +2731,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyfor Meirionnydd (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -2954,6 +2954,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138439"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Caeredin a Leith"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3023,11 +3028,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Caeredin a Leith"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -3158,6 +3158,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077806"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Brentford ac Isleworth"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3228,11 +3233,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Brentford ac Isleworth"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "RuthCadburywin2017"
@@ -3259,6 +3259,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3337694"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Kilbride"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3329,11 +3334,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Kilbride"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -3571,6 +3571,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3235145"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Burnley"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3640,11 +3645,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Burnley"
       },
       "facebook" : {
         "type" : "literal",
@@ -3969,6 +3969,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3335993"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dulwich a Gorllewin Norwood (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4038,11 +4043,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dulwich a Gorllewin Norwood (etholaeth seneddol)"
       }
     }, {
       "party" : {
@@ -4066,6 +4066,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q873994"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Workington"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4137,11 +4142,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Workington"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "LabourSueHayman"
@@ -4168,6 +4168,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077481"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Blackburn"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4239,11 +4244,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Blackburn"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "katehollernforblackburn"
@@ -4270,6 +4270,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238991"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Swydd Ayr"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4340,11 +4345,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Swydd Ayr"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -4480,6 +4480,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032281"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Dundee"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4550,11 +4555,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Dundee"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -4586,6 +4586,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301821"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd-orllewin Glasgow"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4657,11 +4662,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd-orllewin Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -4693,6 +4693,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q750994"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Argyll a Bute"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4764,11 +4769,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Argyll a Bute"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -4800,6 +4800,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q661360"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Caeredin"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4871,11 +4876,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Caeredin"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -4907,6 +4907,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053259"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Motherwell a Wishaw"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4978,11 +4983,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Motherwell a Wishaw"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -5014,6 +5014,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1070116"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Livingston"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5085,11 +5090,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Livingston"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -5121,6 +5121,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q586663"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd-ddwyrain Fife"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5192,11 +5197,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd-ddwyrain Fife"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -5228,6 +5228,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138350"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Falkirk"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5299,11 +5304,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Falkirk"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -5335,6 +5335,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q581626"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Airdrie a Shotts (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5406,11 +5411,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Airdrie a Shotts (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -5442,6 +5442,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301886"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Glenrothes"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5513,11 +5518,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Glenrothes"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -5549,6 +5549,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1070123"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Glasgow"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5619,11 +5624,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Glasgow"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -5851,6 +5851,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032300"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dunfermline a Gorllewin Fife"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5921,11 +5926,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dunfermline a Gorllewin Fife"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -5957,6 +5957,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138417"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De-orllewin Caeredin (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6028,11 +6033,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De-orllewin Caeredin (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -6064,6 +6064,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3302325"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Inverclyde"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6135,11 +6140,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Inverclyde"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -6171,6 +6171,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336217"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lanark a Dwyrain Hamilton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6242,11 +6247,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lanark a Dwyrain Hamilton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -6278,6 +6278,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336133"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Linlithgow a Dwyrain Falkirk"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6349,11 +6354,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Linlithgow a Dwyrain Falkirk"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -6385,6 +6385,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3343077"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Swydd Dunbarton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6426,7 +6431,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Martin Docherty"
+        "value" : "Martin Docherty-Hughes"
       },
       "org" : {
         "type" : "uri",
@@ -6455,11 +6460,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Swydd Dunbarton"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -6492,6 +6492,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032569"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Swydd Ayr ac Arran"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6563,11 +6568,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Swydd Ayr ac Arran"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -6599,6 +6599,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301764"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Glasgow"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6670,11 +6675,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -6706,6 +6706,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050788"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Paisley a Gogledd Swydd Renfrew"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6777,11 +6782,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Paisley a Gogledd Swydd Renfrew"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -6813,6 +6813,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3231723"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cumbernauld"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6884,11 +6889,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Cumbernauld"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -6920,6 +6920,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1070130"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kilmarnock a Loudoun"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6990,11 +6995,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Kilmarnock a Loudoun"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -7121,6 +7121,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336228"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caerhirfryn a Fleetwood"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -7190,11 +7195,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caerhirfryn a Fleetwood"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -8122,6 +8122,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077422"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Brycheiniog a Sir Faesyfed"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8191,11 +8196,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Brycheiniog a Sir Faesyfed"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -8428,6 +8428,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1080341"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bootle"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8497,11 +8502,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bootle"
       },
       "facebook" : {
         "type" : "literal",
@@ -8822,6 +8822,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q597358"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lewisham Deptford"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -8891,11 +8896,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lewisham Deptford"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -9128,6 +9128,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1070064"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Bolton"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9198,11 +9203,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Bolton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -9234,6 +9234,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q767602"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Cilgwri"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9304,11 +9309,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Cilgwri"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -9536,6 +9536,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988081"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Abertawe (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -9605,11 +9610,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Abertawe (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -10041,6 +10041,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031863"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Salford ac Eccles"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10110,11 +10115,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Salford ac Eccles"
       },
       "facebook" : {
         "type" : "literal",
@@ -10240,6 +10240,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301842"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Glasgow"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -10310,11 +10315,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Glasgow"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -10341,6 +10341,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077346"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Edmonton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10411,11 +10416,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Edmonton"
       },
       "facebook" : {
         "type" : "literal",
@@ -11318,6 +11318,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138645"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Caerdydd (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11387,11 +11392,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Caerdydd (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -11721,6 +11721,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988873"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Ribble"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11790,11 +11795,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Ribble"
       },
       "facebook" : {
         "type" : "literal",
@@ -11920,6 +11920,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077391"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Greenwich ac Woolwich"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -11989,11 +11994,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Greenwich ac Woolwich"
       }
     }, {
       "party" : {
@@ -12017,6 +12017,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077363"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Merthyr Tudful a Rhymni"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12087,11 +12092,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Merthyr Tudful a Rhymni"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -12222,6 +12222,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3302172"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ellesmere Port a Neston"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12291,11 +12296,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ellesmere Port a Neston"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -12426,6 +12426,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3334702"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dinas Caer (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -12495,11 +12500,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dinas Caer (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -13203,6 +13203,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053099"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Castell-nedd (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13273,11 +13278,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Castell-nedd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -13309,6 +13309,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336781"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Manceinion Withington"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13379,11 +13384,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Manceinion Withington"
       },
       "facebook" : {
         "type" : "literal",
@@ -13708,6 +13708,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988454"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De St Helens ac Whiston"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13777,11 +13782,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De St Helens ac Whiston"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -13912,6 +13912,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3239124"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cheadle"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -13982,11 +13987,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Cheadle"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "MaryRobinson01"
@@ -14013,6 +14013,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q875434"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Etholaeth Seneddol Torfaen"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14083,11 +14088,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Etholaeth Seneddol Torfaen"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -14218,6 +14218,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3337181"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hazel Grove"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14287,11 +14292,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hazel Grove"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -14804,6 +14804,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238889"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Camberwell a Peckham (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -14873,11 +14878,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Camberwell a Peckham (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -15005,6 +15005,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q299997"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Aberdeen"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15074,11 +15079,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Aberdeen"
       }
     }, {
       "party" : {
@@ -15102,6 +15102,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053311"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Moray"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15173,11 +15178,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Moray"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -15205,6 +15205,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1051003"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ogwr (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15275,11 +15280,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ogwr (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -15410,6 +15410,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q875474"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tooting (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15479,11 +15484,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Tooting (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -15614,6 +15614,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050969"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Oldham a Saddleworth"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -15683,11 +15688,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Oldham a Saddleworth"
       }
     }, {
       "party" : {
@@ -16096,6 +16096,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336099"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Lewisham (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16165,11 +16170,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Lewisham (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -16300,6 +16300,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3134130"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bethnal Green a Bow (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -16369,11 +16374,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bethnal Green a Bow (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -17469,6 +17469,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q299976"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aberconwy (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17539,11 +17544,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Aberconwy (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -17570,6 +17570,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1075925"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Barrow a Furness"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -17641,11 +17646,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Barrow a Furness"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "jzwoodcock"
@@ -17677,6 +17677,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1075925"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Barrow a Furness"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -17747,11 +17752,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-04-30T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Barrow a Furness"
       },
       "facebook" : {
         "type" : "literal",
@@ -17877,6 +17877,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050667"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Perth a Gogledd Swydd Perth"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -17946,11 +17951,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Perth a Gogledd Swydd Perth"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -18183,6 +18183,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031806"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sedgefield (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -18252,11 +18257,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Sedgefield (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -18962,6 +18962,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q750810"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wyre a Gogledd Preston"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -19031,11 +19036,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Wyre a Gogledd Preston"
       },
       "facebook" : {
         "type" : "literal",
@@ -19156,6 +19156,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138091"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lerpwl Wavertree"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -19226,11 +19231,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lerpwl Wavertree"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "luciana4wavertree"
@@ -19257,6 +19257,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031940"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rossendale a Darwen"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -19327,11 +19332,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rossendale a Darwen"
       },
       "facebook" : {
         "type" : "literal",
@@ -19554,6 +19554,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077528"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Harrow"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -19623,11 +19628,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Harrow"
       },
       "facebook" : {
         "type" : "literal",
@@ -20534,6 +20534,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24768"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caerwysg"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -20603,11 +20608,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caerwysg"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -20738,6 +20738,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q588969"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Altrincham a Gorllewin Sale"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -20807,11 +20812,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Altrincham a Gorllewin Sale"
       },
       "facebook" : {
         "type" : "literal",
@@ -21136,6 +21136,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238943"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Caerdydd (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -21205,11 +21210,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Caerdydd (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -21433,6 +21433,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050985"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hen Bexley a Sidcup (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -21503,11 +21508,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hen Bexley a Sidcup (etholaeth seneddol)"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "jpbrokenshire"
@@ -21534,6 +21534,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874463"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "West Ham (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -21604,11 +21609,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "West Ham (etholaeth seneddol)"
       }
     }, {
       "party" : {
@@ -21632,6 +21632,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1052276"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Swydd Henffordd"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -21702,11 +21707,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Swydd Henffordd"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -21829,6 +21829,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3335586"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Congleton"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -21899,11 +21904,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Congleton"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -21935,6 +21935,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032058"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rhondda (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -22006,11 +22011,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rhondda (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -22042,6 +22042,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q750978"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Arfon"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -22112,11 +22117,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Arfon"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -22932,6 +22932,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q875403"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Streatham (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -23002,11 +23007,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Streatham (etholaeth seneddol)"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "ChukaUmunnaMP"
@@ -23033,6 +23033,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3137734"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De-ddwyrain Bolton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -23104,11 +23109,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De-ddwyrain Bolton"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "yasminqureshiuk"
@@ -23135,6 +23135,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q873604"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bro Morgannwg (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -23205,11 +23210,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bro Morgannwg (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -23627,6 +23627,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050931"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ynysoedd Erch a Shetland"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -23696,11 +23701,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ynysoedd Erch a Shetland"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -24805,6 +24805,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1080299"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lerpwl Gorllewin Derby"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -24875,11 +24880,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lerpwl Gorllewin Derby"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "StephenTwiggLabour"
@@ -24906,6 +24906,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3337393"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Halton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -24976,11 +24981,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Halton"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -25505,6 +25505,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3337719"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "East Ham (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -25575,11 +25580,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "East Ham (etholaeth seneddol)"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "stephenctimms"
@@ -25606,6 +25606,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138197"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Islington a Finsbury (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -25677,11 +25682,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Islington a Finsbury (etholaeth seneddol)"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "Emily-Thornberry-142202379163151"
@@ -25703,6 +25703,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077371"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Harrow"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -25774,11 +25779,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Harrow"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "GarethThomasMP"
@@ -25805,6 +25805,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q750582"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Alun a Glannau Dyfrdwy (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -25875,11 +25880,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Alun a Glannau Dyfrdwy (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -26006,6 +26006,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874194"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Witney (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -26075,11 +26080,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Witney (etholaeth seneddol)"
       }
     }, {
       "party" : {
@@ -26391,6 +26391,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077377"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cwm Cynon"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -26460,11 +26465,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Cwm Cynon"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -26591,6 +26591,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988356"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Stockport"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -26660,11 +26665,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Stockport"
       }
     }, {
       "party" : {
@@ -26781,6 +26781,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3335605"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Copeland (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -26850,11 +26855,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Copeland (etholaeth seneddol)"
       }
     }, {
       "party" : {
@@ -26972,6 +26972,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077324"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Pen-y-bont ar Ogwr"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -27041,11 +27046,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Pen-y-bont ar Ogwr"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -27278,6 +27278,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874435"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Swydd Gaerhirfryn"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -27347,11 +27352,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Swydd Gaerhirfryn"
       },
       "facebook" : {
         "type" : "literal",
@@ -27482,6 +27482,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077552"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Islington"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -27551,11 +27556,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Islington"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -27682,6 +27682,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032412"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Preseli Penfro (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -27752,11 +27757,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Preseli Penfro (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -27788,6 +27788,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3137707"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd-ddwyrain Bolton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -27858,11 +27863,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd-ddwyrain Bolton"
       },
       "facebook" : {
         "type" : "literal",
@@ -27983,6 +27983,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q875059"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Walthamstow (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -28052,11 +28057,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Walthamstow (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -28279,6 +28279,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1113142"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Leyton ac Wanstead"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -28348,11 +28353,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Leyton ac Wanstead"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -28771,6 +28771,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238808"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caerffili (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -28841,11 +28846,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caerffili (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -28877,6 +28877,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053353"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mynwy (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -28948,11 +28953,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mynwy (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -28979,6 +28979,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988068"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Abertawe (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -29050,11 +29055,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Abertawe (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -29086,6 +29086,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053339"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Maldwyn (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -29156,11 +29161,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Maldwyn (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -29574,6 +29574,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336990"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Huntingdon (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -29643,11 +29648,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Huntingdon (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -29861,6 +29861,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031884"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rutherglen a Gorllewin Hamilton"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -29930,11 +29935,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rutherglen a Gorllewin Hamilton"
       }
     }, {
       "party" : {
@@ -29953,6 +29953,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1080424"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Leigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -30024,11 +30029,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Leigh"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "JoPlattMP"
@@ -30055,6 +30055,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q750956"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Angus"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -30126,11 +30131,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Angus"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -30162,6 +30162,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3133916"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Battersea (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -30233,11 +30238,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Battersea (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -30269,6 +30269,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238753"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Bury"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -30340,11 +30345,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Bury"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "JamesFrithBury"
@@ -30371,6 +30371,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053415"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Midlothian"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -30442,11 +30447,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Midlothian"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -30474,6 +30474,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301796"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd-ddwyrain Glasgow"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -30544,11 +30549,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd-ddwyrain Glasgow"
       }
     }, {
       "party" : {
@@ -30572,6 +30572,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988601"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Southport"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -30642,11 +30647,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Southport"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -30778,6 +30778,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336187"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Kirkcaldy a Cowdenbeath (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -30848,11 +30853,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Kirkcaldy a Cowdenbeath (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -30880,6 +30880,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077332"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Caerdydd"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -30950,11 +30955,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Caerdydd"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -31077,6 +31077,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1070154"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Swydd Renfrew"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -31146,11 +31151,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Swydd Renfrew"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -31277,6 +31277,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138595"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Coatbridge"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -31346,11 +31351,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Coatbridge"
       }
     }, {
       "party" : {
@@ -31566,6 +31566,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1070045"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Caeredin"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -31635,11 +31640,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Caeredin"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -31854,6 +31854,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988375"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Stirling"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -31923,11 +31928,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Stirling"
       }
     }, {
       "party" : {
@@ -31946,6 +31946,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050608"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Plymouth Sutton and Devonport"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -32016,11 +32021,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Plymouth Sutton and Devonport"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -32049,6 +32049,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050608"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Plymouth Sutton and Devonport"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -32118,11 +32123,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Plymouth Sutton and Devonport"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -32932,6 +32932,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077357"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gŵyr"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -33002,11 +33007,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gŵyr"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -33038,6 +33038,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336017"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dumfries a Galloway"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -33108,11 +33113,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dumfries a Galloway"
       }
     }, {
       "party" : {
@@ -33235,6 +33235,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874959"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Warrington"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -33305,11 +33310,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Warrington"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -33341,6 +33341,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138472"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Lothian"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -33412,11 +33417,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Lothian"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "martinwhitfieldeastlothian"
@@ -33443,6 +33443,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1051029"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ochil a De Swydd Perth"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -33513,11 +33518,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ochil a De Swydd Perth"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -33649,6 +33649,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077398"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ceredigion"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -33718,11 +33723,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ceredigion"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -33947,6 +33947,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301906"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gordon"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -34016,11 +34021,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gordon"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -34542,6 +34542,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3133785"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Banff a Buchan"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -34611,11 +34616,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Banff a Buchan"
       },
       "facebook" : {
         "type" : "literal",
@@ -34741,6 +34741,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3335881"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Croydon (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -34811,11 +34816,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Croydon (etholaeth seneddol)"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "CroydonSarah"
@@ -34842,6 +34842,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q751285"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ayr"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -34912,11 +34917,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ayr"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -35140,6 +35140,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874700"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dyffryn Weaver"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -35209,11 +35214,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dyffryn Weaver"
       }
     }, {
       "party" : {
@@ -35433,6 +35433,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301747"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Glasgow"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -35502,11 +35507,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Glasgow"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -35637,6 +35637,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874607"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Swydd Aberdeen a Kincardine"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -35707,11 +35712,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Swydd Aberdeen a Kincardine"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -35739,6 +35739,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077802"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lerpwl Walton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -35809,11 +35814,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lerpwl Walton"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -36803,6 +36803,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031731"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sheffield Hallam (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -36873,11 +36878,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Sheffield Hallam (etholaeth seneddol)"
-      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -36905,6 +36905,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031731"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Sheffield Hallam (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -36975,11 +36980,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-10-25T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Sheffield Hallam (etholaeth seneddol)"
       }
     }, {
       "party" : {
@@ -37194,6 +37194,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3335863"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Crewe a Nantwich"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -37263,11 +37268,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Crewe a Nantwich"
       },
       "facebook" : {
         "type" : "literal",
@@ -37584,6 +37584,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077612"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Chingford a Woodford Green"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -37654,11 +37659,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Chingford a Woodford Green"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -37690,6 +37690,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336884"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llwydlo"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -37761,11 +37766,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llwydlo"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -37797,6 +37797,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q875135"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wallasey"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -37868,11 +37873,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Wallasey"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -37904,6 +37904,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3301627"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Garston a Halewood"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -37975,11 +37980,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Garston a Halewood"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "Maria-Eagle-103693786335432"
@@ -38006,6 +38006,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077385"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Caerfyrddin a Dinefwr"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -38077,11 +38082,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Caerfyrddin a Dinefwr"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -38113,6 +38113,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1113118"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Eltham"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -38183,11 +38188,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Eltham"
       },
       "facebook" : {
         "type" : "literal",
@@ -38405,6 +38405,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336139"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Lerpwl Riverside"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -38474,11 +38479,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Lerpwl Riverside"
       }
     }, {
       "party" : {
@@ -38791,6 +38791,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031797"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Sefton"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -38860,11 +38865,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Sefton"
       },
       "facebook" : {
         "type" : "literal",
@@ -38981,6 +38981,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077338"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Islwyn"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -39051,11 +39056,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Islwyn"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -39087,6 +39087,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032052"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cwm Ribble"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -39158,11 +39163,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Cwm Ribble"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -39194,6 +39194,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q588875"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bexleyheath a Crayford (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -39264,11 +39269,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bexleyheath a Crayford (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -39588,6 +39588,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874372"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Westmorland a Lonsdale"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -39658,11 +39663,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Westmorland a Lonsdale"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -39694,6 +39694,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1080413"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Penbedw"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -39764,11 +39769,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Penbedw"
       }
     }, {
       "party" : {
@@ -39792,6 +39792,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3235346"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dinasoedd Llundain a San Steffan"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -39862,11 +39867,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dinasoedd Llundain a San Steffan"
       },
       "facebook" : {
         "type" : "literal",
@@ -40183,6 +40183,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874525"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Swydd Dunbarton"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -40252,11 +40257,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Swydd Dunbarton"
       },
       "facebook" : {
         "type" : "literal",
@@ -40581,6 +40581,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3137325"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Blackley a Broughton"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -40650,11 +40655,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Blackley a Broughton"
       }
     }, {
       "party" : {
@@ -40870,6 +40870,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050693"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Penrith a'r Goror"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -40939,11 +40944,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Penrith a'r Goror"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -42044,6 +42044,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336059"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Swydd Dumfries"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -42113,11 +42118,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Swydd Dumfries"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -42248,6 +42248,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077631"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Blackpool"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -42317,11 +42322,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Blackpool"
       },
       "facebook" : {
         "type" : "literal",
@@ -43054,6 +43054,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q290823"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Aberafan (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -43123,11 +43128,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Aberafan (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -43643,6 +43643,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077439"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Ealing"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -43712,11 +43717,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Ealing"
       }
     }, {
       "party" : {
@@ -43740,6 +43740,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032319"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Beckenham (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -43811,11 +43816,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Beckenham (etholaeth seneddol)"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "Bob-Stewart-1431412443820085"
@@ -43842,6 +43842,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238953"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Caerliwelydd (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -43913,11 +43918,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Caerliwelydd (etholaeth seneddol)"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "JohnStevensonCarlisle"
@@ -43944,6 +43944,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1050733"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Pendle"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -44014,11 +44019,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Pendle"
       }
     }, {
       "party" : {
@@ -44432,6 +44432,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1052327"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Casnewydd (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -44502,11 +44507,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Casnewydd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -44538,6 +44538,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032468"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Pontypridd (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -44609,11 +44614,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Pontypridd (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -44645,6 +44645,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1080368"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Makerfield"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -44716,11 +44721,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Makerfield"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -44752,6 +44752,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3137641"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Blaenau Gwent (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -44822,11 +44827,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Blaenau Gwent (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -45341,6 +45341,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077620"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Finchley a Golders Green"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -45410,11 +45415,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Finchley a Golders Green"
       },
       "facebook" : {
         "type" : "literal",
@@ -45535,6 +45535,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077519"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Ilford"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -45605,11 +45610,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Ilford"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "mikegapesmp"
@@ -45636,6 +45636,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077540"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Brent"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -45706,11 +45711,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Brent"
       }
     }, {
       "party" : {
@@ -47389,6 +47389,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988219"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Stretford ac Urmston"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -47458,11 +47463,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Stretford ac Urmston"
       },
       "facebook" : {
         "type" : "literal",
@@ -47686,6 +47686,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3138076"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llanelli (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -47755,11 +47760,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Llanelli (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -47890,6 +47890,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3231747"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Denton a Reddish"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -47959,11 +47964,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Denton a Reddish"
       },
       "facebook" : {
         "type" : "literal",
@@ -48667,6 +48667,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3337569"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Eddisbury"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -48736,11 +48741,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Eddisbury"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -48973,6 +48973,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077406"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Delyn"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -49042,11 +49047,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Delyn"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -49371,6 +49371,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077431"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Caerfyrddin a De Sir Benfro"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -49441,11 +49446,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Caerfyrddin a De Sir Benfro"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -49477,6 +49477,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077590"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ealing, Southall"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -49547,11 +49552,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ealing, Southall"
       },
       "facebook" : {
         "type" : "literal",
@@ -50160,6 +50160,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336829"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Macclesfield"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -50229,11 +50234,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Macclesfield"
       },
       "facebook" : {
         "type" : "literal",
@@ -50359,6 +50359,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q873520"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dyffryn Clwyd (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -50428,11 +50433,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dyffryn Clwyd (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -50846,6 +50846,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988399"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Stalybridge a Hyde"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -50915,11 +50920,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Stalybridge a Hyde"
       },
       "facebook" : {
         "type" : "literal",
@@ -51142,6 +51142,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988533"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd St Helens"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -51211,11 +51216,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd St Helens"
       },
       "facebook" : {
         "type" : "literal",
@@ -51638,6 +51638,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3302442"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Inverness"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -51708,11 +51713,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Inverness"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -51744,6 +51744,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q875261"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tottenham (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -51814,11 +51819,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Tottenham (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -51945,6 +51945,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336099"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Lewisham (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -52014,11 +52019,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-06-14T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Lewisham (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -52436,6 +52436,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q987915"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "The Wrekin"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -52505,11 +52510,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "The Wrekin"
       }
     }, {
       "party" : {
@@ -53418,6 +53418,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077754"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Erith a Thamesmead"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -53487,11 +53492,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Erith a Thamesmead"
       },
       "facebook" : {
         "type" : "literal",
@@ -53916,6 +53916,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q750661"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Ynys Môn (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -53985,11 +53990,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Ynys Môn (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -54209,6 +54209,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3337106"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hendon (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -54279,11 +54284,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hendon (etholaeth seneddol)"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "matthewofford4hendon"
@@ -54310,6 +54310,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3302232"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Henffordd a De Swydd Henffordd"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -54380,11 +54385,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Henffordd a De Swydd Henffordd"
       },
       "facebook" : {
         "type" : "literal",
@@ -54607,6 +54607,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1113129"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Bromley a Chislehurst"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -54677,11 +54682,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Bromley a Chislehurst"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -54709,6 +54709,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874340"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wigan"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -54779,11 +54784,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Wigan"
       },
       "facebook" : {
         "type" : "literal",
@@ -55006,6 +55006,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1070093"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Caeredin"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -55075,11 +55080,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Caeredin"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -55307,6 +55307,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053298"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Morecambe a Lunesdale"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -55376,11 +55381,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Morecambe a Lunesdale"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -55827,6 +55827,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1052345"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Casnewydd (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -55896,11 +55901,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Casnewydd (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -56419,6 +56419,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077771"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Fylde"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -56488,11 +56493,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Fylde"
       },
       "facebook" : {
         "type" : "literal",
@@ -56614,6 +56614,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q988027"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tatton"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -56683,11 +56688,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Tatton"
       }
     }, {
       "party" : {
@@ -57003,6 +57003,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077497"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Enfield"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -57072,11 +57077,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Enfield"
       },
       "facebook" : {
         "type" : "literal",
@@ -57202,6 +57202,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3337060"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Holborn a St Pancras (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -57271,11 +57276,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Holborn a St Pancras (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -57401,6 +57401,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1070072"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Canol Manceinion"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -57471,11 +57476,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Canol Manceinion"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "lucy4mcr"
@@ -57502,6 +57502,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1080308"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Manceinion Gorton"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -57572,11 +57577,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Manceinion Gorton"
       }
     }, {
       "party" : {
@@ -57790,6 +57790,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q730581"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Preston"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -57859,11 +57864,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Preston"
       },
       "facebook" : {
         "type" : "literal",
@@ -58082,6 +58082,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1113086"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Hackney a Shoreditch"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -58151,11 +58156,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Hackney a Shoreditch"
       },
       "facebook" : {
         "type" : "literal",
@@ -58378,6 +58378,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3133809"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Barking (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -58447,11 +58452,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Barking (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -58577,6 +58577,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q873637"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Vauxhall (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -58646,11 +58651,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Vauxhall (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -59162,6 +59162,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032268"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Dwyrain Dundee"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -59232,11 +59237,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Dwyrain Dundee"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -59268,6 +59268,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336201"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Knowsley"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -59338,11 +59343,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Knowsley"
       }
     }, {
       "party" : {
@@ -59464,6 +59464,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3334633"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Chorley (etholaeth seneddol)"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -59533,11 +59538,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Chorley (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -59659,6 +59659,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1031497"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Amwythig ac Atcham"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -59729,11 +59734,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Amwythig ac Atcham"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -59765,6 +59765,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874256"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Cilgwri"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -59835,11 +59840,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Cilgwri"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -59966,6 +59966,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1117254"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hayes a Harlington"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -60036,11 +60041,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hayes a Harlington"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "johnmcdonnellmp"
@@ -60067,6 +60067,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053376"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Mitcham a Morden (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -60137,11 +60142,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Mitcham a Morden (etholaeth seneddol)"
       },
       "facebook" : {
         "type" : "literal",
@@ -60272,6 +60272,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3137610"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Blackpool a Cleveleys"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -60341,11 +60346,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Blackpool a Cleveleys"
       },
       "facebook" : {
         "type" : "literal",
@@ -60563,6 +60563,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077750"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Feltham a Heston"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -60632,11 +60637,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Feltham a Heston"
       },
       "facebook" : {
         "type" : "literal",
@@ -60958,6 +60958,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1053141"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Na h-Eileanan an Iar"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -61028,11 +61033,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Na h-Eileanan an Iar"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -61064,6 +61064,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q750870"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Wrecsam (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -61134,11 +61139,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Wrecsam (etholaeth seneddol)"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -61269,6 +61269,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874173"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Woking"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -61338,11 +61343,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Woking"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -61469,6 +61469,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032004"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Rochdale"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -61538,11 +61543,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Rochdale"
       },
       "facebook" : {
         "type" : "literal",
@@ -61863,6 +61863,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1032551"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "North Devon"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -61932,11 +61937,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "North Devon"
       },
       "facebook" : {
         "type" : "literal",
@@ -62733,6 +62733,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077449"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gorllewin Clwyd"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -62803,11 +62808,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gorllewin Clwyd"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -62835,6 +62835,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3336979"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Hyndburn"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -62905,11 +62910,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Hyndburn"
       },
       "facebook" : {
         "type" : "literal",
@@ -63522,6 +63522,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238774"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Bury"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -63592,11 +63597,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Bury"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "ivan.lewis.54"
@@ -63628,6 +63628,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238774"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Bury"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -63698,11 +63703,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-11-23T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Bury"
       },
       "facebook" : {
         "type" : "literal",
@@ -65106,6 +65106,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q873975"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Worsley a De Eccles"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -65176,11 +65181,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Worsley a De Eccles"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "BarbaraKeeleyforWorsleyandEcclesSouth"
@@ -65207,6 +65207,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077415"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Clwyd"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -65277,11 +65282,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Clwyd"
       },
       "name_cy" : {
         "xml:lang" : "cy",
@@ -65514,6 +65514,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q874974"
       },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Warrington"
+      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -65584,11 +65589,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Warrington"
-      },
       "facebook" : {
         "type" : "literal",
         "value" : "HelenJonesMP"
@@ -65610,6 +65610,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3238926"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "De Caerdydd a Phenarth (etholaeth seneddol)"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -65681,11 +65686,6 @@
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
       },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "De Caerdydd a Phenarth (etholaeth seneddol)"
-      },
       "name_cy" : {
         "xml:lang" : "cy",
         "type" : "literal",
@@ -65712,6 +65712,11 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1077455"
+      },
+      "district_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Gogledd Croydon"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -65782,11 +65787,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-08T00:00:00Z"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Gogledd Croydon"
       },
       "facebook" : {
         "type" : "literal",
