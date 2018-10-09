@@ -20,6 +20,30 @@
   ],
   "areas": [
     {
+      "id": "Q145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14211"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:cy": "gwlad"
+      },
+      "name": {
+        "lang:en": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "parent_id": null
+    },
+    {
       "id": "Q20711356",
       "identifiers": [
         {
@@ -43,6 +67,30 @@
       "parent_id": "Q40608"
     },
     {
+      "id": "Q21",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:gb/country:eng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21"
+        }
+      ],
+      "associated_wikidata_positions": [
+
+      ],
+      "type": {
+        "lang:en": "country within the United Kingdom",
+        "lang:cy": "un o wledydd y Deyrnas Unedig"
+      },
+      "name": {
+        "lang:en": "England"
+      },
+      "parent_id": "Q145"
+    },
+    {
       "id": "Q40608",
       "identifiers": [
         {
@@ -64,7 +112,7 @@
       "name": {
         "lang:en": "Waltham Forest London Borough"
       },
-      "parent_id": null
+      "parent_id": "Q21"
     },
     {
       "id": "Q5032532",
