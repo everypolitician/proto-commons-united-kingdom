@@ -37,6 +37,23 @@
     }
   },
   {
+    "role_id": "Q17015787",
+    "role_name": {
+      "lang:en": "Mayor of Tower Hamlets"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708940",
+    "organization_name": {
+      "lang:en": "cabinet of Tower Hamlets borough council"
+    }
+  },
+  {
     "role_id": "Q1711695",
     "role_name": {
       "lang:en": "Member of the Scottish Parliament"
@@ -244,6 +261,74 @@
     "organization_name": {
       "lang:en": "National Assembly for Wales",
       "lang:cy": "Cynulliad Cenedlaethol Cymru"
+    }
+  },
+  {
+    "role_id": "Q5280481",
+    "role_name": {
+      "lang:en": "Mayor of Hackney"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708934",
+    "organization_name": {
+      "lang:en": "cabinet of Hackney borough council"
+    }
+  },
+  {
+    "role_id": "Q5280482",
+    "role_name": {
+      "lang:en": "Mayor of Lewisham"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708936",
+    "organization_name": {
+      "lang:en": "mayor's cabinet, Lewisham borough council"
+    }
+  },
+  {
+    "role_id": "Q5280483",
+    "role_name": {
+      "lang:en": "Mayor of Liverpool"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708975",
+    "organization_name": {
+      "lang:en": "cabinet of Liverpool City Council"
+    }
+  },
+  {
+    "role_id": "Q5280484",
+    "role_name": {
+      "lang:en": "Mayor of Newham"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708950",
+    "organization_name": {
+      "lang:en": "cabinet of Newham borough council"
     }
   },
   {
@@ -1299,6 +1384,877 @@
     "organization_name": {
       "lang:en": "London Assembly",
       "lang:cy": "Cynulliad Llundain"
+    }
+  },
+  {
+    "role_id": "Q56708809",
+    "role_name": {
+      "lang:en": "leader of Camden borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708928",
+    "organization_name": {
+      "lang:en": "cabinet of Camden borough council"
+    }
+  },
+  {
+    "role_id": "Q56708810",
+    "role_name": {
+      "lang:en": "leader of Havering borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708929",
+    "organization_name": {
+      "lang:en": "cabinet of Havering borough council"
+    }
+  },
+  {
+    "role_id": "Q56708811",
+    "role_name": {
+      "lang:en": "leader of Hounslow borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708931",
+    "organization_name": {
+      "lang:en": "cabinet of Hounslow borough council"
+    }
+  },
+  {
+    "role_id": "Q56708812",
+    "role_name": {
+      "lang:en": "leader of Haringey borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708932",
+    "organization_name": {
+      "lang:en": "cabinet of Haringey borough council"
+    }
+  },
+  {
+    "role_id": "Q56708813",
+    "role_name": {
+      "lang:en": "leader of Waltham Forest borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708933",
+    "organization_name": {
+      "lang:en": "cabinet of Waltham Forest borough council"
+    }
+  },
+  {
+    "role_id": "Q56708814",
+    "role_name": {
+      "lang:en": "leader of Greenwich borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708935",
+    "organization_name": {
+      "lang:en": "cabinet of Greenwich borough council"
+    }
+  },
+  {
+    "role_id": "Q56708816",
+    "role_name": {
+      "lang:en": "leader of Redbridge borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708938",
+    "organization_name": {
+      "lang:en": "cabinet of Redbridge borough council"
+    }
+  },
+  {
+    "role_id": "Q56708817",
+    "role_name": {
+      "lang:en": "leader of Hillingdon borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708939",
+    "organization_name": {
+      "lang:en": "cabinet of Hillingdon borough council"
+    }
+  },
+  {
+    "role_id": "Q56708818",
+    "role_name": {
+      "lang:en": "leader of Southwark borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708941",
+    "organization_name": {
+      "lang:en": "cabinet of Southwark borough council"
+    }
+  },
+  {
+    "role_id": "Q56708822",
+    "role_name": {
+      "lang:en": "mayor of Wandsworth"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708943",
+    "organization_name": {
+      "lang:en": "cabinet of Wandsworth borough council"
+    }
+  },
+  {
+    "role_id": "Q56708823",
+    "role_name": {
+      "lang:en": "leader of Lambeth borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708944",
+    "organization_name": {
+      "lang:en": "cabinet of Lambeth borough council"
+    }
+  },
+  {
+    "role_id": "Q56708825",
+    "role_name": {
+      "lang:en": "leader of Brent borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708945",
+    "organization_name": {
+      "lang:en": "cabinet of Brent borough council"
+    }
+  },
+  {
+    "role_id": "Q56708826",
+    "role_name": {
+      "lang:en": "leader of Bromley borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708946",
+    "organization_name": {
+      "lang:en": "executive of Bromley borough council"
+    }
+  },
+  {
+    "role_id": "Q56708827",
+    "role_name": {
+      "lang:en": "leader of Enfield borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708947",
+    "organization_name": {
+      "lang:en": "cabinet of Enfield borough council"
+    }
+  },
+  {
+    "role_id": "Q56708828",
+    "role_name": {
+      "lang:en": "leader of Ealing borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708949",
+    "organization_name": {
+      "lang:en": "cabinet of Ealing borough council"
+    }
+  },
+  {
+    "role_id": "Q56708829",
+    "role_name": {
+      "lang:en": "leader of Croydon borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708951",
+    "organization_name": {
+      "lang:en": "cabinet of Croydon borough council"
+    }
+  },
+  {
+    "role_id": "Q56708830",
+    "role_name": {
+      "lang:en": "leader of Barnet borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708952",
+    "organization_name": {
+      "lang:en": "cabinet of Barnet borough council"
+    }
+  },
+  {
+    "role_id": "Q56708831",
+    "role_name": {
+      "lang:en": "leader of Hammersmith and Fulham borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708953",
+    "organization_name": {
+      "lang:en": "cabinet of Hammersmith and Fulham borough council"
+    }
+  },
+  {
+    "role_id": "Q56708833",
+    "role_name": {
+      "lang:en": "leader of Merton borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708954",
+    "organization_name": {
+      "lang:en": "cabinet of Merton borough council"
+    }
+  },
+  {
+    "role_id": "Q56708834",
+    "role_name": {
+      "lang:en": "leader of Richmond borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708955",
+    "organization_name": {
+      "lang:en": "cabinet of Richmond borough council"
+    }
+  },
+  {
+    "role_id": "Q56708836",
+    "role_name": {
+      "lang:en": "leader of City of Westminster borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708956",
+    "organization_name": {
+      "lang:en": "cabinet of City of Westminster borough council"
+    }
+  },
+  {
+    "role_id": "Q56708838",
+    "role_name": {
+      "lang:en": "leader of Kensington and Chelsea borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708957",
+    "organization_name": {
+      "lang:en": "leadership team of Kensington and Chelsea borough council"
+    }
+  },
+  {
+    "role_id": "Q56708839",
+    "role_name": {
+      "lang:en": "leader of Bexley borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708958",
+    "organization_name": {
+      "lang:en": "cabinet of Bexley borough council"
+    }
+  },
+  {
+    "role_id": "Q56708840",
+    "role_name": {
+      "lang:en": "leader of Sutton borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708959",
+    "organization_name": {
+      "lang:en": "executive of Sutton borough council"
+    }
+  },
+  {
+    "role_id": "Q56708841",
+    "role_name": {
+      "lang:en": "leader of Harrow borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708960",
+    "organization_name": {
+      "lang:en": "cabinet of Harrow borough council"
+    }
+  },
+  {
+    "role_id": "Q56708843",
+    "role_name": {
+      "lang:en": "leader of Islington borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708961",
+    "organization_name": {
+      "lang:en": "executive of Islington borough council"
+    }
+  },
+  {
+    "role_id": "Q56708845",
+    "role_name": {
+      "lang:en": "leader of Barking and Dagenham borough council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708962",
+    "organization_name": {
+      "lang:en": "cabinet of Barking and Dagenham borough council"
+    }
+  },
+  {
+    "role_id": "Q56708847",
+    "role_name": {
+      "lang:en": "leader of Birmingham City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708963",
+    "organization_name": {
+      "lang:en": "executive of Birmingham City Council"
+    }
+  },
+  {
+    "role_id": "Q56708848",
+    "role_name": {
+      "lang:en": "leader of Leeds City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56707470",
+    "organization_name": {
+      "lang:en": "Executive Board of Leeds City Council"
+    }
+  },
+  {
+    "role_id": "Q56708850",
+    "role_name": {
+      "lang:en": "leader of the City of Wolverhampton Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708965",
+    "organization_name": {
+      "lang:en": "cabinet of the City of Wolverhampton Council"
+    }
+  },
+  {
+    "role_id": "Q56708851",
+    "role_name": {
+      "lang:en": "leader of Rotherham Metropolitan Borough Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708966",
+    "organization_name": {
+      "lang:en": "cabinet of Rotherham Metropolitan Borough Council"
+    }
+  },
+  {
+    "role_id": "Q56708852",
+    "role_name": {
+      "lang:en": "leader of Sunderland City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708970",
+    "organization_name": {
+      "lang:en": "cabinet of Sunderland City Council"
+    }
+  },
+  {
+    "role_id": "Q56708853",
+    "role_name": {
+      "lang:en": "leader of Newcastle City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708971",
+    "organization_name": {
+      "lang:en": "cabinet of Newcastle City Council"
+    }
+  },
+  {
+    "role_id": "Q56708854",
+    "role_name": {
+      "lang:en": "leader of Coventry City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708973",
+    "organization_name": {
+      "lang:en": "cabinet of Coventry City Council"
+    }
+  },
+  {
+    "role_id": "Q56708855",
+    "role_name": {
+      "lang:en": "leader of Wakefield Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708974",
+    "organization_name": {
+      "lang:en": "cabinet of Wakefield Council"
+    }
+  },
+  {
+    "role_id": "Q56708856",
+    "role_name": {
+      "lang:en": "leader of Manchester City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708976",
+    "organization_name": {
+      "lang:en": "executive of Manchester City Council"
+    }
+  },
+  {
+    "role_id": "Q56708857",
+    "role_name": {
+      "lang:en": "leader of Bradford Metropolitan District Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708977",
+    "organization_name": {
+      "lang:en": "executive of Bradford Metropolitan District Council"
+    }
+  },
+  {
+    "role_id": "Q56708858",
+    "role_name": {
+      "lang:en": "leader of Sheffield City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708978",
+    "organization_name": {
+      "lang:en": "cabinet of Sheffield City Council"
+    }
+  },
+  {
+    "role_id": "Q56708860",
+    "role_name": {
+      "lang:en": "leader of the City of Edinburgh Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708980",
+    "organization_name": {
+      "lang:en": "executive of the City of Edinburgh Council"
+    }
+  },
+  {
+    "role_id": "Q56708861",
+    "role_name": {
+      "lang:en": "leader of Glasgow City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708981",
+    "organization_name": {
+      "lang:en": "executive of Glasgow City Council"
+    }
+  },
+  {
+    "role_id": "Q56708862",
+    "role_name": {
+      "lang:en": "leader of Cardiff Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708983",
+    "organization_name": {
+      "lang:en": "cabinet of Cardiff Council"
+    }
+  },
+  {
+    "role_id": "Q56708863",
+    "role_name": {
+      "lang:en": "leader of Southampton City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708984",
+    "organization_name": {
+      "lang:en": "cabinet of Southampton City Council"
+    }
+  },
+  {
+    "role_id": "Q56708864",
+    "role_name": {
+      "lang:en": "leader of Stoke-on-Trent City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708985",
+    "organization_name": {
+      "lang:en": "cabinet of Stoke-on-Trent City Council"
+    }
+  },
+  {
+    "role_id": "Q56708865",
+    "role_name": {
+      "lang:en": "leader of Plymouth City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708986",
+    "organization_name": {
+      "lang:en": "cabinet of Plymouth City Council"
+    }
+  },
+  {
+    "role_id": "Q56708869",
+    "role_name": {
+      "lang:en": "leader of Derby City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708987",
+    "organization_name": {
+      "lang:en": "cabinet of Derby City Council"
+    }
+  },
+  {
+    "role_id": "Q56708870",
+    "role_name": {
+      "lang:en": "leader of Hull City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708988",
+    "organization_name": {
+      "lang:en": "executive of Hull City Council"
+    }
+  },
+  {
+    "role_id": "Q56708871",
+    "role_name": {
+      "lang:en": "Mayor of Milton Keynes"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708989",
+    "organization_name": {
+      "lang:en": "office of the Mayor of Milton Keynes"
+    }
+  },
+  {
+    "role_id": "Q56708872",
+    "role_name": {
+      "lang:en": "leader of Brighton and Hove City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q515 Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708990",
+    "organization_name": {
+      "lang:en": "executive of Brighton and Hove City Council"
+    }
+  },
+  {
+    "role_id": "Q56708873",
+    "role_name": {
+      "lang:en": "leader of Nottingham City Council"
+    },
+    "generic_role_id": "Q6508517",
+    "generic_role_name": {
+      "lang:en": "Leader of the Council"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708992",
+    "organization_name": {
+      "lang:en": "executive of Nottingham City Council"
+    }
+  },
+  {
+    "role_id": "Q56708875",
+    "role_name": {
+      "lang:en": "Mayor of Leicester"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708993",
+    "organization_name": {
+      "lang:en": "office of the Mayor of Leicester"
+    }
+  },
+  {
+    "role_id": "Q56708876",
+    "role_name": {
+      "lang:en": "Mayor of Bristol"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708994",
+    "organization_name": {
+      "lang:en": "office of the Mayor of Bristol"
+    }
+  },
+  {
+    "role_id": "Q6679766",
+    "role_name": {
+      "lang:en": "Lord Mayor of Belfast"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor",
+      "lang:cy": "Arglwydd Maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708927",
+    "organization_name": {
+      "lang:en": "executive of Belfast City Council"
+    }
+  },
+  {
+    "role_id": "Q6797698",
+    "role_name": {
+      "lang:en": "Mayor of Doncaster"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708972",
+    "organization_name": {
+      "lang:en": "cabinet of Doncaster City Council"
+    }
+  },
+  {
+    "role_id": "Q6797805",
+    "role_name": {
+      "lang:en": "Mayor of Salford"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor",
+      "lang:cy": "maer"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q56708964",
+    "organization_name": {
+      "lang:en": "cabinet of Salford City Council"
     }
   },
   {

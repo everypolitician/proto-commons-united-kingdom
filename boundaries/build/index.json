@@ -244,7 +244,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q180673",
+    "area_type_wikidata_item_id": "Q1136601",
     "associations": [
       {
         "comment": "mayor of bristol",
@@ -278,7 +278,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q1006876",
+    "area_type_wikidata_item_id": "Q1136601",
     "associations": [
       {
         "comment": "mayor of milton keynes",
@@ -295,7 +295,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q515",
+    "area_type_wikidata_item_id": "Q1136601",
     "associations": [
       {
         "comment": "leader of brighton and hove city council",
@@ -346,7 +346,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q21503295",
+    "area_type_wikidata_item_id": "Q1002812",
     "associations": [
       {
         "comment": "mayor of salford",
@@ -448,7 +448,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q21503295",
+    "area_type_wikidata_item_id": "Q1002812",
     "associations": [
       {
         "comment": "leader of sunderland city council",
@@ -516,7 +516,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q21503295",
+    "area_type_wikidata_item_id": "Q1002812",
     "associations": [
       {
         "comment": "leader of bradford metropolitan district council",
@@ -533,7 +533,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q21503295",
+    "area_type_wikidata_item_id": "Q1002812",
     "associations": [
       {
         "comment": "leader of leeds city council",
@@ -567,7 +567,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q515",
+    "area_type_wikidata_item_id": "Q211690",
     "associations": [
       {
         "comment": "lord mayor of london",
@@ -1111,7 +1111,7 @@
   },
   {
     "directory": "councils",
-    "area_type_wikidata_item_id": "Q1901835",
+    "area_type_wikidata_item_id": "Q211690",
     "associations": [
       {
         "comment": "leader of city of westminster borough council",
@@ -1196,7 +1196,7 @@
   },
     {
     "directory": "council-constituencies",
-    "area_type_wikidata_item_id": "Q7969215",
+    "area_type_wikidata_item_id": "Q589282",
     "associations": [
       {
         "comment": "common councilman of the city of london",
@@ -1213,7 +1213,7 @@
   },
   {
     "directory": "council-constituencies",
-    "area_type_wikidata_item_id": "Q618123",
+    "area_type_wikidata_item_id": "Q589282",
     "associations": [
       {
         "comment": "member of barking and dagenham london borough council",
@@ -1315,7 +1315,7 @@
   },
   {
     "directory": "council-constituencies",
-    "area_type_wikidata_item_id": "Q1195098",
+    "area_type_wikidata_item_id": "Q589282",
     "associations": [
       {
         "comment": "member of croydon london borough council",
@@ -1553,7 +1553,7 @@
   },
   {
     "directory": "council-constituencies",
-    "area_type_wikidata_item_id": "Q618123",
+    "area_type_wikidata_item_id": "Q589282",
     "associations": [
       {
         "comment": "member of lambeth london borough council",
@@ -2080,7 +2080,7 @@
   },
   {
     "directory": "council-constituencies",
-    "area_type_wikidata_item_id": "Q1195098",
+    "area_type_wikidata_item_id": "Q589282",
     "associations": [
       {
         "comment": "member of bristol city council",
@@ -2261,7 +2261,7 @@
       "lang:en": "NAME"
     },
     "filter": {
-      "match": "country:gb/country:eng/region:E12000007",
+      "match": "country:gb/country:eng/region:e12000007",
       "column": "MS_FB"
     }
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "directory": "metropolitan-areas",
-    "area_type_wikidata_item_id": "Q13423084",
+    "area_type_wikidata_item_id": "Q56856076",
     "associations": [
       {
         "comment": "mayor of the tees valley",

@@ -1,7 +1,7 @@
 	SELECT
 		'Barnet and Camden' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000001' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000001' AS MS_FB,
 		'Q2884679' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -12,7 +12,7 @@ UNION
 	SELECT
 		'Bexley and Bromley' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000002' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000002' AS MS_FB,
 		'Q2900428' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -23,7 +23,7 @@ UNION
 	SELECT
 		'Brent and Harrow' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000003' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000003' AS MS_FB,
 		'Q15078119' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -34,7 +34,7 @@ UNION
 	SELECT
 		'City and East' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000004' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000004' AS MS_FB,
 		'Q2974584' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -45,7 +45,7 @@ UNION
 	SELECT
 		'Croydon and Sutton' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000005' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000005' AS MS_FB,
 		'Q3005479' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -56,7 +56,7 @@ UNION
 	SELECT
 		'Ealing and Hillingdon' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000006' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000006' AS MS_FB,
 		'Q2388154' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -67,7 +67,7 @@ UNION
 	SELECT
 		'Enfield and Haringey' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000007' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000007' AS MS_FB,
 		'Q3054197' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -78,7 +78,7 @@ UNION
 	SELECT
 		'Greenwich and Lewisham' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000008' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000008' AS MS_FB,
 		'Q3116153' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -89,7 +89,7 @@ UNION
 	SELECT
 		'Havering and Redbridge' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000009' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000009' AS MS_FB,
 		'Q3128701' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -100,7 +100,7 @@ UNION
 	SELECT
 		'Lambeth and Southwark' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000010' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000010' AS MS_FB,
 		'Q3216654' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -111,7 +111,7 @@ UNION
 	SELECT
 		'Merton and Wandsworth' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000011' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000011' AS MS_FB,
 		'Q3306662' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -122,7 +122,7 @@ UNION
 	SELECT
 		'North East' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000012' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000012' AS MS_FB,
 		'Q3344113' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -133,7 +133,7 @@ UNION
 	SELECT
 		'South West' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000013' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000013' AS MS_FB,
 		'Q11799091' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM
@@ -144,7 +144,7 @@ UNION
 	SELECT
 		'West Central' AS NAME,
 		'country:gb/country:eng/region:e12000007' AS MS_FB_PARE,
-		'country:gb/country:eng/region:e12000007/la-constituency:E32000014' AS MS_FB,
+		'country:gb/country:eng/region:e12000007/la-constituency:e32000014' AS MS_FB,
 		'Q3567405' AS WIKIDATA,
 		ST_Buffer(ST_Collect(a.geometry), 0) as geometry
 	FROM

@@ -30,6 +30,20 @@
         }
       ],
       "area_id": "Q3982570"
+    },
+    {
+      "name": {
+        "lang:en": "Conservative Party",
+        "lang:cy": "Y Blaid Geidwadol"
+      },
+      "id": "Q9626",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9626"
+        }
+      ]
     }
   ],
   "areas": [
@@ -97,7 +111,7 @@
         "Q28530242"
       ],
       "type": {
-        "lang:en": "NUTS 2 statistical territorial entity of the United Kingdom"
+        "lang:en": "combined authority area"
       },
       "name": {
         "lang:en": "Tees Valley"
@@ -109,6 +123,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q29788057-a751d274-4b6a-243e-418b-13cc40d8b3af",
       "person_id": "Q29788057",
+      "on_behalf_of_id": "Q9626",
       "organization_id": "Q21061639",
       "area_id": "Q3982570",
       "start_date": "2017-05-04",
