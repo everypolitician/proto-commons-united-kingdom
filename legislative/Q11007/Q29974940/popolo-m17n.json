@@ -234,6 +234,21 @@
     },
     {
       "name": {
+        "lang:en": "Patricia Hollis"
+      },
+      "id": "Q2057200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2057200"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Rupert Guinness, 2nd Earl of Iveagh",
         "lang:cy": "Rupert Guinness, 2nd Earl of Iveagh"
       },
@@ -1226,6 +1241,18 @@
       "person_id": "Q202923",
       "organization_id": "Q11007",
       "start_date": "2011-03-22",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "aelod o Dŷ'r Arglwyddi"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2057200-01AF4A98-0F32-411A-B557-0FEDA6212C0B",
+      "person_id": "Q2057200",
+      "organization_id": "Q11007",
+      "start_date": "1990-06-01",
+      "end_date": "2018-10-13",
       "role_code": "Q18952564",
       "role": {
         "lang:en": "Member of the House of Lords",
