@@ -9,7 +9,8 @@
       {
         "comment": "57th United Kingdom Parliament",
         "position_item_id": "Q30524710",
-        "term_item_id": "Q29974940"
+        "term_item_id": "Q29974940",
+        "start_date": "2017-06-09"
       }
     ]
   },
@@ -22,7 +23,8 @@
     "terms": [
       {
         "comment": "57th United Kingdom Parliament",
-        "term_item_id": "Q29974940"
+        "term_item_id": "Q29974940",
+        "start_date": "2017-06-09"
       }
     ]
   },
@@ -35,7 +37,8 @@
     "terms": [
       {
         "comment": "2016-2020 Assembly",
-        "term_item_id": "Q56573441"
+        "term_item_id": "Q56573441",
+        "start_date": "2016-05-13"
       }
     ]
   },
@@ -49,7 +52,8 @@
       {
         "comment": "5th Scottish Parliament",
         "position_item_id": "Q30580546",
-        "term_item_id": "Q29585769"
+        "term_item_id": "Q29585769",
+        "start_date": "2016-07-02"
       }
     ]
   },
@@ -75,7 +79,8 @@
     "terms": [
       {
         "comment": "2017– session of the Court of Common Council",
-        "term_item_id": "Q56023217"
+        "term_item_id": "Q56023217",
+        "start_date": "2017-03-23"
       }
     ]
   },
@@ -89,7 +94,8 @@
       {
         "comment": "5th Welsh Assembly",
         "position_item_id": "Q42310659",
-        "term_item_id": "Q28567028"
+        "term_item_id": "Q28567028",
+        "start_date": "2016-05-06"
       }
     ]
   },
