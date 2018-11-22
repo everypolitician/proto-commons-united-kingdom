@@ -4,7 +4,9 @@
   ],
   "organizations": [
     {
-      "name": null,
+      "name": {
+        "lang:en": "cabinet of Redbridge borough council"
+      },
       "id": "Q56708938",
       "classification": "branch",
       "identifiers": [
