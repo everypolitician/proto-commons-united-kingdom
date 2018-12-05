@@ -806,6 +806,71 @@
     }, {
       "position" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q464103"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Speaker of the House of Commons"
+      },
+      "position_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llefarydd Tŷ'r Cyffredin"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Y Deyrnas Unedig"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1758037"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "speaker"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "llefarydd"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11005"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Commons"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Tŷ'r Cyffredin"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5280481"
       },
       "position_name_en" : {
@@ -6807,6 +6872,123 @@
         "xml:lang" : "cy",
         "type" : "literal",
         "value" : "Cabinet y Deyrnas Unedig"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18996"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "First Minister of Wales"
+      },
+      "position_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Prif Weinidog Cymru"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wales"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cymru"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "prif weinidog"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32859630"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Wales"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18996"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "First Minister of Wales"
+      },
+      "position_name_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Prif Weinidog Cymru"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wales"
+      },
+      "admin_area_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Cymru"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prime minister"
+      },
+      "position_superclass_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "prif weinidog"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3112646"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Welsh Government"
+      },
+      "body_cy" : {
+        "xml:lang" : "cy",
+        "type" : "literal",
+        "value" : "Llywodraeth Cymru"
       }
     }, {
       "position" : {
