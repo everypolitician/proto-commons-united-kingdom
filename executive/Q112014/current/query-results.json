@@ -1,110 +1,136 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_cy", "party", "party_name_en", "party_name_cy", "district", "district_name_en", "district_name_cy", "role", "role_en", "role_cy", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_cy", "org", "org_en", "org_cy", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_cy",
+      "party",
+      "party_name_en",
+      "party_name_cy",
+      "district",
+      "district_name_en",
+      "district_name_cy",
+      "role",
+      "role_en",
+      "role_cy",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_cy",
+      "org",
+      "org_en",
+      "org_cy",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q264766-4bd17893-417a-f2a4-7535-d76d36e941aa"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q264766"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Theresa May"
-      },
-      "name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Theresa May"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q9626"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Conservative Party"
-      },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Y Blaid Geidwadol"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q145"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "United Kingdom"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Y Deyrnas Unedig"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14211"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prime Minister of the United Kingdom"
-      },
-      "role_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Prif Weinidog y Deyrnas Unedig"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-07-13T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "TheresaMayOfficial"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14212"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "prime minister"
-      },
-      "role_superclass_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "prif weinidog"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q112014"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cabinet of the United Kingdom"
-      },
-      "org_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Cabinet y Deyrnas Unedig"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q145"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q264766-4bd17893-417a-f2a4-7535-d76d36e941aa"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q264766"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Theresa May"
+        },
+        "name_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "Theresa May"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9626"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Conservative Party"
+        },
+        "party_name_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "Y Blaid Geidwadol"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q145"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "United Kingdom"
+        },
+        "district_name_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "Y Deyrnas Unedig"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14211"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Prime Minister of the United Kingdom"
+        },
+        "role_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "Prif Weinidog y Deyrnas Unedig"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-07-13T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "TheresaMayOfficial"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14212"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "prime minister"
+        },
+        "role_superclass_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "prif weinidog"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112014"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cabinet of the United Kingdom"
+        },
+        "org_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "Cabinet y Deyrnas Unedig"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q145"
+        }
       }
-    } ]
+    ]
   }
 }
