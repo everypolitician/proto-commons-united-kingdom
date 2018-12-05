@@ -264,6 +264,25 @@
     }
   },
   {
+    "role_id": "Q464103",
+    "role_name": {
+      "lang:en": "Speaker of the House of Commons",
+      "lang:cy": "Llefarydd Tŷ'r Cyffredin"
+    },
+    "generic_role_id": "Q1758037",
+    "generic_role_name": {
+      "lang:en": "speaker",
+      "lang:cy": "llefarydd"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q11005",
+    "organization_name": {
+      "lang:en": "House of Commons",
+      "lang:cy": "Tŷ'r Cyffredin"
+    }
+  },
+  {
     "role_id": "Q5280481",
     "role_name": {
       "lang:en": "Mayor of Hackney"
@@ -2292,6 +2311,24 @@
     "organization_name": {
       "lang:en": "Cabinet of the United Kingdom",
       "lang:cy": "Cabinet y Deyrnas Unedig"
+    }
+  },
+  {
+    "role_id": "Q18996",
+    "role_name": {
+      "lang:en": "First Minister of Wales",
+      "lang:cy": "Prif Weinidog Cymru"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister",
+      "lang:cy": "prif weinidog"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q32859630",
+    "organization_name": {
+      "lang:en": "Cabinet of Wales"
     }
   },
   {

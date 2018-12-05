@@ -1,4 +1,3 @@
 Integrity checks failed:
-#<struct Commons::Integrity::Check::Base::Error category=:position_id_message, message="Q18996 was found in boundaries/build/index.json but not in boundaries/build/position-data.json", filename=#<Pathname:boundaries/build/position-data.json>>
 #<struct Commons::Integrity::Check::Base::Error category=:position_id_message, message="Q56008431 was found in boundaries/build/index.json but not in boundaries/build/position-data.json", filename=#<Pathname:boundaries/build/position-data.json>>
 #<struct Commons::Integrity::Check::Base::Error category=:position_id_message, message="Q56708842 was found in boundaries/build/index.json but not in boundaries/build/position-data.json", filename=#<Pathname:boundaries/build/position-data.json>>

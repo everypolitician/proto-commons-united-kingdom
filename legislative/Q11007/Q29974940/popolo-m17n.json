@@ -62,6 +62,36 @@
     },
     {
       "name": {
+        "lang:en": "Trixie Gardner, Baroness Gardner of Parkes"
+      },
+      "id": "Q1539814",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1539814"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Herman Ouseley, Baron Ouseley"
+      },
+      "id": "Q1610320",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1610320"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Angela Smith, Baroness Smith of Basildon"
       },
       "id": "Q168606",
@@ -226,6 +256,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q202923"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patricia Hollis"
+      },
+      "id": "Q2057200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2057200"
         }
       ],
       "links": [
@@ -741,6 +786,21 @@
     },
     {
       "name": {
+        "lang:en": "David Hannay, Baron Hannay of Chiswick"
+      },
+      "id": "Q336960",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q336960"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Roundell Palmer, 3rd Earl of Selborne"
       },
       "id": "Q3443398",
@@ -1027,6 +1087,21 @@
     },
     {
       "name": {
+        "lang:en": "Brenda Hale, Baroness Hale of Richmond"
+      },
+      "id": "Q908568",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q908568"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Nicholas Lowther, 2nd Viscount Ullswater",
         "lang:cy": "Nicholas Lowther"
       },
@@ -1104,6 +1179,28 @@
       "person_id": "Q1507362",
       "organization_id": "Q11007",
       "start_date": "2005-05-13",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "aelod o Dŷ'r Arglwyddi"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1539814-4FFD7DF0-7E10-42CB-A923-7EF3A19D792E",
+      "person_id": "Q1539814",
+      "organization_id": "Q11007",
+      "start_date": "1981-06-19",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "aelod o Dŷ'r Arglwyddi"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1610320-8cac660d-42c3-7574-dbee-b1874c9096d3",
+      "person_id": "Q1610320",
+      "organization_id": "Q11007",
+      "start_date": "2001-06-26",
       "role_code": "Q18952564",
       "role": {
         "lang:en": "Member of the House of Lords",
@@ -1226,6 +1323,18 @@
       "person_id": "Q202923",
       "organization_id": "Q11007",
       "start_date": "2011-03-22",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "aelod o Dŷ'r Arglwyddi"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2057200-01AF4A98-0F32-411A-B557-0FEDA6212C0B",
+      "person_id": "Q2057200",
+      "organization_id": "Q11007",
+      "start_date": "1990-06-01",
+      "end_date": "2018-10-13",
       "role_code": "Q18952564",
       "role": {
         "lang:en": "Member of the House of Lords",
@@ -1596,6 +1705,17 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q336960-DF3E3C0C-FB5A-477A-A5CB-AF5815EA7717",
+      "person_id": "Q336960",
+      "organization_id": "Q11007",
+      "start_date": "2001-06-19",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "aelod o Dŷ'r Arglwyddi"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3443398-0a22b89a-4be6-7421-858d-01010121bca6",
       "person_id": "Q3443398",
       "organization_id": "Q11007",
@@ -1798,6 +1918,17 @@
       "person_id": "Q8009155",
       "organization_id": "Q11007",
       "start_date": "1964-06-30",
+      "role_code": "Q18952564",
+      "role": {
+        "lang:en": "Member of the House of Lords",
+        "lang:cy": "aelod o Dŷ'r Arglwyddi"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q908568-4B69A664-EBCA-4773-AF91-E94583C7A081",
+      "person_id": "Q908568",
+      "organization_id": "Q11007",
+      "start_date": "2004-01-12",
       "role_code": "Q18952564",
       "role": {
         "lang:en": "Member of the House of Lords",

@@ -1892,6 +1892,21 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrea McKenna"
+      },
+      "id": "Q58697785",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58697785"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -2878,6 +2893,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q30164792-F39BF89A-6FF2-4808-9959-2E1776EE9EF9",
+      "person_id": "Q30164792",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666344",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q32066575-2291719f-427e-4a39-d90a-2f078a6b581a",
       "person_id": "Q32066575",
       "on_behalf_of_id": "Q9630",
@@ -2931,6 +2963,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q338032-67E7BE34-06DC-4806-BD8E-CC42721893F1",
+      "person_id": "Q338032",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666342",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q338032-76EAA551-2DD9-4FFB-BC43-10CECF0392A5",
       "person_id": "Q338032",
       "on_behalf_of_id": "Q9630",
@@ -2954,6 +3003,23 @@
       "organization_id": "Q55465119",
       "area_id": "Q55466823",
       "start_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55068719-E1414576-4A4E-460D-9444-50BD8E0AA54F",
+      "person_id": "Q55068719",
+      "on_behalf_of_id": "Q9626",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666324",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -2989,6 +3055,23 @@
       "organization_id": "Q55465119",
       "area_id": "Q55466825",
       "start_date": "2018-05-04",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55372604-94180E59-7737-43AC-ADAD-C8F19060DC21",
+      "person_id": "Q55372604",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666302",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -3076,6 +3159,23 @@
       "organization_id": "Q55465119",
       "area_id": "Q55466756",
       "start_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55469085-BF610124-378B-48ED-B1C3-7BE454BAB942",
+      "person_id": "Q55469085",
+      "on_behalf_of_id": "Q9626",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666297",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -3181,6 +3281,23 @@
       "organization_id": "Q55465119",
       "area_id": "Q55466759",
       "start_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55469091-614A5D19-28B4-4FD0-9587-DEC561B49D71",
+      "person_id": "Q55469091",
+      "on_behalf_of_id": "Q9624",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666362",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -3367,6 +3484,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55469113-3B68445E-BE22-4928-A6DD-471E11FEAB8C",
+      "person_id": "Q55469113",
+      "on_behalf_of_id": "Q9626",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666299",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55469113-7B565299-EEAC-4603-A6AE-55DE886D7D85",
       "person_id": "Q55469113",
       "on_behalf_of_id": "Q9626",
@@ -3460,6 +3594,23 @@
       "area_id": "Q56666308",
       "start_date": "2016-05-05",
       "end_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55469119-4C51B76D-1087-4EB2-B76D-6A7F5D6177C5",
+      "person_id": "Q55469119",
+      "on_behalf_of_id": "Q9626",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666308",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -3820,6 +3971,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55469143-0706E15D-7B66-4C3A-A822-4A9F084AB749",
+      "person_id": "Q55469143",
+      "on_behalf_of_id": "Q55465915",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666347",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55469143-15C4DFAC-400B-47DB-811F-813D927E22ED",
       "person_id": "Q55469143",
       "on_behalf_of_id": "Q55465915",
@@ -3907,6 +4075,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55469150-82A33F55-3763-4747-9D00-297252053C60",
+      "person_id": "Q55469150",
+      "on_behalf_of_id": "Q9626",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666297",
+      "end_date": "2018-03-05",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55469150-CD281B6D-6D4D-4380-BA7C-915AA448D98C",
       "person_id": "Q55469150",
       "on_behalf_of_id": "Q9626",
@@ -3966,6 +4151,23 @@
       "organization_id": "Q55465119",
       "area_id": "Q55466755",
       "start_date": "2018-05-04",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55469151-E9BF20DE-94C2-4F49-B65B-4B4197F92553",
+      "person_id": "Q55469151",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666303",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -4255,6 +4457,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55469176-12FA1CE6-DBBE-444A-86A5-B6165AB08FB3",
+      "person_id": "Q55469176",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666305",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55469176-68AE844F-89E0-40B3-98BC-598D609BD478",
       "person_id": "Q55469176",
       "on_behalf_of_id": "Q9630",
@@ -4384,6 +4603,23 @@
       "area_id": "Q56666339",
       "start_date": "2016-05-06",
       "end_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55469180-B350C8F1-CAAE-4703-A629-A53E8D86966C",
+      "person_id": "Q55469180",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666339",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -4864,6 +5100,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55469206-482A8E8F-5312-4FC4-873E-932CF60858F5",
+      "person_id": "Q55469206",
+      "on_behalf_of_id": "Q9624",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666348",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55469206-61736724-FFBC-4275-8180-73AD7C2E4A7C",
       "person_id": "Q55469206",
       "on_behalf_of_id": "Q9624",
@@ -5161,6 +5414,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55469228-290FB974-A361-4509-BA8E-B0187C98C501",
+      "person_id": "Q55469228",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666316",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55469228-6D00BBDB-1D42-4D83-A51B-618B0A1B69A7",
       "person_id": "Q55469228",
       "on_behalf_of_id": "Q9630",
@@ -5336,6 +5606,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55469239-CD6E6652-EB02-42A5-915E-C2FCBD64318D",
+      "person_id": "Q55469239",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666301",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55469241-4892A645-5123-4573-9A5C-94D4F9AA8504",
       "person_id": "Q55469241",
       "on_behalf_of_id": "Q9630",
@@ -5492,6 +5779,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55469255-ACB3295A-6C1A-4127-9A38-1AED0C754FA6",
+      "person_id": "Q55469255",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666302",
+      "end_date": "2018-03-05",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q55469255-B3E5A3C4-E344-4551-BD00-C5047775AF34",
       "person_id": "Q55469255",
       "on_behalf_of_id": "Q9630",
@@ -5568,6 +5872,23 @@
       "area_id": "Q56666309",
       "start_date": "2016-05-06",
       "end_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55469259-EFEAAD9A-9D48-4D61-8851-FB5196B8A106",
+      "person_id": "Q55469259",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666309",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -5788,22 +6109,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q55469279-37C4941F-2C6E-4FB0-A0F0-5CE5E40F0E42",
-      "person_id": "Q55469279",
-      "organization_id": "Q55465119",
-      "start_date": "2016-05-05",
-      "end_date": "2018-05-03",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:en": "councillor",
-        "lang:cy": "cynghorydd"
-      },
-      "role_code": "Q55372701",
-      "role": {
-        "lang:en": "member of Leeds City Council"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q55469279-4EFCAB9A-21AC-46C3-9066-6964BC5AB4D5",
       "person_id": "Q55469279",
       "on_behalf_of_id": "Q9626",
@@ -5828,6 +6133,23 @@
       "area_id": "Q56666363",
       "start_date": "2016-05-05",
       "end_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55469279-F7AD8FB2-E60F-47BA-AF60-4EA5E6E497FB",
+      "person_id": "Q55469279",
+      "on_behalf_of_id": "Q9626",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666363",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -5880,6 +6202,23 @@
       "organization_id": "Q55465119",
       "area_id": "Q55466761",
       "start_date": "2018-05-04",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55726336-CF0D1307-319C-42CF-87EB-B05A5C7DD4C7",
+      "person_id": "Q55726336",
+      "on_behalf_of_id": "Q9624",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666327",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -5999,6 +6338,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q56882252-E680AF7A-0793-4CE0-9CB1-015565BBB609",
+      "person_id": "Q56882252",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666329",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q56882253-4AC18677-D77B-4002-B7B7-76F060F383D0",
       "person_id": "Q56882253",
       "on_behalf_of_id": "Q9630",
@@ -6006,6 +6362,23 @@
       "area_id": "Q56666336",
       "start_date": "2016-05-06",
       "end_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56882255-3D62E3CE-78DE-4971-993D-E86A79AE43C5",
+      "person_id": "Q56882255",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666341",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -6053,6 +6426,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q56882256-48A8AB02-E423-4900-9C35-E2D1C582C6A3",
+      "person_id": "Q56882256",
+      "on_behalf_of_id": "Q55465915",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666345",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q56882257-5A24C1FA-EF81-4F80-B9A7-18CDE4F5B062",
       "person_id": "Q56882257",
       "on_behalf_of_id": "Q6467393",
@@ -6071,6 +6461,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q56882257-B59E404F-FF9A-4B0E-8581-373BC24A4E95",
+      "person_id": "Q56882257",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666350",
+      "start_date": "2012-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q56882258-7E4CBA4C-E8E5-4FBA-952E-80BB89DC5DAD",
       "person_id": "Q56882258",
       "on_behalf_of_id": "Q9630",
@@ -6078,6 +6485,23 @@
       "area_id": "Q56666357",
       "start_date": "2016-05-06",
       "end_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56882258-917DC063-4875-430F-8EED-D29A00A9F727",
+      "person_id": "Q56882258",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666357",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
@@ -6330,6 +6754,23 @@
       "area_id": "Q56666359",
       "start_date": "2014-05-23",
       "end_date": "2018-05-03",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor",
+        "lang:cy": "cynghorydd"
+      },
+      "role_code": "Q55372701",
+      "role": {
+        "lang:en": "member of Leeds City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58697785-B72D0165-AEFC-4D4E-8750-892071510081",
+      "person_id": "Q58697785",
+      "on_behalf_of_id": "Q9630",
+      "organization_id": "Q55465119",
+      "area_id": "Q56666321",
+      "start_date": "2012-05-03",
       "role_superclass_code": "Q708492",
       "role_superclass": {
         "lang:en": "councillor",
