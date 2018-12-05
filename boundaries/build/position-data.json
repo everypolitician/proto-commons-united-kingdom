@@ -2326,9 +2326,10 @@
     },
     "role_level": "Q10864048",
     "role_type": null,
-    "organization_id": "Q32859630",
+    "organization_id": "Q3112646",
     "organization_name": {
-      "lang:en": "Cabinet of Wales"
+      "lang:en": "Welsh Government",
+      "lang:cy": "Llywodraeth Cymru"
     }
   },
   {
