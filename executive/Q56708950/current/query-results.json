@@ -1,86 +1,112 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_cy", "party", "party_name_en", "party_name_cy", "district", "district_name_en", "district_name_cy", "role", "role_en", "role_cy", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_cy", "org", "org_en", "org_cy", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_cy",
+      "party",
+      "party_name_en",
+      "party_name_cy",
+      "district",
+      "district_name_en",
+      "district_name_cy",
+      "role",
+      "role_en",
+      "role_cy",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_cy",
+      "org",
+      "org_en",
+      "org_cy",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7352849-0FB2F124-0D86-4768-A875-16C466884432"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7352849"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Robin Wales"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q9630"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Labour Party"
-      },
-      "party_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Y Blaid Lafur"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q208139"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "London Borough of Newham"
-      },
-      "district_name_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "Newham"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5280484"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Newham"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "role_superclass_cy" : {
-        "xml:lang" : "cy",
-        "type" : "literal",
-        "value" : "maer"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56708950"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "cabinet of Newham borough council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q208139"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q7352849-0FB2F124-0D86-4768-A875-16C466884432"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7352849"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Robin Wales"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9630"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Labour Party"
+        },
+        "party_name_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "Y Blaid Lafur"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q208139"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "London Borough of Newham"
+        },
+        "district_name_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "Newham"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5280484"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Newham"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_cy": {
+          "xml:lang": "cy",
+          "type": "literal",
+          "value": "maer"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56708950"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cabinet of Newham borough council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q208139"
+        }
       }
-    } ]
+    ]
   }
 }
